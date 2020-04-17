@@ -1,0 +1,1087 @@
+; Case 001: L=3639, k1=Ap, #changes=4, #extra_withs=1
+;
+old: <>{@sam-ava,@} obtain; incur. {@upa,@} fulfil. {@part,@} 
+new: <>{@sam-ava,@} obtain; incur. {@upa,@} fulfil. {@pari,@} 
+;
+old: <>come, arrived; coming from ({%ab.%}). {@anu-sam-@}
+new: <>come, arrived; coming from ({%ab.%}). {@anu-sam-pra,@}
+;
+old: <>{@-para,@} reach, arrive at; meet: {%pp.%} arrived at 
+new: <>reach, arrive at; meet: {%pp.%} arrived at 
+;
+old: <> {@parti-sam,@} {%ps.%} be contained in ({%lc.%}); 
+new: <> {@pari-sam,@} {%ps.%} be contained in ({%lc.%}); 
+; -----------------------------------------------
+; Case 002: L=4073, k1=i, #changes=4
+;
+old: <>entreat (¤2¤ {%ac.%}). {@acCa@}, approach ({%ac.%}). {@ati,@} 
+new: <>entreat (¤2¤ {%ac.%}). {@accha@}, approach ({%ac.%}). {@ati,@} 
+;
+old: <>provided {%or%} filled w., possessed of ({%in., -°%}), {@an-@}
+new: <>provided {%or%} filled w., possessed of ({%in., -°%}), {@antar,@}
+;
+old: <>{@-tar,@} get between; exclude from ({%ab.; sts. g.%}); 
+new: <>get between; exclude from ({%ab.; sts. g.%}); 
+;
+old: <>{@abbi-pra,@} approach; think of, mean: {%pp.%} intended, <lbinfo n="2"/>
+new: <>{@abhi-pra,@} approach; think of, mean: {%pp.%} intended, <lbinfo n="2"/>
+; -----------------------------------------------
+; Case 003: L=5011, k1=Uh, #changes=1
+;
+old: <>{@api,@} consider; infer.
+new: <>{@aBi,@} consider; infer.
+; -----------------------------------------------
+; Case 004: L=5496, k1=kamp, #changes=2, #extra_withs=1
+;
+old: <>{@anu,@} sympathise with ({%ac., lc.%}); {%cs. id.%} {@sam-@}
+new: <>{@anu,@} sympathise with ({%ac., lc.%}); {%cs. id.%} {@sam-anu,@}
+;
+old: <>{@-anu,@} {%id.%} {@ā.@} quiver; {%cs.%} cause to tremble: 
+new: <>{%id.%} {@ā.@} quiver; {%cs.%} cause to tremble: 
+; -----------------------------------------------
+; Case 005: L=5862, k1=kAS, #changes=1
+;
+old: <>{%or%} drive out. {@pra.@} appear, become manifest; 
+new: <>{%or%} drive out. {@pra,@} appear, become manifest; 
+; -----------------------------------------------
+; Case 006: L=6186, k1=kf, #changes=4, #extra_withs=2
+;
+old: <>rival ({%ac., g.%}), equal ({%ac.%}) in ({%in.%}). {@apu,@} take 
+new: <>rival ({%ac., g.%}), equal ({%ac.%}) in ({%in.%}). {@apa,@} take 
+;
+old: <>away, remove; injure ({%ac., g., lc.%}); {%cs. id.%} {@pra-@}
+new: <>away, remove; injure ({%ac., g., lc.%}); {%cs. id.%} {@prati‡apa@}
+;
+old: <>{@-ti‡pa,@} take vengeance on ({%g.%}). {@abhi,@} do, make; 
+new: <>take vengeance on ({%g.%}). {@abhi,@} do, make; 
+;
+old: <>{@pari-ṣkṛ@}, prepare; adorn, deck, furnish with 
+new: <>{@pari@}-{@ṣkṛ@}, prepare; adorn, deck, furnish with 
+; -----------------------------------------------
+; Case 007: L=6254, k1=kfz, #changes=2
+;
+old: <>{@saṃ -ni@}, {%ps.%} come into close contact (with, 
+new: <>{@saṃ-ni@}, {%ps.%} come into close contact (with, 
+;
+old: <> {%pp.%} distant. {@saṃ -pra@}, draw-along with 
+new: <> {%pp.%} distant. {@saṃ-pra@}, draw-along with 
+; -----------------------------------------------
+; Case 008: L=6273, k1=kF, #changes=2, #extra_withs=2
+;
+old: <>{@apa-skira,@} Ā. scrap ({%with the feet%}). {@ava,@} 
+new: <>{@apa@}-{@skira,@} Ā. scrap ({%with the feet%}). {@ava,@} 
+;
+old: <>{@prati-skira,@} lacerate: {%pp.%} {@skīrṇa@}, injured. 
+new: <>{@prati@}-{@skira,@} lacerate: {%pp.%} {@skīrṇa@}, injured. 
+; -----------------------------------------------
+; Case 009: L=6429, k1=krand, #changes=1
+;
+old: <>{%simple vb.%} {@acCā@}, {%cs.%} cry to. {@abhi,@} roar (at). 
+new: <>{%simple vb.%} {@acchā@}, {%cs.%} cry to. {@abhi,@} roar (at). 
+; -----------------------------------------------
+; Case 010: L=6432, k1=kram, #changes=1
+;
+old: <>{@ati.@} pass by, go beyond, traverse, cross; overstep, <lbinfo n="4"/>
+new: <>{@ati,@} pass by, go beyond, traverse, cross; overstep, <lbinfo n="4"/>
+; -----------------------------------------------
+; Case 011: L=6478.1, k1=kroDAlu, #changes=1
+;
+old: {#kroDAlu#}¦ krodh-ālu, {%a.%} passionate.
+new: {#kroDAlu#}¦krodh-ālu, {%a.%} passionate.
+; -----------------------------------------------
+; Case 012: L=6492, k1=kliS, #changes=1
+;
+old: <>{@saṃ -pra@}, knead, squeeze.
+new: <>{@saṃ-pra@}, knead, squeeze.
+; -----------------------------------------------
+; Case 013: L=6550, k1=kzA, #changes=1
+;
+old: {#kzA#}¦KSHĀ {%v.%} {#KzE#} KSHAI.
+new: {#kzA#}¦KSHĀ {%v.%} {#kzE#} KSHAI.
+; -----------------------------------------------
+; Case 014: L=6568, k1=kzip, #changes=1
+;
+old: <>{@pari ā,@} entwine with ({%in.%}). {@vi‡ā,@} stretch out; 
+new: <>{@pari‡ā,@} entwine with ({%in.%}). {@vi‡ā,@} stretch out; 
+; -----------------------------------------------
+; Case 015: L=6760, k1=KyA, #changes=1
+;
+old: <>{@prati,@} perceive, see. {@vi.@} look about, look up; 
+new: <>{@prati,@} perceive, see. {@vi,@} look about, look up; 
+; -----------------------------------------------
+; Case 016: L=6811, k1=gad, #changes=1
+;
+old: <>speak, say; address (¤2¤ {%ac.%}); name. {@ni.@} 
+new: <>speak, say; address (¤2¤ {%ac.%}); name. {@ni,@} 
+; -----------------------------------------------
+; Case 017: L=6844, k1=gam, #changes=7, #extra_withs=2
+;
+old: <>visit, frequent. {@acCā́@}, go to. {@ati,@} elapse; 
+new: <>visit, frequent. {@acchā@}, go to. {@ati,@} elapse; 
+;
+old: <>{%des.%} be about to come. {@ahi‡ā,@} come upon, 
+new: <>{%des.%} be about to come. {@adhi‡ā,@} come upon, 
+;
+old: <>arrived, come: {@kramād@} -- = inherited. {@sam-@}
+new: <>arrived, come: {@kramād@} -- = inherited. {@sam-abhi‡ā,@}
+;
+old: <>{@-abhi‡ā,@} arrive; come back ({%with%} punar). 
+new: <>arrive; come back ({%with%} punar). 
+;
+old: <>arrived. {@abhi‡upa‡ā,@} come to ({%ac.%}). {@sam-@}
+new: <>arrived. {@abhi‡upa‡ā,@} come to ({%ac.%}). {@sam-upa‡ā,@}
+;
+old: <>{@-upa‡ā,@} {%id.%}; befall. {@prati‡ā,@} return from ({%ab.%}) 
+new: <>{%id.%}; befall. {@prati‡ā,@} return from ({%ab.%}) 
+;
+old: <>to ({%ac.%}). {@vi.@} disperse; depart, vanish, pass 
+new: <>to ({%ac.%}). {@vi,@} disperse; depart, vanish, pass 
+; -----------------------------------------------
+; Case 018: L=7274, k1=Gf, #changes=2
+;
+old: <>{%pp.%} {@abhí-ghṛta@}, sprinkled, {@pratí‡abhi,@} 
+new: <>{%pp.%} {@abhí-ghṛta@}, sprinkled, {@prati‡abhi,@} 
+;
+old: <>{%cs.%} {@-ghāraya,@} besprinkle repeatedly. {@ā.@} besprinkle; <lbinfo n="2"/>
+new: <>{%cs.%} {@-ghāraya,@} besprinkle repeatedly. {@ā,@} besprinkle; <lbinfo n="2"/>
+; -----------------------------------------------
+; Case 019: L=7428, k1=cam, #changes=2, #extra_withs=2
+;
+old: {#cam#}¦CAM, I.P. {@cama@}, sip. {@ā-cāma@}, sip 
+new: {#cam#}¦CAM, I.P. {@cama@}, sip. {@ā@}-{@cāma@}, sip 
+;
+old: <>{@anu‡ā-cāma@}, rinse the mouth again. {@pari‡ā,@} 
+new: <>{@anu‡ā@}-{@cāma@}, rinse the mouth again. {@pari‡ā,@} 
+; -----------------------------------------------
+; Case 020: L=8079, k1=jIv, #changes=2
+;
+old: <>by; use. {@ud,@} return to life; {%cs.%} revive. {@pra-@}
+new: <>by; use. {@ud,@} return to life; {%cs.%} revive.
+;
+old: <>{@-ti‡ud,@} return to life: {%pp.%} revived; {%cs.%} revive. 
+new: <>{@prati‡ud,@} return to life: {%pp.%} revived; {%cs.%} revive. 
+; -----------------------------------------------
+; Case 021: L=8249, k1=qamb, #changes=1, #extra_withs=1
+;
+old: {#qamb#}¦ḌAMB, I. {%or%} X.P. {@vi-ḍamba@}, imitate, <lbinfo n="3"/>
+new: {#qamb#}¦ḌAMB, I. {%or%} X.P. {@vi@}-{@ḍamba@}, imitate, <lbinfo n="3"/>
+; -----------------------------------------------
+; Case 022: L=8355, k1=tan, #changes=1
+;
+old: <>{@abhi ā,@} get into one's power. {@vi‡ā,@} produce, 
+new: <>{@abhi‡ā,@} get into one's power. {@vi‡ā,@} produce, 
+; -----------------------------------------------
+; Case 023: L=8393, k1=tap, #changes=1
+;
+old: <>heat. {@saṃ pra@}, {%pp.%} greatly distressed. {@prati,@} 
+new: <>heat. {@saṃ-pra@}, {%pp.%} greatly distressed. {@prati,@} 
+; -----------------------------------------------
+; Case 024: L=9081, k1=day, #changes=1
+;
+old: <>({%ac., g.%}): {%pp.%} {@dayita,@} {%q. v.%} {@nit-ava,@} satisfy 
+new: <>({%ac., g.%}): {%pp.%} {@dayita,@} {%q. v.%} {@nir-ava,@} satisfy 
+; -----------------------------------------------
+; Case 025: L=9326, k1=diS, #changes=1
+;
+old: <>rule over, govern. {@prati‡apa,@} teach in return. 
+new: <>rule over, govern. {@prati‡upa,@} teach in return. 
+; -----------------------------------------------
+; Case 026: L=9752, k1=dru, #changes=2, #extra_withs=1
+;
+old: <> {@prati‡upa,@} rush upon ({%ac.%}). {@sam-@}
+new: <> {@prati‡upa,@} rush upon ({%ac.%}). {@sam-upa,@}
+;
+old: <>{@-upa,@} run at, pursue; assail. {@pari,@} run round. 
+new: <> run at, pursue; assail. {@pari,@} run round. 
+; -----------------------------------------------
+; Case 027: L=9968, k1=DA, #changes=7
+;
+old: <>({%pledge%}). {@abhi,‡ā,@} place ({%esp. fuel%}) on {%the fire%} 
+new: <>({%pledge%}). {@abhi‡ā,@} place ({%esp. fuel%}) on {%the fire%} 
+;
+old: <> ({%lc.%}); appoint to {%an office (lc.)%}; {@hṛdi --,@} take {%any one (ac.)%} into one's heart. {@saṃ-@}
+new: <> ({%lc.%}); appoint to {%an office (lc.)%}; {@hṛdi --,@} take {%any one (ac.)%} into one's heart. 
+;
+old: <>{@-ni@}, put down together in ({%lc.%}); lay down, 
+new: <>{@saṃ-ni@}, put down together in ({%lc.%}); lay down, 
+;
+old: <>being on a friendly footing with ({%in.%}). {@ati-@}
+new: <>being on a friendly footing with ({%in.%}). 
+;
+old: <>{@-sam,@} revile; deceive ({%v. l.%}); surpass, in regard <lbinfo n="2"/>
+new: <>{@ati-sam,@} revile; deceive ({%v. l.%}); surpass, in regard <lbinfo n="2"/>
+;
+old: <> to (prati); prejudice {%a thing (ac.)%}. {@anu-@}
+new: <> to (prati); prejudice {%a thing (ac.)%}. 
+;
+old: <>{@-sam,@} fix the thoughts on, direct the attention 
+new: <>{@anu-sam,@} fix the thoughts on, direct the attention 
+; -----------------------------------------------
+; Case 028: L=10078, k1=DU, #changes=2
+;
+old: <>toss; fan ({%fire%}); excite; cast off: {%pp.%} {@ud-@}
+new: <>toss; fan ({%fire%}); excite; cast off: {%pp.%} 
+;
+old: <>{@-dhūta@} {%or%} {@uddhuta@}, wafted by (-°); puffed 
+new: <>{@ud-dhūta@} {%or%} {@uddhuta@}, wafted by (-°); puffed 
+; -----------------------------------------------
+; Case 029: L=10119, k1=Df, #changes=4
+;
+old: <>retain in the memory; {@mūrdhnā@} ({@i@}), {@-śiras-@}
+new: <>retain in the memory; {@mūrdhnā@} ({@i@}), {@-śiras-ā@} 
+;
+old: <>{@-ā@} ({@i@}) {%fig.%} hold in high honour; {@samaye@} --, 
+new: <>({@i@}) {%fig.%} hold in high honour; {@samaye@} --, 
+;
+old: <> communicate to ({%d.%}); {%cs. pp.%} {@ava-@}
+new: <> communicate to ({%d.%}); {%cs. pp.%} 
+;
+old: <>{@-dhārita,@} known for ({%in.%}). {@ā,@} {%cs.%} bring to 
+new: <>{@ava-dhārita,@} known for ({%in.%}). {@ā,@} {%cs.%} bring to 
+; -----------------------------------------------
+; Case 030: L=10297, k1=nam, #changes=2, #extra_withs=1
+;
+old: <>bow to ({%d.%}); give respectfully ({%answer%}). {@abhi-@}
+new: <>bow to ({%d.%}); give respectfully ({%answer%}). 
+;
+old: <>{@-pra,@} bow. {@vi,@} bend, stoop, bow: {%pp.%} bent, 
+new: <>{@abhi-pra,@} bow. {@vi,@} bend, stoop, bow: {%pp.%} bent, 
+; -----------------------------------------------
+; Case 031: L=10386, k1=naS, #changes=2
+;
+old: <>{@-ya@}), be lost; disappear, escape: {%pp.%} {@-pra-@}
+new: <>{@-ya@}), be lost; disappear, escape: {%pp.%} 
+;
+old: <>{@-naṣṭa@} ({%the%} n {%remains unchanged when s becomes%} <lbinfo n="2"/>
+new: <>{@pra-naṣṭa@} ({%the%} n {%remains unchanged when s becomes%} <lbinfo n="2"/>
+; -----------------------------------------------
+; Case 032: L=10406, k1=nah, #changes=2
+;
+old: <> -°); unfettered; excessive; arrogant. {@sam-@}
+new: <> -°); unfettered; excessive; arrogant. 
+;
+old: <>{@-ud,@} {%pp.%} directed upwards; pressed out; excessive; <lbinfo n="2"/>
+new: <>{@sam-ud,@} {%pp.%} directed upwards; pressed out; excessive; <lbinfo n="2"/>
+; -----------------------------------------------
+; Case 033: L=10791, k1=nI, #changes=8, #extra_withs=1
+;
+old: <>{%pp.%} {@-nīta,@} begged for ({%d.%}); reconciled. {@pari‡a-@}
+new: <>{%pp.%} {@-nīta,@} begged for ({%d.%}); reconciled. 
+;
+old: <>{@-nu,@} entreat urgently. {@prati‡anu,@} speak 
+new: <>{@pari‡anu,@} entreat urgently. {@prati‡anu,@} speak 
+;
+old: <>lead down into ({%ac.%}); pour into ({%ac.%}). {@sam-@}
+new: <>lead down into ({%ac.%}); pour into ({%ac.%}). 
+;
+old: <>{@-ava,@} pour together. {@ā,@} lead up, bring, fetch 
+new: <>{@sam-ava,@} pour together. {@ā,@} lead up, bring, fetch 
+;
+old: <>round. {@prati‡ā,@} bring back, restore. {@sam-@}
+new: <>round. {@prati‡ā,@} bring back, restore. 
+;
+old: <>{@-ā,@} assemble; unite; fold ({%hands%}; lead {%or%} 
+new: <>{@sam-ā,@} assemble; unite; fold ({%hands%}; lead {%or%} 
+;
+old: <>{%rite%}). {@ava- ni,@} immerse; pour out on ({%lc.%}). 
+new: <>{%rite%}). {@ava-ni,@} immerse; pour out on ({%lc.%}). 
+;
+old: <>{%with%} {@anyathā,@} explain differently. {@pra(-ṇī)@}, 
+new: <>{%with%} {@anyathā,@} explain differently. {@pra (-ṇī)@}, 
+; -----------------------------------------------
+; Case 034: L=10844, k1=nft, #changes=2
+;
+old: <>begin to dance, dance along, dance: {%pp.%} {@pra-@}
+new: <>begin to dance, dance along, dance: {%pp.%} 
+;
+old: <>{@-nṛtta@}, dancing; {%cs.%} cause to dance ({%fig.%}). 
+new: <>{@pra-nṛtta@}, dancing; {%cs.%} cause to dance ({%fig.%}). 
+; -----------------------------------------------
+; Case 035: L=11056, k1=pat, #changes=5
+;
+old: <>({%tears%}); pour out ({@water@}); cast down from 
+new: <>({%tears%}); pour out ({%water%}); cast down from 
+;
+old: <>leap down, on ({%lc.%}); {%cs.%} throw down. {@abhi‡a-@}
+new: <>leap down, on ({%lc.%}); {%cs.%} throw down. {@abhi‡ava,@} 
+;
+old: <>{@-va,@} fly near. {@ā,@} fly up to ({%ac.%}); rush up; 
+new: <>fly near. {@ā,@} fly up to ({%ac.%}); rush up; 
+;
+old: <>anomalous, regard as an anomaly ({%gr.%}). {@upa-@}
+new: <>anomalous, regard as an anomaly ({%gr.%}). 
+;
+old: <>{@-ni,@} occur in addition; be mentional incidentally. <lbinfo n="4"/>
+new: <>{@upa-ni,@} occur in addition; be mentional incidentally. <lbinfo n="4"/>
+; -----------------------------------------------
+; Case 036: L=11089, k1=paT, #changes=1, #extra_withs=1
+;
+old: {#paT#}¦PATH, {%cs.%} {@api-pāthaya,@} P. bring into 
+new: {#paT#}¦PATH, {%cs.%} {@api@}-{@pāthaya,@} P. bring into 
+; -----------------------------------------------
+; Case 037: L=11098, k1=pad, #changes=3
+;
+old: <>deprived of ({%ab.%}); come to grief: {%pp.%} {@ava-@}
+new: <>deprived of ({%ab.%}); come to grief: {%pp.%} 
+;
+old: <>{@-panna,@} fallen upon by (-°). {@ā,@} approach, 
+new: <>{@ava-panna,@} fallen upon by (-°). {@ā,@} approach, 
+;
+old: <>case; happen; {@even āpadyate,@} that is the 
+new: <>case; happen; {@evam āpadyate,@} that is the 
+; -----------------------------------------------
+; Case 038: L=11373, k1=paS, #changes=1
+;
+old: <>have discernment; {@paśyāmai@}, {%used parenthetically%}, <lbinfo n="8"/>
+new: <>have discernment; {@paśyāmi@}, {%used parenthetically%}, <lbinfo n="8"/>
+; -----------------------------------------------
+; Case 039: L=11388, k1=pA, #changes=1
+;
+old: <>watch over; observe. {@ni.@} guard, watch over; 
+new: <>watch over; observe. {@ni,@} guard, watch over; 
+; -----------------------------------------------
+; Case 040: L=11824, k1=pUj, #changes=2
+;
+old: <>praise; respectfully present with ({%in.%}). {@pra-@}
+new: <>praise; respectfully present with ({%in.%}). 
+;
+old: <>{@-ti,@} do honour in return, greet reverently, 
+new: <>{@prati,@} do honour in return, greet reverently, 
+; -----------------------------------------------
+; Case 041: L=11893, k1=pfc, #changes=1
+;
+old: <>united, come into contact: {%pp.%} {@saṇpṛkta@}, 
+new: <>united, come into contact: {%pp.%} {@saṃpṛkta@}, 
+; -----------------------------------------------
+; Case 042: L=12036, k1=pyE, #changes=2
+;
+old: <>overflow. {@ā,@} swell, ferment ({%fluids%}); {@be-@}
+new: <>overflow. {@ā,@} swell, ferment ({%fluids%}); be-
+;
+old: <>{@-come full of, grow rich in@} ({%in.%}); {%cs.%} {@-pyāyá-@}
+new: <>-come full of, grow rich in ({%in.%}); {%cs.%} {@-pyāyá-@}
+; -----------------------------------------------
+; Case 043: L=12047, k1=praC, #changes=2
+;
+old: <>of ({%ac.%}); invoke ({%a god%}); ask, -- after. {@sam-@}
+new: <>of ({%ac.%}); invoke ({%a god%}); ask, -- after. 
+;
+old: <>{@-ā,@} take leave of. {@pari,@} ask, inquire of; ask 
+new: <>{@sam-ā,@} take leave of. {@pari,@} ask, inquire of; ask 
+; -----------------------------------------------
+; Case 044: L=12525, k1=prI, #changes=1, #extra_withs=1
+;
+old: <> {@saṃ-prīyate@}, be pleased {%or%} delighted 
+new: <> {@saṃ@}-{@prīyate@}, be pleased {%or%} delighted 
+; -----------------------------------------------
+; Case 045: L=12533, k1=pruz, #changes=1, #extra_withs=1
+;
+old: <>{@vi-pruṣya,@} IV.P. squirt out.
+new: <>{@vi@}-{@pruṣya,@} IV.P. squirt out.
+; -----------------------------------------------
+; Case 046: L=12657, k1=baMh, #changes=2
+;
+old: <>{@ava,@} {%pp.%} {@ávabāḍha@}, disclosed. {@ni,@} {%pp.%} {@ni-@}
+new: <>{@ava,@} {%pp.%} {@ávabāḍha@}, disclosed. {@ni,@} {%pp.%} 
+;
+old: <>{@-bāṭha@}, covered up, buried. {@sam,@} {%cs.%} P. 
+new: <>{@ni-bāṭha@}, covered up, buried. {@sam,@} {%cs.%} P. 
+; -----------------------------------------------
+; Case 047: L=12683, k1=banD, #changes=12, #extra_withs=1
+;
+old: <>bhrukuṭīm, knit the brows, frown: {%pp.%} {@ni-@}
+new: <>bhrukuṭīm, knit the brows, frown: {%pp.%} 
+;
+old: <>{@-baddha,@} bound to ({%lc.%}), dependent on ({%in.%}); 
+new: <>{@ni-baddha,@} bound to ({%lc.%}), dependent on ({%in.%}); 
+;
+old: <>on ({%lc.%}). {@nis,@} urge, importune: {%pp.%} {@nir-@}
+new: <>on ({%lc.%}). {@nis,@} urge, importune: {%pp.%} 
+;
+old: <>{@-baddha,@} fixed on ({%lc.%}); pressed, importuned. 
+new: <>{@nir-baddha,@} fixed on ({%lc.%}); pressed, importuned. 
+;
+old: <> on (-°); obstructed, checked. {@pra-@}
+new: <> on (-°); obstructed, checked. 
+;
+old: <>{@-ti,@} tie {%or%} fasten, to ({%lc. or%} -°); bind ({%ac.%}) {%one's%} 
+new: <>{@prati,@} tie {%or%} fasten, to ({%lc. or%} -°); bind ({%ac.%}) {%one's%} 
+;
+old: <>({%in.%}); to be supplied in ({%lc.%}: {%gr.%}): {%pp.%} {@saṃ-@}
+new: <>({%in.%}); to be supplied in ({%lc.%}: {%gr.%}): {%pp.%} 
+;
+old: <>{@-baddha@}, bound together; closed; connected, 
+new: <>{@saṃ-baddha@}, bound together; closed; connected, 
+;
+old: <>insist on {%one's%} connecting with ({%in.%}). {@anu-@}
+new: <>insist on {%one's%} connecting with ({%in.%}). 
+;
+old: <>{@-sam,@} {%pp.%} combined {%or%} accompanied with (-°). 
+new: <>{@anu-sam,@} {%pp.%} combined {%or%} accompanied with (-°). 
+;
+old: <> {%or%} to be supplied with each. {@prati-@}
+new: <> {%or%} to be supplied with each. 
+;
+old: <>{@-sam,@} {%pp.%} connected.
+new: <>{@prati-sam,@} {%pp.%} connected.
+; -----------------------------------------------
+; Case 048: L=12713, k1=barh, #changes=1
+;
+old: <>destroy, remove ({@sin@}). {@pra,@} tear off, out, {%or%} 
+new: <>destroy, remove ({%sin%}). {@pra,@} tear off, out, {%or%} 
+; -----------------------------------------------
+; Case 049: L=12809, k1=bAD, #changes=1
+;
+old: <>repel; distress, torture. {@-prati,@} repel; restrain; <lbinfo n="2"/>
+new: <>repel; distress, torture. {@prati,@} repel; restrain; <lbinfo n="2"/>
+; -----------------------------------------------
+; Case 050: L=12893, k1=buD, #changes=3
+;
+old: <> inform; {%des.%} wish to know. {@sam-@}
+new: <> inform; {%des.%} wish to know. 
+;
+old: <>{@-ava,@} become aware of, learn. {@ā,@} I.P. give 
+new: <>{@sam-ava,@} become aware of, learn. {@ā,@} I.P. give 
+;
+old: <>teach, instruct (¤2¤ {%ac.%}). {@-anu-pra,@} {%cs.%} remind. 
+new: <>teach, instruct (¤2¤ {%ac.%}). {@anu-pra,@} {%cs.%} remind. 
+; -----------------------------------------------
+; Case 051: L=13016, k1=Baj, #changes=1
+;
+old: <>scattered ({%building%}). {@-saṃ-vi@}, share ({%ac.%}) 
+new: <>scattered ({%building%}). {@saṃ-vi@}, share ({%ac.%}) 
+; -----------------------------------------------
+; Case 052: L=13204, k1=BAz, #changes=1
+;
+old: <> tell, communicate. {@parī,@} admonish; 
+new: <> tell, communicate. {@pari,@} admonish; 
+; -----------------------------------------------
+; Case 053: L=13230, k1=Bid, #changes=2
+;
+old: <>{@bebhidīti, bebhetti@}, cleave repeatedly. {@vi‡a-@}
+new: <>{@bebhidīti, bebhetti@}, cleave repeatedly. {@vi‡ati@} 
+;
+old: <>{@-ti,@} {%pp.%} inseparably connected with ({%in.%}). {@anu,@} 
+new: <>{%pp.%} inseparably connected with ({%in.%}). {@anu,@} 
+; -----------------------------------------------
+; Case 054: L=13284, k1=Buraja, #changes=2
+;
+old: <L>13284<pc>207-1<k1>Buraja<k2>Buraja
+new: <L>13284<pc>207-1<k1>Buraj<k2>Buraj
+;
+old: {#Buraja#}¦BHURAJ, {@bhurája@}, ({%RV.¹%} = bhraja),  <lbinfo n="[]"/>
+new: {#Buraj#}¦BHURAJ, {@bhurája@}, ({%RV.¹%} = bhraja),  <lbinfo n="[]"/>
+; -----------------------------------------------
+; Case 055: L=13295, k1=BU, #changes=7, #extra_withs=1
+;
+old: <>after {%any one%} ({%ac.%}). {@prai,@} be around, encompass,  <lbinfo n="2"/>
+new: <>after {%any one%} ({%ac.%}). {@pari,@} be around, encompass,  <lbinfo n="2"/>
+;
+old: <>be able to contain ({%d.%}): {@prabhuḥ prabhav-@}
+new: <>be able to contain ({%d.%}): {@prabhuḥ prabhavati@}, 
+;
+old: <>{@-ati@}, my lord has to command {%or%} decide: 
+new: <>my lord has to command {%or%} decide: 
+;
+old: <>powerful; help oneself; recognise: {%pp.%} {@pra-@}
+new: <>powerful; help oneself; recognise: {%pp.%} 
+;
+old: <>{@-bhāvita,@} become powerful, mighty; {%des. of %}
+new: <>{@pra-bhāvita,@} become powerful, mighty; {%des. of %}
+;
+old: <> by ({%in.%}). {@prati.@} {%cs.%} observe; {%ps.%} be 
+new: <> by ({%in.%}). {@prati,@} {%cs.%} observe; {%ps.%} be 
+;
+old: <>regarded as ({%nm.%}). {@vi.@} become apparent, 
+new: <>regarded as ({%nm.%}). {@vi,@} become apparent, 
+; -----------------------------------------------
+; Case 056: L=13342, k1=BUz, #changes=2
+;
+old: <>gratify. {@vi,@} {%cs.%} ({%C.%}) adorn, decorate: {%pp.%} {@vi-@}
+new: <>gratify. {@vi,@} {%cs.%} ({%C.%}) adorn, decorate: {%pp.%} 
+;
+old: <>{@-bhūṣita,@} adorned.
+new: <>{@vi-bhūṣita,@} adorned.
+; -----------------------------------------------
+; Case 057: L=13441, k1=Bram, #changes=1
+;
+old: <>{%cs.%} confound, confuse, perplex. {@sam.@} wander 
+new: <>{%cs.%} confound, confuse, perplex. {@sam,@} wander 
+; -----------------------------------------------
+; Case 058: L=13518, k1=majj, #changes=1
+;
+old: <> {@penetrate@} ({%arrow%}), into ({%lc.%}); be merged 
+new: <> penetrate ({%arrow%}), into ({%lc.%}); be merged 
+; -----------------------------------------------
+; Case 059: L=13670, k1=man, #changes=2
+;
+old: <>abhorred; {%cs.%} despise, disregard. {@abhi‡a-@}
+new: <>abhorred; {%cs.%} despise, disregard. {@abhi‡ava,@} 
+;
+old: <>{@-va,@} disdain. {@prati,@} {%cs.%} honour ({%any one%}); hold 
+new: <>disdain. {@prati,@} {%cs.%} honour ({%any one%}); hold 
+; -----------------------------------------------
+; Case 060: L=13919, k1=mA, #changes=2, #extra_withs=1
+;
+old: <> ordain, determine; make ready. {@abhi-@}
+new: <> ordain, determine; make ready. {@abhi-vi,@} 
+;
+old: <>{@-vi,@} {%ps.%} be presupposed in oneself. {@sam,@} 
+new: <>{%ps.%} be presupposed in oneself. {@sam,@} 
+; -----------------------------------------------
+; Case 061: L=14219, k1=mih, #changes=1
+;
+old: <>({%ac.%}). {@-pari,@} {%pp.%} made water around.
+new: <>({%ac.%}). {@pari,@} {%pp.%} made water around.
+; -----------------------------------------------
+; Case 062: L=14233, k1=mIl, #changes=1
+;
+old: <>{%eyes%}); display, manifest. {@ni.@} close the eyes; 
+new: <>{%eyes%}); display, manifest. {@ni,@} close the eyes; 
+; -----------------------------------------------
+; Case 063: L=14268, k1=muc, #changes=2, #extra_withs=1
+;
+old: <>({%ab.%}); redeem ({%a pledge%}) from ({%ab.%}). {@abhi-@}
+new: <>({%ab.%}); redeem ({%a pledge%}) from ({%ab.%}). 
+;
+old: <>{@-nis,@} {%pp. incorr. for%} abhi-mlukta. {@vi-nis,@} 
+new: <>{@abhi-nis,@} {%pp. incorr. for%} abhi-mlukta. {@vi-nis,@} 
+; -----------------------------------------------
+; Case 064: L=14317, k1=muz, #changes=1
+;
+old: <>deceived; made fun of. {@ā.@} take away, bear 
+new: <>deceived; made fun of. {@ā,@} take away, bear 
+; -----------------------------------------------
+; Case 065: L=14330, k1=muh, #changes=2
+;
+old: <>{%cs.%} confuse: {%pp.%} bewildered, stupefied. {@saṃ-@}
+new: <>{%cs.%} confuse: {%pp.%} bewildered, stupefied. 
+;
+old: <>{@-pra@}, become confused {%or%} clouded ({%mind%}): {%pp.%} 
+new: <>{@saṃ-pra@}, become confused {%or%} clouded ({%mind%}): {%pp.%} 
+; -----------------------------------------------
+; Case 066: L=14440, k1=mfS, #changes=2, #extra_withs=1
+;
+old: <>lay hold of, feel for ({%ac.%}); consider. {@anu‡a-@}
+new: <>lay hold of, feel for ({%ac.%}); consider. 
+;
+old: <>{@-va,@} touch, lay hold of. {@prati‡ava,@} lay hold 
+new: <>{@anu‡ava,@} touch, lay hold of. {@prati‡ava,@} lay hold 
+; -----------------------------------------------
+; Case 067: L=14441, k1=mfz, #changes=2
+;
+old: <>{@upa,@} {%cs.%} bear, put up with, overlook: {%pp.%} {@upa-@}
+new: <>{@upa,@} {%cs.%} bear, put up with, overlook: {%pp.%} 
+;
+old: <>{@-marṣita,@} granted; {%w.%} {@na,@} grudged. {@pra,@} 
+new: <>{@upa-marṣita,@} granted; {%w.%} {@na,@} grudged. {@pra,@} 
+; -----------------------------------------------
+; Case 068: L=14608, k1=mluc, #changes=2, #extra_withs=1
+;
+old: <>go down, sink; set on {%any one%} ({%ac.%}; {%C.%}). {@abhi-@}
+new: <>go down, sink; set on {%any one%} ({%ac.%}; {%C.%}). 
+;
+old: <>{@-ni,@} set on {%any one while asleep%} (-°).
+new: <>{@abhi-ni,@} set on {%any one while asleep%} (-°).
+; -----------------------------------------------
+; Case 069: L=14655, k1=yat, #changes=2
+;
+old: <>{@prayatta,@} intent; {@prayatita,@} {%n. imps.%} {@saṃ-@}
+new: <>{@prayatta,@} intent; {@prayatita,@} {%n. imps.%} 
+;
+old: <>{@-pra@}, Ā. strive after ({%d.%}). {@prati,@} counteract 
+new: <>{@saṃ-pra@}, Ā. strive after ({%d.%}). {@prati,@} counteract 
+; -----------------------------------------------
+; Case 070: L=14766, k1=yA, #changes=8, #extra_withs=2
+;
+old: <>{%or%} reach; {%intv.%} {@īyāyate,@} move ({%int.%}). {@acCa@}, 
+new: <>{%or%} reach; {%intv.%} {@īyāyate,@} move ({%int.%}). {@accha@}, 
+;
+old: <>({%a condition%}); {@astam@} --, set; die. {@abhi‡u-@}
+new: <>({%a condition%}); {@astam@} --, set; die. {@-@}
+;
+old: <>{@-pa‡ā,@} approach. {@sam-upa,@} come to (tatra 
+new: <>{@abhi‡upa‡ā,@} approach. {@sam-upa,@} come to (tatra 
+;
+old: <>{%ab.%}); rise, to ({%ac.%}); arise; surpass. {@pra-@}
+new: <>{%ab.%}); rise, to ({%ac.%}); arise; surpass. 
+;
+old: <>{@-ti‡ud,@} rise to meet, go forth to meet ({%as a %}
+new: <>{@prati‡ud,@} rise to meet, go forth to meet ({%as a %}
+;
+old: <>{@prati‡return,@} to ({%ac. with%} prati {%or lc.%}). 
+new: <>{@prati‡upa,@} return, to ({%ac. with%} prati {%or lc.%}). 
+;
+old: <>({%ab.%}), for the purpose of ({%d. of vbl. N.%}). {@vi-@}
+new: <>({%ab.%}), for the purpose of ({%d. of vbl. N.%}). 
+;
+old: <>{@-nis,@} to out, of ({%ab.%}), for the purpose of ({%d. of %}
+new: <>{@vi-nis,@} to out, of ({%ab.%}), for the purpose of ({%d. of %}
+; -----------------------------------------------
+; Case 071: L=14868, k1=yuj, #changes=4, #extra_withs=1
+;
+old: <>by (-°); devoted to, intent on ({%ac.%}). {@pari‡a-@}
+new: <>by (-°); devoted to, intent on ({%ac.%}). {@-@}
+;
+old: <>{@-nu,@} ply with questions ({%only gd. & pp.%}). 
+new: <>{@pari‡anu,@} ply with questions ({%only gd. & pp.%}). 
+;
+old: <> of ({%in.%}); {%ps.%} be separated from: {%pp.%} {@-vi-@}
+new: <> of ({%in.%}); {%ps.%} be separated from: {%pp.%} 
+;
+old: <>{@-pra-yukta,@} separated {%or%} far from, free from, 
+new: <>{@vi-pra-yukta,@} separated {%or%} far from, free from, 
+; -----------------------------------------------
+; Case 072: L=14876, k1=yuD, #changes=2, #extra_withs=1
+;
+old: <> oppose ({%ac.%}); {%cs.%} fight against. {@prati-@}
+new: <> oppose ({%ac.%}); {%cs.%} fight against. 
+;
+old: <>{@-sam,@} resist an attack together.
+new: <>{@prati-sam,@} resist an attack together.
+; -----------------------------------------------
+; Case 073: L=15002, k1=raj, #changes=3, #extra_withs=1
+;
+old: <>colour; redden; delight, make happy. {@anu-@}
+new: <>colour; redden; delight, make happy. 
+;
+old: <>{@-sam,@} {%pp.%} devoted {%or%} attached to ({%ac.%}). {@abhi-@}
+new: <>{@anu-sam,@} {%pp.%} devoted {%or%} attached to ({%ac.%}). 
+;
+old: <>{@-sam,@} {%pp.%} devoted to (-°).
+new: <>{@abhi-sam,@} {%pp.%} devoted to (-°).
+; -----------------------------------------------
+; Case 074: L=15073, k1=raB, #changes=3, #extra_withs=1
+;
+old: <>be drawn after: {%pp. w. act. & ps. mg.%} {@vi‡a-@}
+new: <>be drawn after: {%pp. w. act. & ps. mg.%} {@-@}
+;
+old: <>{@-nu‡ā,@} touch in various directions. {@sam‡a-@}
+new: <>{@vi‡anu‡ā,@} touch in various directions. {@-@}
+;
+old: <>{@-nu‡ā,@} take hold of one another, take hold of 
+new: <>{@sam‡anu‡ā,@} take hold of one another, take hold of 
+; -----------------------------------------------
+; Case 075: L=15195, k1=rAD, #changes=3
+;
+old: <>{%cs.%} {@rādháya,@} P. bring about; satisfy. {@apa.@} 
+new: <>{%cs.%} {@rādháya,@} P. bring about; satisfy. {@apa,@} 
+;
+old: <>harm {%or%} wrong, commit an offence: {%pp.%} {@apa-@}
+new: <>harm {%or%} wrong, commit an offence: {%pp.%} 
+;
+old: <>{@-rāddha,@} having missed {%the mark%} ({%ab., of an %}
+new: <>{@apa-rāddha,@} having missed {%the mark%} ({%ab., of an %}
+; -----------------------------------------------
+; Case 076: L=15250, k1=ric, #changes=2, #extra_withs=1
+;
+old: <>be distinguished from ({%ac., ab.%}): {%pp.%} {@vyati-@}
+new: <>be distinguished from ({%ac., ab.%}): {%pp.%} 
+;
+old: <>{@-rikta,@} redundant, excessive; having an excessive <lbinfo n="2"/>
+new: <>{@vyati-rikta,@} redundant, excessive; having an excessive <lbinfo n="2"/>
+; -----------------------------------------------
+; Case 077: L=15307, k1=ruD, #changes=4
+;
+old: <>({%in.,%} -°); {%cs.%} confine; cause to be shut. {@saṃ-@}
+new: <>({%in.,%} -°); {%cs.%} confine; cause to be shut. 
+;
+old: <>{@-ni@}, shut up, keep in confinement; withdraw 
+new: <>{@saṃ-ni@}, shut up, keep in confinement; withdraw 
+;
+old: <>check: {%pp.%} held fast; filled with ({%in.%}). {@pa-@}
+new: <>check: {%pp.%} held fast; filled with ({%in.%}). 
+;
+old: <>{@-ri,@} restrain ({%any one%}): {%pp.%} filled with (-°). 
+new: <>{@pari,@} restrain ({%any one%}): {%pp.%} filled with (-°). 
+; -----------------------------------------------
+; Case 078: L=15492, k1=lap, #changes=2
+;
+old: <>converse with ({%ac.%}). {@ud,@} caress. {@sam-@}
+new: <>converse with ({%ac.%}). {@ud,@} caress. 
+;
+old: <>{@-ud,@} lift up one's voice, begin to speak. {@pra,@} 
+new: <>{@sam-ud,@} lift up one's voice, begin to speak. {@pra,@} 
+; -----------------------------------------------
+; Case 079: L=15502, k1=laB, #changes=2
+;
+old: <>obtain; deceive, dupe, make a fool of. {@vi-@}
+new: <>obtain; deceive, dupe, make a fool of. 
+;
+old: <>{@-pra,@} deceive, impose upon; mock at, insult. 
+new: <>{@vi-pra,@} deceive, impose upon; mock at, insult. 
+; -----------------------------------------------
+; Case 080: L=15611, k1=lI, #changes=2
+;
+old: <> absorbed, {%or%} contained in ({%lc.%}). {@pra-@}
+new: <> absorbed, {%or%} contained in ({%lc.%}). 
+;
+old: <>{@-ti,@} disappear: {%pp.%} retired. {@vi,@} clasp, cling 
+new: <>{@prati,@} disappear: {%pp.%} retired. {@vi,@} clasp, cling 
+; -----------------------------------------------
+; Case 081: L=15624, k1=luW, #changes=1
+;
+old: <>roll down ({%tr.%}). {@prai-nis,@} roll down ({%int.%}). 
+new: <>roll down ({%tr.%}). {@pari-nis,@} roll down ({%int.%}). 
+; -----------------------------------------------
+; Case 082: L=15638, k1=luB, #changes=1
+;
+old: <>lead astray. {@prai@} ({@-lobha,@} {%metr. for%} -lobhaya), <lbinfo n="6"/>
+new: <>lead astray. {@pari@} ({@-lobha,@} {%metr. for%} -lobhaya), <lbinfo n="6"/>
+; -----------------------------------------------
+; Case 083: L=15777, k1=vaja, #changes=2
+;
+old: <L>15777<pc>267-1<k1>vaja<k2>[vaja
+new: <L>15777<pc>267-1<k1>vaj<k2>[vaj
+;
+old: {#[vaja#}¦VAJ, be hard {%or%} strong].
+new: {#[vaj#}¦VAJ, be hard {%or%} strong].
+; -----------------------------------------------
+; Case 084: L=15825, k1=vad, #changes=1
+;
+old: <>sound aloud ({%V.%}). {@acCa@}, invite ({%V.%}). {@ati,@} 
+new: <>sound aloud ({%V.%}). {@accha@}, invite ({%V.%}). {@ati,@} 
+; -----------------------------------------------
+; Case 085: L=16153, k1=vah, #changes=1
+;
+old: <>({%d., lc.%}; {%V.%}); bear, support ({%the world%}). {@ni,@} 
+new: <>({%d., lc.%}; {%V.%}); bear, support ({%the world%}). {@nis,@} 
+; -----------------------------------------------
+; Case 086: L=16385, k1=vAs, #changes=1, #extra_withs=1
+;
+old: {#vAs#}¦VĀS, {%only%} {@ni-vāsate,@} resists (?; 
+new: {#vAs#}¦VĀS, {%only%} {@ni@}-{@vāsate,@} resists (?; 
+; -----------------------------------------------
+; Case 087: L=16503, k1=vij, #changes=1
+;
+old: {#vij#}¦VI{%G,%} VI.Ā. {@vijá@}, (P. {%&%} I.Ā. {@veja@}, 
+new: {#vij#}¦VIJ, VI.Ā. {@vijá@}, (P. {%&%} I.Ā. {@veja@}, 
+; -----------------------------------------------
+; Case 088: L=16540, k1=vid, #changes=2, #extra_withs=1
+;
+old: <>report. {@anu-pra,@} {%only pr. pt.%} {@ánu pra-@}
+new: <>report. {@anu-pra,@} {%only pr. pt.%} 
+;
+old: <>{@-vidvā́n,@} knowing exactly. {@prati,@} {%cs.%} make 
+new: <>{@anu-pra-vidvā́n,@} knowing exactly. {@prati,@} {%cs.%} make 
+; -----------------------------------------------
+; Case 089: L=16541, k1=vid, #changes=2
+;
+old: <>{@vinna,@} found; married ({%woman%}); {%des.%} {@vi-@}
+new: <>{@vinna,@} found; married ({%woman%}); {%des.%} 
+;
+old: <>{@-vitsa,@} wish to find: {%only pp.%} {@i-ta@}; {%intv. pr. %}
+new: <>{@vi-vitsa,@} wish to find: {%only pp.%} {@i-ta@}; {%intv. pr. %}
+; -----------------------------------------------
+; Case 090: L=16738, k1=viS, #changes=2, #extra_withs=1
+;
+old: <>{%army%}); to encamp; found ({%a city%}). {@prati-@}
+new: <>{%army%}); to encamp; found ({%a city%}). 
+;
+old: <>{@-ni,@} {%pp.%} intent on, having one's heart set 
+new: <>{@prati-ni,@} {%pp.%} intent on, having one's heart set 
+; -----------------------------------------------
+; Case 091: L=16824, k1=vizw, #changes=1, #extra_withs=1
+;
+old: <>{%pp.%} {@ā́-viṣṭita@}, enveloped in ({%in.%}; {%V.%}).
+new: <>{%pp.%} {@ā́@}-{@viṣṭita@}, enveloped in ({%in.%}; {%V.%}).
+; -----------------------------------------------
+; Case 092: L=16922, k1=vf, #changes=2
+;
+old: <>remove; exclude {%or%} banish from ({%ab.%}). {@vi-@}
+new: <>remove; exclude {%or%} banish from ({%ab.%}). 
+;
+old: <>{@-ni,@} {%cs.%} keep {%or%} ward off, check, prevent, suppress; <lbinfo n="3"/>
+new: <>{@vi-ni,@} {%cs.%} keep {%or%} ward off, check, prevent, suppress; <lbinfo n="3"/>
+; -----------------------------------------------
+; Case 093: L=16934, k1=vfj, #changes=4, #extra_withs=1
+;
+old: <>scattered; delivered, bestowed, given. {@vi‡a-@}
+new: <>scattered; delivered, bestowed, given. 
+;
+old: <>{@-pa,@} {%pp.%} {@-vṛkta@}, separated; {%cs. pp.%} {@-varjita@}, 
+new: <>{@vi‡apa,@} {%pp.%} {@-vṛkta@}, separated; {%cs. pp.%} {@-varjita@}, 
+;
+old: <>off ({%heads%}); cast away, abandon: {%pp.%} {@parā-@}
+new: <>off ({%heads%}); cast away, abandon: {%pp.%} 
+;
+old: <>{@vṛkta@}, outcast ({%son%}). {@pari,@} ({%V.%}) turn aside; 
+new: <>{@parā-vṛkta@}, outcast ({%son%}). {@pari,@} ({%V.%}) turn aside; 
+; -----------------------------------------------
+; Case 094: L=16940, k1=vft, #changes=4
+;
+old: <>afflict ({%ac.%}); {%cs. pp.%} turned away ({%lips%}). {@saṃ-@}
+new: <>afflict ({%ac.%}); {%cs. pp.%} turned away ({%lips%}). 
+;
+old: <>{@-pari@}, turn round, revolve. {@pra,@} be set in 
+new: <>{@saṃ-pari@}, turn round, revolve. {@pra,@} be set in 
+;
+old: <> engaged in, occupied with ({%lc.%}). {@-saṃ-@}
+new: <> engaged in, occupied with ({%lc.%}). 
+;
+old: <>{@-pra@}, arise, be produced, from ({%ab.%}); begin 
+new: <>{@saṃ-pra@}, arise, be produced, from ({%ab.%}); begin 
+; -----------------------------------------------
+; Case 095: L=16979, k1=vfz, #changes=2, #extra_withs=1
+;
+old: <>{%or%} shower abundantly ({%ac., in.%}): {%pp.%} {@abhi-@}
+new: <>{%or%} shower abundantly ({%ac., in.%}): {%pp.%} 
+;
+old: <>{@-vṛṣṭa@}, rained upon; besprinkled with ({%in.%}); 
+new: <>{@abhi-vṛṣṭa@}, rained upon; besprinkled with ({%in.%}); 
+; -----------------------------------------------
+; Case 096: L=17291, k1=vyaD, #changes=2
+;
+old: <>{%fires%}); free oneself from ({%evil, ac.%}): {%pp.%} {@apa-@}
+new: <>{%fires%}); free oneself from ({%evil, ac.%}): {%pp.%} 
+;
+old: <>{@-viddha,@} thrown away, cast aside, discarded; 
+new: <>{@apa-viddha,@} thrown away, cast aside, discarded; 
+; -----------------------------------------------
+; Case 097: L=17319, k1=vyA, #changes=2, #extra_withs=1
+;
+old: <>round; Ā. envelop oneself in ({%V.%}): {%pp.%} {@pári-@}
+new: <>round; Ā. envelop oneself in ({%V.%}): {%pp.%} 
+;
+old: <>{@-vīta,@} wrapped {%or%} enveloped in, surrounded 
+new: <>{@pári-vīta,@} wrapped {%or%} enveloped in, surrounded 
+; -----------------------------------------------
+; Case 098: L=17369, k1=vraj, #changes=2
+;
+old: <>{@anu-sam,@} go behind, follow ({%ac.%}). {@upa-@}
+new: <>{@anu-sam,@} go behind, follow ({%ac.%}). 
+;
+old: <>{@-sam,@} enter into ({%a house, ac.%}).
+new: <>{@upa-sam,@} enter into ({%a house, ac.%}).
+; -----------------------------------------------
+; Case 099: L=17460, k1=Sat, #changes=1
+;
+old: <>{@v,@} hew in pieces; cut off; knock ot ({%eye, %}
+new: <>{@vi,@} hew in pieces; cut off; knock ot ({%eye, %}
+; -----------------------------------------------
+; Case 100: L=17930, k1=Siz, #changes=4
+;
+old: <>{%ab.%}); be pre-eminent among ({%g., lc.%}): {%pp.%} {@vi-@}
+new: <>{%ab.%}); be pre-eminent among ({%g., lc.%}): {%pp.%} 
+;
+old: <>{@-śiṣṭa@}, distinguished, particularised, characterised <lbinfo n="6"/>
+new: <>{@vi-śiṣṭa@}, distinguished, particularised, characterised <lbinfo n="6"/>
+;
+old: <>{@-ita@}, superior to ({%ab.%}) in ({%in.%}); surpassed. {@pra-@}
+new: <>{@-ita@}, superior to ({%ab.%}) in ({%in.%}); surpassed. 
+;
+old: <>{@-vi,@} augment.
+new: <>{@pra-vi,@} augment.
+; -----------------------------------------------
+; Case 101: L=17938, k1=Sis, #changes=1, #extra_withs=1
+;
+old: <>√ śās, {%also in derivatives%} ({@ā-śís@} {%etc.%}).
+new: <>√ śās, {%also in derivatives%} ({@ā@}-{@śís@} {%etc.%}).
+; -----------------------------------------------
+; Case 102: L=18205, k1=Scar, #changes=1, #extra_withs=1
+;
+old: <>{@upa‡aścarat@}, approach ({%ac.%}; {%YV.%}).
+new: <>{@upa@}‡{@aścarat@}, approach ({%ac.%}; {%YV.%}).
+; -----------------------------------------------
+; Case 103: L=18286, k1=Sri, #changes=5
+;
+old: <>{@anu,@} {%pp.%} followed by ({%in.%}). {@apa,@} {%pp.%} {@ápa-@}
+new: <>{@anu,@} {%pp.%} followed by ({%in.%}). {@apa,@} {%pp.%} 
+;
+old: <>{@-śrita@}, leaning {%or%} resting on, concealed in 
+new: <>{@ápa-śrita@}, leaning {%or%} resting on, concealed in 
+;
+old: <>{@vi‡apa ā,@} take refuge with ({%ac.%}); profess ({%a %}
+new: <>{@vi‡apa‡ā,@} take refuge with ({%ac.%}); profess ({%a %}
+;
+old: <>{@procCrita@}, raised, elevated; lofty. {@sam-@}
+new: <>{@procCrita@}, raised, elevated; lofty. 
+;
+old: <>{@-ud,@} {%pp. id.%}; surging ({%waves%}). {@upa,@} P. lean, 
+new: <>{@sam-ud,@} {%pp. id.%}; surging ({%waves%}). {@upa,@} P. lean, 
+; -----------------------------------------------
+; Case 104: L=18297, k1=Sru, #changes=2, #extra_withs=1
+;
+old: <>having been made; {@sā ca pitrā dātuṃ pra-@}
+new: <>having been made; {@sā ca pitrā dātuṃ pratiśrutā@}, 
+;
+old: <>{@-tiśrutā@}, and she was promised in marriage 
+new: <>and she was promised in marriage 
+; -----------------------------------------------
+; Case 105: L=18333, k1=SlaT, #changes=1, #extra_withs=1
+;
+old: <>{@ślathaya@}, relax, loosen ({%C., rare%}). {@ā-ślatha@}, 
+new: <>{@ślathaya@}, relax, loosen ({%C., rare%}). {@ā@}-{@ślatha@}, 
+; -----------------------------------------------
+; Case 106: L=18367, k1=Svas, #changes=2
+;
+old: <>{%embrace%}, -°). {@pra‡ud,@} breathe heavily. {@sam-@}
+new: <>{%embrace%}, -°). {@pra‡ud,@} breathe heavily. 
+;
+old: <>{@-ud,@} breathe again, revive; sprout forth: {%pp. %}
+new: <>{@sam-ud,@} breathe again, revive; sprout forth: {%pp. %}
+; -----------------------------------------------
+; Case 107: L=18583, k1=saYj, #changes=2, #extra_withs=1
+;
+old: <> to {%or%} fixed on (-°). {@-saṃ-pra-saj-@}
+new: <> to {%or%} fixed on (-°). {@saṃ-pra@}-{@saj-@}
+;
+old: <>{@vi-ṣajja-te@}, be attached {%or%} devoted to ({%lc.%}): 
+new: <>{@vi@}-{@ṣajja-te@}, be attached {%or%} devoted to ({%lc.%}): 
+; -----------------------------------------------
+; Case 108: L=19123, k1=sA, #changes=4, #extra_withs=1
+;
+old: <>{@adhyavasāyita,@} firmly resolved upon. {@-ud, @}
+new: <>{@adhyavasāyita,@} firmly resolved upon. 
+;
+old: <>{@ava@} ({%V.%}), depart ({%from the place of sacrifice%}); <lbinfo n="5"/>
+new: <>{@ud-ava@} ({%V.%}), depart ({%from the place of sacrifice%}); <lbinfo n="5"/>
+;
+old: <>{@upa‡ā,@} {%pp.%} having settled near ({%ac.%}). {@pari‡a-@}
+new: <>{@upa‡ā,@} {%pp.%} having settled near ({%ac.%}). 
+;
+old: <>{@-va,@} be the final result; end {%or%} result in ({%lc.%}, 
+new: <>{@pari‡ava,@} be the final result; end {%or%} result in ({%lc.%}, 
+; -----------------------------------------------
+; Case 109: L=19365, k1=si, #changes=2
+;
+old: <>-°). {@pra,@} bind, render harmless; {%ps.%} {@pra-@}
+new: <>-°). {@pra,@} bind, render harmless; {%ps.%} 
+;
+old: <>{@-siṣye,@} {%ft.%} ({%C.%}): {%pp.%} {@prasita@} ({%C.%}), continually <lbinfo n="7"/>
+new: <>{@pra-siṣye,@} {%ft.%} ({%C.%}): {%pp.%} {@prasita@} ({%C.%}), continually <lbinfo n="7"/>
+; -----------------------------------------------
+; Case 110: L=19378, k1=sic, #changes=2
+;
+old: <>{@nis@} ({@niṣ-ṣiñcati@}), pour off {%or%} away. {@pa-@}
+new: <>{@nis@} ({@niṣ-ṣiñcati@}), pour off {%or%} away. 
+;
+old: <>{@-rā,@} {%V.%}: pour away; wash away; discard, remove: <lbinfo n="2"/>
+new: <>{@parā,@} {%V.%}: pour away; wash away; discard, remove: <lbinfo n="2"/>
+; -----------------------------------------------
+; Case 111: L=19456, k1=su, #changes=1, #extra_withs=1
+;
+old: {#su#}¦SU (= √ ¤2.¤ sū), {%in%} {@pra-savati@} ({%rare%}), 
+new: {#su#}¦SU (= √ ¤2.¤ sū), {%in%} {@pra@}-{@savati@} ({%rare%}), 
+; -----------------------------------------------
+; Case 112: L=19659, k1=sfj, #changes=2
+;
+old: <>to ({%passions etc.%}); abandon, renounce. {@pra-@}
+new: <>to ({%passions etc.%}); abandon, renounce. 
+;
+old: <>{@-ti-pra,@} send home. {@vi,@} {%V., C.%}: discharge, 
+new: <>{@prati-pra,@} send home. {@vi,@} {%V., C.%}: discharge, 
+; -----------------------------------------------
+; Case 113: L=19863, k1=staB, #changes=2
+;
+old: <>rigid ({%limb etc.%}); checked, stopped; {%cs.%} {@vi-@}
+new: <>rigid ({%limb etc.%}); checked, stopped; {%cs.%} 
+;
+old: <>{@-ṣṭambhaya@}, P. check, stop, arrest. {@sam,@} 
+new: <>{@vi-ṣṭambhaya@}, P. check, stop, arrest. {@sam,@} 
+; -----------------------------------------------
+; Case 114: L=19890, k1=stu, #changes=2, #extra_withs=1
+;
+old: <>extol ({%in rit., sp. of the Hot%}ri): {%pp.%} {@abhi-@}
+new: <>extol ({%in rit., sp. of the Hot%}ri): {%pp.%} 
+;
+old: <>{@-ṣṭuta@}, praised; consecrated. {@upa,@} praise, 
+new: <>{@abhi-ṣṭuta@}, praised; consecrated. {@upa,@} praise, 
+; -----------------------------------------------
+; Case 115: L=19901, k1=stf, #changes=4
+;
+old: <>({%fame%}); speak diffusely about ({%ac.%}): {%pp.%} {@vi-@}
+new: <>({%fame%}); speak diffusely about ({%ac.%}): {%pp.%} 
+;
+old: <>{@-stīrṇa@}, bestrewn, studded with; spread out, 
+new: <>{@vi-stīrṇa@}, bestrewn, studded with; spread out, 
+;
+old: <>developed ({%action%}); extensive, broad; {%cs.%} {@vi-@}
+new: <>developed ({%action%}); extensive, broad; {%cs.%} 
+;
+old: <>{@-stāraya,@} P. extend ({%troops%}); spread around 
+new: <>{@vi-stāraya,@} P. extend ({%troops%}); spread around 
+; -----------------------------------------------
+; Case 116: L=19946, k1=sTA, #changes=8, #extra_withs=2
+;
+old: <>come forth ({%leaf%}); produced from (-°). {@pra-@}
+new: <>come forth ({%leaf%}); produced from (-°). 
+;
+old: <>{@-ti‡ud,@} rise up before ({%ac.%}), rise to meet. 
+new: <>{@prati‡ud,@} rise up before ({%ac.%}), rise to meet. 
+;
+old: <>{%or%} fallen upon {%any one%} ({%ac.%}): {@iti samupa-@}
+new: <>{%or%} fallen upon {%any one%} ({%ac.%}): {@iti samupa-sthite,@} 
+;
+old: <>{@-sthite,@} this being in store {%for one%}. {@ni,@} {%pp.%} 
+new: <>this being in store {%for one%}. {@ni,@} {%pp.%} 
+;
+old: <>an end ({%U.%}); prepare ({%honey, U.%}): {%pp.%} {@ni[ḥ]@}-
+new: <>an end ({%U.%}); prepare ({%honey, U.%}): {%pp.%} 
+;
+old: <>{@ṣṭhita,@} grown forth ({%RV.%}); completed, 
+new: <>{@ni[ḥ]-ṣṭhita,@} grown forth ({%RV.%}); completed, 
+;
+old: <>{%V.%}: establish {%or%} support, on ({%lc.%}). {@saṃ-@}
+new: <>{%V.%}: establish {%or%} support, on ({%lc.%}). 
+;
+old: <>{@-prati@}, {%pp.%} established; supported by, resting 
+new: <>{@saṃ-prati@}, {%pp.%} established; supported by, resting 
+; -----------------------------------------------
+; Case 117: L=20172, k1=svad, #changes=1
+;
+old: {#svad#}¦SU‡AD, {#svAd#} AVĀD [eat well], I. 
+new: {#svad#}¦SU‡AD, {#svAd#} SVĀD [eat well], I. 
+; -----------------------------------------------
+; Case 118: L=20185, k1=svap, #changes=2
+;
+old: <>sleep; kill. {@pra,@} fall asleep, sleep: {%pp.%} {@pra-@}
+new: <>sleep; kill. {@pra,@} fall asleep, sleep: {%pp.%} 
+;
+old: <>{@-supta,@} fallen asleep, sleeping; having slept 
+new: <>{@pra-supta,@} fallen asleep, sleeping; having slept 
+; -----------------------------------------------
+; Case 119: L=20377, k1=han, #changes=3, #extra_withs=1
+;
+old: <>to elucidate. {@sam,-ud,@} {%pp.%} raised ({%dust%}); 
+new: <>to elucidate. {@sam-ud,@} {%pp.%} raised ({%dust%}); 
+;
+old: <> with the Anudiātta accent. {@abhi-@}
+new: <> with the Anudiātta accent. 
+;
+old: <>{@-ní,@} set upon a spit ({%RV.%}); {%C.%}: strike at {%or%} 
+new: <>{@abhi-ni,@} set upon a spit ({%RV.%}); {%C.%}: strike at {%or%} 
+; -----------------------------------------------
+; Case 120: L=20508, k1=hi, #changes=2
+;
+old: <>{@-vat,@} {%pp. act. = finite vb.%} (he) sent out. {@anu-@}
+new: <>{@-vat,@} {%pp. act. = finite vb.%} (he) sent out. 
+;
+old: <>{@-pra,@} {%pp.%} sent after. {@sam,@} compose, contrive 
+new: <>{@anu-pra,@} {%pp.%} sent after. {@sam,@} compose, contrive 
+; -----------------------------------------------
+; Case 121: L=20557, k1=hu, #changes=2, #extra_withs=1
+;
+old: <>{%an oblation%}, sacrifice to {%or%} for: {%pp.%} {@abhi-@}
+new: <>{%an oblation%}, sacrifice to {%or%} for: {%pp.%} 
+;
+old: <>{@-huta,@} besprinkled ({%with a libation%}); sacrificed, <lbinfo n="5"/>
+new: <>{@abhi-huta,@} besprinkled ({%with a libation%}); sacrificed, <lbinfo n="5"/>
+; -----------------------------------------------
+; Case 122: L=20582, k1=hf, #changes=5
+;
+old: <>({%tears%}). {@adhi‡ā,@} supply ({%a word%}). {@ud- ā,@} {%V.%}: 
+new: <>({%tears%}). {@adhi‡ā,@} supply ({%a word%}). {@ud-ā,@} {%V.%}: 
+;
+old: <>blow has been struck, by ({%in.%}), at ({%lc.%}): {@pra-@}
+new: <>blow has been struck, by ({%in.%}), at ({%lc.%}): 
+;
+old: <>{@-hṛte sati@}, when a blow has been struck; 
+new: <>{@pra-hṛte sati@}, when a blow has been struck; 
+;
+old: <>{%mg.%}); withdraw, destroy ({%opp. create%}). {@sam-@}
+new: <>{%mg.%}); withdraw, destroy ({%opp. create%}). 
+;
+old: <>{@-upa-sam,@} {%pp.%} checked, stopped. {@prati-sam,@} 
+new: <>{@sam-upa-sam,@} {%pp.%} checked, stopped. {@prati-sam,@} 
+; -----------------------------------------------
