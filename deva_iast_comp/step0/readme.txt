@@ -37,3 +37,8 @@ do want to share with others should have names that do not start with 'temp'.
 You can always do a 'git status' after 'git add' but before 'git commit' to
 see which files git is tracking.
 
+#-------------------------------------------
+readwriteA1.py  Second python program, designed to read the lines of readwrite.txt
+  and write the lower-cased lines to another file.
+  Usage:
+python readwriteA1.py ../readwrite.txt readwriteA1.txt
