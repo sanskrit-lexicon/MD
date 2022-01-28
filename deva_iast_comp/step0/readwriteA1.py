@@ -25,7 +25,7 @@ def read_lines(filein):
  # the function returns the list of lines
  return lines
 
-# this adjustlines function capitalizes each line
+# this adjustlines function convert each string to lower case
 def adjustlines(lines):
  newlines = []  # start with an empty list, in which the new lines will be put
  # adjust each line in a python 'for loop'
@@ -33,7 +33,7 @@ def adjustlines(lines):
  for line in lines:
   # we know, from the way read_lines was constructed, that each element
   # in lines represents a line of the text file used as input ('filein')
-  # As such, it is a python 'str' (for 'string'). There is a builtin way to
+  # As such, it is a python 'str' (for 'string'). There is a builting way to
   # convert strings to lower case
   newline = line.lower()
   # We want to add the new line to our list of new lines.
