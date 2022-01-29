@@ -33,7 +33,7 @@ def adjustlines(lines):
  for line in lines:
   # we know, from the way read_lines was constructed, that each element
   # in lines represents a line of the text file used as input ('filein')
-  # As such, it is a python 'str' (for 'string'). There is a builting way to
+  # As such, it is a python 'str' (for 'string'). There is a builtin way to
   # convert strings to lower case
   newline = line.lower()
   # We want to add the new line to our list of new lines.

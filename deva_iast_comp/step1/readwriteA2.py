@@ -33,7 +33,7 @@ def adjustlines(lines):
  for line in lines:
   # we know, from the way read_lines was constructed, that each element
   # in lines represents a line of the text file used as input ('filein')
-  # As such, it is a python 'str' (for 'string'). There is a building way to
+  # As such, it is a python 'str' (for 'string'). There is a buildin way to
   # split strings into a list (separator is ":")
   x1 = line.split(":")
   newline1 = x1[0]

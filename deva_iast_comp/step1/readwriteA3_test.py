@@ -1,5 +1,5 @@
 # coding=utf-8
-"""readwriteA3.py
+"""readwriteA2_test.py
    
 """
 from __future__ import print_function
@@ -33,13 +33,19 @@ def adjustlines(lines):
  for line in lines:
   # we know, from the way read_lines was constructed, that each element
   # in lines represents a line of the text file used as input ('filein')
-  # As such, it is a python 'str' (for 'string'). There is a building way to
-  # split strings into a list (separator is ":")
+  # As such, it is a python 'str' (for 'string'). There is a buildin way to
+  # split strings into a list
   x1 = line.split(":")
   newline1 = x1[0]
+  x2 = line.split(":")
+  newline2 = x1[1]
+  x3 = newline2.split()
+  newline3 = x3[0]
   # We want to add the new line to our list of new lines.
   # 'append' is the way to do that
   newlines.append(newline1)
+  newlines.append(newline2)
+  newlines.append(newline3)
  # we're done with the for loop, so we go back one level of indentation
  # We need to return the newlines object that this function computed
  return newlines
