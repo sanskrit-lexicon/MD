@@ -1,5 +1,5 @@
 # coding=utf-8
-"""readwriteA2_test.py
+"""readwriteA3.py
    
 """
 from __future__ import print_function
@@ -43,9 +43,11 @@ def adjustlines(lines):
   newline3 = x3[0]
   # We want to add the new line to our list of new lines.
   # 'append' is the way to do that
-  newlines.append(newline1)
-  newlines.append(newline2)
-  newlines.append(newline3)
+  newlines.append('%s' %"-----------------------")
+  newlines.append('orig = %s' %line)
+  newlines.append('slp1 = %s' %newline1)
+  newlines.append('rest = %s' %newline2)
+  newlines.append('iast = %s' %newline3)
  # we're done with the for loop, so we go back one level of indentation
  # We need to return the newlines object that this function computed
  return newlines
