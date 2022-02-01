@@ -41,13 +41,17 @@ def adjustlines(lines):
   newline2 = x1[1]
   x3 = newline2.split()
   newline3 = x3[0]
+  newline3a = newline3.replace("-", "")
+  newline3b = newline3a.replace("~", "")
+  newline3c = newline3b.replace("*", "")
+  newline3d = newline3c.replace("[a]", "")
   # We want to add the new line to our list of new lines.
   # 'append' is the way to do that
-  newlines.append('%s' %"-----------------------")
+  newlines.append('%s' %"-"*15)
   newlines.append('orig = %s' %line)
   newlines.append('slp1 = %s' %newline1)
   newlines.append('rest = %s' %newline2)
-  newlines.append('iast = %s' %newline3)
+  newlines.append('iast = %s' %newline3d)
  # we're done with the for loop, so we go back one level of indentation
  # We need to return the newlines object that this function computed
  return newlines
