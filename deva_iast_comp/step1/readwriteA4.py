@@ -1,9 +1,10 @@
 # coding=utf-8
-"""readwriteA3.py
+"""readwriteA4.py
    
 """
 from __future__ import print_function
 import sys,re,codecs
+from indic_transliteration import sanscript
 
 # def f(x,y,z):  that's the way Python function definitions start
 def read_lines(filein):
@@ -42,6 +43,7 @@ def adjustlines(lines):
   x3 = newline2.split()
   newline3 = x3[0]
   newline3a = re.sub(r"([-~*‘’])|(\[a\])","",newline3)
+  newline4 = sanscript.transliterate(newline1,'slp1','iast')
   # We want to add the new line to our list of new lines.
   # 'append' is the way to do that
   newlines.append('%s' %"-"*15)
@@ -49,6 +51,7 @@ def adjustlines(lines):
   newlines.append('slp1 = %s' %newline1)
   newlines.append('rest = %s' %newline2)
   newlines.append('iast = %s' %newline3a)
+  newlines.append('slp-iast = %s' %newline4)
  # we're done with the for loop, so we go back one level of indentation
  # We need to return the newlines object that this function computed
  return newlines
