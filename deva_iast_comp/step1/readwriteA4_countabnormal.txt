@@ -1,0 +1,2766 @@
+---------------
+orig = a:abnormal
+slp1 = a
+rest = abnormal
+iast = abnormal
+slp-iast = a
+---------------
+orig = aMSaprakalpanA:aṃśa-kalpanā
+slp1 = aMSaprakalpanA
+rest = aṃśa-kalpanā
+iast = aṃśakalpanā
+slp-iast = aṃśaprakalpanā
+---------------
+orig = aGnya:ághnya ({%also%} {@-yá@})
+slp1 = aGnya
+rest = ághnya ({%also%} {@-yá@})
+iast = ághnya
+slp-iast = aghnya
+---------------
+orig = adfpita:á-dṛp-ita {%or%} {@-ta
+slp1 = adfpita
+rest = á-dṛp-ita {%or%} {@-ta
+iast = ádṛpita
+slp-iast = adṛpita
+---------------
+orig = adya:a-dyá (ā́) {%ad.%} to-day
+slp1 = adya
+rest = a-dyá (ā́) {%ad.%} to-day
+iast = adyá
+slp-iast = adya
+---------------
+orig = aDarozWa,°rOzWa:adhara‡oṣṭha
+slp1 = aDarozWa,°rOzWa
+rest = adhara‡oṣṭha
+iast = adhara‡oṣṭha
+slp-iast = adharoṣṭha,°rauṣṭha
+---------------
+orig = aDaHsTa:adhaḥ-stha
+slp1 = aDaHsTa
+rest = adhaḥ-stha
+iast = adhaḥstha
+slp-iast = adhaḥstha
+---------------
+orig = aDipuruza:adhi-pŭruṣa
+slp1 = aDipuruza
+rest = adhi-pŭruṣa
+iast = adhipŭruṣa
+slp-iast = adhipuruṣa
+---------------
+orig = aDirukmamandiragavAkzam:abnormal
+slp1 = aDirukmamandiragavAkzam
+rest = abnormal
+iast = abnormal
+slp-iast = adhirukmamandiragavākṣam
+---------------
+orig = aDIk:abnormal
+slp1 = aDIk
+rest = abnormal
+iast = abnormal
+slp-iast = adhīk
+---------------
+orig = anirhARarca:a-nirhāṇa‡ṛca
+slp1 = anirhARarca
+rest = a-nirhāṇa‡ṛca
+iast = anirhāṇa‡ṛca
+slp-iast = anirhāṇarca
+---------------
+orig = anUpa:anūpá [anu+ap-a]
+slp1 = anUpa
+rest = anūpá [anu+ap-a]
+iast = anūpá
+slp-iast = anūpa
+---------------
+orig = antaHsaMjYa:antaḥ-saṃ-jña
+slp1 = antaHsaMjYa
+rest = antaḥ-saṃ-jña
+iast = antaḥsaṃjña
+slp-iast = antaḥsaṃjña
+---------------
+orig = anvavekzA:anu‡avekṣ-ā {%f.%} regard
+slp1 = anvavekzA
+rest = anu‡avekṣ-ā {%f.%} regard
+iast = anu‡avekṣā
+slp-iast = anvavekṣā
+---------------
+orig = aparAvfttaBAgaDeya:abnormal
+slp1 = aparAvfttaBAgaDeya
+rest = abnormal
+iast = abnormal
+slp-iast = aparāvṛttabhāgadheya
+---------------
+orig = apartu:apa‡ṛtu
+slp1 = apartu
+rest = apa‡ṛtu
+iast = apa‡ṛtu
+slp-iast = apartu
+---------------
+orig = aprOQa:a-pra‡ūḍha
+slp1 = aprOQa
+rest = a-pra‡ūḍha
+iast = apra‡ūḍha
+slp-iast = aprauḍha
+---------------
+orig = arDarca:ardha‡ṛcá
+slp1 = arDarca
+rest = ardha‡ṛcá
+iast = ardha‡ṛcá
+slp-iast = ardharca
+---------------
+orig = arvAkkAlikatA:arvāk‡kālika-tā
+slp1 = arvAkkAlikatA
+rest = arvāk‡kālika-tā
+iast = arvāk‡kālikatā
+slp-iast = arvākkālikatā
+---------------
+orig = arvAcIna:arvācī́na ({%or%} á)
+slp1 = arvAcIna
+rest = arvācī́na ({%or%} á)
+iast = arvācī́na
+slp-iast = arvācīna
+---------------
+orig = alomaka:a-lómaka ({%or%} áka)
+slp1 = alomaka
+rest = a-lómaka ({%or%} áka)
+iast = alómaka
+slp-iast = alomaka
+---------------
+orig = alohita:a-lóhita ({%or%} tá)
+slp1 = alohita
+rest = a-lóhita ({%or%} tá)
+iast = alóhita
+slp-iast = alohita
+---------------
+orig = avarti:áva‡ṛti
+slp1 = avarti
+rest = áva‡ṛti
+iast = áva‡ṛti
+slp-iast = avarti
+---------------
+orig = aviBUzaRaparicCada:abnormal
+slp1 = aviBUzaRaparicCada
+rest = abnormal
+iast = abnormal
+slp-iast = avibhūṣaṇaparicchada
+---------------
+orig = aSanAyA:aśanā́yā ({%or%} ā́)
+slp1 = aSanAyA
+rest = aśanā́yā ({%or%} ā́)
+iast = aśanā́yā
+slp-iast = aśanāyā
+---------------
+orig = asaNga:á-saṅga ({%or%} á)
+slp1 = asaNga
+rest = á-saṅga ({%or%} á)
+iast = ásaṅga
+slp-iast = asaṅga
+---------------
+orig = asma:á-sma ({%or%} á)
+slp1 = asma
+rest = á-sma ({%or%} á)
+iast = ásma
+slp-iast = asma
+---------------
+orig = asmattas:asmat-tas (= {%ab.%} asmát)
+slp1 = asmattas
+rest = asmat-tas (= {%ab.%} asmát)
+iast = asmattas
+slp-iast = asmattas
+---------------
+orig = asyavAmIya:‘asya-vām’-īya
+slp1 = asyavAmIya
+rest = ‘asya-vām’-īya
+iast = asyavāmīya
+slp-iast = asyavāmīya
+---------------
+orig = ahar:áhar ({%used as the middle base of%} áhan)
+slp1 = ahar
+rest = áhar ({%used as the middle base of%} áhan)
+iast = áhar
+slp-iast = ahar
+---------------
+orig = ahas:áhas = áhar: {@-kara
+slp1 = ahas
+rest = áhas = áhar
+iast = áhas
+slp-iast = ahas
+---------------
+orig = A:abnormal
+slp1 = A
+rest = abnormal
+iast = abnormal
+slp-iast = ā
+---------------
+orig = Agama:ā́-gama {%a.%} coming up; {%m.%} arrival
+slp1 = Agama
+rest = ā́-gama {%a.%} coming up; {%m.%} arrival
+iast = ā́gama
+slp-iast = āgama
+---------------
+orig = AN:abnormal
+slp1 = AN
+rest = abnormal
+iast = abnormal
+slp-iast = āṅ
+---------------
+orig = AcArya:ā-cāryâ [{%fp.%} to be gone to]
+slp1 = AcArya
+rest = ā-cāryâ [{%fp.%} to be gone to]
+iast = ācāryâ
+slp-iast = ācārya
+---------------
+orig = AtiraScIna:ā-tira{%s-k-%}īna
+slp1 = AtiraScIna
+rest = ā-tira{%s-k-%}īna
+iast = ātira{%sk%}īna
+slp-iast = ātiraścīna
+---------------
+orig = AtmecCA:abnormal
+slp1 = AtmecCA
+rest = abnormal
+iast = abnormal
+slp-iast = ātmecchā
+---------------
+orig = AtmOpamya:ātma‡aupamya
+slp1 = AtmOpamya
+rest = ātma‡aupamya
+iast = ātma‡aupamya
+slp-iast = ātmaupamya
+---------------
+orig = Aruj:ā-ruj (-°)
+slp1 = Aruj
+rest = ā-ruj (-°)
+iast = āruj
+slp-iast = āruj
+---------------
+orig = AruRa:āruṇ-a ({@ī@})
+slp1 = AruRa
+rest = āruṇ-a ({@ī@})
+iast = āruṇa
+slp-iast = āruṇa
+---------------
+orig = Arta:ā’‡ṛta
+slp1 = Arta
+rest = ā’‡ṛta
+iast = ā‡ṛta
+slp-iast = ārta
+---------------
+orig = Arti:ā’‡ṛti
+slp1 = Arti
+rest = ā’‡ṛti
+iast = ā‡ṛti
+slp-iast = ārti
+---------------
+orig = Asana:ā́s-ana ({%or%} á)
+slp1 = Asana
+rest = ā́s-ana ({%or%} á)
+iast = ā́sana
+slp-iast = āsana
+---------------
+orig = AsapiRqakriyAkarma:abnormal
+slp1 = AsapiRqakriyAkarma
+rest = abnormal
+iast = abnormal
+slp-iast = āsapiṇḍakriyākarma
+---------------
+orig = iq:íḍ {%f.%} comfort; oblation
+slp1 = iq
+rest = íḍ {%f.%} comfort; oblation
+iast = íḍ
+slp-iast = iḍ
+---------------
+orig = itara:í-tara ({%n.%} {@-d@}; {%V. also%} {@-m@})
+slp1 = itara
+rest = í-tara ({%n.%} {@-d@}; {%V. also%} {@-m@})
+iast = ítara
+slp-iast = itara
+---------------
+orig = iti:í-ti {%or%} i-tí
+slp1 = iti
+rest = í-ti {%or%} i-tí
+iast = íti
+slp-iast = iti
+---------------
+orig = indrApUzan:índrā-pū́ṣan ({%or%} indrā-pūṣán)
+slp1 = indrApUzan
+rest = índrā-pū́ṣan ({%or%} indrā-pūṣán)
+iast = índrāpū́ṣan
+slp-iast = indrāpūṣan
+---------------
+orig = ihAmutraPalaBogavirAga:abnormal
+slp1 = ihAmutraPalaBogavirAga
+rest = abnormal
+iast = abnormal
+slp-iast = ihāmutraphalabhogavirāga
+---------------
+orig = Ij:ĪJ I.Ā. ī́j{@a-te
+slp1 = Ij
+rest = ĪJ I.Ā. ī́j{@a-te
+iast = ĪJ
+slp-iast = īj
+---------------
+orig = Idfkza:īdṛkṣa ({@ā@})
+slp1 = Idfkza
+rest = īdṛkṣa ({@ā@})
+iast = īdṛkṣa
+slp-iast = īdṛkṣa
+---------------
+orig = ISAna:ī́ś-āna ({%or%} {@á@})
+slp1 = ISAna
+rest = ī́ś-āna ({%or%} {@á@})
+iast = ī́śāna
+slp-iast = īśāna
+---------------
+orig = ujjfmBa:uj-ṛmbha
+slp1 = ujjfmBa
+rest = uj-ṛmbha
+iast = ujṛmbha
+slp-iast = ujjṛmbha
+---------------
+orig = ujJ:UJJH [ud + hā]
+slp1 = ujJ
+rest = UJJH [ud + hā]
+iast = UJJH
+slp-iast = ujjh
+---------------
+orig = ujJa:ujjh-a {%a.%} abandoning
+slp1 = ujJa
+rest = ujjh-a {%a.%} abandoning
+iast = ujjha
+slp-iast = ujjha
+---------------
+orig = uttamarRa:uttama‡ṛṇa
+slp1 = uttamarRa
+rest = uttama‡ṛṇa
+iast = uttama‡ṛṇa
+slp-iast = uttamarṇa
+---------------
+orig = uttarozWa,°rOzWa:uttara‡oṣṭha
+slp1 = uttarozWa,°rOzWa
+rest = uttara‡oṣṭha
+iast = uttara‡oṣṭha
+slp-iast = uttaroṣṭha,°rauṣṭha
+---------------
+orig = udIcya:abnormal
+slp1 = udIcya
+rest = abnormal
+iast = abnormal
+slp-iast = udīcya
+---------------
+orig = upayAcana:upa-yā{%c%}-ana
+slp1 = upayAcana
+rest = upa-yā{%c%}-ana
+iast = upayā{%c%}ana
+slp-iast = upayācana
+---------------
+orig = upasti:úpa-sti ({%or%} -stí)
+slp1 = upasti
+rest = úpa-sti ({%or%} -stí)
+iast = úpasti
+slp-iast = upasti
+---------------
+orig = upozaRa:upa‡oṣaṇa
+slp1 = upozaRa
+rest = upa‡oṣaṇa
+iast = upa‡oṣaṇa
+slp-iast = upoṣaṇa
+---------------
+orig = uzwf:úṣ-ṭṛ ({%or -trí%})
+slp1 = uzwf
+rest = úṣ-ṭṛ ({%or -trí%})
+iast = úṣṭṛ
+slp-iast = uṣṭṛ
+---------------
+orig = U:abnormal
+slp1 = U
+rest = abnormal
+iast = abnormal
+slp-iast = ū
+---------------
+orig = U~:ūm̐
+slp1 = U~
+rest = ūm̐
+iast = ūm̐
+slp-iast = ū~
+---------------
+orig = Uh:ŪH ({%often ŭh%})
+slp1 = Uh
+rest = ŪH ({%often ŭh%})
+iast = ŪH
+slp-iast = ūh
+---------------
+orig = fDak:ṛ́dh-ak ({%or%} ák)
+slp1 = fDak
+rest = ṛ́dh-ak ({%or%} ák)
+iast = ṛ́dhak
+slp-iast = ṛdhak
+---------------
+orig = ekaka:eka-ká ({@akā
+slp1 = ekaka
+rest = eka-ká ({@akā
+iast = ekaká
+slp-iast = ekaka
+---------------
+orig = ekayazwi:eka-yaṣṭi*
+slp1 = ekayazwi
+rest = eka-yaṣṭi*
+iast = ekayaṣṭi
+slp-iast = ekayaṣṭi
+---------------
+orig = ekESvarya:eka‡aiśvarya
+slp1 = ekESvarya
+rest = eka‡aiśvarya
+iast = eka‡aiśvarya
+slp-iast = ekaiśvarya
+---------------
+orig = etaSa:éta-śa ({%sts. -s%}á)
+slp1 = etaSa
+rest = éta-śa ({%sts. -s%}á)
+iast = étaśa
+slp-iast = etaśa
+---------------
+orig = enap:abnormal
+slp1 = enap
+rest = abnormal
+iast = abnormal
+slp-iast = enap
+---------------
+orig = E:*ai
+slp1 = E
+rest = *ai
+iast = ai
+slp-iast = ai
+---------------
+orig = o:abnormal
+slp1 = o
+rest = abnormal
+iast = abnormal
+slp-iast = o
+---------------
+orig = kakudruma:kaku[d]-druma
+slp1 = kakudruma
+rest = kaku[d]-druma
+iast = kaku[d]druma
+slp-iast = kakudruma
+---------------
+orig = kakzyA:kakṣyā̂
+slp1 = kakzyA
+rest = kakṣyā̂
+iast = kakṣyā̂
+slp-iast = kakṣyā
+---------------
+orig = kacawatapagajaqadaba:abnormal
+slp1 = kacawatapagajaqadaba
+rest = abnormal
+iast = abnormal
+slp-iast = kacaṭatapagajaḍadaba
+---------------
+orig = kanizWa:kán-iṣṭh-a ({%or%} -á)
+slp1 = kanizWa
+rest = kán-iṣṭh-a ({%or%} -á)
+iast = kániṣṭha
+slp-iast = kaniṣṭha
+---------------
+orig = kam:KAM ({%no pres. base%})
+slp1 = kam
+rest = KAM ({%no pres. base%})
+iast = KAM
+slp-iast = kam
+---------------
+orig = karizya:kariṣya [ḥ]
+slp1 = karizya
+rest = kariṣya [ḥ]
+iast = kariṣya
+slp-iast = kariṣya
+---------------
+orig = kASmIrika:abnormal
+slp1 = kASmIrika
+rest = abnormal
+iast = abnormal
+slp-iast = kāśmīrika
+---------------
+orig = kila:kíla ({%V. sts.%} {@ā@}) {%ad. quidem%}
+slp1 = kila
+rest = kíla ({%V. sts.%} {@ā@}) {%ad. quidem%}
+iast = kíla
+slp-iast = kila
+---------------
+orig = kIdfS:kī-dríś
+slp1 = kIdfS
+rest = kī-dríś
+iast = kīdríś
+slp-iast = kīdṛś
+---------------
+orig = kuRW:KUṆṬ
+slp1 = kuRW
+rest = KUṆṬ
+iast = KUṆṬ
+slp-iast = kuṇṭh
+---------------
+orig = kutra:kú-tra (-trā
+slp1 = kutra
+rest = kú-tra (-trā
+iast = kútra
+slp-iast = kutra
+---------------
+orig = kf:KṚ (skṛ after upa
+slp1 = kf
+rest = KṚ (skṛ after upa
+iast = KṚ
+slp-iast = kṛ
+---------------
+orig = kfpanILa:kṛpá-nīḷa
+slp1 = kfpanILa
+rest = kṛpá-nīḷa
+iast = kṛpánīḷa
+slp-iast = kṛpanīl̤a
+---------------
+orig = kxptakeSanaKaSmaSru:abnormal
+slp1 = kxptakeSanaKaSmaSru
+rest = abnormal
+iast = abnormal
+slp-iast = kḷptakeśanakhaśmaśru
+---------------
+orig = kxpti:k{%lí%}p-ti ({%also%}-tí) {%f.%} coming about
+slp1 = kxpti
+rest = k{%lí%}p-ti ({%also%}-tí) {%f.%} coming about
+iast = k{%lí%}pti
+slp-iast = kḷpti
+---------------
+orig = kruYc:krúñc ({%nm.%} {@kruṅ@})
+slp1 = kruYc
+rest = krúñc ({%nm.%} {@kruṅ@})
+iast = krúñc
+slp-iast = kruñc
+---------------
+orig = kzA:abnormal
+slp1 = kzA
+rest = abnormal
+iast = abnormal
+slp-iast = kṣā
+---------------
+orig = KA°:abnormal
+slp1 = KA°
+rest = abnormal
+iast = abnormal
+slp-iast = khā°
+---------------
+orig = KUra:abnormal
+slp1 = KUra
+rest = abnormal
+iast = abnormal
+slp-iast = khūra
+---------------
+orig = gamBIra:gambh-īrá = gabhīra: {@ā
+slp1 = gamBIra
+rest = gambh-īrá = gabhīra
+iast = gambhīrá
+slp-iast = gambhīra
+---------------
+orig = gavezaRa:gava‡eṣaṇa
+slp1 = gavezaRa
+rest = gava‡eṣaṇa
+iast = gava‡eṣaṇa
+slp-iast = gaveṣaṇa
+---------------
+orig = gavya:gáv-ya ({%or%} -yá)
+slp1 = gavya
+rest = gáv-ya ({%or%} -yá)
+iast = gávya
+slp-iast = gavya
+---------------
+orig = guRW:GUṆṬ
+slp1 = guRW
+rest = GUṆṬ
+iast = GUṆṬ
+slp-iast = guṇṭh
+---------------
+orig = gutsa:*gutsa
+slp1 = gutsa
+rest = *gutsa
+iast = gutsa
+slp-iast = gutsa
+---------------
+orig = gup:GUP ({%no pr. st.%}) guard
+slp1 = gup
+rest = GUP ({%no pr. st.%}) guard
+iast = GUP
+slp-iast = gup
+---------------
+orig = gur:gur = gus
+slp1 = gur
+rest = gur = gus
+iast = gur
+slp-iast = gur
+---------------
+orig = glapsa:abnormal
+slp1 = glapsa
+rest = abnormal
+iast = abnormal
+slp-iast = glapsa
+---------------
+orig = glAna:glā-na ({%pp.%} √ glai)
+slp1 = glAna
+rest = glā-na ({%pp.%} √ glai)
+iast = glāna
+slp-iast = glāna
+---------------
+orig = cakreSa:cakra-īśa
+slp1 = cakreSa
+rest = cakra-īśa
+iast = cakraīśa
+slp-iast = cakreśa
+---------------
+orig = cawacaw:caṭa-ca{%t
+slp1 = cawacaw
+rest = caṭa-ca{%t
+iast = caṭaca{%t
+slp-iast = caṭacaṭ
+---------------
+orig = catasf:cátasṛ {%or%} catasṛ́
+slp1 = catasf
+rest = cátasṛ {%or%} catasṛ́
+iast = cátasṛ
+slp-iast = catasṛ
+---------------
+orig = cana:ca-ná ({%SV.%} caná)
+slp1 = cana
+rest = ca-ná ({%SV.%} caná)
+iast = caná
+slp-iast = cana
+---------------
+orig = candrodaya:abnormal
+slp1 = candrodaya
+rest = abnormal
+iast = abnormal
+slp-iast = candrodaya
+---------------
+orig = cala:cal-a {%a.%} moving
+slp1 = cala
+rest = cal-a {%a.%} moving
+iast = cala
+slp-iast = cala
+---------------
+orig = cArcikya:*cārcik-ya
+slp1 = cArcikya
+rest = *cārcik-ya
+iast = cārcikya
+slp-iast = cārcikya
+---------------
+orig = citkAra:abnormal
+slp1 = citkAra
+rest = abnormal
+iast = abnormal
+slp-iast = citkāra
+---------------
+orig = cuRwI:abnormal
+slp1 = cuRwI
+rest = abnormal
+iast = abnormal
+slp-iast = cuṇṭī
+---------------
+orig = Canda:chánd-a {%or%} chand-á
+slp1 = Canda
+rest = chánd-a {%or%} chand-á
+iast = chánda
+slp-iast = chanda
+---------------
+orig = CucCUndara:chucchundara
+slp1 = CucCUndara
+rest = chucchundara
+iast = chucchundara
+slp-iast = chucchūndara
+---------------
+orig = ja:ja (-°)
+slp1 = ja
+rest = ja (-°)
+iast = ja
+slp-iast = ja
+---------------
+orig = jakz:abnormal
+slp1 = jakz
+rest = abnormal
+iast = abnormal
+slp-iast = jakṣ
+---------------
+orig = jakz:JAKṢ [{%redupl. of%} has]
+slp1 = jakz
+rest = JAKṢ [{%redupl. of%} has]
+iast = JAKṢ
+slp-iast = jakṣ
+---------------
+orig = jakzivAn:*jakṣ-i-vān
+slp1 = jakzivAn
+rest = *jakṣ-i-vān
+iast = jakṣivān
+slp-iast = jakṣivān
+---------------
+orig = jagat:já-g-at ({%pr. pt. redupl. fr.%} √ gā)
+slp1 = jagat
+rest = já-g-at ({%pr. pt. redupl. fr.%} √ gā)
+iast = jágat
+slp-iast = jagat
+---------------
+orig = jaNgala:*jaṅ-gal-a
+slp1 = jaNgala
+rest = *jaṅ-gal-a
+iast = jaṅgala
+slp-iast = jaṅgala
+---------------
+orig = jani:ján-i ({%or%} {@ī@})
+slp1 = jani
+rest = ján-i ({%or%} {@ī@})
+iast = jáni
+slp-iast = jani
+---------------
+orig = janitf:ján-i-tṛ ({%or%} -tṛ́)
+slp1 = janitf
+rest = ján-i-tṛ ({%or%} -tṛ́)
+iast = jánitṛ
+slp-iast = janitṛ
+---------------
+orig = janmarkza:janma‡ṛkṣa
+slp1 = janmarkza
+rest = janma‡ṛkṣa
+iast = janma‡ṛkṣa
+slp-iast = janmarkṣa
+---------------
+orig = jAyaka:*jāya-ka
+slp1 = jAyaka
+rest = *jāya-ka
+iast = jāyaka
+slp-iast = jāyaka
+---------------
+orig = juzwa:júṣ-ṭa ({%or%} -ṭá)
+slp1 = juzwa
+rest = júṣ-ṭa ({%or%} -ṭá)
+iast = júṣṭa
+slp-iast = juṣṭa
+---------------
+orig = jF:{%GRĪ%}
+slp1 = jF
+rest = {%GRĪ%}
+iast = {%GRĪ%}
+slp-iast = jṝ
+---------------
+orig = jenya:jén-ia
+slp1 = jenya
+rest = jén-ia
+iast = jénia
+slp-iast = jenya
+---------------
+orig = joNga:*joṅga
+slp1 = joNga
+rest = *joṅga
+iast = joṅga
+slp-iast = joṅga
+---------------
+orig = jYAnecCAkriyASaktimat:abnormal
+slp1 = jYAnecCAkriyASaktimat
+rest = abnormal
+iast = abnormal
+slp-iast = jñānecchākriyāśaktimat
+---------------
+orig = jyezWa:jyā’‡iṣṭha ({%or%} {@á
+slp1 = jyezWa
+rest = jyā’‡iṣṭha ({%or%} {@á
+iast = jyā‡iṣṭha
+slp-iast = jyeṣṭha
+---------------
+orig = Qakkana:ḍhakka-na {%or%} {#°ma#} -ma
+slp1 = Qakkana
+rest = ḍhakka-na {%or%} {#°ma#} -ma
+iast = ḍhakkana
+slp-iast = ḍhakkana
+---------------
+orig = tatra:tá-tra ({%V. also%} {@ā
+slp1 = tatra
+rest = tá-tra ({%V. also%} {@ā
+iast = tátra
+slp-iast = tatra
+---------------
+orig = tAmrozWa:tāmra‡oṣṭha
+slp1 = tAmrozWa
+rest = tāmra‡oṣṭha
+iast = tāmra‡oṣṭha
+slp-iast = tāmroṣṭha
+---------------
+orig = tittiri:tittíri ({%or%} í)
+slp1 = tittiri
+rest = tittíri ({%or%} í)
+iast = tittíri
+slp-iast = tittiri
+---------------
+orig = tilodana:tila‡odana
+slp1 = tilodana
+rest = tila‡odana
+iast = tila‡odana
+slp-iast = tilodana
+---------------
+orig = turAzAh:turā-ṣā́h ({%nm.%} {@-ṣā́ṭ; -sāh
+slp1 = turAzAh
+rest = turā-ṣā́h ({%nm.%} {@-ṣā́ṭ; -sāh
+iast = turāṣā́h
+slp-iast = turāṣāh
+---------------
+orig = turIya:tur-īya ({%also%} tú- {%and%} -yá
+slp1 = turIya
+rest = tur-īya ({%also%} tú- {%and%} -yá
+iast = turīya
+slp-iast = turīya
+---------------
+orig = tedani:tedani ({%or%} {@î@})
+slp1 = tedani
+rest = tedani ({%or%} {@î@})
+iast = tedani
+slp-iast = tedani
+---------------
+orig = tyaj:TYAJ [(a)ti‡aj]
+slp1 = tyaj
+rest = TYAJ [(a)ti‡aj]
+iast = TYAJ
+slp-iast = tyaj
+---------------
+orig = trayodaSan:tráyo-daśan ({%or s%}án)
+slp1 = trayodaSan
+rest = tráyo-daśan ({%or s%}án)
+iast = tráyodaśan
+slp-iast = trayodaśan
+---------------
+orig = trayodaSarca:trayodaśa‡ṛcá
+slp1 = trayodaSarca
+rest = trayodaśa‡ṛcá
+iast = trayodaśa‡ṛcá
+slp-iast = trayodaśarca
+---------------
+orig = tripad:tri-pád ({%or%} trí-: {%strong st.%} {@-pād@})
+slp1 = tripad
+rest = tri-pád ({%or%} trí-
+iast = tripád
+slp-iast = tripad
+---------------
+orig = dakziRa:dákṣ-iṇa ({%also%} á)
+slp1 = dakziRa
+rest = dákṣ-iṇa ({%also%} á)
+iast = dákṣiṇa
+slp-iast = dakṣiṇa
+---------------
+orig = damBoli:abnormal
+slp1 = damBoli
+rest = abnormal
+iast = abnormal
+slp-iast = dambholi
+---------------
+orig = daridra:dár-i-dra ({%also-í-dra%})
+slp1 = daridra
+rest = dár-i-dra ({%also-í-dra%})
+iast = dáridra
+slp-iast = daridra
+---------------
+orig = darvi:dárvi ({%also%} {@ī@})
+slp1 = darvi
+rest = dárvi ({%also%} {@ī@})
+iast = dárvi
+slp-iast = darvi
+---------------
+orig = darSa:dárś-a ({%or%} -á)
+slp1 = darSa
+rest = dárś-a ({%or%} -á)
+iast = dárśa
+slp-iast = darśa
+---------------
+orig = dAruRa:dārú-ṇa ({%or%} á)
+slp1 = dAruRa
+rest = dārú-ṇa ({%or%} á)
+iast = dārúṇa
+slp-iast = dāruṇa
+---------------
+orig = dfkza:dṛk-ṣa (-°)
+slp1 = dfkza
+rest = dṛk-ṣa (-°)
+iast = dṛkṣa
+slp-iast = dṛkṣa
+---------------
+orig = dfS:dṛ́ś ({%nm.%} {@dṛk@})
+slp1 = dfS
+rest = dṛ́ś ({%nm.%} {@dṛk@})
+iast = dṛ́ś
+slp-iast = dṛś
+---------------
+orig = devatAgAra:devatā‡ā̆gāra
+slp1 = devatAgAra
+rest = devatā‡ā̆gāra
+iast = devatā‡ā̆gāra
+slp-iast = devatāgāra
+---------------
+orig = dyotana:dyót-ana ({%or%} á)
+slp1 = dyotana
+rest = dyót-ana ({%or%} á)
+iast = dyótana
+slp-iast = dyotana
+---------------
+orig = dramma:dramma <lang n="greek">(δραχμή)</lang>
+slp1 = dramma
+rest = dramma <lang n="greek">(δραχμή)</lang>
+iast = dramma
+slp-iast = dramma
+---------------
+orig = dravat:drav-át ({%pr. pt. of%} √ dru)
+slp1 = dravat
+rest = drav-át ({%pr. pt. of%} √ dru)
+iast = dravát
+slp-iast = dravat
+---------------
+orig = dvAdaSan:dvā́-daśan ({%or%} án)
+slp1 = dvAdaSan
+rest = dvā́-daśan ({%or%} án)
+iast = dvā́daśan
+slp-iast = dvādaśan
+---------------
+orig = dvApara:dvā-pára ({%or%} á)
+slp1 = dvApara
+rest = dvā-pára ({%or%} á)
+iast = dvāpára
+slp-iast = dvāpara
+---------------
+orig = dvipad:dví-pad ({%or%} -pád: {%strong base%} {@-pād@})
+slp1 = dvipad
+rest = dví-pad ({%or%} -pád
+iast = dvípad
+slp-iast = dvipad
+---------------
+orig = Danvadurga:abnormal
+slp1 = Danvadurga
+rest = abnormal
+iast = abnormal
+slp-iast = dhanvadurga
+---------------
+orig = DAnyAMSa:*dhānya‡aṃśa
+slp1 = DAnyAMSa
+rest = *dhānya‡aṃśa
+iast = dhānya‡aṃśa
+slp-iast = dhānyāṃśa
+---------------
+orig = Di:dhi = adhi ({%in%} dhi-ṣṭhita
+slp1 = Di
+rest = dhi = adhi ({%in%} dhi-ṣṭhita
+iast = dhi
+slp-iast = dhi
+---------------
+orig = Dyuzita:[a]dhy-uṣita
+slp1 = Dyuzita
+rest = [a]dhy-uṣita
+iast = dhyuṣita
+slp-iast = dhyuṣita
+---------------
+orig = na:abnormal
+slp1 = na
+rest = abnormal
+iast = abnormal
+slp-iast = na
+---------------
+orig = nak:nák ({%only nm.%})
+slp1 = nak
+rest = nák ({%only nm.%})
+iast = nák
+slp-iast = nak
+---------------
+orig = napAt:ná-pāt ({%V. only in strong cases%})
+slp1 = napAt
+rest = ná-pāt ({%V. only in strong cases%})
+iast = nápāt
+slp-iast = napāt
+---------------
+orig = navadaSan:náva-daśan ({%or%} án)
+slp1 = navadaSan
+rest = náva-daśan ({%or%} án)
+iast = návadaśan
+slp-iast = navadaśan
+---------------
+orig = navan:návan ({%or%} án)
+slp1 = navan
+rest = návan ({%or%} án)
+iast = návan
+slp-iast = navan
+---------------
+orig = nazwa:~naṣ-ṭa
+slp1 = nazwa
+rest = ~naṣ-ṭa
+iast = naṣṭa
+slp-iast = naṣṭa
+---------------
+orig = nazwi:~naṣ-ṭi
+slp1 = nazwi
+rest = ~naṣ-ṭi
+iast = naṣṭi
+slp-iast = naṣṭi
+---------------
+orig = nAgarI:*nāgarī
+slp1 = nAgarI
+rest = *nāgarī
+iast = nāgarī
+slp-iast = nāgarī
+---------------
+orig = nArada:nā́rada ({%or%} á)
+slp1 = nArada
+rest = nā́rada ({%or%} á)
+iast = nā́rada
+slp-iast = nārada
+---------------
+orig = nAva:nāva = nau
+slp1 = nAva
+rest = nāva = nau
+iast = nāva
+slp-iast = nāva
+---------------
+orig = nid:abnormal
+slp1 = nid
+rest = abnormal
+iast = abnormal
+slp-iast = nid
+---------------
+orig = nir:abnormal
+slp1 = nir
+rest = abnormal
+iast = abnormal
+slp-iast = nir
+---------------
+orig = nirgatAKilakalmaza:abnormal
+slp1 = nirgatAKilakalmaza
+rest = abnormal
+iast = abnormal
+slp-iast = nirgatākhilakalmaṣa
+---------------
+orig = nizpanda:niṣ-[s]panda
+slp1 = nizpanda
+rest = niṣ-[s]panda
+iast = niṣ[s]panda
+slp-iast = niṣpanda
+---------------
+orig = nILa:nīḷá
+slp1 = nILa
+rest = nīḷá
+iast = nīḷá
+slp-iast = nīl̤a
+---------------
+orig = nyakta:ni‡âkta
+slp1 = nyakta
+rest = ni‡âkta
+iast = ni‡âkta
+slp-iast = nyakta
+---------------
+orig = nyaYc:ni‡âñc
+slp1 = nyaYc
+rest = ni‡âñc
+iast = ni‡âñc
+slp-iast = nyañc
+---------------
+orig = nyarbuda:ni‡ârbuda
+slp1 = nyarbuda
+rest = ni‡ârbuda
+iast = ni‡ârbuda
+slp-iast = nyarbuda
+---------------
+orig = nvE:n[ú]vaí
+slp1 = nvE
+rest = n[ú]vaí
+iast = n[ú]vaí
+slp-iast = nvai
+---------------
+orig = paYcan:páñc-an ({%or%} {@-án@})
+slp1 = paYcan
+rest = páñc-an ({%or%} {@-án@})
+iast = páñcan
+slp-iast = pañcan
+---------------
+orig = paT:páth ({%weak base%}; {@pánthān
+slp1 = paT
+rest = páth ({%weak base%}; {@pánthān
+iast = páth
+slp-iast = path
+---------------
+orig = panu:pan-ú ({%or%} -ū́)
+slp1 = panu
+rest = pan-ú ({%or%} -ū́)
+iast = panú
+slp-iast = panu
+---------------
+orig = payozRI:paya[ḥ]‡uṣṇī
+slp1 = payozRI
+rest = paya[ḥ]‡uṣṇī
+iast = paya[ḥ]‡uṣṇī
+slp-iast = payoṣṇī
+---------------
+orig = paramarzi:parama‡ṛṣi
+slp1 = paramarzi
+rest = parama‡ṛṣi
+iast = parama‡ṛṣi
+slp-iast = paramarṣi
+---------------
+orig = paraHsahasra:páraḥ-sahasra ({%or%} rá)
+slp1 = paraHsahasra
+rest = páraḥ-sahasra ({%or%} rá)
+iast = páraḥsahasra
+slp-iast = paraḥsahasra
+---------------
+orig = parAk:parāk (or {@ṅ@})
+slp1 = parAk
+rest = parāk (or {@ṅ@})
+iast = parāk
+slp-iast = parāk
+---------------
+orig = parAyaRa:parā’‡ayaṇa
+slp1 = parAyaRa
+rest = parā’‡ayaṇa
+iast = parā‡ayaṇa
+slp-iast = parāyaṇa
+---------------
+orig = parudvAra:*parud-vāra
+slp1 = parudvAra
+rest = *parud-vāra
+iast = parudvāra
+slp-iast = parudvāra
+---------------
+orig = paro'kza:paró-[a]kṣa
+slp1 = paro'kza
+rest = paró-[a]kṣa
+iast = parókṣa
+slp-iast = paro'kṣa
+---------------
+orig = paro'varam:paro-(a)varám
+slp1 = paro'varam
+rest = paro-(a)varám
+iast = paro(a)varám
+slp-iast = paro'varam
+---------------
+orig = parozRih:para[ḥ]‡uṣṇih
+slp1 = parozRih
+rest = para[ḥ]‡uṣṇih
+iast = para[ḥ]‡uṣṇih
+slp-iast = paroṣṇih
+---------------
+orig = parmAqi:parmāḍi ({%or -nd%}i)
+slp1 = parmAqi
+rest = parmāḍi ({%or -nd%}i)
+iast = parmāḍi
+slp-iast = parmāḍi
+---------------
+orig = paryARa:pari-[y]āṇa
+slp1 = paryARa
+rest = pari-[y]āṇa
+iast = pari[y]āṇa
+slp-iast = paryāṇa
+---------------
+orig = parzad:par-ṣad = pari-ṣad
+slp1 = parzad
+rest = par-ṣad = pari-ṣad
+iast = parṣad
+slp-iast = parṣad
+---------------
+orig = paSu:páś-u ({%or%} -ú
+slp1 = paSu
+rest = páś-u ({%or%} -ú
+iast = páśu
+slp-iast = paśu
+---------------
+orig = paSca:*paś-cá
+slp1 = paSca
+rest = *paś-cá
+iast = paścá
+slp-iast = paśca
+---------------
+orig = pAkyA:pākyā̂
+slp1 = pAkyA
+rest = pākyā̂
+iast = pākyā̂
+slp-iast = pākyā
+---------------
+orig = pAna:pā’‡ana
+slp1 = pAna
+rest = pā’‡ana
+iast = pā‡ana
+slp-iast = pāna
+---------------
+orig = pASa:pā́ś-a {%m.%} [√ paś
+slp1 = pASa
+rest = pā́ś-a {%m.%} [√ paś
+iast = pā́śa
+slp-iast = pāśa
+---------------
+orig = pAScAttya:pāścāt-tya ({%or%} -ya
+slp1 = pAScAttya
+rest = pāścāt-tya ({%or%} -ya
+iast = pāścāttya
+slp-iast = pāścāttya
+---------------
+orig = piMS:PIṂŚ {%and%} {#piMz#} PIṂṢ
+slp1 = piMS
+rest = PIṂŚ {%and%} {#piMz#} PIṂṢ
+iast = PIṂŚ
+slp-iast = piṃś
+---------------
+orig = pibd:pibd [pi-p(a)d
+slp1 = pibd
+rest = pibd [pi-p(a)d
+iast = pibd
+slp-iast = pibd
+---------------
+orig = pIq:PĪḌ [pi-s(a)d
+slp1 = pIq
+rest = PĪḌ [pi-s(a)d
+iast = PĪḌ
+slp-iast = pīḍ
+---------------
+orig = puMScalI:pu{%ms-k%}al-ī́
+slp1 = puMScalI
+rest = pu{%ms-k%}al-ī́
+iast = pu{%msk%}alī́
+slp-iast = puṃścalī
+---------------
+orig = pumAMs:púmāṃs ({%strg. base%}; {%wk. base%}
+slp1 = pumAMs
+rest = púmāṃs ({%strg. base%}; {%wk. base%}
+iast = púmāṃs
+slp-iast = pumāṃs
+---------------
+orig = purauzRih:pura(ḥ)-uṣṇih
+slp1 = purauzRih
+rest = pura(ḥ)-uṣṇih
+iast = pura(ḥ)uṣṇih
+slp-iast = purauṣṇih
+---------------
+orig = puro'nuvAkyA:puro-(a)nuvākyā̂
+slp1 = puro'nuvAkyA
+rest = puro-(a)nuvākyā̂
+iast = puro(a)nuvākyā̂
+slp-iast = puro'nuvākyā
+---------------
+orig = puz:puṣ (-°)
+slp1 = puz
+rest = puṣ (-°)
+iast = puṣ
+slp-iast = puṣ
+---------------
+orig = puzwi:púṣ-ṭi ({%or -t%}í: {%RV.%})
+slp1 = puzwi
+rest = púṣ-ṭi ({%or -t%}í
+iast = púṣṭi
+slp-iast = puṣṭi
+---------------
+orig = pftanAzah:pṛtanā-ṣáh ({%str. st.%} -ṣā́h)
+slp1 = pftanAzah
+rest = pṛtanā-ṣáh ({%str. st.%} -ṣā́h)
+iast = pṛtanāṣáh
+slp-iast = pṛtanāṣah
+---------------
+orig = pfTak:abnormal
+slp1 = pfTak
+rest = abnormal
+iast = abnormal
+slp-iast = pṛthak
+---------------
+orig = potf:pó-tṛ ({%or%} -tṛ́)
+slp1 = potf
+rest = pó-tṛ ({%or%} -tṛ́)
+iast = pótṛ
+slp-iast = potṛ
+---------------
+orig = prauga:prá-üga
+slp1 = prauga
+rest = prá-üga
+iast = práüga
+slp-iast = prauga
+---------------
+orig = praRava:pra-ṇáva ({%or%} á)
+slp1 = praRava
+rest = pra-ṇáva ({%or%} á)
+iast = praṇáva
+slp-iast = praṇava
+---------------
+orig = pratIka:prátī-ka [prati‡ak-a
+slp1 = pratIka
+rest = prátī-ka [prati‡ak-a
+iast = prátīka
+slp-iast = pratīka
+---------------
+orig = praTama:pra-thamá [= pra-tama
+slp1 = praTama
+rest = pra-thamá [= pra-tama
+iast = prathamá
+slp-iast = prathama
+---------------
+orig = prapitAmaha:prá-pitāmaha ({%or%} á)
+slp1 = prapitAmaha
+rest = prá-pitāmaha ({%or%} á)
+iast = prápitāmaha
+slp-iast = prapitāmaha
+---------------
+orig = prAcya:prāc-yâ ({%or%} yá)
+slp1 = prAcya
+rest = prāc-yâ ({%or%} yá)
+iast = prācyâ
+slp-iast = prācya
+---------------
+orig = prADva:pra‡adhva [fore-journey]
+slp1 = prADva
+rest = pra‡adhva [fore-journey]
+iast = pra‡adhva
+slp-iast = prādhva
+---------------
+orig = pruzvA:prúṣ-vā ({%or%} {@ā́@})
+slp1 = pruzvA
+rest = prúṣ-vā ({%or%} {@ā́@})
+iast = prúṣvā
+slp-iast = pruṣvā
+---------------
+orig = prOQa:pra‡ūḍha
+slp1 = prOQa
+rest = pra‡ūḍha
+iast = pra‡ūḍha
+slp-iast = prauḍha
+---------------
+orig = prOQi:pra‡ūḍhi
+slp1 = prOQi
+rest = pra‡ūḍhi
+iast = pra‡ūḍhi
+slp-iast = prauḍhi
+---------------
+orig = psaras:ps-ar-as [bh(a)s-ar-as]
+slp1 = psaras
+rest = ps-ar-as [bh(a)s-ar-as]
+iast = psaras
+slp-iast = psaras
+---------------
+orig = psu:psu [bh(a)s-u]
+slp1 = psu
+rest = psu [bh(a)s-u]
+iast = psu
+slp-iast = psu
+---------------
+orig = psu:psu [bh(a)s-u]
+slp1 = psu
+rest = psu [bh(a)s-u]
+iast = psu
+slp-iast = psu
+---------------
+orig = psuras:ps-úr-as [bh(a)s-ur-as]
+slp1 = psuras
+rest = ps-úr-as [bh(a)s-ur-as]
+iast = psúras
+slp-iast = psuras
+---------------
+orig = Par:PHAR [= SPHAR]
+slp1 = Par
+rest = PHAR [= SPHAR]
+iast = PHAR
+slp-iast = phar
+---------------
+orig = PARwa:phāṇṭa [phāṇ(i)ta]
+slp1 = PARwa
+rest = phāṇṭa [phāṇ(i)ta]
+iast = phāṇṭa
+slp-iast = phāṇṭa
+---------------
+orig = PeRwa:pheṇṭa : {@-ka
+slp1 = PeRwa
+rest = pheṇṭa 
+iast = pheṇṭa
+slp-iast = pheṇṭa
+---------------
+orig = baD:abnormal
+slp1 = baD
+rest = abnormal
+iast = abnormal
+slp-iast = badh
+---------------
+orig = barAsI:barāsī’
+slp1 = barAsI
+rest = barāsī’
+iast = barāsī
+slp-iast = barāsī
+---------------
+orig = barhizad:barhi[ḥ]-ṣád
+slp1 = barhizad
+rest = barhi[ḥ]-ṣád
+iast = barhi[ḥ]ṣád
+slp-iast = barhiṣad
+---------------
+orig = barhiHzad:barhiḥ-ṣad = barhi-ṣad; {@-ṣṭha@}
+slp1 = barhiHzad
+rest = barhiḥ-ṣad = barhi-ṣad; {@-ṣṭha@}
+iast = barhiḥṣad
+slp-iast = barhiḥṣad
+---------------
+orig = bAlya:bā́l-ya ({%or%} -yâ)
+slp1 = bAlya
+rest = bā́l-ya ({%or%} -yâ)
+iast = bā́lya
+slp-iast = bālya
+---------------
+orig = bAhya:bā́hya [{%fr.%} bahi(s)]
+slp1 = bAhya
+rest = bā́hya [{%fr.%} bahi(s)]
+iast = bā́hya
+slp-iast = bāhya
+---------------
+orig = buSa:buśa {%and%} {#buza#} buṣa
+slp1 = buSa
+rest = buśa {%and%} {#buza#} buṣa
+iast = buśa
+slp-iast = buśa
+---------------
+orig = bfhawwika:bṛha{%t-t%}ika
+slp1 = bfhawwika
+rest = bṛha{%t-t%}ika
+iast = bṛha{%tt%}ika
+slp-iast = bṛhaṭṭika
+---------------
+orig = brahmaRaspati:abnormal
+slp1 = brahmaRaspati
+rest = abnormal
+iast = abnormal
+slp-iast = brahmaṇaspati
+---------------
+orig = brahmaRvat:bráhmaṇ-vat ({%or%} -vát)
+slp1 = brahmaRvat
+rest = bráhmaṇ-vat ({%or%} -vát)
+iast = bráhmaṇvat
+slp-iast = brahmaṇvat
+---------------
+orig = brahmarzi:brahma‡ṛṣi
+slp1 = brahmarzi
+rest = brahma‡ṛṣi
+iast = brahma‡ṛṣi
+slp-iast = brahmarṣi
+---------------
+orig = brAhmaRAcCaMsin:brāhmaṇāt-śaṃs-ín
+slp1 = brAhmaRAcCaMsin
+rest = brāhmaṇāt-śaṃs-ín
+iast = brāhmaṇātśaṃsín
+slp-iast = brāhmaṇācchaṃsin
+---------------
+orig = BagIraTa:bhagī-ratha [bhagi-ratha
+slp1 = BagIraTa
+rest = bhagī-ratha [bhagi-ratha
+iast = bhagīratha
+slp-iast = bhagīratha
+---------------
+orig = BaNgi:bhaṅg-i ({%or%} {@ī@}) {%f.%} breaking; bend
+slp1 = BaNgi
+rest = bhaṅg-i ({%or%} {@ī@}) {%f.%} breaking; bend
+iast = bhaṅgi
+slp-iast = bhaṅgi
+---------------
+orig = Bas:bhas = bhasman
+slp1 = Bas
+rest = bhas = bhasman
+iast = bhas
+slp-iast = bhas
+---------------
+orig = BA:BHĀ II.P. {@bhā́-ti
+slp1 = BA
+rest = BHĀ II.P. {@bhā́-ti
+iast = BHĀ
+slp-iast = bhā
+---------------
+orig = BAwa:bhāṭa : {#°ka#} -ka
+slp1 = BAwa
+rest = bhāṭa 
+iast = bhāṭa
+slp-iast = bhāṭa
+---------------
+orig = BAm:BHĀM [{%dialectic form of%} bhram]
+slp1 = BAm
+rest = BHĀM [{%dialectic form of%} bhram]
+iast = BHĀM
+slp-iast = bhām
+---------------
+orig = Bikzu:bhikṣu ({%des. a.%})
+slp1 = Bikzu
+rest = bhikṣu ({%des. a.%})
+iast = bhikṣu
+slp-iast = bhikṣu
+---------------
+orig = Bizaj:BHIṢAJ [(a)bhi-saj
+slp1 = Bizaj
+rest = BHIṢAJ [(a)bhi-saj
+iast = BHIṢAJ
+slp-iast = bhiṣaj
+---------------
+orig = BUti:bhū́-ti ({%or%} -tí)
+slp1 = BUti
+rest = bhū́-ti ({%or%} -tí)
+iast = bhū́ti
+slp-iast = bhūti
+---------------
+orig = BUma:abnormal
+slp1 = BUma
+rest = abnormal
+iast = abnormal
+slp-iast = bhūma
+---------------
+orig = BUmi:bhū́-mi ({%sts.%} {@ī@})
+slp1 = BUmi
+rest = bhū́-mi ({%sts.%} {@ī@})
+iast = bhū́mi
+slp-iast = bhūmi
+---------------
+orig = Bfti:bhṛ-tí (ŚB. {%also%} bhṛ́-)
+slp1 = Bfti
+rest = bhṛ-tí (ŚB. {%also%} bhṛ́-)
+iast = bhṛtí
+slp-iast = bhṛti
+---------------
+orig = Bo:abnormal
+slp1 = Bo
+rest = abnormal
+iast = abnormal
+slp-iast = bho
+---------------
+orig = macCarIra:mat-śarīra
+slp1 = macCarIra
+rest = mat-śarīra
+iast = matśarīra
+slp-iast = maccharīra
+---------------
+orig = maYjari:mañj-ar-i ({%or%} ī)
+slp1 = maYjari
+rest = mañj-ar-i ({%or%} ī)
+iast = mañjari
+slp-iast = mañjari
+---------------
+orig = mawaka:maṭa-ka [{%Prākritic for%} mṛta-ka]
+slp1 = mawaka
+rest = maṭa-ka [{%Prākritic for%} mṛta-ka]
+iast = maṭaka
+slp-iast = maṭaka
+---------------
+orig = maTan:math-an ({%only in.%} {@mathnā@})
+slp1 = maTan
+rest = math-an ({%only in.%} {@mathnā@})
+iast = mathan
+slp-iast = mathan
+---------------
+orig = manotf:manó-tṛ ({%or%} -tṛ́)
+slp1 = manotf
+rest = manó-tṛ ({%or%} -tṛ́)
+iast = manótṛ
+slp-iast = manotṛ
+---------------
+orig = mantavya:man-távya ({%or%} yâ)
+slp1 = mantavya
+rest = man-távya ({%or%} yâ)
+iast = mantávya
+slp-iast = mantavya
+---------------
+orig = mayUrI:mayū’r-ī
+slp1 = mayUrI
+rest = mayū’r-ī
+iast = mayūrī
+slp-iast = mayūrī
+---------------
+orig = mayoBu:mayo-bhú ({%or%} -bhū́)
+slp1 = mayoBu
+rest = mayo-bhú ({%or%} -bhū́)
+iast = mayobhú
+slp-iast = mayobhu
+---------------
+orig = mazi:maṣ-i ({%or%} ī)
+slp1 = mazi
+rest = maṣ-i ({%or%} ī)
+iast = maṣi
+slp-iast = maṣi
+---------------
+orig = mas:mas = mās
+slp1 = mas
+rest = mas = mās
+iast = mas
+slp-iast = mas
+---------------
+orig = masi:masi ({%or%} ī)
+slp1 = masi
+rest = masi ({%or%} ī)
+iast = masi
+slp-iast = masi
+---------------
+orig = mahacCabda:mahat-śabda
+slp1 = mahacCabda
+rest = mahat-śabda
+iast = mahatśabda
+slp-iast = mahacchabda
+---------------
+orig = mahartvij:mahā’‡ṛtvij ({%or%} íj)
+slp1 = mahartvij
+rest = mahā’‡ṛtvij ({%or%} íj)
+iast = mahā‡ṛtvij
+slp-iast = mahartvij
+---------------
+orig = maharzi:mahā‡ṛṣi
+slp1 = maharzi
+rest = mahā‡ṛṣi
+iast = mahā‡ṛṣi
+slp-iast = maharṣi
+---------------
+orig = mahEtareya:mahā‡aitareya
+slp1 = mahEtareya
+rest = mahā‡aitareya
+iast = mahā‡aitareya
+slp-iast = mahaitareya
+---------------
+orig = mAtura:mātur-a = mātṛ
+slp1 = mAtura
+rest = mātur-a = mātṛ
+iast = mātura
+slp-iast = mātura
+---------------
+orig = mAna:mā’‡ana
+slp1 = mAna
+rest = mā’‡ana
+iast = mā‡ana
+slp-iast = māna
+---------------
+orig = mAnita:mAn-i-ta
+slp1 = mAnita
+rest = mAn-i-ta
+iast = mAnita
+slp-iast = mānita
+---------------
+orig = mAnuza:mā́nuṣ-a ({%or%} á)
+slp1 = mAnuza
+rest = mā́nuṣ-a ({%or%} á)
+iast = mā́nuṣa
+slp-iast = mānuṣa
+---------------
+orig = mAruta:mā́rut-a ({%or%} á: {%Br.%})
+slp1 = mAruta
+rest = mā́rut-a ({%or%} á
+iast = mā́ruta
+slp-iast = māruta
+---------------
+orig = mAlatI:mālatī ({%rarely%} i)
+slp1 = mAlatI
+rest = mālatī ({%rarely%} i)
+iast = mālatī
+slp-iast = mālatī
+---------------
+orig = mAsopavAsa:māsa‡upavāsa : {@-ka
+slp1 = mAsopavAsa
+rest = māsa‡upavāsa 
+iast = māsa‡upavāsa
+slp-iast = māsopavāsa
+---------------
+orig = mikz:MIKṢ [{%des. of%} √ miś {%in%} miś-ra
+slp1 = mikz
+rest = MIKṢ [{%des. of%} √ miś {%in%} miś-ra
+iast = MIKṢ
+slp-iast = mikṣ
+---------------
+orig = miTu:míth-u ({%or%} ū)
+slp1 = miTu
+rest = míth-u ({%or%} ū)
+iast = míthu
+slp-iast = mithu
+---------------
+orig = mizwa:miṣ-ṭa [{%pp.%} = mṛṣṭa]
+slp1 = mizwa
+rest = miṣ-ṭa [{%pp.%} = mṛṣṭa]
+iast = miṣṭa
+slp-iast = miṣṭa
+---------------
+orig = mI:mī {%occurs in some forms of%} √ mā
+slp1 = mI
+rest = mī {%occurs in some forms of%} √ mā
+iast = mī
+slp-iast = mī
+---------------
+orig = muhu:múh-u ({%or%} -ú)
+slp1 = muhu
+rest = múh-u ({%or%} -ú)
+iast = múhu
+slp-iast = muhu
+---------------
+orig = mUrti:mū’r-ti
+slp1 = mUrti
+rest = mū’r-ti
+iast = mūrti
+slp-iast = mūrti
+---------------
+orig = mUla:mū́l-a [= mū́r-a
+slp1 = mUla
+rest = mū́l-a [= mū́r-a
+iast = mū́la
+slp-iast = mūla
+---------------
+orig = mfkaRqa:mṛkaṇḍa ({%also%} u)
+slp1 = mfkaRqa
+rest = mṛkaṇḍa ({%also%} u)
+iast = mṛkaṇḍa
+slp-iast = mṛkaṇḍa
+---------------
+orig = mfkz:MṚK-Ṣ [{%der. of%} √ mṛj]
+slp1 = mfkz
+rest = MṚK-Ṣ [{%der. of%} √ mṛj]
+iast = MṚKṢ
+slp-iast = mṛkṣ
+---------------
+orig = mfcCakawika:mṛd-śakaṭ-ika
+slp1 = mfcCakawika
+rest = mṛd-śakaṭ-ika
+iast = mṛdśakaṭika
+slp-iast = mṛcchakaṭika
+---------------
+orig = mfR:MṚṆ [{%fr.%} mṛ-ṇā
+slp1 = mfR
+rest = MṚṆ [{%fr.%} mṛ-ṇā
+iast = MṚṆ
+slp-iast = mṛṇ
+---------------
+orig = meDapati:médha-pati ({%or%} medhá-)
+slp1 = meDapati
+rest = médha-pati ({%or%} medhá-)
+iast = médhapati
+slp-iast = medhapati
+---------------
+orig = meLi:meḷí
+slp1 = meLi
+rest = meḷí
+iast = meḷí
+slp-iast = mel̤i
+---------------
+orig = yakan:abnormal
+slp1 = yakan
+rest = abnormal
+iast = abnormal
+slp-iast = yakan
+---------------
+orig = yakft:yák-ṛt ({%nm. &%} °-)
+slp1 = yakft
+rest = yák-ṛt ({%nm. &%} °-)
+iast = yákṛt
+slp-iast = yakṛt
+---------------
+orig = yajYa:ya{%g-ñ%}á
+slp1 = yajYa
+rest = ya{%g-ñ%}á
+iast = ya{%gñ%}á
+slp-iast = yajña
+---------------
+orig = yatra:yá-tra ({%V. sts.%} ā́)
+slp1 = yatra
+rest = yá-tra ({%V. sts.%} ā́)
+iast = yátra
+slp-iast = yatra
+---------------
+orig = yaTarcam:yathā‡ṛcam
+slp1 = yaTarcam
+rest = yathā‡ṛcam
+iast = yathā‡ṛcam
+slp-iast = yatharcam
+---------------
+orig = yadi:yád-i ({%V. also%} {@ī@} {%metr.%})
+slp1 = yadi
+rest = yád-i ({%V. also%} {@ī@} {%metr.%})
+iast = yádi
+slp-iast = yadi
+---------------
+orig = yayi:ya-y-í ({%or%} ī́)
+slp1 = yayi
+rest = ya-y-í ({%or%} ī́)
+iast = yayí
+slp-iast = yayi
+---------------
+orig = yavanAnI:*yavan-ānī
+slp1 = yavanAnI
+rest = *yavan-ānī
+iast = yavanānī
+slp-iast = yavanānī
+---------------
+orig = yazwf:yáṣ-ṭṛ́ ({%or -trí%})
+slp1 = yazwf
+rest = yáṣ-ṭṛ́ ({%or -trí%})
+iast = yáṣṭṛ́
+slp-iast = yaṣṭṛ
+---------------
+orig = yAcYA:yā{%k-ñ%}ā́
+slp1 = yAcYA
+rest = yā{%k-ñ%}ā́
+iast = yā{%kñ%}ā́
+slp-iast = yācñā
+---------------
+orig = yAtayAma:yātá-yāma : {#°n#} -n
+slp1 = yAtayAma
+rest = yātá-yāma 
+iast = yātáyāma
+slp-iast = yātayāma
+---------------
+orig = yAna:yā’‡ana
+slp1 = yAna
+rest = yā’‡ana
+iast = yā‡ana
+slp-iast = yāna
+---------------
+orig = yAvacCaktitas:yāvat-śakti-tas
+slp1 = yAvacCaktitas
+rest = yāvat-śakti-tas
+iast = yāvatśaktitas
+slp-iast = yāvacchaktitas
+---------------
+orig = yuC:YU-CH [{%pr. base of%} √ ¤2.¤ yu]
+slp1 = yuC
+rest = YU-CH [{%pr. base of%} √ ¤2.¤ yu]
+iast = YUCH
+slp-iast = yuch
+---------------
+orig = yup:YUP ({%V.
+slp1 = yup
+rest = YUP ({%V.
+iast = YUP
+slp-iast = yup
+---------------
+orig = yuvati:yuva-tí ({%or%} ī)
+slp1 = yuvati
+rest = yuva-tí ({%or%} ī)
+iast = yuvatí
+slp-iast = yuvati
+---------------
+orig = yUTa:yū-thá [union: √ ¤1.¤ yu]
+slp1 = yUTa
+rest = yū-thá [union
+iast = yūthá
+slp-iast = yūtha
+---------------
+orig = raMh:RAṂH [= RAÑGH]
+slp1 = raMh
+rest = RAṂH [= RAÑGH]
+iast = RAṂH
+slp-iast = raṃh
+---------------
+orig = rakz:RAK-Ṣ [{%der. of%} √ rak
+slp1 = rakz
+rest = RAK-Ṣ [{%der. of%} √ rak
+iast = RAKṢ
+slp-iast = rakṣ
+---------------
+orig = raGu:ragh-ú [√ raṅgh = raṃh]
+slp1 = raGu
+rest = ragh-ú [√ raṅgh = raṃh]
+iast = raghú
+slp-iast = raghu
+---------------
+orig = rasAsvAda:rasa‡āvāda
+slp1 = rasAsvAda
+rest = rasa‡āvāda
+iast = rasa‡āvāda
+slp-iast = rasāsvāda
+---------------
+orig = rA:abnormal
+slp1 = rA
+rest = abnormal
+iast = abnormal
+slp-iast = rā
+---------------
+orig = rAmyA:rā́m-yā ({%or%} ā̂)
+slp1 = rAmyA
+rest = rā́m-yā ({%or%} ā̂)
+iast = rā́myā
+slp-iast = rāmyā
+---------------
+orig = rip:RIP ({%RV.%}; {%rare
+slp1 = rip
+rest = RIP ({%RV.%}; {%rare
+iast = RIP
+slp-iast = rip
+---------------
+orig = rizwi:ṛ́ṣ-ṭi
+slp1 = rizwi
+rest = ṛ́ṣ-ṭi
+iast = ṛ́ṣṭi
+slp-iast = riṣṭi
+---------------
+orig = ruci:rúc-i ({%or%} í)
+slp1 = ruci
+rest = rúc-i ({%or%} í)
+iast = rúci
+slp-iast = ruci
+---------------
+orig = ruD:RUDH [= ¤2.¤ RUH]
+slp1 = ruD
+rest = RUDH [= ¤2.¤ RUH]
+iast = RUDH
+slp-iast = rudh
+---------------
+orig = [ruh:RUH = {#ruD#} RUDH
+slp1 = [ruh
+rest = RUH = {#ruD#} RUDH
+iast = RUH
+slp-iast = [ruh
+---------------
+orig = rOdra:raúdra ({%or%} á)
+slp1 = rOdra
+rest = raúdra ({%or%} á)
+iast = raúdra
+slp-iast = raudra
+---------------
+orig = lam:LAM [= √ ram]
+slp1 = lam
+rest = LAM [= √ ram]
+iast = LAM
+slp-iast = lam
+---------------
+orig = lamb:LAMB [{%later form of%} √ ramb]
+slp1 = lamb
+rest = LAMB [{%later form of%} √ ramb]
+iast = LAMB
+slp-iast = lamb
+---------------
+orig = lip:LIP VI. {@limpá@} [{%later form of%} √ rip]
+slp1 = lip
+rest = LIP VI. {@limpá@} [{%later form of%} √ rip]
+iast = LIP
+slp-iast = lip
+---------------
+orig = lih:LIH [{%later form of%} √ rih]
+slp1 = lih
+rest = LIH [{%later form of%} √ rih]
+iast = LIH
+slp-iast = lih
+---------------
+orig = luRW:LUṆṬ
+slp1 = luRW
+rest = LUṆṬ
+iast = LUṆṬ
+slp-iast = luṇṭh
+---------------
+orig = lohita:lóh-ita [{%later form of%} rohita]
+slp1 = lohita
+rest = lóh-ita [{%later form of%} rohita]
+iast = lóhita
+slp-iast = lohita
+---------------
+orig = vajrivas:abnormal
+slp1 = vajrivas
+rest = abnormal
+iast = abnormal
+slp-iast = vajrivas
+---------------
+orig = vataMsa:[a]va-taṃsa
+slp1 = vataMsa
+rest = [a]va-taṃsa
+iast = vataṃsa
+slp-iast = vataṃsa
+---------------
+orig = vadAnya:[a]va-dān-ya
+slp1 = vadAnya
+rest = [a]va-dān-ya
+iast = vadānya
+slp-iast = vadānya
+---------------
+orig = vaDU:vadh-ū’
+slp1 = vaDU
+rest = vadh-ū’
+iast = vadhū
+slp-iast = vadhū
+---------------
+orig = van:van (= vana
+slp1 = van
+rest = van (= vana
+iast = van
+slp-iast = van
+---------------
+orig = varayuvati:vara-yuvati ({%or%} {@ī@})
+slp1 = varayuvati
+rest = vara-yuvati ({%or%} {@ī@})
+iast = varayuvati
+slp-iast = varayuvati
+---------------
+orig = varzya:várṣ-ya ({%yv.
+slp1 = varzya
+rest = várṣ-ya ({%yv.
+iast = várṣya
+slp-iast = varṣya
+---------------
+orig = valaBi:valabhi ({%or more commonly%} {@ī@})
+slp1 = valaBi
+rest = valabhi ({%or more commonly%} {@ī@})
+iast = valabhi
+slp-iast = valabhi
+---------------
+orig = vali:val-i ({%or%} ī)
+slp1 = vali
+rest = val-i ({%or%} ī)
+iast = vali
+slp-iast = vali
+---------------
+orig = vallari:vallari ({%or%} {@ī@})
+slp1 = vallari
+rest = vallari ({%or%} {@ī@})
+iast = vallari
+slp-iast = vallari
+---------------
+orig = valli:valli ({%rare%})
+slp1 = valli
+rest = valli ({%rare%})
+iast = valli
+slp-iast = valli
+---------------
+orig = vas:VAS ({%RV.
+slp1 = vas
+rest = VAS ({%RV.
+iast = VAS
+slp-iast = vas
+---------------
+orig = vasantA:vasántā ({%or%} ā́)
+slp1 = vasantA
+rest = vasántā ({%or%} ā́)
+iast = vasántā
+slp-iast = vasantā
+---------------
+orig = vah:vah ({%only%} -°
+slp1 = vah
+rest = vah ({%only%} -°
+iast = vah
+slp-iast = vah
+---------------
+orig = vARArasI:vāṇārasī = vārāṇasī
+slp1 = vARArasI
+rest = vāṇārasī = vārāṇasī
+iast = vāṇārasī
+slp-iast = vāṇārasī
+---------------
+orig = vAta:vā́-ta [{%pp.%} √ ¤1.¤ vā
+slp1 = vAta
+rest = vā́-ta [{%pp.%} √ ¤1.¤ vā
+iast = vā́ta
+slp-iast = vāta
+---------------
+orig = vAma:vā-má [√ ¤3.¤ vā]
+slp1 = vAma
+rest = vā-má [√ ¤3.¤ vā]
+iast = vāmá
+slp-iast = vāma
+---------------
+orig = vidAna:vid-āna ({%or%} á)
+slp1 = vidAna
+rest = vid-āna ({%or%} á)
+iast = vidāna
+slp-iast = vidāna
+---------------
+orig = vidyeSa:vidyā‡īśa {%m.%} lord of knowledge
+slp1 = vidyeSa
+rest = vidyā‡īśa {%m.%} lord of knowledge
+iast = vidyā‡īśa
+slp-iast = vidyeśa
+---------------
+orig = viD:vidh (√ vyadh)
+slp1 = viD
+rest = vidh (√ vyadh)
+iast = vidh
+slp-iast = vidh
+---------------
+orig = viBaktf:ví-bhaktṛ ({%w. ac.%}) {%or%} tṛ́ ({%w. g.%})
+slp1 = viBaktf
+rest = ví-bhaktṛ ({%w. ac.%}) {%or%} tṛ́ ({%w. g.%})
+iast = víbhaktṛ
+slp-iast = vibhaktṛ
+---------------
+orig = viSAKa:ví-śākha ({%AV. also-s%}ā́kha)
+slp1 = viSAKa
+rest = ví-śākha ({%AV. also-s%}ā́kha)
+iast = víśākha
+slp-iast = viśākha
+---------------
+orig = viSvaha:viśvá-ha ({%or%} ā)
+slp1 = viSvaha
+rest = viśvá-ha ({%or%} ā)
+iast = viśváha
+slp-iast = viśvaha
+---------------
+orig = vizuvat:viṣŭ-vat
+slp1 = vizuvat
+rest = viṣŭ-vat
+iast = viṣŭvat
+slp-iast = viṣuvat
+---------------
+orig = vizw:VIṢ-Ṭ [{%prob. der. of%} √ viś]
+slp1 = vizw
+rest = VIṢ-Ṭ [{%prob. der. of%} √ viś]
+iast = VIṢṬ
+slp-iast = viṣṭ
+---------------
+orig = vfzala:vṛṣa-lá ({%or%} vṛ́ṣa-la
+slp1 = vfzala
+rest = vṛṣa-lá ({%or%} vṛ́ṣa-la
+iast = vṛṣalá
+slp-iast = vṛṣala
+---------------
+orig = vfzwi:vṛṣ-ṭí ({%RV.
+slp1 = vfzwi
+rest = vṛṣ-ṭí ({%RV.
+iast = vṛṣṭí
+slp-iast = vṛṣṭi
+---------------
+orig = vfzRi:vṛ́ṣ-ṇi ({%or n%}í)
+slp1 = vfzRi
+rest = vṛ́ṣ-ṇi ({%or n%}í)
+iast = vṛ́ṣṇi
+slp-iast = vṛṣṇi
+---------------
+orig = vfh:VṚH {%or%} BṚH
+slp1 = vfh
+rest = VṚH {%or%} BṚH
+iast = VṚH
+slp-iast = vṛh
+---------------
+orig = veNgi:veṅgi ({%or%} ī)
+slp1 = veNgi
+rest = veṅgi ({%or%} ī)
+iast = veṅgi
+slp-iast = veṅgi
+---------------
+orig = veRu:véṇu ({%or%} ú)
+slp1 = veRu
+rest = véṇu ({%or%} ú)
+iast = véṇu
+slp-iast = veṇu
+---------------
+orig = veditf:véd-i-tṛ ({%or%} -tṛ́
+slp1 = veditf
+rest = véd-i-tṛ ({%or%} -tṛ́
+iast = véditṛ
+slp-iast = veditṛ
+---------------
+orig = vezaRa:véṣ-aṇa ({%or%} á)
+slp1 = vezaRa
+rest = véṣ-aṇa ({%or%} á)
+iast = véṣaṇa
+slp-iast = veṣaṇa
+---------------
+orig = vEkakzika:vaikakṣ-ika ({%or%} -ya)
+slp1 = vEkakzika
+rest = vaikakṣ-ika ({%or%} -ya)
+iast = vaikakṣika
+slp-iast = vaikakṣika
+---------------
+orig = vEkaNkata:vaikaṅkata ({%or%} á)
+slp1 = vEkaNkata
+rest = vaikaṅkata ({%or%} á)
+iast = vaikaṅkata
+slp-iast = vaikaṅkata
+---------------
+orig = vEjayanta:abnormal
+slp1 = vEjayanta
+rest = abnormal
+iast = abnormal
+slp-iast = vaijayanta
+---------------
+orig = voQf:vóḍhṛ ({%or ri%})
+slp1 = voQf
+rest = vóḍhṛ ({%or ri%})
+iast = vóḍhṛ
+slp-iast = voḍhṛ
+---------------
+orig = vopadeva:abnormal
+slp1 = vopadeva
+rest = abnormal
+iast = abnormal
+slp-iast = vopadeva
+---------------
+orig = vo|um:voḷhum
+slp1 = vo|um
+rest = voḷhum
+iast = voḷhum
+slp-iast = vo|um
+---------------
+orig = vyaj:VI‡AJ = {#vIj#} VĪJ
+slp1 = vyaj
+rest = VI‡AJ = {#vIj#} VĪJ
+iast = VI‡AJ
+slp-iast = vyaj
+---------------
+orig = vyazwi:vi‡âṣṭi
+slp1 = vyazwi
+rest = vi‡âṣṭi
+iast = vi‡âṣṭi
+slp-iast = vyaṣṭi
+---------------
+orig = vyAqi:vyāḍ-i ({%or%} ḷi)
+slp1 = vyAqi
+rest = vyāḍ-i ({%or%} ḷi)
+iast = vyāḍi
+slp-iast = vyāḍi
+---------------
+orig = vyUQa:vi‡ūḍha ({%V.%} {@-ūṭhá@})
+slp1 = vyUQa
+rest = vi‡ūḍha ({%V.%} {@-ūṭhá@})
+iast = vi‡ūḍha
+slp-iast = vyūḍha
+---------------
+orig = vratati:vratáti ({%sts.%} ī)
+slp1 = vratati
+rest = vratáti ({%sts.%} ī)
+iast = vratáti
+slp-iast = vratati
+---------------
+orig = vraSc:abnormal
+slp1 = vraSc
+rest = abnormal
+iast = abnormal
+slp-iast = vraśc
+---------------
+orig = Sakan:śák-an ({%or%} -án)
+slp1 = Sakan
+rest = śák-an ({%or%} -án)
+iast = śákan
+slp-iast = śakan
+---------------
+orig = SanEs:śánais ({%RV.%}
+slp1 = SanEs
+rest = śánais ({%RV.%}
+iast = śánais
+slp-iast = śanais
+---------------
+orig = Sama:abnormal
+slp1 = Sama
+rest = abnormal
+iast = abnormal
+slp-iast = śama
+---------------
+orig = SaMBu:śaṃ-bhú ({%or%} ū́)
+slp1 = SaMBu
+rest = śaṃ-bhú ({%or%} ū́)
+iast = śaṃbhú
+slp-iast = śaṃbhu
+---------------
+orig = SaravyA:śaravyā̂
+slp1 = SaravyA
+rest = śaravyā̂
+iast = śaravyā̂
+slp-iast = śaravyā
+---------------
+orig = Salpa:śalpa : {#°ka#} -ka
+slp1 = Salpa
+rest = śalpa 
+iast = śalpa
+slp-iast = śalpa
+---------------
+orig = Sazkuli:śaṣkuli ({%or%} {@ī@})
+slp1 = Sazkuli
+rest = śaṣkuli ({%or%} {@ī@})
+iast = śaṣkuli
+slp-iast = śaṣkuli
+---------------
+orig = SA:ŚĀ III. ({%RV.%}) {@śiśā@}
+slp1 = SA
+rest = ŚĀ III. ({%RV.%}) {@śiśā@}
+iast = ŚĀ
+slp-iast = śā
+---------------
+orig = SAkapArTiva:*śāka-pārthiva
+slp1 = SAkapArTiva
+rest = *śāka-pārthiva
+iast = śākapārthiva
+slp-iast = śākapārthiva
+---------------
+orig = SAKowa:śākhoṭa : {#°ka#} {@-ka
+slp1 = SAKowa
+rest = śākhoṭa 
+iast = śākhoṭa
+slp-iast = śākhoṭa
+---------------
+orig = Simbi:śimbi ({%or%} {@ī@})
+slp1 = Simbi
+rest = śimbi ({%or%} {@ī@})
+iast = śimbi
+slp-iast = śimbi
+---------------
+orig = Sir:ŚIR (= √ ¤2.¤ śṛ)
+slp1 = Sir
+rest = ŚIR (= √ ¤2.¤ śṛ)
+iast = ŚIR
+slp-iast = śir
+---------------
+orig = SiSvi:abnormal
+slp1 = SiSvi
+rest = abnormal
+iast = abnormal
+slp-iast = śiśvi
+---------------
+orig = Sis:ŚIS ({#Siz#} ŚIṢ)
+slp1 = Sis
+rest = ŚIS ({#Siz#} ŚIṢ)
+iast = ŚIS
+slp-iast = śis
+---------------
+orig = SudDodana:śuddha‡odana
+slp1 = SudDodana
+rest = śuddha‡odana
+iast = śuddha‡odana
+slp-iast = śuddhodana
+---------------
+orig = SevfDa:śé[va]-vṛdha ({%or%}á¹)
+slp1 = SevfDa
+rest = śé[va]-vṛdha ({%or%}á¹)
+iast = śé[va]vṛdha
+slp-iast = śevṛdha
+---------------
+orig = Scar:ŚCAR (= CAR)
+slp1 = Scar
+rest = ŚCAR (= CAR)
+iast = ŚCAR
+slp-iast = ścar
+---------------
+orig = Srat:śrát {%or%} {#Srad#} śrád
+slp1 = Srat
+rest = śrát {%or%} {#Srad#} śrád
+iast = śrát
+slp-iast = śrat
+---------------
+orig = SraTAya:śrathā-ya ({%RV.%})
+slp1 = SraTAya
+rest = śrathā-ya ({%RV.%})
+iast = śrathāya
+slp-iast = śrathāya
+---------------
+orig = SraddaDAnatA:śrad-dadhāna-tā {%f.%} faith; {@-vat
+slp1 = SraddaDAnatA
+rest = śrad-dadhāna-tā {%f.%} faith; {@-vat
+iast = śraddadhānatā
+slp-iast = śraddadhānatā
+---------------
+orig = SrI:ŚRĪ (= ŚRĀ)
+slp1 = SrI
+rest = ŚRĪ (= ŚRĀ)
+iast = ŚRĪ
+slp-iast = śrī
+---------------
+orig = SrI:ŚRĪ (= ŚRI)
+slp1 = SrI
+rest = ŚRĪ (= ŚRI)
+iast = ŚRĪ
+slp-iast = śrī
+---------------
+orig = Sru:ŚRU = {#sru#} SRU
+slp1 = Sru
+rest = ŚRU = {#sru#} SRU
+iast = ŚRU
+slp-iast = śru
+---------------
+orig = Sruz:abnormal
+slp1 = Sruz
+rest = abnormal
+iast = abnormal
+slp-iast = śruṣ
+---------------
+orig = Sruzwi:śrúṣ-ṭi ({%AV.%}; {@-ṭí@}
+slp1 = Sruzwi
+rest = śrúṣ-ṭi ({%AV.%}; {@-ṭí@}
+iast = śrúṣṭi
+slp-iast = śruṣṭi
+---------------
+orig = Sreyo'BikANkzin:śreyo-(a)bhikāṅkṣin
+slp1 = Sreyo'BikANkzin
+rest = śreyo-(a)bhikāṅkṣin
+iast = śreyo(a)bhikāṅkṣin
+slp-iast = śreyo'bhikāṅkṣin
+---------------
+orig = Srotf:śró-tṛ ({%w. ac.%}) {%or%} {@-tṛ@} ({%w. g.%})
+slp1 = Srotf
+rest = śró-tṛ ({%w. ac.%}) {%or%} {@-tṛ@} ({%w. g.%})
+iast = śrótṛ
+slp-iast = śrotṛ
+---------------
+orig = SlizwaparaMparitarUpaka:abnormal
+slp1 = SlizwaparaMparitarUpaka
+rest = abnormal
+iast = abnormal
+slp-iast = śliṣṭaparaṃparitarūpaka
+---------------
+orig = SvA:ŚVĀ {%or%} {#Svi#} ŚVI
+slp1 = SvA
+rest = ŚVĀ {%or%} {#Svi#} ŚVI
+iast = ŚVĀ
+slp-iast = śvā
+---------------
+orig = za:abnormal
+slp1 = za
+rest = abnormal
+iast = abnormal
+slp-iast = ṣa
+---------------
+orig = zaLUnA:ṣaḷ-ūnā
+slp1 = zaLUnA
+rest = ṣaḷ-ūnā
+iast = ṣaḷūnā
+slp-iast = ṣal̤ūnā
+---------------
+orig = zWu:ṢṬHU (= √ ṣṭhīv)
+slp1 = zWu
+rest = ṢṬHU (= √ ṣṭhīv)
+iast = ṢṬHU
+slp-iast = ṣṭhu
+---------------
+orig = saG:SAGH [= SAH]
+slp1 = saG
+rest = SAGH [= SAH]
+iast = SAGH
+slp-iast = sagh
+---------------
+orig = saccandrikA:sat-candrikā
+slp1 = saccandrikA
+rest = sat-candrikā
+iast = satcandrikā
+slp-iast = saccandrikā
+---------------
+orig = sacCAstra:sat-śāstra
+slp1 = sacCAstra
+rest = sat-śāstra
+iast = satśāstra
+slp-iast = sacchāstra
+---------------
+orig = sawAlu:saṭālu = śalāṭu
+slp1 = sawAlu
+rest = saṭālu = śalāṭu
+iast = saṭālu
+slp-iast = saṭālu
+---------------
+orig = saMqIvin:sa{%m-d%}īvin
+slp1 = saMqIvin
+rest = sa{%m-d%}īvin
+iast = sa{%md%}īvin
+slp-iast = saṃḍīvin
+---------------
+orig = sat:[a]s-át
+slp1 = sat
+rest = [a]s-át
+iast = sát
+slp-iast = sat
+---------------
+orig = satrAYc:satrā’‡añc
+slp1 = satrAYc
+rest = satrā’‡añc
+iast = satrā‡añc
+slp-iast = satrāñc
+---------------
+orig = sadAnanda:sadā-ānanda
+slp1 = sadAnanda
+rest = sadā-ānanda
+iast = sadāānanda
+slp-iast = sadānanda
+---------------
+orig = sannamusala:abnormal
+slp1 = sannamusala
+rest = abnormal
+iast = abnormal
+slp-iast = sannamusala
+---------------
+orig = saptarca:sapta‡ṛcá
+slp1 = saptarca
+rest = sapta‡ṛcá
+iast = sapta‡ṛcá
+slp-iast = saptarca
+---------------
+orig = saB:SABH = {#sah#} SAH
+slp1 = saB
+rest = SABH = {#sah#} SAH
+iast = SABH
+slp-iast = sabh
+---------------
+orig = samAna:samāná [{%fr.%} sama]
+slp1 = samAna
+rest = samāná [{%fr.%} sama]
+iast = samāná
+slp-iast = samāna
+---------------
+orig = saMBava:saṃ-bhavá ({%VS.%}
+slp1 = saMBava
+rest = saṃ-bhavá ({%VS.%}
+iast = saṃbhavá
+slp-iast = saṃbhava
+---------------
+orig = saraw:saráṭ ({%or%} h ?)
+slp1 = saraw
+rest = saráṭ ({%or%} h ?)
+iast = saráṭ
+slp-iast = saraṭ
+---------------
+orig = saropAnta:sara[ḥ]‡upānta
+slp1 = saropAnta
+rest = sara[ḥ]‡upānta
+iast = sara[ḥ]‡upānta
+slp-iast = saropānta
+---------------
+orig = saSc:SAŚC [{%contracted fr.%} sa-s(a)c: √ sac]
+slp1 = saSc
+rest = SAŚC [{%contracted fr.%} sa-s(a)c
+iast = SAŚC
+slp-iast = saśc
+---------------
+orig = sANga:sá‡aṅga ({%or%} á)
+slp1 = sANga
+rest = sá‡aṅga ({%or%} á)
+iast = sá‡aṅga
+slp-iast = sāṅga
+---------------
+orig = sAraNga:sāráṅga ({%or%} á
+slp1 = sAraNga
+rest = sāráṅga ({%or%} á
+iast = sāráṅga
+slp-iast = sāraṅga
+---------------
+orig = sAh:sāh (-°)
+slp1 = sAh
+rest = sāh (-°)
+iast = sāh
+slp-iast = sāh
+---------------
+orig = su:SU (= √ ¤1.¤ sū)
+slp1 = su
+rest = SU (= √ ¤1.¤ sū)
+iast = SU
+slp-iast = su
+---------------
+orig = su:SU (= √ ¤2.¤ sū)
+slp1 = su
+rest = SU (= √ ¤2.¤ sū)
+iast = SU
+slp-iast = su
+---------------
+orig = su:sú ({%in V. also%} sū́)
+slp1 = su
+rest = sú ({%in V. also%} sū́)
+iast = sú
+slp-iast = su
+---------------
+orig = suganDi:su-gándh-i ({%or%} {@í@})
+slp1 = suganDi
+rest = su-gándh-i ({%or%} {@í@})
+iast = sugándhi
+slp-iast = sugandhi
+---------------
+orig = suzvaya:suṣvaya [{%den. fr.%} súṣvi
+slp1 = suzvaya
+rest = suṣvaya [{%den. fr.%} súṣvi
+iast = suṣvaya
+slp-iast = suṣvaya
+---------------
+orig = sUr:sū́r = {#svar#} su‡â{@r@}
+slp1 = sUr
+rest = sū́r = {#svar#} su‡â{@r@}
+iast = sū́r
+slp-iast = sūr
+---------------
+orig = sUrta:sū’r-ta
+slp1 = sUrta
+rest = sū’r-ta
+iast = sūrta
+slp-iast = sūrta
+---------------
+orig = sf:ŚṚ
+slp1 = sf
+rest = ŚṚ
+iast = ŚṚ
+slp-iast = sṛ
+---------------
+orig = sfj:ŚṚJ VI. {@sṛjá@}
+slp1 = sfj
+rest = ŚṚJ VI. {@sṛjá@}
+iast = ŚṚJ
+slp-iast = sṛj
+---------------
+orig = sfRI:sṛ́ṇī ({%or%} ī́)
+slp1 = sfRI
+rest = sṛ́ṇī ({%or%} ī́)
+iast = sṛ́ṇī
+slp-iast = sṛṇī
+---------------
+orig = sfp:ŚṚP
+slp1 = sfp
+rest = ŚṚP
+iast = ŚṚP
+slp-iast = sṛp
+---------------
+orig = so:abnormal
+slp1 = so
+rest = abnormal
+iast = abnormal
+slp-iast = so
+---------------
+orig = sOparRa:saúparṇa ({%sts. also%} á)
+slp1 = sOparRa
+rest = saúparṇa ({%sts. also%} á)
+iast = saúparṇa
+slp-iast = sauparṇa
+---------------
+orig = sOmya:saum-yá ({%AV. also%} saúm-)
+slp1 = sOmya
+rest = saum-yá ({%AV. also%} saúm-)
+iast = saumyá
+slp-iast = saumya
+---------------
+orig = sTAna:sthā’‡ana
+slp1 = sTAna
+rest = sthā’‡ana
+iast = sthā‡ana
+slp-iast = sthāna
+---------------
+orig = snAvan:snā́-van ({%or%}) -ván)
+slp1 = snAvan
+rest = snā́-van ({%or%}) -ván)
+iast = snā́van
+slp-iast = snāvan
+---------------
+orig = snIhiti:snī’h-iti
+slp1 = snIhiti
+rest = snī’h-iti
+iast = snīhiti
+slp-iast = snīhiti
+---------------
+orig = spUrD:SPŪRDH [{%collateral form of%} spṛdh
+slp1 = spUrD
+rest = SPŪRDH [{%collateral form of%} spṛdh
+iast = SPŪRDH
+slp-iast = spūrdh
+---------------
+orig = spfh:SPṚH [{%collateral of%} SPṚDH]
+slp1 = spfh
+rest = SPṚH [{%collateral of%} SPṚDH]
+iast = SPṚH
+slp-iast = spṛh
+---------------
+orig = srA:SRĀ ({%cp.%} √ śrā)
+slp1 = srA
+rest = SRĀ ({%cp.%} √ śrā)
+iast = SRĀ
+slp-iast = srā
+---------------
+orig = svar:svâr ({%in YV. also%} {#suvar#} súvar)
+slp1 = svar
+rest = svâr ({%in YV. also%} {#suvar#} súvar)
+iast = svâr
+slp-iast = svar
+---------------
+orig = svaraMkfta:abnormal
+slp1 = svaraMkfta
+rest = abnormal
+iast = abnormal
+slp-iast = svaraṃkṛta
+---------------
+orig = svAti:svātí ({%or%} ī́)
+slp1 = svAti
+rest = svātí ({%or%} ī́)
+iast = svātí
+slp-iast = svāti
+---------------
+orig = svEra:sva‡īra
+slp1 = svEra
+rest = sva‡īra
+iast = sva‡īra
+slp-iast = svaira
+---------------
+orig = svErin:sva‡īr-in
+slp1 = svErin
+rest = sva‡īr-in
+iast = sva‡īrin
+slp-iast = svairin
+---------------
+orig = haragalagaralatamAla:abnormal
+slp1 = haragalagaralatamAla
+rest = abnormal
+iast = abnormal
+slp-iast = haragalagaralatamāla
+---------------
+orig = hasa:hás-a ({%or%} á)
+slp1 = hasa
+rest = hás-a ({%or%} á)
+iast = hása
+slp-iast = hasa
+---------------
+orig = hArd:abnormal
+slp1 = hArd
+rest = abnormal
+iast = abnormal
+slp-iast = hārd
+---------------
+orig = hiMs:HIṂS [{%anomolous des. of%} √ han]
+slp1 = hiMs
+rest = HIṂS [{%anomolous des. of%} √ han]
+iast = HIṂS
+slp-iast = hiṃs
+---------------
+orig = huhu:huhŭ
+slp1 = huhu
+rest = huhŭ
+iast = huhŭ
+slp-iast = huhu
+---------------
+orig = hUrC:HŪR-CH [{%prob. der. of%} √ hvṛ]
+slp1 = hUrC
+rest = HŪR-CH [{%prob. der. of%} √ hvṛ]
+iast = HŪRCH
+slp-iast = hūrch
+---------------
+orig = hfcCaya:hṛd-śaya
+slp1 = hfcCaya
+rest = hṛd-śaya
+iast = hṛdśaya
+slp-iast = hṛcchaya
+---------------
+orig = asOnAman:abnormal
+slp1 = asOnAman
+rest = abnormal
+iast = abnormal
+slp-iast = asaunāman
+---------------
+orig = UrDvANguli:abnormal
+slp1 = UrDvANguli
+rest = abnormal
+iast = abnormal
+slp-iast = ūrdhvāṅguli
+---------------
+orig = kAryavinimaya:abnormal
+slp1 = kAryavinimaya
+rest = abnormal
+iast = abnormal
+slp-iast = kāryavinimaya
+---------------
+orig = kAlidAsa:abnormal
+slp1 = kAlidAsa
+rest = abnormal
+iast = abnormal
+slp-iast = kālidāsa
+---------------
+orig = nyAyAropitavikrama:abnormal
+slp1 = nyAyAropitavikrama
+rest = abnormal
+iast = abnormal
+slp-iast = nyāyāropitavikrama
+---------------
+orig = prakz:PRAK-Ṣ = {#praC#} PRACH
+slp1 = prakz
+rest = PRAK-Ṣ = {#praC#} PRACH
+iast = PRAKṢ
+slp-iast = prakṣ
+---------------
+orig = praBaNga:pra-bhaṅgá : {%line%} ¤8¤
+slp1 = praBaNga
+rest = pra-bhaṅgá 
+iast = prabhaṅgá
+slp-iast = prabhaṅga
+---------------
+orig = pravidvas:abnormal
+slp1 = pravidvas
+rest = abnormal
+iast = abnormal
+slp-iast = pravidvas
+---------------
+orig = barh:abnormal
+slp1 = barh
+rest = abnormal
+iast = abnormal
+slp-iast = barh
+---------------
+orig = yajYArTam:abnormal
+slp1 = yajYArTam
+rest = abnormal
+iast = abnormal
+slp-iast = yajñārtham
