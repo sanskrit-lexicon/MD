@@ -35,3 +35,12 @@ python nonascii.py ../data.txt nonascii.txt
  Find the non-ascii characters in the 'iast' portion of each line of data,
  and print each character along with its frequency.
  
+python bytes.py inputfile outputfile
+ reads the input file as a sequence of bytes.
+    input file can be a text file, or even an image file or pdf.
+ writes each byte on a separate line with additional information.
+ 
+python unichars.py input.txt output.txt
+ reads a text file as a sequence of unicode characters.
+ Writes each character on a separate line with additional information.
+ 
