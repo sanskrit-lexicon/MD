@@ -11,4 +11,4 @@ the issue 628.
 step0  Contains first program, to read the data.txt file, and write
        the lines therin to another file. See step0/readme.txt for more info.
 
-step1  Contains 3th,4th, 5th programs, to read the data.txt file, write to another file the split lines and to transliterate the slp1 to iast. See step1/readme.txt for more info.
+step1  Contains 3th, 4th, 5th, 6th programs, to read the data.txt file, write to another file the split lines, to remove accents from iast and to transliterate the slp1 to iast. See step1/readme.txt for more info.

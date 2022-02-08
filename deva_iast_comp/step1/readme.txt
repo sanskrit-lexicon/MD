@@ -16,9 +16,14 @@ readwriteA3.py  4th python program, designed to read the lines of data.txt
 python readwriteA3.py ../data.txt readwriteA3.txt
 
 readwriteA4.py  5th python program, designed to read the lines of data.txt
-  and write to another file the split lines and to transliterate the slp1 to iast (result of transliteration presents in the lines with label "slp-iast")
+  and write to another file the split lines and to transliterate the slp1 to iast (result of transliteration presents in the lines with label "slp-iast").
   Usage:
 python readwriteA4.py ../data.txt readwriteA4.txt
+
+readwriteA4_copy.py  6th python program, designed to read the lines of data.txt
+  and write to another file the split lines, to remove the accents from iast (lines with label "iastrev") and to transliterate the slp1 to iast.
+  Usage:
+python readwriteA4_copy.py ../data.txt readwriteA4_copy.txt
 
 readwriteA4_countabnormal.py  Minor variation calculates number of lines
   of form 'X:abnormal', and prints result to terminal.
