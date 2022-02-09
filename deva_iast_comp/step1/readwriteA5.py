@@ -1,5 +1,5 @@
 # coding=utf-8
-"""readwriteA4_copy.py
+"""readwriteA5.py
    
 """
 from __future__ import print_function
@@ -47,13 +47,12 @@ def adjustlines(lines):
   newline4 = sanscript.transliterate(newline1,'slp1','iast')
   # We want to add the new line to our list of new lines.
   # 'append' is the way to do that
-  newlines.append('%s' %"-"*15)
-  newlines.append('orig = %s' %line)
-  newlines.append('slp1 = %s' %newline1)
-  newlines.append('rest = %s' %newline2)
-  newlines.append('iast = %s' %newline3a)
-  newlines.append('iastrev = %s' %iastrev)
-  newlines.append('slp-iast = %s' %newline4)
+  if iastrev == "abnormal" or iastrev != newline4:
+   newlines.append('%s' %"-"*15)
+   newlines.append('orig = %s' %line)
+   newlines.append('slp-iast = %s' %newline4)
+   newlines.append('iastrev = %s' %iastrev)
+   
  # we're done with the for loop, so we go back one level of indentation
  # We need to return the newlines object that this function computed
  return newlines
