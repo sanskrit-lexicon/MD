@@ -1,0 +1,880 @@
+---------------
+orig = a:abnormal
+slp-iast = a
+iastrev = abnormal
+ok
+---------------
+orig = aMSaprakalpanA:aṃśa-kalpanā
+slp-iast = aṃśaprakalpanā
+iastrev = aṃśakalpanā
+cor: aṃśa-prakalpanā
+---------------
+orig = aDarozWa,°rOzWa:adhara‡oṣṭha
+slp-iast = adharoṣṭha,°rauṣṭha
+iastrev = adhara‡oṣṭha
+ok
+---------------
+orig = aDirukmamandiragavAkzam:abnormal
+slp-iast = adhirukmamandiragavākṣam
+iastrev = abnormal
+ok
+---------------
+orig = aDIk:abnormal
+slp-iast = adhīk
+iastrev = abnormal
+ok
+---------------
+orig = anirhARarca:a-nirhāṇa‡ṛca
+slp-iast = anirhāṇarca
+iastrev = anirhāṇa‡ṛca
+ok
+---------------
+orig = anvavekzA:anu‡avekṣ-ā {%f.%} regard
+slp-iast = anvavekṣā
+iastrev = anu‡avekṣā
+ok
+---------------
+orig = aparAvfttaBAgaDeya:abnormal
+slp-iast = aparāvṛttabhāgadheya
+iastrev = abnormal
+ok
+---------------
+orig = apartu:apa‡ṛtu
+slp-iast = apartu
+iastrev = apa‡ṛtu
+ok
+---------------
+orig = aprOQa:a-pra‡ūḍha
+slp-iast = aprauḍha
+iastrev = apra‡ūḍha
+ok
+---------------
+orig = arDarca:ardha‡ṛcá
+slp-iast = ardharca
+iastrev = ardha‡ṛca
+ok
+---------------
+orig = arvAkkAlikatA:arvāk‡kālika-tā
+slp-iast = arvākkālikatā
+iastrev = arvāk‡kālikatā
+cor: arvāk-kālika-tā
+---------------
+orig = avarti:áva‡ṛti
+slp-iast = avarti
+iastrev = ava‡ṛti
+ok
+---------------
+orig = aviBUzaRaparicCada:abnormal
+slp-iast = avibhūṣaṇaparicchada
+iastrev = abnormal
+ok
+---------------
+orig = A:abnormal
+slp-iast = ā
+iastrev = abnormal
+ok
+---------------
+orig = AN:abnormal
+slp-iast = āṅ
+iastrev = abnormal
+ok
+---------------
+orig = AtiraScIna:ā-tira{%s-k-%}īna
+slp-iast = ātiraścīna
+iastrev = ātira{%sk%}īna
+cor: ā-tiraś-c-īna
+---------------
+orig = AtmecCA:abnormal
+slp-iast = ātmecchā
+iastrev = abnormal
+ok
+---------------
+orig = AtmOpamya:ātma‡aupamya
+slp-iast = ātmaupamya
+iastrev = ātma‡aupamya
+ok
+---------------
+orig = Arta:ā’‡ṛta
+slp-iast = ārta
+iastrev = ā‡ṛta
+ok
+---------------
+orig = Arti:ā’‡ṛti
+slp-iast = ārti
+iastrev = ā‡ṛti
+ok
+---------------
+orig = AsapiRqakriyAkarma:abnormal
+slp-iast = āsapiṇḍakriyākarma
+iastrev = abnormal
+ok
+---------------
+orig = ihAmutraPalaBogavirAga:abnormal
+slp-iast = ihāmutraphalabhogavirāga
+iastrev = abnormal
+ok
+---------------
+orig = ujjfmBa:uj-ṛmbha
+slp-iast = ujjṛmbha
+iastrev = ujṛmbha
+cor: uj-jṛmbha
+---------------
+orig = uttamarRa:uttama‡ṛṇa
+slp-iast = uttamarṇa
+iastrev = uttama‡ṛṇa
+ok
+---------------
+orig = uttarozWa,°rOzWa:uttara‡oṣṭha
+slp-iast = uttaroṣṭha,°rauṣṭha
+iastrev = uttara‡oṣṭha
+ok
+---------------
+orig = udIcya:abnormal
+slp-iast = udīcya
+iastrev = abnormal
+ok
+---------------
+orig = upayAcana:upa-yā{%c%}-ana
+slp-iast = upayācana
+iastrev = upayā{%c%}ana
+cor: upa-yāc-ana
+---------------
+orig = upozaRa:upa‡oṣaṇa
+slp-iast = upoṣaṇa
+iastrev = upa‡oṣaṇa
+ok
+---------------
+orig = U:abnormal
+slp-iast = ū
+iastrev = abnormal
+ok
+---------------
+orig = U~:ūm̐
+slp-iast = ū~
+iastrev = ūm̐
+check: ok BUT better to check
+---------------
+orig = fDak:ṛ́dh-ak ({%or%} ák)
+slp-iast = ṛdhak
+iastrev = ṛ́dhak
+ok
+---------------
+orig = ekESvarya:eka‡aiśvarya
+slp-iast = ekaiśvarya
+iastrev = eka‡aiśvarya
+ok
+---------------
+orig = enap:abnormal
+slp-iast = enap
+iastrev = abnormal
+ok
+---------------
+orig = o:abnormal
+slp-iast = o
+iastrev = abnormal
+ok
+---------------
+orig = kakudruma:kaku[d]-druma
+slp-iast = kakudruma
+iastrev = kaku[d]druma
+ok
+---------------
+orig = kakzyA:kakṣyā̂
+slp-iast = kakṣyā
+iastrev = kakṣyā̂
+ok
+---------------
+orig = kacawatapagajaqadaba:abnormal
+slp-iast = kacaṭatapagajaḍadaba
+iastrev = abnormal
+ok
+---------------
+orig = kASmIrika:abnormal
+slp-iast = kāśmīrika
+iastrev = abnormal
+ok
+---------------
+orig = kIdfS:kī-dríś
+slp-iast = kīdṛś
+iastrev = kīdriś
+ok
+---------------
+orig = kuRW:KUṆṬ
+slp-iast = kuṇṭh
+iastrev = kuṇṭ
+cor: KUṆṬH
+---------------
+orig = kfpanILa:kṛpá-nīḷa
+slp-iast = kṛpanīl̤a
+iastrev = kṛpanīḷa
+check: ळ = slp1 "La" = iast "l̤a" or "ḻa", but on the website input "kfpanILa" gives IAST output "kṛpanīḷa". Is it ok or not?
+---------------
+orig = kxptakeSanaKaSmaSru:abnormal
+slp-iast = kḷptakeśanakhaśmaśru
+iastrev = abnormal
+ok
+---------------
+orig = kxpti:k{%lí%}p-ti ({%also%}-tí) {%f.%} coming about
+slp-iast = kḷpti
+iastrev = k{%li%}pti
+cor: kḷp-ti
+---------------
+orig = kzA:abnormal
+slp-iast = kṣā
+iastrev = abnormal
+ok
+---------------
+orig = KA°:abnormal
+slp-iast = khā°
+iastrev = abnormal
+ok
+---------------
+orig = KUra:abnormal
+slp-iast = khūra
+iastrev = abnormal
+ok
+---------------
+orig = gavezaRa:gava‡eṣaṇa
+slp-iast = gaveṣaṇa
+iastrev = gava‡eṣaṇa
+ok
+---------------
+orig = guRW:GUṆṬ
+slp-iast = guṇṭh
+iastrev = guṇṭ
+cor: guṇṭh
+---------------
+orig = glapsa:abnormal
+slp-iast = glapsa
+iastrev = abnormal
+ok
+---------------
+orig = cakreSa:cakra-īśa
+slp-iast = cakreśa
+iastrev = cakraīśa
+cor: cakra‡īśa
+---------------
+orig = cawacaw:caṭa-ca{%t
+slp-iast = caṭacaṭ
+iastrev = caṭaca{%t
+cor: caṭa-caṭ
+---------------
+orig = candrodaya:abnormal
+slp-iast = candrodaya
+iastrev = abnormal
+ok
+---------------
+orig = citkAra:abnormal
+slp-iast = citkāra
+iastrev = abnormal
+ok
+---------------
+orig = cuRwI:abnormal
+slp-iast = cuṇṭī
+iastrev = abnormal
+ok
+---------------
+orig = CucCUndara:chucchundara
+slp-iast = chucchūndara
+iastrev = chucchundara
+cor: chucchūndara
+---------------
+orig = jakz:abnormal
+slp-iast = jakṣ
+iastrev = abnormal
+ok
+---------------
+orig = janmarkza:janma‡ṛkṣa
+slp-iast = janmarkṣa
+iastrev = janma‡ṛkṣa
+ok
+---------------
+orig = jF:{%GRĪ%}
+slp-iast = jṝ
+iastrev = {%grī%}
+cor: JṜ
+---------------
+orig = jenya:jén-ia
+slp-iast = jenya
+iastrev = jenia
+ok
+---------------
+orig = jYAnecCAkriyASaktimat:abnormal
+slp-iast = jñānecchākriyāśaktimat
+iastrev = abnormal
+ok
+---------------
+orig = jyezWa:jyā’‡iṣṭha ({%or%} {@á
+slp-iast = jyeṣṭha
+iastrev = jyā‡iṣṭha
+ok
+---------------
+orig = tAmrozWa:tāmra‡oṣṭha
+slp-iast = tāmroṣṭha
+iastrev = tāmra‡oṣṭha
+ok
+---------------
+orig = tilodana:tila‡odana
+slp-iast = tilodana
+iastrev = tila‡odana
+ok
+---------------
+orig = trayodaSarca:trayodaśa‡ṛcá
+slp-iast = trayodaśarca
+iastrev = trayodaśa‡ṛca
+ok
+---------------
+orig = damBoli:abnormal
+slp-iast = dambholi
+iastrev = abnormal
+ok
+---------------
+orig = dfS:dṛ́ś ({%nm.%} {@dṛk@})
+slp-iast = dṛś
+iastrev = dṛ́ś
+ok
+---------------
+orig = devatAgAra:devatā‡ā̆gāra
+slp-iast = devatāgāra
+iastrev = devatā‡ā̆gāra
+ok
+---------------
+orig = Danvadurga:abnormal
+slp-iast = dhanvadurga
+iastrev = abnormal
+ok
+---------------
+orig = DAnyAMSa:*dhānya‡aṃśa
+slp-iast = dhānyāṃśa
+iastrev = dhānya‡aṃśa
+ok
+---------------
+orig = na:abnormal
+slp-iast = na
+iastrev = abnormal
+ok
+---------------
+orig = nid:abnormal
+slp-iast = nid
+iastrev = abnormal
+ok
+---------------
+orig = nir:abnormal
+slp-iast = nir
+iastrev = abnormal
+ok
+---------------
+orig = nirgatAKilakalmaza:abnormal
+slp-iast = nirgatākhilakalmaṣa
+iastrev = abnormal
+cor: ...-ṣá (-ṣa → -ṣá)
+---------------
+orig = nizpanda:niṣ-[s]panda
+slp-iast = niṣpanda
+iastrev = niṣ[s]panda
+ok
+---------------
+orig = nILa:nīḷá
+slp-iast = nīl̤a
+iastrev = nīḷa
+cor: ळ = slp1 "La" = iast "l̤a" or "ḻa", but on the website input "nILa" gives IAST output "nīḷa". Is it ok or not?
+---------------
+orig = nyakta:ni‡âkta
+slp-iast = nyakta
+iastrev = ni‡akta
+ok
+---------------
+orig = nyaYc:ni‡âñc
+slp-iast = nyañc
+iastrev = ni‡añc
+ok
+---------------
+orig = nyarbuda:ni‡ârbuda
+slp-iast = nyarbuda
+iastrev = ni‡arbuda
+ok
+---------------
+orig = nvE:n[ú]vaí
+slp-iast = nvai
+iastrev = n[u]vai
+ok
+---------------
+orig = payozRI:paya[ḥ]‡uṣṇī
+slp-iast = payoṣṇī
+iastrev = paya[ḥ]‡uṣṇī
+ok
+---------------
+orig = paramarzi:parama‡ṛṣi
+slp-iast = paramarṣi
+iastrev = parama‡ṛṣi
+ok
+---------------
+orig = parAyaRa:parā’‡ayaṇa
+slp-iast = parāyaṇa
+iastrev = parā‡ayaṇa
+ok
+---------------
+orig = paro'kza:paró-[a]kṣa
+slp-iast = paro'kṣa
+iastrev = parokṣa
+ok
+---------------
+orig = paro'varam:paro-(a)varám
+slp-iast = paro'varam
+iastrev = paro(a)varam
+ok
+---------------
+orig = parozRih:para[ḥ]‡uṣṇih
+slp-iast = paroṣṇih
+iastrev = para[ḥ]‡uṣṇih
+ok
+---------------
+orig = paryARa:pari-[y]āṇa
+slp-iast = paryāṇa
+iastrev = pari[y]āṇa
+ok
+---------------
+orig = pAkyA:pākyā̂
+slp-iast = pākyā
+iastrev = pākyā̂
+ok
+---------------
+orig = pAna:pā’‡ana
+slp-iast = pāna
+iastrev = pā‡ana
+ok
+---------------
+orig = puMScalI:pu{%ms-k%}al-ī́
+slp-iast = puṃścalī
+iastrev = pu{%msk%}alī
+cor: puṃś-cal-ī
+---------------
+orig = purauzRih:pura(ḥ)-uṣṇih
+slp-iast = purauṣṇih
+iastrev = pura(ḥ)uṣṇih
+ok
+---------------
+orig = puro'nuvAkyA:puro-(a)nuvākyā̂
+slp-iast = puro'nuvākyā
+iastrev = puro(a)nuvākyā̂
+ok
+---------------
+orig = pfTak:abnormal
+slp-iast = pṛthak
+iastrev = abnormal
+cor: pṛ́th-ak
+---------------
+orig = prauga:prá-üga
+slp-iast = prauga
+iastrev = praüga
+check: MD scan has "prá-üga", but what does "ü" mean? u with diaeresis mentioned only one time in md.txt
+---------------
+orig = prADva:pra‡adhva [fore-journey]
+slp-iast = prādhva
+iastrev = pra‡adhva
+ok
+---------------
+orig = prOQa:pra‡ūḍha
+slp-iast = prauḍha
+iastrev = pra‡ūḍha
+ok
+---------------
+orig = prOQi:pra‡ūḍhi
+slp-iast = prauḍhi
+iastrev = pra‡ūḍhi
+ok
+---------------
+orig = baD:abnormal
+slp-iast = badh
+iastrev = abnormal
+ok
+---------------
+orig = barhizad:barhi[ḥ]-ṣád
+slp-iast = barhiṣad
+iastrev = barhi[ḥ]ṣad
+ok
+---------------
+orig = bfhawwika:bṛha{%t-t%}ika
+slp-iast = bṛhaṭṭika
+iastrev = bṛha{%tt%}ika
+cor: bṛhaṭ-ṭika
+---------------
+orig = brahmaRaspati:abnormal
+slp-iast = brahmaṇaspati
+iastrev = abnormal
+ok
+---------------
+orig = brahmarzi:brahma‡ṛṣi
+slp-iast = brahmarṣi
+iastrev = brahma‡ṛṣi
+ok
+---------------
+orig = brAhmaRAcCaMsin:brāhmaṇāt-śaṃs-ín
+slp-iast = brāhmaṇācchaṃsin
+iastrev = brāhmaṇātśaṃsin
+ok
+---------------
+orig = BUma:abnormal
+slp-iast = bhūma
+iastrev = abnormal
+ok
+---------------
+orig = Bo:abnormal
+slp-iast = bho
+iastrev = abnormal
+ok
+---------------
+orig = macCarIra:mat-śarīra
+slp-iast = maccharīra
+iastrev = matśarīra
+ok
+---------------
+orig = mahacCabda:mahat-śabda
+slp-iast = mahacchabda
+iastrev = mahatśabda
+ok
+---------------
+orig = mahartvij:mahā’‡ṛtvij ({%or%} íj)
+slp-iast = mahartvij
+iastrev = mahā‡ṛtvij
+ok
+---------------
+orig = maharzi:mahā‡ṛṣi
+slp-iast = maharṣi
+iastrev = mahā‡ṛṣi
+ok
+---------------
+orig = mahEtareya:mahā‡aitareya
+slp-iast = mahaitareya
+iastrev = mahā‡aitareya
+ok
+---------------
+orig = mAna:mā’‡ana
+slp-iast = māna
+iastrev = mā‡ana
+ok
+---------------
+orig = mAnita:mAn-i-ta
+slp-iast = mānita
+iastrev = manita
+check: MD scan has "man-i-ta", maybe should be "mān-i-ta"
+---------------
+orig = mAsopavAsa:māsa‡upavāsa : {@-ka
+slp-iast = māsopavāsa
+iastrev = māsa‡upavāsa
+ok
+---------------
+orig = mfcCakawika:mṛd-śakaṭ-ika
+slp-iast = mṛcchakaṭika
+iastrev = mṛdśakaṭika
+ok
+---------------
+orig = meLi:meḷí
+slp-iast = mel̤i
+iastrev = meḷi
+check: ळ = slp1 "La" = iast "l̤a" or "ḻa", but on the website input "meLi" gives IAST output "meḷi". Is it ok or not?
+---------------
+orig = yakan:abnormal
+slp-iast = yakan
+iastrev = abnormal
+ok
+---------------
+orig = yajYa:ya{%g-ñ%}á
+slp-iast = yajña
+iastrev = ya{%gñ%}a
+cor: yaj-ñá
+---------------
+orig = yaTarcam:yathā‡ṛcam
+slp-iast = yatharcam
+iastrev = yathā‡ṛcam
+ok
+---------------
+orig = yazwf:yáṣ-ṭṛ́ ({%or -trí%})
+slp-iast = yaṣṭṛ
+iastrev = yaṣṭṛ́
+cor: yáṣ-ṭṛ ({%or%} -ṭṛ́)
+---------------
+orig = yAcYA:yā{%k-ñ%}ā́
+slp-iast = yācñā
+iastrev = yā{%kñ%}ā
+cor: yāc-ñā́
+---------------
+orig = yAna:yā’‡ana
+slp-iast = yāna
+iastrev = yā‡ana
+ok
+---------------
+orig = yAvacCaktitas:yāvat-śakti-tas
+slp-iast = yāvacchaktitas
+iastrev = yāvatśaktitas
+ok
+---------------
+orig = rasAsvAda:rasa‡āvāda
+slp-iast = rasāsvāda
+iastrev = rasa‡āvāda
+cor: rasa‡āsvāda
+---------------
+orig = rA:abnormal
+slp-iast = rā
+iastrev = abnormal
+ok
+---------------
+orig = rizwi:ṛ́ṣ-ṭi
+slp-iast = riṣṭi
+iastrev = ṛ́ṣṭi
+cor: ríṣ-ṭi
+---------------
+orig = [ruh:RUH = {#ruD#} RUDH
+slp-iast = [ruh
+iastrev = ruh
+ok
+---------------
+orig = luRW:LUṆṬ
+slp-iast = luṇṭh
+iastrev = luṇṭ
+cor: LUṆṬH
+---------------
+orig = vajrivas:abnormal
+slp-iast = vajrivas
+iastrev = abnormal
+ok
+---------------
+orig = vidyeSa:vidyā‡īśa {%m.%} lord of knowledge
+slp-iast = vidyeśa
+iastrev = vidyā‡īśa
+ok
+---------------
+orig = vfzRi:vṛ́ṣ-ṇi ({%or n%}í)
+slp-iast = vṛṣṇi
+iastrev = vṛ́ṣṇi
+cor: vṛ́ṣ-ṇi ({%or%} ṇí)
+---------------
+orig = vEjayanta:abnormal
+slp-iast = vaijayanta
+iastrev = abnormal
+ok
+---------------
+orig = vopadeva:abnormal
+slp-iast = vopadeva
+iastrev = abnormal
+ok
+---------------
+orig = vo|um:voḷhum
+slp-iast = vo|um
+iastrev = voḷhum
+check: MD scan has "volhum" (lh - italic). I don't know MD's transliteration for lh (italic type)
+---------------
+orig = vyaj:VI‡AJ = {#vIj#} VĪJ
+slp-iast = vyaj
+iastrev = vi‡aj
+ok
+---------------
+orig = vyazwi:vi‡âṣṭi
+slp-iast = vyaṣṭi
+iastrev = vi‡aṣṭi
+ok
+---------------
+orig = vyUQa:vi‡ūḍha ({%V.%} {@-ūṭhá@})
+slp-iast = vyūḍha
+iastrev = vi‡ūḍha
+check: {@-ūṭhá@} in this part MD scan has -ū{%lh%}á. I don't know MD's transliteration for lh (italic type)
+---------------
+orig = vraSc:abnormal
+slp-iast = vraśc
+iastrev = abnormal
+ok
+---------------
+orig = Sama:abnormal
+slp-iast = śama
+iastrev = abnormal
+ok
+---------------
+orig = SaravyA:śaravyā̂
+slp-iast = śaravyā
+iastrev = śaravyā̂
+ok
+---------------
+orig = SiSvi:abnormal
+slp-iast = śiśvi
+iastrev = abnormal
+ok
+---------------
+orig = SudDodana:śuddha‡odana
+slp-iast = śuddhodana
+iastrev = śuddha‡odana
+ok
+---------------
+orig = SevfDa:śé[va]-vṛdha ({%or%}á¹)
+slp-iast = śevṛdha
+iastrev = śe[va]vṛdha
+ok
+---------------
+orig = Sruz:abnormal
+slp-iast = śruṣ
+iastrev = abnormal
+ok
+---------------
+orig = Sreyo'BikANkzin:śreyo-(a)bhikāṅkṣin
+slp-iast = śreyo'bhikāṅkṣin
+iastrev = śreyo(a)bhikāṅkṣin
+ok
+---------------
+orig = SlizwaparaMparitarUpaka:abnormal
+slp-iast = śliṣṭaparaṃparitarūpaka
+iastrev = abnormal
+ok
+---------------
+orig = za:abnormal
+slp-iast = ṣa
+iastrev = abnormal
+ok
+---------------
+orig = zaLUnA:ṣaḷ-ūnā
+slp-iast = ṣal̤ūnā
+iastrev = ṣaḷūnā
+check: ळ = slp1 "La" = iast "l̤a" or "ḻa", but on the website input "zaLUnA" gives IAST output "ṣaḷūnā". Is it ok or not?
+---------------
+orig = saccandrikA:sat-candrikā
+slp-iast = saccandrikā
+iastrev = satcandrikā
+ok
+---------------
+orig = sacCAstra:sat-śāstra
+slp-iast = sacchāstra
+iastrev = satśāstra
+ok
+---------------
+orig = saMqIvin:sa{%m-d%}īvin
+slp-iast = saṃḍīvin
+iastrev = sa{%md%}īvin
+cor: saṃ-ḍīvin
+---------------
+orig = satrAYc:satrā’‡añc
+slp-iast = satrāñc
+iastrev = satrā‡añc
+ok
+---------------
+orig = sadAnanda:sadā-ānanda
+slp-iast = sadānanda
+iastrev = sadāānanda
+ok
+---------------
+orig = sannamusala:abnormal
+slp-iast = sannamusala
+iastrev = abnormal
+ok
+---------------
+orig = saptarca:sapta‡ṛcá
+slp-iast = saptarca
+iastrev = sapta‡ṛca
+ok
+---------------
+orig = saropAnta:sara[ḥ]‡upānta
+slp-iast = saropānta
+iastrev = sara[ḥ]‡upānta
+ok
+---------------
+orig = sANga:sá‡aṅga ({%or%} á)
+slp-iast = sāṅga
+iastrev = sa‡aṅga
+ok
+---------------
+orig = sf:ŚṚ
+slp-iast = sṛ
+iastrev = śṛ
+cor: SṚ
+---------------
+orig = sfj:ŚṚJ VI. {@sṛjá@}
+slp-iast = sṛj
+iastrev = śṛj
+cor: SṚJ
+---------------
+orig = sfRI:sṛ́ṇī ({%or%} ī́)
+slp-iast = sṛṇī
+iastrev = sṛ́ṇī
+ok
+---------------
+orig = sfp:ŚṚP
+slp-iast = sṛp
+iastrev = śṛp
+cor: SṚP
+---------------
+orig = so:abnormal
+slp-iast = so
+iastrev = abnormal
+ok
+---------------
+orig = sTAna:sthā’‡ana
+slp-iast = sthāna
+iastrev = sthā‡ana
+ok
+---------------
+orig = svaraMkfta:abnormal
+slp-iast = svaraṃkṛta
+iastrev = abnormal
+ok
+---------------
+orig = svEra:sva‡īra
+slp-iast = svaira
+iastrev = sva‡īra
+ok
+---------------
+orig = svErin:sva‡īr-in
+slp-iast = svairin
+iastrev = sva‡īrin
+ok
+---------------
+orig = haragalagaralatamAla:abnormal
+slp-iast = haragalagaralatamāla
+iastrev = abnormal
+ok
+---------------
+orig = hArd:abnormal
+slp-iast = hārd
+iastrev = abnormal
+ok
+---------------
+orig = hfcCaya:hṛd-śaya
+slp-iast = hṛcchaya
+iastrev = hṛdśaya
+ok
+---------------
+orig = asOnAman:abnormal
+slp-iast = asaunāman
+iastrev = abnormal
+ok
+---------------
+orig = UrDvANguli:abnormal
+slp-iast = ūrdhvāṅguli
+iastrev = abnormal
+ok
+---------------
+orig = kAryavinimaya:abnormal
+slp-iast = kāryavinimaya
+iastrev = abnormal
+ok
+---------------
+orig = kAlidAsa:abnormal
+slp-iast = kālidāsa
+iastrev = abnormal
+ok
+---------------
+orig = nyAyAropitavikrama:abnormal
+slp-iast = nyāyāropitavikrama
+iastrev = abnormal
+ok
+---------------
+orig = pravidvas:abnormal
+slp-iast = pravidvas
+iastrev = abnormal
+ok
+---------------
+orig = barh:abnormal
+slp-iast = barh
+iastrev = abnormal
+ok
+---------------
+orig = yajYArTam:abnormal
+slp-iast = yajñārtham
+iastrev = abnormal
+ok
