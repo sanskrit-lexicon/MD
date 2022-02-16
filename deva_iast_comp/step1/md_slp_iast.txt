@@ -8,6 +8,7 @@ orig = aMSaprakalpanA:aṃśa-kalpanā
 slp-iast = aṃśaprakalpanā
 iastrev = aṃśakalpanā
 cor: aṃśa-prakalpanā
+done
 ---------------
 orig = aDarozWa,°rOzWa:adhara‡oṣṭha
 slp-iast = adharoṣṭha,°rauṣṭha
@@ -58,6 +59,7 @@ orig = arvAkkAlikatA:arvāk‡kālika-tā
 slp-iast = arvākkālikatā
 iastrev = arvāk‡kālikatā
 cor: arvāk-kālika-tā
+done
 ---------------
 orig = avarti:áva‡ṛti
 slp-iast = avarti
@@ -83,6 +85,7 @@ orig = AtiraScIna:ā-tira{%s-k-%}īna
 slp-iast = ātiraścīna
 iastrev = ātira{%sk%}īna
 cor: ā-tiraś-c-īna
+done
 ---------------
 orig = AtmecCA:abnormal
 slp-iast = ātmecchā
@@ -118,6 +121,7 @@ orig = ujjfmBa:uj-ṛmbha
 slp-iast = ujjṛmbha
 iastrev = ujṛmbha
 cor: uj-jṛmbha
+done
 ---------------
 orig = uttamarRa:uttama‡ṛṇa
 slp-iast = uttamarṇa
@@ -138,6 +142,7 @@ orig = upayAcana:upa-yā{%c%}-ana
 slp-iast = upayācana
 iastrev = upayā{%c%}ana
 cor: upa-yāc-ana
+done
 ---------------
 orig = upozaRa:upa‡oṣaṇa
 slp-iast = upoṣaṇa
@@ -203,6 +208,7 @@ orig = kuRW:KUṆṬ
 slp-iast = kuṇṭh
 iastrev = kuṇṭ
 cor: KUṆṬH
+done
 ---------------
 orig = kfpanILa:kṛpá-nīḷa
 slp-iast = kṛpanīl̤a
@@ -218,6 +224,10 @@ orig = kxpti:k{%lí%}p-ti ({%also%}-tí) {%f.%} coming about
 slp-iast = kḷpti
 iastrev = k{%li%}pti
 cor: kḷp-ti
+; here the acute mark is for the accent, not to be taken as the long-vowel (í).
+; so kḷ́p-ti is the entry
+recheck:
+done 
 ---------------
 orig = kzA:abnormal
 slp-iast = kṣā
@@ -242,7 +252,8 @@ ok
 orig = guRW:GUṆṬ
 slp-iast = guṇṭh
 iastrev = guṇṭ
-cor: guṇṭh
+cor: GUṆṬH
+done
 ---------------
 orig = glapsa:abnormal
 slp-iast = glapsa
@@ -253,11 +264,13 @@ orig = cakreSa:cakra-īśa
 slp-iast = cakreśa
 iastrev = cakraīśa
 cor: cakra‡īśa
+done
 ---------------
 orig = cawacaw:caṭa-ca{%t
 slp-iast = caṭacaṭ
 iastrev = caṭaca{%t
 cor: caṭa-caṭ
+done
 ---------------
 orig = candrodaya:abnormal
 slp-iast = candrodaya
@@ -278,6 +291,7 @@ orig = CucCUndara:chucchundara
 slp-iast = chucchūndara
 iastrev = chucchundara
 cor: chucchūndara
+done
 ---------------
 orig = jakz:abnormal
 slp-iast = jakṣ
@@ -293,6 +307,7 @@ orig = jF:{%GRĪ%}
 slp-iast = jṝ
 iastrev = {%grī%}
 cor: JṜ
+done
 ---------------
 orig = jenya:jén-ia
 slp-iast = jenya
@@ -368,6 +383,9 @@ orig = nirgatAKilakalmaza:abnormal
 slp-iast = nirgatākhilakalmaṣa
 iastrev = abnormal
 cor: ...-ṣá (-ṣa → -ṣá)
+; here the hyphen mark is for the line-break, but not for a samAsa; hence is to be removed.
+; so nir-gata‡akhila-kalmaṣa is the entry
+done
 ---------------
 orig = nizpanda:niṣ-[s]panda
 slp-iast = niṣpanda
@@ -447,7 +465,8 @@ ok
 orig = puMScalI:pu{%ms-k%}al-ī́
 slp-iast = puṃścalī
 iastrev = pu{%msk%}alī
-cor: puṃś-cal-ī
+cor: puṃś-cal-ī́
+done
 ---------------
 orig = purauzRih:pura(ḥ)-uṣṇih
 slp-iast = purauṣṇih
@@ -463,6 +482,7 @@ orig = pfTak:abnormal
 slp-iast = pṛthak
 iastrev = abnormal
 cor: pṛ́th-ak
+done
 ---------------
 orig = prauga:prá-üga
 slp-iast = prauga
@@ -498,6 +518,7 @@ orig = bfhawwika:bṛha{%t-t%}ika
 slp-iast = bṛhaṭṭika
 iastrev = bṛha{%tt%}ika
 cor: bṛhaṭ-ṭika
+done
 ---------------
 orig = brahmaRaspati:abnormal
 slp-iast = brahmaṇaspati
@@ -557,7 +578,8 @@ ok
 orig = mAnita:mAn-i-ta
 slp-iast = mānita
 iastrev = manita
-check: MD scan has "man-i-ta", maybe should be "mān-i-ta"
+cor: mān-i-ta (print change)
+done
 ---------------
 orig = mAsopavAsa:māsa‡upavāsa : {@-ka
 slp-iast = māsopavāsa
@@ -583,6 +605,7 @@ orig = yajYa:ya{%g-ñ%}á
 slp-iast = yajña
 iastrev = ya{%gñ%}a
 cor: yaj-ñá
+done
 ---------------
 orig = yaTarcam:yathā‡ṛcam
 slp-iast = yatharcam
@@ -593,11 +616,13 @@ orig = yazwf:yáṣ-ṭṛ́ ({%or -trí%})
 slp-iast = yaṣṭṛ
 iastrev = yaṣṭṛ́
 cor: yáṣ-ṭṛ ({%or%} -ṭṛ́)
+done
 ---------------
 orig = yAcYA:yā{%k-ñ%}ā́
 slp-iast = yācñā
 iastrev = yā{%kñ%}ā
 cor: yāc-ñā́
+done
 ---------------
 orig = yAna:yā’‡ana
 slp-iast = yāna
@@ -613,6 +638,7 @@ orig = rasAsvAda:rasa‡āvāda
 slp-iast = rasāsvāda
 iastrev = rasa‡āvāda
 cor: rasa‡āsvāda
+done
 ---------------
 orig = rA:abnormal
 slp-iast = rā
@@ -623,6 +649,7 @@ orig = rizwi:ṛ́ṣ-ṭi
 slp-iast = riṣṭi
 iastrev = ṛ́ṣṭi
 cor: ríṣ-ṭi
+done
 ---------------
 orig = [ruh:RUH = {#ruD#} RUDH
 slp-iast = [ruh
@@ -633,6 +660,7 @@ orig = luRW:LUṆṬ
 slp-iast = luṇṭh
 iastrev = luṇṭ
 cor: LUṆṬH
+done
 ---------------
 orig = vajrivas:abnormal
 slp-iast = vajrivas
@@ -648,6 +676,7 @@ orig = vfzRi:vṛ́ṣ-ṇi ({%or n%}í)
 slp-iast = vṛṣṇi
 iastrev = vṛ́ṣṇi
 cor: vṛ́ṣ-ṇi ({%or%} ṇí)
+done
 ---------------
 orig = vEjayanta:abnormal
 slp-iast = vaijayanta
@@ -748,6 +777,7 @@ orig = saMqIvin:sa{%m-d%}īvin
 slp-iast = saṃḍīvin
 iastrev = sa{%md%}īvin
 cor: saṃ-ḍīvin
+done
 ---------------
 orig = satrAYc:satrā’‡añc
 slp-iast = satrāñc
@@ -783,11 +813,13 @@ orig = sf:ŚṚ
 slp-iast = sṛ
 iastrev = śṛ
 cor: SṚ
+done
 ---------------
 orig = sfj:ŚṚJ VI. {@sṛjá@}
 slp-iast = sṛj
 iastrev = śṛj
 cor: SṚJ
+done
 ---------------
 orig = sfRI:sṛ́ṇī ({%or%} ī́)
 slp-iast = sṛṇī
@@ -798,6 +830,7 @@ orig = sfp:ŚṚP
 slp-iast = sṛp
 iastrev = śṛp
 cor: SṚP
+done
 ---------------
 orig = so:abnormal
 slp-iast = so
