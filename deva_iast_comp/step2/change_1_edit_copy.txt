@@ -1,0 +1,1321 @@
+; ===================================================
+slp1 vowels with possible iast (lower and upper case)
+; slp1 a : aï AÏ aü AÜ à À á Á â Â
+; slp1 A : ā Ā ā̀ Ā̀ ā́ Ā́ ā̂ Ā̂
+; slp1 i : ì Ì í Í î Î
+; slp1 I : ī Ī ī̀ Ī̀ ī́ Ī́ ī̂ Ī̂
+; slp1 u : ù Ù ú Ú û Û
+; slp1 U : ū Ū ū̀ Ū̀ ū́ Ū́ ū̂ Ū̂
+; slp1 f : ṛ Ṛ ṛ̀ Ṛ̀ ṛ́ Ṛ́ ṛ̂ Ṛ̂
+; slp1 F : ṝ Ṝ ṝ̀ Ṝ̀ ṝ́ Ṝ́ ṝ̂ Ṝ̂
+; slp1 x : ḷ Ḷ ḷ̀ Ḷ̀ ḷ́ Ḷ́ ḷ̂ Ḷ̂
+; slp1 X : ḹ Ḹ ḹ̀ Ḹ̀ ḹ́ Ḹ́ ḹ̂ Ḹ̂
+; slp1 e : è È é É ê Ê
+; slp1 E : ai AI aì AÌ aí AÍ aî AÎ
+; slp1 o : ò Ò ó Ó ô Ô
+; slp1 O : au AU aù AÙ aú AÚ aû AÛ
+; ===================================================
+; LINES CONTAINING IAST CIRCUMFLEX VOWELS
+; CHANGE new LINE IF NEEDED
+; ===================================================
+; -------------------------------------
+; <L>280<pc>003-2<k1>agniSiKa
+; â  {@â,@}
+1314 old  {%m. N.%}; {%n.%} saffron; {%f.%} {@â,@} flame of fire.
+;
+1314 new  {%m. N.%}; {%n.%} saffron; {%f.%} {@â,@} flame of fire.
+; -------------------------------------
+; <L>318<pc>003-3<k1>agru
+; û  (û)
+1515 old {#agru#}¦ágru, {%a.%} (û) single, unmarried; {%f. pl.%}  <lbinfo n="[]"/>
+;
+1515 new {#agru#}¦ágru, {%a.%} (û) single, unmarried; {%f. pl.%}  <lbinfo n="[]"/>
+; -------------------------------------
+; <L>319<pc>003-3<k1>agrega
+; â  {@-gâ,@}
+1520 old {#agrega#}¦agre-gá, {%a.%} going in front; {@-gâ,@} {%a. id.%}; 
+;
+1520 new {#agrega#}¦agre-gá, {%a.%} going in front; {@-gâ,@} {%a. id.%}; 
+; -------------------------------------
+; <L>319<pc>003-3<k1>agrega
+; û  {@-gû,@}
+1521 old {@-gû,@} {%a.%} moving forward.
+;
+1521 new {@-gû,@} {%a.%} moving forward.
+; -------------------------------------
+; <L>403<pc>004-2<k1>ac
+; â  {@âcna.
+1943 old {@-ā́cya@}:{%pp.%} {@âcna. ud@}, draw up: {%pp.%} {@ud-akta;@} 
+;
+1943 new {@-ā́cya@}:{%pp.%} {@âcna. ud@}, draw up: {%pp.%} {@ud-akta;@} 
+; -------------------------------------
+; <L>909<pc>009-1<k1>adAyAda
+; î  ({@î@};
+4367 old {#adAyAda#}¦a-dāyādá, ({@î@}; {%C.%} {@ā,@}) {%a.%} not entitled 
+;
+4367 new {#adAyAda#}¦a-dāyādá, ({@î@}; {%C.%} {@ā,@}) {%a.%} not entitled 
+; -------------------------------------
+; <L>1743<pc>017-2<k1>anoraTa
+; â  {@-vāhyâ,@}
+8647 old  {@-vāhyâ,@} {%fp.%} to be conveyed in carts; 
+;
+8647 new  {@-vāhyâ,@} {%fp.%} to be conveyed in carts; 
+; -------------------------------------
+; <L>1847<pc>019-1<k1>anvADi
+; â  {@-yâ,@}
+9303 old {@-yâ,@} {%n. new moon%} funeral feast {%in honour of %}
+;
+9303 new {@-yâ,@} {%n. new moon%} funeral feast {%in honour of %}
+; -------------------------------------
+; <L>2006<pc>021-1<k1>apIcya
+; â  {#apIcya#}¦apīcyâ,
+10196 old {#apIcya#}¦apīcyâ, {%a.%} secret, hidden.
+;
+10196 new {#apIcya#}¦apīcyâ, {%a.%} secret, hidden.
+; -------------------------------------
+; <L>2316<pc>024-2<k1>aByagra
+; â  {@-añjyâ@},
+11821 old fatty matter; {@-añjyâ@}, {%fp.%} to be anointed.
+;
+11821 new fatty matter; {@-añjyâ@}, {%fp.%} to be anointed.
+; -------------------------------------
+; <L>2671<pc>028-2<k1>aryamya
+; â  {#aryamya#}¦aryamyâ,
+13725 old {#aryamya#}¦aryamyâ, {%a.%} intimate.
+;
+13725 new {#aryamya#}¦aryamyâ, {%a.%} intimate.
+; -------------------------------------
+; <L>3212<pc>035-1<k1>asurya
+; â  {#asurya#}¦asuryâ,
+16746 old {#asurya#}¦asuryâ, {%a.%} spiritual, divine, demoniac; 
+;
+16746 new {#asurya#}¦asuryâ, {%a.%} spiritual, divine, demoniac; 
+; -------------------------------------
+; <L>3323<pc>036-2<k1>ahanya
+; â  {#ahanya#}¦ahan-yâ,
+17283 old {#ahanya#}¦ahan-yâ, {%a.%} daily.
+;
+17283 new {#ahanya#}¦ahan-yâ, {%a.%} daily.
+; -------------------------------------
+; <L>3456<pc>037-3<k1>AcArya
+; â  {#AcArya#}¦ā-cāryâ
+17986 old {#AcArya#}¦ā-cāryâ [{%fp.%} to be gone to], {%m.%} 
+;
+17986 new {#AcArya#}¦ā-cāryâ [{%fp.%} to be gone to], {%m.%} 
+; -------------------------------------
+; <L>3569<pc>039-1<k1>Adya
+; â  {#Adya#}¦ād-yâ,
+18655 old {#Adya#}¦ād-yâ, {%fp.%} to be eaten, eatable; {%n.%} food.
+;
+18655 new {#Adya#}¦ād-yâ, {%fp.%} to be eaten, eatable; {%n.%} food.
+; -------------------------------------
+; <L>3755<pc>041-1<k1>Ayaji
+; â  (â-)
+19593 old {@-iṣṭha@}, {%spv.%} (â-) {%of%} āyají.
+;
+19593 new {@-iṣṭha@}, {%spv.%} (â-) {%of%} āyají.
+; -------------------------------------
+; <L>3914<pc>042-3<k1>AvI
+; â  āvyâ;
+20424 old {#AvI#}¦āvī, {#Avi#} āvi {%and%} {#Avya#} āvyâ; 
+;
+20424 new {#AvI#}¦āvī, {#Avi#} āvi {%and%} {#Avya#} āvyâ; 
+; -------------------------------------
+; <L>3923<pc>043-1<k1>Avya
+; â  {#Avya#}¦āvyâ,
+20472 old {#Avya#}¦āvyâ, {%a.%} ({@āvī@}) relating to sheep; woollen.
+;
+20472 new {#Avya#}¦āvyâ, {%a.%} ({@āvī@}) relating to sheep; woollen.
+; -------------------------------------
+; <L>4033<pc>044-2<k1>Asya
+; â  {#Asya#}¦ās-yâ,
+21065 old {#Asya#}¦ās-yâ, {%n.%} mouth, jaws; face; organ of  <lbinfo n="[]"/>
+;
+21065 new {#Asya#}¦ās-yâ, {%n.%} mouth, jaws; face; organ of  <lbinfo n="[]"/>
+; -------------------------------------
+; <L>4048<pc>044-3<k1>AhArya
+; â  {#AhArya#}¦ā-hāryâ,
+21146 old {#AhArya#}¦ā-hāryâ, {%fp.%} to be fetched; to be 
+;
+21146 new {#AhArya#}¦ā-hāryâ, {%fp.%} to be fetched; to be 
+; -------------------------------------
+; <L>4270<pc>047-a3<k1>ukTin
+; â  {@-yâ,@}
+22511 old {#ukTin#}¦ukth-ín, {%a.%} praising; {@-yâ,@} {%a.%} praiseworthy. <lbinfo n="6"/>
+;
+22511 new {#ukTin#}¦ukth-ín, {%a.%} praising; {@-yâ,@} {%a.%} praiseworthy. <lbinfo n="6"/>
+; -------------------------------------
+; <L>4283<pc>048-1<k1>ucaTya
+; â  {#ucaTya#}¦ucath-yâ,
+22591 old {#ucaTya#}¦ucath-yâ, {%a.%} praiseworthy.
+;
+22591 new {#ucaTya#}¦ucath-yâ, {%a.%} praiseworthy.
+; -------------------------------------
+; <L>4483<pc>050-2<k1>udanya
+; â  {#udanya#}¦udan-yâ,
+23707 old {#udanya#}¦udan-yâ, {%a.%} surging, watery: {@ā,@} {%f.%} 
+;
+23707 new {#udanya#}¦udan-yâ, {%a.%} surging, watery: {@ā,@} {%f.%} 
+; -------------------------------------
+; <L>4488<pc>050-3<k1>udayana
+; î  {%king%}:{@î-ya,@}
+23741 old {%king%}:{@î-ya,@} {%a.%} concluding.
+;
+23741 new {%king%}:{@î-ya,@} {%a.%} concluding.
+; -------------------------------------
+; <L>4525<pc>051-1<k1>udIcya
+; â  {#udIcya#}¦udīc-yâ
+23921 old {#udIcya#}¦udīc-yâ ({%or%} -yá) {%a.%} northern; {%n. %}
+;
+23921 new {#udIcya#}¦udīc-yâ ({%or%} -yá) {%a.%} northern; {%n. %}
+; -------------------------------------
+; <L>4882<pc>054-3<k1>uB
+; â  {@ubh-nâ,@}
+25798 old {#uB#}¦UBH, VI.P. {@umbhá,@} IX.P. {@ubh-nâ,@} 
+;
+25798 new {#uB#}¦UBH, VI.P. {@umbhá,@} IX.P. {@ubh-nâ,@} 
+; -------------------------------------
+; <L>4904<pc>055-1<k1>uru
+; î  {@urvî@})
+25913 old {#uru#}¦ur-ú, {%a. (f. id. or%} {@urvî@}) wide, broad; 
+;
+25913 new {#uru#}¦ur-ú, {%a. (f. id. or%} {@urvî@}) wide, broad; 
+; -------------------------------------
+; <L>4905<pc>055-1<k1>urukrama
+; î  {@urūcî@},
+25922 old  {@-vyañc@}, {%a. id.%}; extensive: {%f.%} {@urūcî@}, 
+;
+25922 new  {@-vyañc@}, {%a. id.%}; extensive: {%f.%} {@urūcî@}, 
+; -------------------------------------
+; <L>4981<pc>055-a2<k1>Uti
+; î  {@ūtî@}.
+26280 old {%V. d.%} {@ūtî@}.
+;
+26280 new {%V. d.%} {@ūtî@}.
+; -------------------------------------
+; <L>4990<pc>056-1<k1>Urja
+; â  {@â,@}
+26330 old {#Urja#}¦ūrj-á, {%a.%} vigorous; {@â,@} {%f.%} vigour.
+;
+26330 new {#Urja#}¦ūrj-á, {%a.%} vigorous; {@â,@} {%f.%} vigour.
+; -------------------------------------
+; <L>4993<pc>056-1<k1>UrRa
+; â  {@-vâbhi,@}
+26347 old {@-vâbhi,@} {%m.%} spider.
+;
+26347 new {@-vâbhi,@} {%m.%} spider.
+; -------------------------------------
+; <L>5048<pc>057-1<k1>fta
+; â  {@-jâta@},
+26713 old {%in. ad.%} duly; justly; truly; indeed; {@-jâta@}, 
+;
+26713 new {%in. ad.%} duly; justly; truly; indeed; {@-jâta@}, 
+; -------------------------------------
+; <L>5048<pc>057-1<k1>fta
+; â  {@-jñâ@},
+26714 old {%pp.%} duly produced; sacred: {@-jñâ@}, {%a.%} knowing 
+;
+26714 new {%pp.%} duly produced; sacred: {@-jñâ@}, {%a.%} knowing 
+; -------------------------------------
+; <L>5048<pc>057-1<k1>fta
+; â  {@-pâ,@}
+26716 old  in truth; {@-ni,@} {%a.%} guiding rightly; {@-pâ,@} {%a.%} 
+;
+26716 new  in truth; {@-ni,@} {%a.%} guiding rightly; {@-pâ,@} {%a.%} 
+; -------------------------------------
+; <L>5050<pc>057-1<k1>ftayA
+; â  {@-sâp,@}
+26728 old  truth; {@-sâp,@} {%a.%} practising piety; {@-stúbh,@} 
+;
+26728 new  truth; {@-sâp,@} {%a.%} practising piety; {@-stúbh,@} 
+; -------------------------------------
+; <L>5054<pc>057-1<k1>ftukAla
+; â  {@-thâ,@}
+26760 old {@-thâ,@} {%ad.%} regularly; {@-páti,@} {%m.%} lord of seasons; 
+;
+26760 new {@-thâ,@} {%ad.%} regularly; {@-páti,@} {%m.%} lord of seasons; 
+; -------------------------------------
+; <L>5067<pc>057-3<k1>fBu
+; â  -kahâ,@}
+26845 old  {@-kṣán, -kahâ,@} {%m. N. of the first %}
+;
+26845 new  {@-kṣán, -kahâ,@} {%m. N. of the first %}
+; -------------------------------------
+; <L>5082<pc>057-a2<k1>ekatatpara
+; â  {@-devatyâ,@}
+26980 old to a single object, unaverted gaze; {@-devatyâ,@} 
+;
+26980 new to a single object, unaverted gaze; {@-devatyâ,@} 
+; -------------------------------------
+; <L>5082<pc>057-a2<k1>ekatatpara
+; â  {@-dhâ,@}
+26989 old {@-dharmin,@} {%a. id.%}; {@-dhâ,@} {%ad.%} singly, simply; 
+;
+26989 new {@-dharmin,@} {%a. id.%}; {@-dhâ,@} {%ad.%} singly, simply; 
+; -------------------------------------
+; <L>5084<pc>058-1<k1>ekayazwi
+; â  {@-râjá@},
+27046 old  {@-râjá@}, {%m.%} monarch; {@-rātrá,@} {%m.%} 
+;
+27046 new  {@-râjá@}, {%m.%} monarch; {@-rātrá,@} {%m.%} 
+; -------------------------------------
+; <L>5085<pc>058-1<k1>ekala
+; î  ({@î@})
+27068 old {%a.%} wearing but one garment; {@-viṃśá@}, {%a.%} ({@î@}) 
+;
+27068 new {%a.%} wearing but one garment; {@-viṃśá@}, {%a.%} ({@î@}) 
+; -------------------------------------
+; <L>5097<pc>058-2<k1>ekAdaSa
+; î  ({@î@})
+; î  {@î,@}
+27162 old {#ekAdaSa#}¦ekādaś-á, {%a.%} ({@î@}) eleventh; {@î,@} {%f.%} 
+;
+27162 new {#ekAdaSa#}¦ekādaś-á, {%a.%} ({@î@}) eleventh; {@î,@} {%f.%} 
+; -------------------------------------
+; <L>5327<pc>061-1<k1>kakzyA
+; ā̂  {#kakzyA#}¦kakṣyā̂,
+28349 old {#kakzyA#}¦kakṣyā̂, {%f.%} girdle, girth; circular wall, 
+;
+28349 new {#kakzyA#}¦kakṣyā̂, {%f.%} girdle, girth; circular wall, 
+; -------------------------------------
+; <L>5447<pc>062-2<k1>kanIna
+; î  ({@îna@})
+29001 old {%m.%} boy, youth: {@ā́,@} {%f.%} girl, virgin; ({@îna@}) -{@ka,@} 
+;
+29001 new {%m.%} boy, youth: {@ā́,@} {%f.%} girl, virgin; ({@îna@}) -{@ka,@} 
+; -------------------------------------
+; <L>5543<pc>063-2<k1>karkara
+; î  {@-î,@}
+29548 old {@-i@} {%or%} {@-î,@} {%f. kind of%} lute; {@-ī,@} {%f.%} water-jar.
+;
+29548 new {@-i@} {%or%} {@-î,@} {%f. kind of%} lute; {@-ī,@} {%f.%} water-jar.
+; -------------------------------------
+; <L>5561<pc>063-3<k1>kartave
+; â  â),
+29661 old ({%or%} â), {%fp.%} to be done, &c. ({%v.%} √kṛ); {%n.%} affair, 
+;
+29661 new ({%or%} â), {%fp.%} to be done, &c. ({%v.%} √kṛ); {%n.%} affair, 
+; -------------------------------------
+; <L>5580<pc>064-1<k1>karmaRya
+; â  {#karmaRya#}¦karmaṇ-yâ,
+29766 old {#karmaRya#}¦karmaṇ-yâ, {%a.%} skilful, industrious; 
+;
+29766 new {#karmaRya#}¦karmaṇ-yâ, {%a.%} skilful, industrious; 
+; -------------------------------------
+; <L>5590<pc>064-2<k1>karza
+; û  {@-û,@}
+29853 old  {@-û,@} {%f.%} furrow; trench; incision.
+;
+29853 new  {@-û,@} {%f.%} furrow; trench; incision.
+; -------------------------------------
+; <L>5721<pc>065-3<k1>kAtyAyana
+; î  {@î,@}
+30578 old {% sage%}; {@î,@} {%f. N. of Yājñvalkya's wife%}; 
+;
+30578 new {% sage%}; {@î,@} {%f. N. of Yājñvalkya's wife%}; 
+; -------------------------------------
+; <L>5807<pc>067-1<k1>kArya
+; â  {#kArya#}¦kār-yâ,
+31086 old {#kArya#}¦kār-yâ, {%fp.%} to be done, made, performed, 
+;
+31086 new {#kArya#}¦kār-yâ, {%fp.%} to be done, made, performed, 
+; -------------------------------------
+; <L>5908<pc>068-3<k1>kiyat
+; â  {@â@})
+31749 old ({%lc. with prp.%} {@â@}) since how long?
+;
+31749 new ({%lc. with prp.%} {@â@}) since how long?
+; -------------------------------------
+; <L>6084<pc>070-3<k1>kulapatana
+; â  {@-pâ,@}
+32732 old {@-parvata,@} {%m.%} chief mtn. {%or%} mtn.-range; {@-pâ,@} 
+;
+32732 new {@-parvata,@} {%m.%} chief mtn. {%or%} mtn.-range; {@-pâ,@} 
+; -------------------------------------
+; <L>6159<pc>071-3<k1>kUj
+; û  {@kûja@},
+33156 old {#kUj#}¦KŪJ, I.P. {@kûja@}, utter monotonous 
+;
+33156 new {#kUj#}¦KŪJ, I.P. {@kûja@}, utter monotonous 
+; -------------------------------------
+; <L>6304<pc>074-3<k1>keSAkeSi
+; ê  têteá-tête.
+34237 old {#keSAkeSi#}¦keśā-keśi, {%ad.%} hair to hair = têteá-tête. <lbinfo n="6"/>
+;
+34237 new {#keSAkeSi#}¦keśā-keśi, {%ad.%} hair to hair = têteá-tête. <lbinfo n="6"/>
+; -------------------------------------
+; <L>6458<pc>076-3<k1>krI
+; â  {@krī-ṇâ,
+35126 old {#krI#}¦KRĪ, IX. {@krī-ṇâ, iṇī@}, buy from ({%ab., %}
+;
+35126 new {#krI#}¦KRĪ, IX. {@krī-ṇâ, iṇī@}, buy from ({%ab., %}
+; -------------------------------------
+; <L>6459<pc>076-3<k1>krIq
+; î  {@krîḍa@},
+; î  {@krîḷa@},
+35136 old {#krIq#}¦KRĪḌ, I. {@krîḍa@}, {%V.%} {@krîḷa@}, play, jest, 
+;
+35136 new {#krIq#}¦KRĪḌ, I. {@krîḍa@}, {%V.%} {@krîḷa@}, play, jest, 
+; -------------------------------------
+; <L>6500<pc>077-2<k1>kva
+; â  {#kva#}¦kvâ,
+35387 old {#kva#}¦kvâ, {%ad.%} = {%lc. of%} ka; where? whither? 
+;
+35387 new {#kva#}¦kvâ, {%ad.%} = {%lc. of%} ka; where? whither? 
+; -------------------------------------
+; <L>6729<pc>080-2<k1>KAdira
+; î  ({@î@})
+36718 old {#KAdira#}¦khādirá, {%a.%} ({@î@}) made of Khadira  <lbinfo n="[]"/>
+;
+36718 new {#KAdira#}¦khādirá, {%a.%} ({@î@}) made of Khadira  <lbinfo n="[]"/>
+; -------------------------------------
+; <L>6735<pc>080-2<k1>KAra
+; î  {@î,@}
+36745 old {#KAra#}¦khāra, {%m.,%} {@î,@} {%f. a measure of capacity%}.
+;
+36745 new {#KAra#}¦khāra, {%m.,%} {@î,@} {%f. a measure of capacity%}.
+; -------------------------------------
+; <L>6875<pc>083-1<k1>gardaBa
+; î  {@î,@}
+37700 old {#gardaBa#}¦garda-bhá, {%m.%} ass: {@î,@} {%f.%} she-ass; 
+;
+37700 new {#gardaBa#}¦garda-bhá, {%m.%} ass: {@î,@} {%f.%} she-ass; 
+; -------------------------------------
+; <L>6970<pc>084-2<k1>girikuhara
+; â  {@-ṣṭhâ@},
+38290 old  on mountains (Rudra); {@-ṣṭhâ@}, {%a.%} = 
+;
+38290 new  on mountains (Rudra); {@-ṣṭhâ@}, {%a.%} = 
+; -------------------------------------
+; <L>6985<pc>084-2<k1>guNgu
+; û  {@û,@}
+38366 old  {@û,@} {%f. the personified%} new moon.
+;
+38366 new  {@û,@} {%f. the personified%} new moon.
+; -------------------------------------
+; <L>7041<pc>085-2<k1>guh
+; û  {@gûha,@}
+38759 old {#guh#}¦GUH, I. {@gûha,@} conceal, cover; keep 
+;
+38759 new {#guh#}¦GUH, I. {@gûha,@} conceal, cover; keep 
+; -------------------------------------
+; <L>7111<pc>086-3<k1>goda
+; â  {@-dâna,@}
+39235 old {@ā,@} {%f. N. of a river%}; {@-dâna,@} {%n.%} gift of cows; 
+;
+39235 new {@ā,@} {%f. N. of a river%}; {@-dâna,@} {%n.%} gift of cows; 
+; -------------------------------------
+; <L>7114<pc>086-3<k1>goDa
+; â  {@â,@}
+39251 old {#goDa#}¦go-dha, {%m. N. of a people%}; {@â,@} {%f.%} bowstring; <lbinfo n="3"/>
+;
+39251 new {#goDa#}¦go-dha, {%m. N. of a people%}; {@â,@} {%f.%} bowstring; <lbinfo n="3"/>
+; -------------------------------------
+; <L>7135<pc>087-1<k1>gomat
+; î  {@-î,@}
+39382 old cows; {@-î,@} {%f. N. of several rivers, esp. of a tributary %}<lbinfo n="5"/>
+;
+39382 new cows; {@-î,@} {%f. N. of several rivers, esp. of a tributary %}<lbinfo n="5"/>
+; -------------------------------------
+; <L>7156<pc>087-2<k1>gOra
+; î  ({@î@})
+39526 old {#gOra#}¦gaurá, {%a.%} ({@î@}) whitish, yellowish, reddish; <lbinfo n="3"/>
+;
+39526 new {#gOra#}¦gaurá, {%a.%} ({@î@}) whitish, yellowish, reddish; <lbinfo n="3"/>
+; -------------------------------------
+; <L>7166<pc>087-3<k1>graT
+; â  {@grath-nâ,
+39584 old {@grath-nâ, -nī, -n,@} tie, connect; compose: 
+;
+39584 new {@grath-nâ, -nī, -n,@} tie, connect; compose: 
+; -------------------------------------
+; <L>7179<pc>087-3<k1>grah
+; â  {@gṛh-ṇâ@},
+39657 old {#grah#}¦GRAH, IX. {@gṛh-ṇâ@}, {@-ṇī@}, {%-n,%} seize, 
+;
+39657 new {#grah#}¦GRAH, IX. {@gṛh-ṇâ@}, {@-ṇī@}, {%-n,%} seize, 
+; -------------------------------------
+; <L>7187<pc>088-2<k1>grahItavya
+; â  {#grahItavya#}¦grah-ī-tavyâ,
+39797 old {#grahItavya#}¦grah-ī-tavyâ, {%fp.%} to be taken, -- received, -- drawn ({%fluid%}); {@-ī-tṛ@}, {%m.%} seizer; 
+;
+39797 new {#grahItavya#}¦grah-ī-tavyâ, {%fp.%} to be taken, -- received, -- drawn ({%fluid%}); {@-ī-tṛ@}, {%m.%} seizer; 
+; -------------------------------------
+; <L>7204<pc>088-3<k1>grAhin
+; â  {@-yâ,@}
+39925 old  through; perceiving; pondering; {@-yâ,@} {%fp.%} 
+;
+39925 new  through; perceiving; pondering; {@-yâ,@} {%fp.%} 
+; -------------------------------------
+; <L>7281<pc>089-3<k1>GftakIrti
+; û  {@-pû,@}
+40379 old {@-pû,@} {%a.%} clarifying ghee; {@-pūra,@} {%m. kind of%} 
+;
+40379 new {@-pû,@} {%a.%} clarifying ghee; {@-pūra,@} {%m. kind of%} 
+; -------------------------------------
+; <L>7321<pc>090-a1<k1>cakra
+; î  {@î,@}
+40616 old {%mne; N. of a mountain%}; {@î,@} {%f.%} wheel.
+;
+40616 new {%mne; N. of a mountain%}; {@î,@} {%f.%} wheel.
+; -------------------------------------
+; <L>7387<pc>091-2<k1>caturdaSa
+; â  {@-daśa-dhâ@},
+41025 old {%a fortnight%}; {@-daśa-dhâ@}, {%ad.%} fourteenfold; 
+;
+41025 new {%a fortnight%}; {@-daśa-dhâ@}, {%ad.%} fourteenfold; 
+; -------------------------------------
+; <L>7751<pc>097-1<k1>CAya
+; â  {@â,@}
+43378 old {#CAya#}¦chāya, {%a.%} giving shade; {@â,@} {%f.%} shade, 
+;
+43378 new {#CAya#}¦chāya, {%a.%} giving shade; {@â,@} {%f.%} shade, 
+; -------------------------------------
+; <L>7809<pc>098-1<k1>jaGanya
+; â  {#jaGanya#}¦jaghan-yâ,
+43742 old {#jaGanya#}¦jaghan-yâ, {%a.%} hindermost, last, latest; 
+;
+43742 new {#jaGanya#}¦jaghan-yâ, {%a.%} hindermost, last, latest; 
+; -------------------------------------
+; <L>8105<pc>102-2<k1>jur
+; û  {@jûrya@},
+45539 old {#jur#}¦JUR, ({%V.%}) P. VI. {@jurá@}, IV. {@jûrya@}, 
+;
+45539 new {#jur#}¦JUR, ({%V.%}) P. VI. {@jurá@}, IV. {@jûrya@}, 
+; -------------------------------------
+; <L>8106<pc>102-2<k1>juz
+; â  {@tanvâs,@}
+45547 old in, enjoy ({%ac., g.%}); be pleased: {%with%} {@tanvâs,@} 
+;
+45547 new in, enjoy ({%ac., g.%}); be pleased: {%with%} {@tanvâs,@} 
+; -------------------------------------
+; <L>8114<pc>102-2<k1>jU
+; â  {@junâ@},
+45591 old {#jU#}¦JŪ, ({%V.%}) I.Ā. {@jáva@}, IX.P. {@junâ@}, speed; 
+;
+45591 new {#jU#}¦JŪ, ({%V.%}) I.Ā. {@jáva@}, IX.P. {@junâ@}, speed; 
+; -------------------------------------
+; <L>8123<pc>102-3<k1>jF
+; â  {@jârya@},
+45644 old out; IV.P. (Ā. {%rare%}) {@jârya@}, grow old {%or%} 
+;
+45644 new out; IV.P. (Ā. {%rare%}) {@jârya@}, grow old {%or%} 
+; -------------------------------------
+; <L>8145<pc>102-3<k1>jYA
+; â  jñâ@},
+45762 old know; {@na jñâ@}, know nothing of, disregard; 
+;
+45762 new know; {@na jñâ@}, know nothing of, disregard; 
+; -------------------------------------
+; <L>8156<pc>103-2<k1>jyA
+; î  {@jîya@}
+45901 old  deprive of (√ {%ac.%}); {%ps.%} {@jîya@} {%or%} {@jīya@}: 
+;
+45901 new  deprive of (√ {%ac.%}); {%ps.%} {@jîya@} {%or%} {@jīya@}: 
+; -------------------------------------
+; <L>8240<pc>104-a3<k1>Wakkura
+; ê  {%[Pagê04b-2]%}
+46342 old {%[Pagê04b-2]%}
+;
+46342 new {%[Pagê04b-2]%}
+; -------------------------------------
+; <L>8266<pc>104-a3<k1>qI
+; î  ḍîaya,
+46467 old {#qI#}¦ḌĪ, I.Ā. ḍaya, IV.Ā. ḍîaya, fly. {@ud,@} fly 
+;
+46467 new {#qI#}¦ḌĪ, I.Ā. ḍaya, IV.Ā. ḍîaya, fly. {@ud,@} fly 
+; -------------------------------------
+; <L>8318<pc>105-2<k1>tatiTa
+; î  ({@î@})
+46756 old {#tatiTa#}¦tati-thá, {%a.%} ({@î@}) the so-manieth.
+;
+46756 new {#tatiTa#}¦tati-thá, {%a.%} ({@î@}) the so-manieth.
+; -------------------------------------
+; <L>8402<pc>107-1<k1>tapasya
+; â  {#tapasya#}¦tapas-yâ,
+47380 old {#tapasya#}¦tapas-yâ, {%a.%} produced from heat; 
+;
+47380 new {#tapasya#}¦tapas-yâ, {%a.%} produced from heat; 
+; -------------------------------------
+; <L>8578<pc>109-1<k1>tAvat
+; â  {@mâ
+48371 old while; {@mâ tāvat,@} ({%interjectionally%}) not for 
+;
+48371 new while; {@mâ tāvat,@} ({%interjectionally%}) not for 
+; -------------------------------------
+; <L>8578<pc>109-1<k1>tAvat
+; â  {@tâvati,@}
+48376 old extent, just as far; {%lc.%} {@tâvati,@} so far; so long, 
+;
+48376 new extent, just as far; {%lc.%} {@tâvati,@} so far; so long, 
+; -------------------------------------
+; <L>8630<pc>110-1<k1>tizya
+; â  yâ),
+48684 old {#tizya#}¦tiṣyá, ({%or%} yâ), {%m. N. of a celestial archer; %}
+;
+48684 new {#tizya#}¦tiṣyá, ({%or%} yâ), {%m. N. of a celestial archer; %}
+; -------------------------------------
+; <L>8766<pc>112-1<k1>tedani
+; î  {@î@}),
+49523 old {#tedani#}¦tedani ({%or%} {@î@}), {%f.%} (coagulated) blood.
+;
+49523 new {#tedani#}¦tedani ({%or%} {@î@}), {%f.%} (coagulated) blood.
+; -------------------------------------
+; <L>8830<pc>112-3<k1>trayoviMSa
+; î  ({@î@})
+49886 old {#trayoviMSa#}¦trayo-viṃśá, {%a.%} ({@î@}) twenty-third.
+;
+49886 new {#trayoviMSa#}¦trayo-viṃśá, {%a.%} ({@î@}) twenty-third.
+; -------------------------------------
+; <L>8845<pc>113-1<k1>triMSatka
+; î  ({@î@})
+49973 old {@-tamá,@} {%ord. num.%} ({@î@}) thirtieth.
+;
+49973 new {@-tamá,@} {%ord. num.%} ({@î@}) thirtieth.
+; -------------------------------------
+; <L>8954<pc>114-3<k1>tveza
+; î  î@})
+50706 old {#tveza#}¦tveṣ-á, {%a.%} ({@ā, î@}) vehement; sublime; 
+;
+50706 new {#tveza#}¦tveṣ-á, {%a.%} ({@ā, î@}) vehement; sublime; 
+; -------------------------------------
+; <L>8985<pc>115-a2<k1>dakziRAdvAra
+; â  ({@â@})
+50889 old south-west; {%f.%} {@-pratīcī@}, south-west; ({@â@}) {@-pra-@}
+;
+50889 new south-west; {%f.%} {@-pratīcī@}, south-west; ({@â@}) {@-pra-@}
+; -------------------------------------
+; <L>9003<pc>115-a2<k1>daGna
+; â  ({@â,
+50988 old {#daGna#}¦dagh-ná, {%a.%} ({@â, ī@}) reaching to (-°).
+;
+50988 new {#daGna#}¦dagh-ná, {%a.%} ({@â, ī@}) reaching to (-°).
+; -------------------------------------
+; <L>9259<pc>119-2<k1>dAsya
+; â  {#dAsya#}¦dās-yâ,
+52556 old {#dAsya#}¦dās-yâ, {%m.%} bondage, servitude; service,  <lbinfo n="[]"/>
+;
+52556 new {#dAsya#}¦dās-yâ, {%m.%} bondage, servitude; service,  <lbinfo n="[]"/>
+; -------------------------------------
+; <L>9309<pc>120-1<k1>divAkara
+; â  {@-kīrtyâ,@}
+52856 old {@-kīrtyâ,@} {%a.%} to be recited by day; {%n. certain %}
+;
+52856 new {@-kīrtyâ,@} {%a.%} to be recited by day; {%n. certain %}
+; -------------------------------------
+; <L>9342<pc>120-3<k1>dIdi
+; ê  {@dīdếti,@}
+53115 old {#dIdi#}¦DĪ-DI, II.P. {@dīdếti,@} shine.
+;
+53115 new {#dIdi#}¦DĪ-DI, II.P. {@dīdếti,@} shine.
+; -------------------------------------
+; <L>9446<pc>122-2<k1>durvaca
+; â  {@-vâsas,@}
+53845 old {@-vāsanā,@} {%f.%} false notion; {@-vâsas,@} {%a.%} ill-clad; 
+;
+53845 new {@-vāsanā,@} {%f.%} false notion; {@-vâsas,@} {%a.%} ill-clad; 
+; -------------------------------------
+; <L>9484<pc>123-2<k1>dUtya
+; â  {#dUtya#}¦dūtyâ,
+54154 old {#dUtya#}¦dūtyâ, {%n.,%} {@ā,@} {%f.%} office of an envoy, message. <lbinfo n="3[]"/>
+;
+54154 new {#dUtya#}¦dūtyâ, {%n.,%} {@ā,@} {%f.%} office of an envoy, message. <lbinfo n="3[]"/>
+; -------------------------------------
+; <L>9565<pc>125-1<k1>devatya
+; â  {#devatya#}¦deva-tyâ,
+54717 old {#devatya#}¦deva-tyâ, {%a.%} having -- as a deity, sacred 
+;
+54717 new {#devatya#}¦deva-tyâ, {%a.%} having -- as a deity, sacred 
+; -------------------------------------
+; <L>9825<pc>128-2<k1>dvitva
+; â  {@-devatyâ,@}
+56271 old  {@-devatyâ,@} {%a.%} sacred to two deities; <lbinfo n="3"/>
+;
+56271 new  {@-devatyâ,@} {%a.%} sacred to two deities; <lbinfo n="3"/>
+; -------------------------------------
+; <L>9882<pc>129-3<k1>dvyaMSa
+; â  {@-âkṣara,@}
+56602 old  {@-âkṣara,@} {%n. sg.%} two syllables; {%a.%} 
+;
+56602 new  {@-âkṣara,@} {%n. sg.%} two syllables; {%a.%} 
+; -------------------------------------
+; <L>9884<pc>129-3<k1>dvyukTa
+; û  {@-ûraṇa@},
+56622 old {@-ûraṇa@}, {%a.%} having two lambs; {@-eka‡antara,@} 
+;
+56622 new {@-ûraṇa@}, {%a.%} having two lambs; {@-eka‡antara,@} 
+; -------------------------------------
+; <L>9984<pc>132-1<k1>DAnya
+; â  {#DAnya#}¦dhānyâ,
+57550 old {#DAnya#}¦dhānyâ, {%a.%} cereal; {%n. (m.) sg. pl.%} corn,  <lbinfo n="[]"/>
+;
+57550 new {#DAnya#}¦dhānyâ, {%a.%} cereal; {%n. (m.) sg. pl.%} corn,  <lbinfo n="[]"/>
+; -------------------------------------
+; <L>10059<pc>133-1<k1>DIrya
+; â  {#DIrya#}¦dhīr-yâ,
+57982 old {#DIrya#}¦dhīr-yâ, {%n.%} prudence, wisdom.
+;
+57982 new {#DIrya#}¦dhīr-yâ, {%n.%} prudence, wisdom.
+; -------------------------------------
+; <L>10091<pc>133-2<k1>DUmaketana
+; ê  {%[Pagê33-3]%}
+58167 old {%[Pagê33-3]%}
+;
+58167 new {%[Pagê33-3]%}
+; -------------------------------------
+; <L>10093<pc>133-2<k1>DUmaleKA
+; â  {@-śikhâ@},
+58187 old {%kind of%} cigarette; {@-śikhâ@}, {%f.%} column of smoke.
+;
+58187 new {%kind of%} cigarette; {@-śikhâ@}, {%f.%} column of smoke.
+; -------------------------------------
+; <L>10251<pc>135-a3<k1>nad
+; â  {@nâ-@}
+59136 old {%pp.%} {@nādita,@} resounding, with (-°); {%intv.%} {@nâ-@}
+;
+59136 new {%pp.%} {@nādita,@} resounding, with (-°); {%intv.%} {@nâ-@}
+; -------------------------------------
+; <L>10291<pc>136-2<k1>naBasya
+; â  {#naBasya#}¦nabhas-yâ,
+59378 old {#naBasya#}¦nabhas-yâ, {%a.%} misty; {%m.%} Bhādra, {%the %}
+;
+59378 new {#naBasya#}¦nabhas-yâ, {%a.%} misty; {%m.%} Bhādra, {%the %}
+; -------------------------------------
+; <L>10474<pc>139-2<k1>nAman
+; â  {@nâma,@}
+60542 old {@nāmnā kṛ@} {%or%} {@vi-dhā@}, name (¤2¤ {%ac.%}); {@nâma,@} {%ad.%} 
+;
+60542 new {@nāmnā kṛ@} {%or%} {@vi-dhā@}, name (¤2¤ {%ac.%}); {@nâma,@} {%ad.%} 
+; -------------------------------------
+; <L>10508<pc>139-3<k1>nAvya
+; â  {#nAvya#}¦nāv-yâ,
+60726 old {#nAvya#}¦nāv-yâ, {%a.%} navigable; {%n.,%} {@ā,@} {%f.%} navigable <lbinfo n="4"/>
+;
+60726 new {#nAvya#}¦nāv-yâ, {%a.%} navigable; {%n.,%} {@ā,@} {%f.%} navigable <lbinfo n="4"/>
+; -------------------------------------
+; <L>10514<pc>139-3<k1>nAsadAsIya
+; â  nâsad
+60760 old X, ¤129¤ ({%which begins%} nâsad āsīt).
+;
+60760 new X, ¤129¤ ({%which begins%} nâsad āsīt).
+; -------------------------------------
+; <L>10594<pc>141-1<k1>nindya
+; â  -yâ),
+61272 old {#nindya#}¦nínd-ya, ({%or%} -yâ), {%fp.%} blameworthy, 
+;
+61272 new {#nindya#}¦nínd-ya, ({%or%} -yâ), {%fp.%} blameworthy, 
+; -------------------------------------
+; <L>10805<pc>146-3<k1>nITa
+; î  {@nîthā,@}
+63173 old {#nITa#}¦nī-thá, {%n.%} musical air, song; {%f.%} {@nîthā,@} 
+;
+63173 new {#nITa#}¦nī-thá, {%n.%} musical air, song; {%f.%} {@nîthā,@} 
+; -------------------------------------
+; <L>10831<pc>147-1<k1>nu
+; û  {@nû
+63343 old {@-nu@}, either -- or; {@nû cid@}, henceforth, for ever; 
+;
+63343 new {@-nu@}, either -- or; {@nû cid@}, henceforth, for ever; 
+; -------------------------------------
+; <L>10935<pc>148-2<k1>nyakta
+; â  {#nyakta#}¦ni‡âkta,
+; â  {@-âkna,@}
+63949 old {#nyakta#}¦ni‡âkta, {%pp.%} √ añc; {@-âkna,@} {%pp.%} √ ac.
+;
+63949 new {#nyakta#}¦ni‡âkta, {%pp.%} √ añc; {@-âkna,@} {%pp.%} √ ac.
+; -------------------------------------
+; <L>10941<pc>148-3<k1>nyaYc
+; â  {#nyaYc#}¦ni‡âñc,
+; î  {@nîc-ī@})
+63980 old {#nyaYc#}¦ni‡âñc, {%a. (weak base%} {@nī́c@}; {%f.%} {@nîc-ī@}) 
+;
+63980 new {#nyaYc#}¦ni‡âñc, {%a. (weak base%} {@nī́c@}; {%f.%} {@nîc-ī@}) 
+; -------------------------------------
+; <L>10941<pc>148-3<k1>nyaYc
+; â  {@nyâk,@}
+63981 old downward; lowered ({%tone%}); {%n. ad.%} {@nyâk,@} 
+;
+63981 new downward; lowered ({%tone%}); {%n. ad.%} {@nyâk,@} 
+; -------------------------------------
+; <L>10946<pc>148-3<k1>nyarbuda
+; â  {#nyarbuda#}¦ni‡ârbuda,
+64006 old {#nyarbuda#}¦ni‡ârbuda, {%n.%} a hundred millions.
+;
+64006 new {#nyarbuda#}¦ni‡ârbuda, {%n.%} a hundred millions.
+; -------------------------------------
+; <L>10976<pc>149-1<k1>pakzya
+; â  {#pakzya#}¦pakṣ-yâ,
+64223 old {#pakzya#}¦pakṣ-yâ, {%a.%} siding with (-°).
+;
+64223 new {#pakzya#}¦pakṣ-yâ, {%a.%} siding with (-°).
+; -------------------------------------
+; <L>11001<pc>149-3<k1>paYcama
+; î  ({%î%})
+64406 old {#paYcama#}¦pañca-má, {%a.%} ({%î%}) fifth; {%with%} {@aṃśa@}, {%m.%} 
+;
+64406 new {#paYcama#}¦pañca-má, {%a.%} ({%î%}) fifth; {%with%} {@aṃśa@}, {%m.%} 
+; -------------------------------------
+; <L>11056<pc>150-3<k1>pat
+; â  (dvedhâ);
+64815 old cast, into ({%ac., lc.%}); divide {%in two%} (dvedhâ); 
+;
+64815 new cast, into ({%ac., lc.%}); divide {%in two%} (dvedhâ); 
+; -------------------------------------
+; <L>11096<pc>151-3<k1>paTya
+; ā̂  {@ā̂,@}
+65141 old  {@ā̂,@} {%f.%} path, way: -- {@revátī,@} bounteous 
+;
+65141 new  {@ā̂,@} {%f.%} path, way: -- {@revátī,@} bounteous 
+; -------------------------------------
+; <L>11138<pc>153-1<k1>payasya
+; â  {@â,@}
+65576 old {#payasya#}¦payas-ya, {%a.%} made from milk; {@â,@} {%f.%} 
+;
+65576 new {#payasya#}¦payas-ya, {%a.%} made from milk; {@â,@} {%f.%} 
+; -------------------------------------
+; <L>11375<pc>158-2<k1>paSavya
+; â  {#paSavya#}¦paśav-yâ,
+67497 old {#paSavya#}¦paśav-yâ, {%a.%} relating to {%or%} fit for cattle.
+;
+67497 new {#paSavya#}¦paśav-yâ, {%a.%} relating to {%or%} fit for cattle.
+; -------------------------------------
+; <L>11385<pc>158-3<k1>pastya
+; â  {#pastya#}¦pastyâ,
+67587 old {#pastya#}¦pastyâ, {%n.%} stall; {@ā,@} {%f. pl.%} homestead, 
+;
+67587 new {#pastya#}¦pastyâ, {%n.%} stall; {@ā,@} {%f. pl.%} homestead, 
+; -------------------------------------
+; <L>11402<pc>159-1<k1>pAkyA
+; ā̂  {#pAkyA#}¦pākyā̂,
+; â  (pākyâ),
+67716 old {#pAkyA#}¦pākyā̂, {%f.%} simplicity: {%only in.%} (pākyâ), 
+;
+67716 new {#pAkyA#}¦pākyā̂, {%f.%} simplicity: {%only in.%} (pākyâ), 
+; -------------------------------------
+; <L>11518<pc>161-1<k1>pArayitf
+; â  pārayitâ‡asmi.
+68505 old one who puts across; {%used as future in%} pārayitâ‡asmi. <lbinfo n="6"/>
+;
+68505 new one who puts across; {%used as future in%} pārayitâ‡asmi. <lbinfo n="6"/>
+; -------------------------------------
+; <L>11613<pc>162-3<k1>pitftarpaRa
+; â  {@-devatyâ,@}
+69140 old {@-devatyâ,@} {%a. id.%}; {@-devatā,@} {%f. pl.%} the Manes 
+;
+69140 new {@-devatyâ,@} {%a. id.%}; {@-devatā,@} {%f. pl.%} the Manes 
+; -------------------------------------
+; <L>11756<pc>165-2<k1>purIzya
+; â  {#purIzya#}¦purīṣ-yâ,
+70163 old {#purIzya#}¦purīṣ-yâ, {%a.%} being in the earth ({%ep. %}
+;
+70163 new {#purIzya#}¦purīṣ-yâ, {%a.%} being in the earth ({%ep. %}
+; -------------------------------------
+; <L>11773<pc>165-3<k1>puronuvAkyA
+; ā̂  {#puro'nuvAkyA#}¦puro-(a)nuvākyā̂,
+70321 old {#puro'nuvAkyA#}¦puro-(a)nuvākyā̂, {%f.%} introductory <lbinfo n="5"/>
+;
+70321 new {#puro'nuvAkyA#}¦puro-(a)nuvākyā̂, {%f.%} introductory <lbinfo n="5"/>
+; -------------------------------------
+; <L>11816<pc>166-3<k1>puzya
+; â  (-yâ)
+70658 old {%uppermost or best of anything%}); ¤2.¤ (-yâ) {%m.%} 
+;
+70658 new {%uppermost or best of anything%}); ¤2.¤ (-yâ) {%m.%} 
+; -------------------------------------
+; <L>12273<pc>181-1<k1>pravaRa
+; ê  {@-vaṇa-vidhêyī-bhū@},
+75375 old proneness to (-°); {@-vaṇa-vidhêyī-bhū@}, gladly 
+;
+75375 new proneness to (-°); {@-vaṇa-vidhêyī-bhū@}, gladly 
+; -------------------------------------
+; <L>12276<pc>181-2<k1>pravarga
+; â  {@-vargyâ,@}
+75423 old ({%used in the Pravargya ceremony%}); {@-vargyâ,@} 
+;
+75423 new ({%used in the Pravargya ceremony%}); {@-vargyâ,@} 
+; -------------------------------------
+; <L>12379<pc>184-3<k1>prAcya
+; â  {#prAcya#}¦prāc-yâ
+76547 old {#prAcya#}¦prāc-yâ ({%or%} yá), {%a.%} being in front; 
+;
+76547 new {#prAcya#}¦prāc-yâ ({%or%} yá), {%a.%} being in front; 
+; -------------------------------------
+; <L>12729<pc>192-3<k1>barhizmat
+; â  {@-yâ,@}
+79368 old strewing sacrificial grass = sacrificer; {@-yâ,@} {%a.%} 
+;
+79368 new strewing sacrificial grass = sacrificer; {@-yâ,@} {%a.%} 
+; -------------------------------------
+; <L>12785<pc>194-1<k1>bahutama
+; â  {@-devatyâ,@}
+79839 old many deities ({%verse%}); {@-devatyâ,@} {%a.%} belonging 
+;
+79839 new many deities ({%verse%}); {@-devatyâ,@} {%a.%} belonging 
+; -------------------------------------
+; <L>12828<pc>195-3<k1>bAlya
+; â  -yâ),
+80321 old {#bAlya#}¦bā́l-ya ({%or%} -yâ), {%n.%} infancy, childhood; 
+;
+80321 new {#bAlya#}¦bā́l-ya ({%or%} -yâ), {%n.%} infancy, childhood; 
+; -------------------------------------
+; <L>12877<pc>196-2<k1>bilva
+; â  {#bilva#}¦bilvâ,
+80662 old {#bilva#}¦bilvâ, {%m.%} {%a tree%} ({%Aegle Marmelos%}) 
+;
+80662 new {#bilva#}¦bilvâ, {%m.%} {%a tree%} ({%Aegle Marmelos%}) 
+; -------------------------------------
+; <L>12898<pc>197-2<k1>buDnya
+; â  {#buDnya#}¦budhn-yâ,
+80940 old {#buDnya#}¦budhn-yâ, {%a.%} coming from or belonging <lbinfo n="6"/>
+;
+80940 new {#buDnya#}¦budhn-yâ, {%a.%} coming from or belonging <lbinfo n="6"/>
+; -------------------------------------
+; <L>12972<pc>200-1<k1>brAhmaRAcCaMsin
+; â  {@-yâ,@}
+81757 old {@-īyā,@} {%f.%} office of the BrāhmaṇācCaṃsin; {@-yâ,@} 
+;
+81757 new {@-īyā,@} {%f.%} office of the BrāhmaṇācCaṃsin; {@-yâ,@} 
+; -------------------------------------
+; <L>13180<pc>204-2<k1>BArya
+; â  {#BArya#}¦bhār-yâ,
+83325 old {#BArya#}¦bhār-yâ, {%fp.%} to be borne; to be supported, <lbinfo n="3"/>
+;
+83325 new {#BArya#}¦bhār-yâ, {%fp.%} to be borne; to be supported, <lbinfo n="3"/>
+; -------------------------------------
+; <L>13180<pc>204-2<k1>BArya
+; ā̂  {@ā̂,@}
+83328 old  soldier: {@ā̂,@} {%f.%} wife; female, mate ({%of %}
+;
+83328 new  soldier: {@ā̂,@} {%f.%} wife; female, mate ({%of %}
+; -------------------------------------
+; <L>13277<pc>207-1<k1>Bujizya
+; â  {#Bujizya#}¦bhuj-iṣyâ,
+84228 old {#Bujizya#}¦bhuj-iṣyâ, {%a.%} bestowing food ({%V.%}); 
+;
+84228 new {#Bujizya#}¦bhuj-iṣyâ, {%a.%} bestowing food ({%V.%}); 
+; -------------------------------------
+; <L>13293<pc>207-1<k1>Buvas
+; â  svâḥ,
+84332 old svâḥ, {%and interpreted to mean%} air; {%when %}
+;
+84332 new svâḥ, {%and interpreted to mean%} air; {%when %}
+; -------------------------------------
+; <L>13332<pc>209-1<k1>BUr
+; â  bhúvaḥsvâḥ,
+84905 old bhúvaḥsvâḥ, {%where it is taken to mean earth; %}
+;
+84905 new bhúvaḥsvâḥ, {%where it is taken to mean earth; %}
+; -------------------------------------
+; <L>13585<pc>214-1<k1>matya
+; â  {#matya#}¦matyâ,
+86778 old {#matya#}¦matyâ, {%n.%} harrow {%or%} roller.
+;
+86778 new {#matya#}¦matyâ, {%n.%} harrow {%or%} roller.
+; -------------------------------------
+; <L>13595<pc>214-2<k1>maT
+; â  {@mathnâ,@}
+86842 old {@matha, mántha,@} IX.P. Ā. {@mathnâ,@} 
+;
+86842 new {@matha, mántha,@} IX.P. Ā. {@mathnâ,@} 
+; -------------------------------------
+; <L>13633<pc>215-1<k1>maDavya
+; â  {#maDavya#}¦madhav-yâ,
+87158 old {#maDavya#}¦madhav-yâ, {%a.%} prone {%or%} entitled to 
+;
+87158 new {#maDavya#}¦madhav-yâ, {%a.%} prone {%or%} entitled to 
+; -------------------------------------
+; <L>13697<pc>217-1<k1>manuzya
+; â  {#manuzya#}¦manuṣ-yâ,
+87780 old {#manuzya#}¦manuṣ-yâ, {%a.%} ({%V.%}) human; suitable 
+;
+87780 new {#manuzya#}¦manuṣ-yâ, {%a.%} ({%V.%}) human; suitable 
+; -------------------------------------
+; <L>13703<pc>217-1<k1>manogata
+; û  {@-jû@},
+87842 old =) guessing {%one's%} thoughts; {@-jû@}, {%a.%} swift as 
+;
+87842 new =) guessing {%one's%} thoughts; {@-jû@}, {%a.%} swift as 
+; -------------------------------------
+; <L>13708<pc>217-2<k1>mantavya
+; â  yâ),
+87915 old {#mantavya#}¦man-távya ({%or%} yâ), {%fp.%} to be thought; 
+;
+87915 new {#mantavya#}¦man-távya ({%or%} yâ), {%fp.%} to be thought; 
+; -------------------------------------
+; <L>13887<pc>221-2<k1>mahApakza
+; â  svâḥ);
+89563 old the great exclamation ({%i. e.%} bhū́r bhúvaḥ svâḥ); 
+;
+89563 new the great exclamation ({%i. e.%} bhū́r bhúvaḥ svâḥ); 
+; -------------------------------------
+; <L>14003<pc>225-1<k1>mADya
+; â  {#mADya#}¦mādhyâ,
+90552 old {#mADya#}¦mādhyâ, {%a.%} central.
+;
+90552 new {#mADya#}¦mādhyâ, {%a.%} central.
+; -------------------------------------
+; <L>14624<pc>238-1<k1>yakzma
+; â  {@-nâśana,@}
+95221 old {@-graha,@} {%m.%} attack of consumption; {@-nâśana,@} 
+;
+95221 new {@-graha,@} {%m.%} attack of consumption; {@-nâśana,@} 
+; -------------------------------------
+; <L>14676<pc>239-2<k1>yatra
+; â  kvâ
+95709 old whatever; {@yátra kvâ ca@} ({%V.%}), in any whatever; <lbinfo n="4"/>
+;
+95709 new whatever; {@yátra kvâ ca@} ({%V.%}), in any whatever; <lbinfo n="4"/>
+; -------------------------------------
+; <L>14753<pc>242-3<k1>yaSasya
+; â  {#yaSasya#}¦yaśas-yâ,
+96754 old {#yaSasya#}¦yaśas-yâ, {%a.%} leading to fame, glorious; <lbinfo n="5"/>
+;
+96754 new {#yaSasya#}¦yaśas-yâ, {%a.%} leading to fame, glorious; <lbinfo n="5"/>
+; -------------------------------------
+; <L>14780<pc>244-1<k1>yAjya
+; ā̂  {@ā̂,@}
+97112 old {%m.%} institutor of a sacrifice: {@ā̂,@} {%f.%} sacrificial 
+;
+97112 new {%m.%} institutor of a sacrifice: {@ā̂,@} {%f.%} sacrificial 
+; -------------------------------------
+; <L>14914<pc>247-2<k1>yUTya
+; â  {#yUTya#}¦yūth-yâ,
+98292 old {#yUTya#}¦yūth-yâ, {%a.%} belonging to the herd ({%RV.%}); 
+;
+98292 new {#yUTya#}¦yūth-yâ, {%a.%} belonging to the herd ({%RV.%}); 
+; -------------------------------------
+; <L>15056<pc>250-3<k1>raTya
+; â  -yâ),
+99511 old {#raTya#}¦ráth-ya, ({%or%} -yâ), {%a.%} belonging {%or%} used 
+;
+99511 new {#raTya#}¦ráth-ya, ({%or%} -yâ), {%a.%} belonging {%or%} used 
+; -------------------------------------
+; <L>15085<pc>251-3<k1>ramya
+; â  {#ramya#}¦ram-yâ,
+99779 old {#ramya#}¦ram-yâ, {%a.%} pleasant, delightful, lovely, 
+;
+99779 new {#ramya#}¦ram-yâ, {%a.%} pleasant, delightful, lovely, 
+; -------------------------------------
+; <L>15093<pc>251-3<k1>rarAwya
+; ā̂  {@ā̂,@}
+99824 old {@ā̂,@} {%f.%} horizon; = rarāṭi.
+;
+99824 new {@ā̂,@} {%f.%} horizon; = rarāṭi.
+; -------------------------------------
+; <L>15157<pc>253-1<k1>rAjanya
+; â  {#rAjanya#}¦rājan-yâ,
+100347 old {#rAjanya#}¦rājan-yâ, {%a.%} royal; {%m.%} royal personage, <lbinfo n="6"/>
+;
+100347 new {#rAjanya#}¦rājan-yâ, {%a.%} royal; {%m.%} royal personage, <lbinfo n="6"/>
+; -------------------------------------
+; <L>15181<pc>253-3<k1>rAjya
+; â  rājyâ)
+100581 old {#rAjya#}¦rāj-yá, {%a.%} royal; {%n.%} (rā́jya {%or%} rājyâ) 
+;
+100581 new {#rAjya#}¦rāj-yá, {%a.%} royal; {%n.%} (rā́jya {%or%} rājyâ) 
+; -------------------------------------
+; <L>15190<pc>254-1<k1>rAtrI
+; â  râtri).
+100673 old {%cp.%} rāma], night ({%older V. form of%} râtri).
+;
+100673 new {%cp.%} rāma], night ({%older V. form of%} râtri).
+; -------------------------------------
+; <L>15214<pc>254-3<k1>rAmyA
+; ā̂  ā̂),
+100839 old {#rAmyA#}¦rā́m-yā ({%or%} ā̂), {%f.%} night ({%V.%}).
+;
+100839 new {#rAmyA#}¦rā́m-yā ({%or%} ā̂), {%f.%} night ({%V.%}).
+; -------------------------------------
+; <L>15675<pc>265-2<k1>lokya
+; â  {#lokya#}¦lok-yâ,
+104622 old {#lokya#}¦lok-yâ, {%a.%} bestowing worlds {%or%} freedom; <lbinfo n="4"/>
+;
+104622 new {#lokya#}¦lok-yâ, {%a.%} bestowing worlds {%or%} freedom; <lbinfo n="4"/>
+; -------------------------------------
+; <L>15740<pc>266-a1<k1>vaktavya
+; â  yâ),
+105045 old {#vaktavya#}¦vak-távya, ({%or%} yâ), {%fp.%} to be said, 
+;
+105045 new {#vaktavya#}¦vak-távya, ({%or%} yâ), {%fp.%} to be said, 
+; -------------------------------------
+; <L>15929<pc>270-1<k1>vayya
+; â  {#vayya#}¦vayyâ,
+106410 old {#vayya#}¦vayyâ, {%m.%} companion ({%RV.%}).
+;
+106410 new {#vayya#}¦vayyâ, {%m.%} companion ({%RV.%}).
+; -------------------------------------
+; <L>15971<pc>270-3<k1>varuRya
+; â  {#varuRya#}¦varuṇ-yâ,
+106693 old {#varuRya#}¦varuṇ-yâ, {%a.%} belonging to {%or%} coming 
+;
+106693 new {#varuRya#}¦varuṇ-yâ, {%a.%} belonging to {%or%} coming 
+; -------------------------------------
+; <L>15975<pc>270-3<k1>varUTya
+; â  {#varUTya#}¦varūth-yâ,
+106718 old {#varUTya#}¦varūth-yâ, {%a.%} protecting, sheltering  <lbinfo n="[]"/>
+;
+106718 new {#varUTya#}¦varūth-yâ, {%a.%} protecting, sheltering  <lbinfo n="[]"/>
+; -------------------------------------
+; <L>16049<pc>272-1<k1>varzya
+; â  -yâ,
+107226 old {#varzya#}¦várṣ-ya ({%yv., or%} -yâ, {%RV.%}), {%a.%} rainy.
+;
+107226 new {#varzya#}¦várṣ-ya ({%yv., or%} -yâ, {%RV.%}), {%a.%} rainy.
+; -------------------------------------
+; <L>16122<pc>273-2<k1>vasavya
+; â  {#vasavya#}¦vasav-yâ,
+107774 old {#vasavya#}¦vasav-yâ, {%a.%} ({%V.%}) affluent ({%gods%}); {%n.%}  <lbinfo n="[]"/>
+;
+107774 new {#vasavya#}¦vasav-yâ, {%a.%} ({%V.%}) affluent ({%gods%}); {%n.%}  <lbinfo n="[]"/>
+; -------------------------------------
+; <L>16129<pc>273-3<k1>vasukft
+; â  {@-dâvan,@}
+107828 old  bountiful ({%V.%}); {@-dâvan,@} {%a. id.%} 
+;
+107828 new  bountiful ({%V.%}); {@-dâvan,@} {%a. id.%} 
+; -------------------------------------
+; <L>16171<pc>275-1<k1>vA
+; û  {@vyûta@}
+108268 old {@vyûta@} ({%V.%}), woven, variegated ({%garment%}); 
+;
+108268 new {@vyûta@} ({%V.%}), woven, variegated ({%garment%}); 
+; -------------------------------------
+; <L>16173<pc>275-1<k1>vAkovAkya
+; â  {#vAkovAkya#}¦vāko-vākyâ,
+108279 old {#vAkovAkya#}¦vāko-vākyâ, {%n.%} dialogue; {%N. of %}
+;
+108279 new {#vAkovAkya#}¦vāko-vākyâ, {%n.%} dialogue; {%N. of %}
+; -------------------------------------
+; <L>16305<pc>277-2<k1>vAyava
+; â  {@-yâ,@}
+109205 old north-west; {@-īya,@} {%a. id.%}; {@-yâ,@} {%a. id.%}; ± pā́tra, 
+;
+109205 new north-west; {@-īya,@} {%a. id.%}; {@-yâ,@} {%a. id.%}; ± pā́tra, 
+; -------------------------------------
+; <L>16419<pc>279-1<k1>vAstava
+; â  {@-yâ,@}
+109927 old {@-ika,@} {%a. id.%}; {%m.%} realist; gardener; {@-yâ,@} {%a.%} 
+;
+109927 new {@-ika,@} {%a. id.%}; {%m.%} realist; gardener; {@-yâ,@} {%a.%} 
+; -------------------------------------
+; <L>16549<pc>283-1<k1>vidaTya
+; â  {#vidaTya#}¦vidath-yâ,
+111236 old {#vidaTya#}¦vidath-yâ, {%a.%} ({%V.%}) suitable for an 
+;
+111236 new {#vidaTya#}¦vidath-yâ, {%a.%} ({%V.%}) suitable for an 
+; -------------------------------------
+; <L>16758<pc>290-2<k1>viSya
+; â  {#viSya#}¦viś-yâ,
+113610 old {#viSya#}¦viś-yâ, {%a.%} forming a --, belonging {%etc.%} 
+;
+113610 new {#viSya#}¦viś-yâ, {%a.%} forming a --, belonging {%etc.%} 
+; -------------------------------------
+; <L>16845<pc>292-2<k1>vizvadryaYc
+; â  {@-dryâk,@}
+114320 old in all directions: {%ad.%} {@-dryâk,@} away ({%RV.¹%}).
+;
+114320 new in all directions: {%ad.%} {@-dryâk,@} away ({%RV.¹%}).
+; -------------------------------------
+; <L>16880<pc>293-2<k1>vI
+; ê  {@vếti,@}
+114635 old {#vI#}¦VĪ, II.P. {@vếti,@} ({%V.%}) set in motion, 
+;
+114635 new {#vI#}¦VĪ, II.P. {@vếti,@} ({%V.%}) set in motion, 
+; -------------------------------------
+; <L>16920<pc>294-1<k1>vIrya
+; â  {#vIrya#}¦vīr-yâ,
+114932 old {#vIrya#}¦vīr-yâ, {%a.%} manliness, valour; power, 
+;
+114932 new {#vIrya#}¦vīr-yâ, {%a.%} manliness, valour; power, 
+; -------------------------------------
+; <L>16920<pc>294-1<k1>vIrya
+; â  ({@â@})
+114935 old vigour; ({@â@}) {@-vat,@} {%a.%} strong, powerful, efficacious; 
+;
+114935 new vigour; ({@â@}) {@-vat,@} {%a.%} strong, powerful, efficacious; 
+; -------------------------------------
+; <L>16933<pc>294-3<k1>vfkzya
+; â  {#vfkzya#}¦vṛkṣ-yâ,
+115126 old {#vfkzya#}¦vṛkṣ-yâ, {%n.%} tree-fruit ({%Br. S.%}).
+;
+115126 new {#vfkzya#}¦vṛkṣ-yâ, {%n.%} tree-fruit ({%Br. S.%}).
+; -------------------------------------
+; <L>17044<pc>298-3<k1>veditf
+; â  {@â@}),
+116384 old ({%ac. in V., g.%}, -° {%in C.%}); {@-i-távya@} ({%or%} {@â@}), 
+;
+116384 new ({%ac. in V., g.%}, -° {%in C.%}); {@-i-távya@} ({%or%} {@â@}), 
+; -------------------------------------
+; <L>17313<pc>303-1<k1>vyazwi
+; â  {#vyazwi#}¦vi‡âṣṭi,
+118161 old {#vyazwi#}¦vi‡âṣṭi, {%f.%} obtainment, success ({%V.%}); 
+;
+118161 new {#vyazwi#}¦vi‡âṣṭi, {%f.%} obtainment, success ({%V.%}); 
+; -------------------------------------
+; <L>17358<pc>304-2<k1>vyucCa
+; û  {@-ûta,@}
+118564 old should interrupt ({%V.%}); {@-ûta,@} {%pp.%} √ ¤4.¤ vā; 
+;
+118564 new should interrupt ({%V.%}); {@-ûta,@} {%pp.%} √ ¤4.¤ vā; 
+; -------------------------------------
+; <L>17358<pc>304-2<k1>vyucCa
+; û  {@-ûṣ-@}
+118581 old √ vas, shine; {%n.%} daybreak ({%only lc.%}); {@-ûṣ-@}
+;
+118581 new √ vas, shine; {%n.%} daybreak ({%only lc.%}); {@-ûṣ-@}
+; -------------------------------------
+; <L>17582<pc>309-1<k1>SaravyA
+; ā̂  {#SaravyA#}¦śaravyā̂,
+120289 old {#SaravyA#}¦śaravyā̂, {%f.%} arrow-shot ({%V.%}).
+;
+120289 new {#SaravyA#}¦śaravyā̂, {%f.%} arrow-shot ({%V.%}).
+; -------------------------------------
+; <L>17766<pc>311-3<k1>SAmulya
+; â  {#SAmulya#}¦śāmulyâ,
+121450 old {#SAmulya#}¦śāmulyâ, {%n.%} woollen shirt ({%RV.¹%}).
+;
+121450 new {#SAmulya#}¦śāmulyâ, {%n.%} woollen shirt ({%RV.¹%}).
+; -------------------------------------
+; <L>17972<pc>315-2<k1>SIrzaRya
+; â  {#SIrzaRya#}¦śīrṣaṇ-yâ,
+122858 old {#SIrzaRya#}¦śīrṣaṇ-yâ, {%a.%} being on the head ({%V., %}
+;
+122858 new {#SIrzaRya#}¦śīrṣaṇ-yâ, {%a.%} being on the head ({%V., %}
+; -------------------------------------
+; <L>18267<pc>320-2<k1>Sravasya
+; â  {#Sravasya#}¦śravas-yâ,
+124830 old {#Sravasya#}¦śravas-yâ, {%a%}) {%n.%} ({%RV.%}) praise, renown; <lbinfo n="2"/>
+;
+124830 new {#Sravasya#}¦śravas-yâ, {%a%}) {%n.%} ({%RV.%}) praise, renown; <lbinfo n="2"/>
+; -------------------------------------
+; <L>18568<pc>329-2<k1>sajala
+; â  {@-jātyâ@},
+127782 old {@-jātīya@}, {%a. id.%}; {@-jātyâ@}, {%a.%} skin ({%V., C.%}); {%n.%} 
+;
+127782 new {@-jātīya@}, {%a. id.%}; {@-jātyâ@}, {%a.%} skin ({%V., C.%}); {%n.%} 
+; -------------------------------------
+; <L>18656<pc>332-1<k1>sadasya
+; â  {#sadasya#}¦sadas-yâ,
+128700 old {#sadasya#}¦sadas-yâ, {%a.%} belonging to {%or%} being in 
+;
+128700 new {#sadasya#}¦sadas-yâ, {%a.%} belonging to {%or%} being in 
+; -------------------------------------
+; <L>18693<pc>332-3<k1>saDamad
+; â  {@-mādyâ,@}
+128946 old with ({%in.%}); companionship; {@-mādyâ,@} {%a.%} ({%V.%}) 
+;
+128946 new with ({%in.%}); companionship; {@-mādyâ,@} {%a.%} ({%V.%}) 
+; -------------------------------------
+; <L>18852<pc>336-3<k1>samarya
+; â  {#samarya#}¦sa-maryâ,
+130322 old {#samarya#}¦sa-maryâ, {%a.%} ({%RV., rare%}) attended 
+;
+130322 new {#samarya#}¦sa-maryâ, {%a.%} ({%RV., rare%}) attended 
+; -------------------------------------
+; <L>18894<pc>337-3<k1>samApana
+; â  {@-āpyâ,@}
+130669 old  {%anything%}; {@-āpyâ,@} {%fp.%} to be attained 
+;
+130669 new  {%anything%}; {@-āpyâ,@} {%fp.%} to be attained 
+; -------------------------------------
+; <L>19027<pc>341-3<k1>sarvadeva
+; â  {@-devatyâ,@}
+132027 old {@-devatyâ,@} {%a.%} sacred to {%or%} representing all the 
+;
+132027 new {@-devatyâ,@} {%a.%} sacred to {%or%} representing all the 
+; -------------------------------------
+; <L>19097<pc>344-2<k1>sahasya
+; â  {#sahasya#}¦sahas-yâ,
+132859 old {#sahasya#}¦sahas-yâ, {%a.%} mighty, strong ({%V.%}); {%m. %}
+;
+132859 new {#sahasya#}¦sahas-yâ, {%a.%} mighty, strong ({%V.%}); {%m. %}
+; -------------------------------------
+; <L>19645<pc>357-2<k1>sUr
+; â  su‡â{@r@},
+137503 old {#sUr#}¦sū́r = {#svar#} su‡â{@r@}, sun, heaven ({%V.%}): {%only%} 
+;
+137503 new {#sUr#}¦sū́r = {#svar#} su‡â{@r@}, sun, heaven ({%V.%}): {%only%} 
+; -------------------------------------
+; <L>19843<pc>361-3<k1>sku
+; ô  {@skunốti,@}
+139076 old {#sku#}¦SKU, V.P. {@skunốti,@} pick, poke; cover; 
+;
+139076 new {#sku#}¦SKU, V.P. {@skunốti,@} pick, poke; cover; 
+; -------------------------------------
+; <L>20011<pc>367-1<k1>snIhan
+; â  {@-â,@}
+140785 old {#snIhan#}¦snīh-án, {%m. or%} {@-â,@} {%f.%} [√ snih] moisture <lbinfo n="4"/>
+;
+140785 new {#snIhan#}¦snīh-án, {%m. or%} {@-â,@} {%f.%} [√ snih] moisture <lbinfo n="4"/>
+; -------------------------------------
+; <L>20219<pc>371-2<k1>svar
+; â  {#svar#}¦svâr
+142393 old {#svar#}¦svâr ({%in YV. also%} {#suvar#} súvar), {%indecl.%} 
+;
+142393 new {#svar#}¦svâr ({%in YV. also%} {#suvar#} súvar), {%indecl.%} 
+; -------------------------------------
+; <L>20219<pc>371-2<k1>svar
+; â  svâr
+142398 old {%formula%} bhū́r bhúvaḥ svâr ({%being the third %}
+;
+142398 new {%formula%} bhū́r bhúvaḥ svâr ({%being the third %}
+; -------------------------------------
+; <L>20239<pc>371-3<k1>svargya
+; â  {#svargya#}¦svarg-yâ,
+142563 old {#svargya#}¦svarg-yâ, {%a.%} leading to heaven, celestial; 
+;
+142563 new {#svargya#}¦svarg-yâ, {%a.%} leading to heaven, celestial; 
+; -------------------------------------
+; <L>20244<pc>372-1<k1>svarRara
+; â  {#svarRara#}¦svâr-ṇara,
+142597 old {#svarRara#}¦svâr-ṇara, {%m.%} lord of splendour, {%ep. %}
+;
+142597 new {#svarRara#}¦svâr-ṇara, {%m.%} lord of splendour, {%ep. %}
+; -------------------------------------
+; <L>20247<pc>372-1<k1>svardfS
+; â  ({@svâr@})
+142619 old ({@svâr@}) {@-bhānu,@} {%m.%} [keeping = withholding the 
+;
+142619 new ({@svâr@}) {@-bhānu,@} {%m.%} [keeping = withholding the 
+; -------------------------------------
+; <L>20248<pc>372-1<k1>svarya
+; â  {#svarya#}¦svar-yâ,
+142627 old {#svarya#}¦svar-yâ, {%a.%} ({@ā,@} {%C.%}; {@-ī́,@} {%V.%}) resounding, 
+;
+142627 new {#svarya#}¦svar-yâ, {%a.%} ({@ā,@} {%C.%}; {@-ī́,@} {%V.%}) resounding, 
+; -------------------------------------
+; <L>20250<pc>372-1<k1>svarvat
+; â  {#svarvat#}¦svâr-vat,
+142640 old {#svarvat#}¦svâr-vat, {%a.%} bright, celestial ({%V.%}); 
+;
+142640 new {#svarvat#}¦svâr-vat, {%a.%} bright, celestial ({%V.%}); 
+; -------------------------------------
+; <L>20250<pc>372-1<k1>svarvat
+; â  ({@svâr@})
+142646 old √ san] = -vid; ({@svâr@}) {@-ṣāti,@} {%f.%} winning of 
+;
+142646 new √ san] = -vid; ({@svâr@}) {@-ṣāti,@} {%f.%} winning of 
+; -------------------------------------
+; <L>20260<pc>372-2<k1>svavaSa
+; â  {@-âvas,@}
+142707 old  {@-âvas,@} {%a.%} granting good protection, 
+;
+142707 new  {@-âvas,@} {%a.%} granting good protection, 
+; -------------------------------------
+; <L>20453<pc>376-1<k1>havizkft
+; â  {@-yâ,@}
+144176 old {%Aṅgiras%} ({%C.%}); {@-yâ,@} {%a.%} suitable {%or%} prepared 
+;
+144176 new {%Aṅgiras%} ({%C.%}); {@-yâ,@} {%a.%} suitable {%or%} prepared 
+; -------------------------------------
+; <L>20497<pc>377-2<k1>hArya
+; â  {#hArya#}¦hār-yâ,
+144612 old {#hArya#}¦hār-yâ, {%fp.%} to be borne {%or%} carried by 
+;
+144612 new {#hArya#}¦hār-yâ, {%fp.%} to be borne {%or%} carried by 
+; -------------------------------------
+; <L>20597<pc>380-1<k1>hfdayya
+; â  {#hfdayya#}¦hṛday-yâ,
+145523 old {#hfdayya#}¦hṛday-yâ, {%a.%} being in the heart ({%V.%}); 
+;
+145523 new {#hfdayya#}¦hṛday-yâ, {%a.%} being in the heart ({%V.%}); 
