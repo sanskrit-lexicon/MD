@@ -119,7 +119,7 @@ slp1 vowels with possible iast (lower and upper case)
 ; â  āvyâ;
 20424 old {#AvI#}¦āvī, {#Avi#} āvi {%and%} {#Avya#} āvyâ; 
 ;
-20424 new {#AvI#}¦āvī, {#Avi#} āvi {%and%} {#Avya#} āvyā́; 
+20424 new {#AvI#}¦āvī, {#Avi#} āvi {%and%} {#Avya#} āvyâ; 
 ; -------------------------------------
 ; <L>3923<pc>043-1<k1>Avya
 ; â  {#Avya#}¦āvyâ,
@@ -239,7 +239,7 @@ slp1 vowels with possible iast (lower and upper case)
 ; â  -kahâ,@}
 26845 old  {@-kṣán, -kahâ,@} {%m. N. of the first %}
 ;
-26845 new  {@-kṣán, -kṣhā́,@} {%m. N. of the first %}
+26845 new  {@-kṣán, -kṣā́,@} {%m. N. of the first %}
 ; -------------------------------------
 ; <L>5082<pc>057-a2<k1>ekatatpara
 ; â  {@-devatyâ,@}
@@ -257,7 +257,7 @@ slp1 vowels with possible iast (lower and upper case)
 ; â  {@-râjá@},
 27046 old  {@-râjá@}, {%m.%} monarch; {@-rātrá,@} {%m.%} 
 ;
-27046 new  {@-rājá@}, {%m.%} monarch; {@-rātrá,@} {%m.%} 
+27046 new {@-rā́j,@} {@-rājá@}, {%m.%} monarch; {@-rātrá,@} {%m.%} 
 ; -------------------------------------
 ; <L>5085<pc>058-1<k1>ekala
 ; î  ({@î@})
@@ -276,7 +276,7 @@ slp1 vowels with possible iast (lower and upper case)
 ; ā̂  {#kakzyA#}¦kakṣyā̂,
 28349 old {#kakzyA#}¦kakṣyā̂, {%f.%} girdle, girth; circular wall, 
 ;
-28349 new {#kakzyA#}¦kakṣyā̂, {%f.%} girdle, girth; circular wall, 
+28349 new {#kakzyA#}¦kakṣyâ, {%f.%} girdle, girth; circular wall, 
 ; -------------------------------------
 ; <L>5447<pc>062-2<k1>kanIna
 ; î  ({@îna@})
@@ -342,7 +342,7 @@ slp1 vowels with possible iast (lower and upper case)
 ; ê  têteá-tête.
 34237 old {#keSAkeSi#}¦keśā-keśi, {%ad.%} hair to hair = têteá-tête. <lbinfo n="6"/>
 ;
-34237 new {#keSAkeSi#}¦keśā-keśi, {%ad.%} hair to hair = têteà-tête. <lbinfo n="6"/>
+34237 new {#keSAkeSi#}¦keśā-keśi, {%ad.%} hair to hair = tête-à-tête. <lbinfo n="6"/>
 ; -------------------------------------
 ; <L>6458<pc>076-3<k1>krI
 ; â  {@krī-ṇâ,
@@ -409,7 +409,7 @@ slp1 vowels with possible iast (lower and upper case)
 ; â  {@â,@}
 39251 old {#goDa#}¦go-dha, {%m. N. of a people%}; {@â,@} {%f.%} bowstring; <lbinfo n="3"/>
 ;
-39251 new {#goDa#}¦go-dha, {%m. N. of a people%}; {@ā́,@} {%f.%} bowstring; <lbinfo n="3"/>
+39251 new {#goDa#}¦go-dha, {%m. N. of a people%}; {@ā́,@} {%f.%} bow-string;
 ; -------------------------------------
 ; <L>7135<pc>087-1<k1>gomat
 ; î  {@-î,@}
@@ -517,13 +517,13 @@ slp1 vowels with possible iast (lower and upper case)
 ; ê  {%[Pagê04b-2]%}
 46342 old {%[Pagê04b-2]%}
 ;
-46342 new {%[Page 104b-2]%}
+46342 new [Page104b-2]
 ; -------------------------------------
 ; <L>8266<pc>104-a3<k1>qI
 ; î  ḍîaya,
 46467 old {#qI#}¦ḌĪ, I.Ā. ḍaya, IV.Ā. ḍîaya, fly. {@ud,@} fly 
 ;
-46467 new {#qI#}¦ḌĪ, I.Ā. ḍaya, IV.Ā. ḍī́aya, fly. {@ud,@} fly 
+46467 new {#qI#}¦ḌĪ, I.Ā. ḍaya, IV.Ā. ḍī́ya, fly. {@ud,@} fly 
 ; -------------------------------------
 ; <L>8318<pc>105-2<k1>tatiTa
 ; î  ({@î@})
@@ -607,7 +607,7 @@ slp1 vowels with possible iast (lower and upper case)
 ; ê  {@dīdếti,@}
 53115 old {#dIdi#}¦DĪ-DI, II.P. {@dīdếti,@} shine.
 ;
-53115 new {#dIdi#}¦DĪ-DI, II.P. {@dīdếti,@} shine.
+53115 new {#dIdi#}¦DĪ-DI, II.P. {@dīdéti,@} shine.
 ; -------------------------------------
 ; <L>9446<pc>122-2<k1>durvaca
 ; â  {@-vâsas,@}
@@ -637,13 +637,13 @@ slp1 vowels with possible iast (lower and upper case)
 ; â  {@-âkṣara,@}
 56602 old  {@-âkṣara,@} {%n. sg.%} two syllables; {%a.%} 
 ;
-56602 new  {@-ā́kṣara,@} {%n. sg.%} two syllables; {%a.%} 
+56602 new {@-âkṣara,@} {%n. sg.%} two syllables; {%a.%} 
 ; -------------------------------------
 ; <L>9884<pc>129-3<k1>dvyukTa
 ; û  {@-ûraṇa@},
 56622 old {@-ûraṇa@}, {%a.%} having two lambs; {@-eka‡antara,@} 
 ;
-56622 new {@-ū́raṇa@}, {%a.%} having two lambs; {@-eka‡antara,@} 
+56622 new {@-ûraṇa@}, {%a.%} having two lambs; {@-eka‡antara,@} 
 ; -------------------------------------
 ; <L>9984<pc>132-1<k1>DAnya
 ; â  {#DAnya#}¦dhānyâ,
@@ -661,7 +661,7 @@ slp1 vowels with possible iast (lower and upper case)
 ; ê  {%[Pagê33-3]%}
 58167 old {%[Pagê33-3]%}
 ;
-58167 new {%[Page 133-3]%}
+58167 new [Page133-3]
 ; -------------------------------------
 ; <L>10093<pc>133-2<k1>DUmaleKA
 ; â  {@-śikhâ@},
@@ -826,7 +826,7 @@ slp1 vowels with possible iast (lower and upper case)
 ; ê  {@-vaṇa-vidhêyī-bhū@},
 75375 old proneness to (-°); {@-vaṇa-vidhêyī-bhū@}, gladly 
 ;
-75375 new proneness to (-°); {@-vaṇa-vidhêyī-bhū@}, gladly 
+75375 new proneness to (-°); {@-vaṇa-vidhéyī-bhū@}, gladly 
 ; -------------------------------------
 ; <L>12276<pc>181-2<k1>pravarga
 ; â  {@-vargyâ,@}
@@ -1018,7 +1018,7 @@ slp1 vowels with possible iast (lower and upper case)
 ; â  râtri).
 100673 old {%cp.%} rāma], night ({%older V. form of%} râtri).
 ;
-100673 new {%cp.%} rāma], night ({%older V. form of%} râtri).
+100673 new {%cp.%} rāma], night ({%older V. form of%} rā́tri).
 ; -------------------------------------
 ; <L>15214<pc>254-3<k1>rAmyA
 ; ā̂  ā̂),
@@ -1060,7 +1060,7 @@ slp1 vowels with possible iast (lower and upper case)
 ; â  -yâ,
 107226 old {#varzya#}¦várṣ-ya ({%yv., or%} -yâ, {%RV.%}), {%a.%} rainy.
 ;
-107226 new {#varzya#}¦várṣ-ya ({%yv., or%} -yâ, {%RV.%}), {%a.%} rainy.
+107226 new {#varzya#}¦várṣ-ya ({%YV., or%} -yâ, {%RV.%}), {%a.%} rainy.
 ; -------------------------------------
 ; <L>16122<pc>273-2<k1>vasavya
 ; â  {#vasavya#}¦vasav-yâ,
@@ -1072,7 +1072,7 @@ slp1 vowels with possible iast (lower and upper case)
 ; â  {@-dâvan,@}
 107828 old  bountiful ({%V.%}); {@-dâvan,@} {%a. id.%} 
 ;
-107828 new  bountiful ({%V.%}); {@-dâvan,@} {%a. id.%} 
+107828 new  bountiful ({%V.%}); {@-dā́van,@} {%a. id.%} 
 ; -------------------------------------
 ; <L>16171<pc>275-1<k1>vA
 ; û  {@vyûta@}
@@ -1120,7 +1120,7 @@ slp1 vowels with possible iast (lower and upper case)
 ; ê  {@vếti,@}
 114635 old {#vI#}¦VĪ, II.P. {@vếti,@} ({%V.%}) set in motion, 
 ;
-114635 new {#vI#}¦VĪ, II.P. {@vếti,@} ({%V.%}) set in motion, 
+114635 new {#vI#}¦VĪ, II.P. {@véti,@} ({%V.%}) set in motion, 
 ; -------------------------------------
 ; <L>16920<pc>294-1<k1>vIrya
 ; â  {#vIrya#}¦vīr-yâ,
@@ -1132,7 +1132,7 @@ slp1 vowels with possible iast (lower and upper case)
 ; â  ({@â@})
 114935 old vigour; ({@â@}) {@-vat,@} {%a.%} strong, powerful, efficacious; 
 ;
-114935 new vigour; ({@â@}) {@-vat,@} {%a.%} strong, powerful, efficacious; 
+114935 new vigour; ({@â@}){@-vat,@} {%a.%} strong, powerful, efficacious; 
 ; -------------------------------------
 ; <L>16933<pc>294-3<k1>vfkzya
 ; â  {#vfkzya#}¦vṛkṣ-yâ,
@@ -1240,7 +1240,7 @@ slp1 vowels with possible iast (lower and upper case)
 ; ô  {@skunốti,@}
 139076 old {#sku#}¦SKU, V.P. {@skunốti,@} pick, poke; cover; 
 ;
-139076 new {#sku#}¦SKU, V.P. {@skunốti,@} pick, poke; cover; 
+139076 new {#sku#}¦SKU, V.P. {@skunóti,@} pick, poke; cover; 
 ; -------------------------------------
 ; <L>20011<pc>367-1<k1>snIhan
 ; â  {@-â,@}
