@@ -276,7 +276,7 @@ slp1 vowels with possible iast (lower and upper case)
 ; ā̂  {#kakzyA#}¦kakṣyā̂,
 28349 old {#kakzyA#}¦kakṣyā̂, {%f.%} girdle, girth; circular wall, 
 ;
-28349 new {#kakzyA#}¦kakṣyâ, {%f.%} girdle, girth; circular wall, 
+28349 new {#kakzyA#}¦kakṣyā̂, {%f.%} girdle, girth; circular wall, 
 ; -------------------------------------
 ; <L>5447<pc>062-2<k1>kanIna
 ; î  ({@îna@})
@@ -826,7 +826,7 @@ slp1 vowels with possible iast (lower and upper case)
 ; ê  {@-vaṇa-vidhêyī-bhū@},
 75375 old proneness to (-°); {@-vaṇa-vidhêyī-bhū@}, gladly 
 ;
-75375 new proneness to (-°); {@-vaṇa-vidhéyī-bhū@}, gladly 
+75375 new proneness to (-°); {@-vaṇa-vidhêyī-bhū@}, gladly 
 ; -------------------------------------
 ; <L>12276<pc>181-2<k1>pravarga
 ; â  {@-vargyâ,@}
