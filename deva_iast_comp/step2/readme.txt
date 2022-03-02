@@ -20,3 +20,8 @@ python make_change_circumflex.py temp_md.txt temp_slp1_iast.txt change_1.txt
 # cp change_1.txt change_1_edit.txt
   Do this only once. change_1_edit.txt is to be edited manually.
   change_1.txt is created by program make_change_circumflex.py
+
+#
+python updateByLine.py temp_md_00.txt change_1_edit_copy.txt temp_md_01.txt
+The program modify the copy of md.txt (temp_md_00.txt) according the changes included in the change_1_edit_copy.txt
+change_1_edit_copy.txt is the edited manually change_1_edit.txt
