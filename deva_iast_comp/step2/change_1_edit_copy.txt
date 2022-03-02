@@ -1,5 +1,5 @@
 ; ===================================================
-slp1 vowels with possible iast (lower and upper case)
+;slp1 vowels with possible iast (lower and upper case)
 ; slp1 a : aï AÏ aü AÜ à À á Á â Â
 ; slp1 A : ā Ā ā̀ Ā̀ ā́ Ā́ ā̂ Ā̂
 ; slp1 i : ì Ì í Í î Î
