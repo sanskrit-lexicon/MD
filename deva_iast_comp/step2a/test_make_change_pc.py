@@ -4,6 +4,32 @@
 from __future__ import print_function
 import sys, re,codecs
 import digentry
+
+class Pcerror(object):
+  def __init__(self,line):
+   # dummy property values
+   self.line = line
+   self.oldmetaline = re.sub(r"(:<pc>.*$)|("")", "", line)
+   self.newpc = re.sub(r"<L>.+:<pc>", "", line)
+   self.newmetaline = re.sub(r"<pc>.+<k1>", "<pc>" + self.newpc + "<k1>", self.oldmetaline)
+
+def init_pcrecs(filein):
+ recs=[]  # list of Pcerror objects, to be returned
+ dbg = True
+ with codecs.open(filein,encoding='utf-8',mode='r') as f:
+  for line in f:
+   line = line.rstrip('\r\n') # remove line-ending character(s)
+   rec = Pcerror(line) # parse line and get object
+   recs.append(rec)  # add this record
+ print(len(recs),"records read from",filein)
+ if dbg:  # print out first 3 records 
+  for i in range(0,3):
+   rec = recs[i]
+   print('record',i+1)  # why +1 ?
+   print(' oldmetaline = %s' % rec.oldmetaline)
+   print(' newpc       = %s' % rec.newpc)
+   print(' newmetaline = %s' % rec.newmetaline)
+ return recs
            
 class Change(object):
  def __init__(self,entry,iline,a):
@@ -89,33 +115,10 @@ if __name__=="__main__":
  filein1 = sys.argv[2]  # pcerrors.txt
  fileout = sys.argv[3] # changes
  entries = digentry.init(filein)
+ pcrecs = init_pcrecs(filein1)
  exit(1) # temporarily stop program here
  changes = generate_changes(entries,sirecscv)
  title = get_title(sirecs)
  write_changes(fileout,changes,title)
  
- class Pcerror(object):
-  def __init__(self,line):
-   # dummy property values
-   self.line = line
-   self.oldmetaline = line.split(" ", 1)
-   self.newpc = line.split("<pc>", 3)
-   self.newmetaline = re.sub(r':<pc>.*$', newpc, line)
 
-def init_pcrecs(filein):
- recs=[]  # list of Pcerror objects, to be returned
- dbg = True
- with codecs.open(filein,encoding='utf-8',mode='r') as f:
-  for line in f:
-   line = line.rstrip('\r\n') # remove line-ending character(s)
-   rec = Pcerror(line) # parse line and get object
-   recs.append(rec)  # add this record
- print(len(recs),"records read from",filein)
- if dbg:  # print out first 3 records 
-  for i in range(0,3):
-   rec = recs[i]
-   print('record',i+1)  # why +1 ?
-   print(' oldmetaline = %s' % rec.oldmetaline)
-   print(' newpc       = %s' % rec.newpc)
-   print(' newmetaline = %s' % rec.newmetaline)
- return recs
