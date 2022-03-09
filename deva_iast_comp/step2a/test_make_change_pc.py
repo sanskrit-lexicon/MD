@@ -9,7 +9,7 @@ class Pcerror(object):
   def __init__(self,line):
    # dummy property values
    self.line = line
-   self.oldmetaline = re.sub(r"(:<pc>.*$)|("")", "", line)
+   self.oldmetaline = re.sub(r"(:<pc>.*$)|(\s)", "", line)
    self.newpc = re.sub(r"<L>.+:<pc>", "", line)
    self.newmetaline = re.sub(r"<pc>.+<k1>", "<pc>" + self.newpc + "<k1>", self.oldmetaline)
 
@@ -26,9 +26,9 @@ def init_pcrecs(filein):
   for i in range(0,3):
    rec = recs[i]
    print('record',i+1)  # why +1 ?
-   print(' oldmetaline = %s' % rec.oldmetaline)
-   print(' newpc       = %s' % rec.newpc)
-   print(' newmetaline = %s' % rec.newmetaline)
+   print(' oldmetaline = "%s"' % rec.oldmetaline)
+   print(' newpc       = "%s"' % rec.newpc)
+   print(' newmetaline = "%s"' % rec.newmetaline)
  return recs
            
 class Change(object):
