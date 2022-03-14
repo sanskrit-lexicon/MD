@@ -32,29 +32,26 @@ def init_pcrecs(filein):
  return recs
            
 class Change(object):
- def __init__(self,entry,iline,a):
+ def __init__(self,entry,pcrec):
   self.entry = entry
-  self.iline = iline
-  self.wordcvs = a
+  self.pcrec = pcrec
+  
+def get_pcrec_for_entry(entry,pcrecs):
+ for pcrec in pcrecs:
+  if pcrec == entry:
+   return pcrec	 
+ # find which pcrec matches entry, and return that pcrec.
+ # If no match is found, return None
+  else:
+   return None
 
-def generate_changes(entries,cvrecs):
+def generate_changes(entries,pcrecs):
  changes = [] # computed by this function
  for entry in entries:
-  for iline,line in enumerate(entry.datalines):
-   lnum = entry.linenum1+iline+1
-   words = line.split() # Default split on white space
-   a = [] # list of (word,iast) tuples found in line
-   for word in words:
-    for cvrec in cvrecs:
-     if cvrec.iast in word:  
-      a.append((word,cvrec.iast))
-     if cvrec.iastcap in word:
-      a.append((word,cvrec.iastcap))
-   # words loop finished
-   if a == []:
-    continue  # no instances in this line
+  pcrec = get_pcrec_for_entry(entry,pcrecs)
+  if pcrec != None:
    # generate a change object 
-   change = Change(entry,iline,a)
+   change = Change(entry,pcrec)
    changes.append(change)
  print(len(changes),'lines that may need changes')
  return changes
@@ -116,8 +113,8 @@ if __name__=="__main__":
  fileout = sys.argv[3] # changes
  entries = digentry.init(filein)
  pcrecs = init_pcrecs(filein1)
+ changes = generate_changes(entries,pcrecs)
  exit(1) # temporarily stop program here
- changes = generate_changes(entries,sirecscv)
  title = get_title(sirecs)
  write_changes(fileout,changes,title)
  
