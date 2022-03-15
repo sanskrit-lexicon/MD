@@ -38,12 +38,11 @@ class Change(object):
   
 def get_pcrec_for_entry(entry,pcrecs):
  for pcrec in pcrecs:
-  if pcrec == entry:
+  if pcrec.oldmetaline == entry.metaline:
    return pcrec	 
  # find which pcrec matches entry, and return that pcrec.
  # If no match is found, return None
-  else:
-   return None
+ return None
 
 def generate_changes(entries,pcrecs):
  changes = [] # computed by this function
