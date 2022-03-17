@@ -39,7 +39,7 @@ class Change(object):
 def get_pcrec_for_entry(entry,pcrecs):
  for pcrec in pcrecs:
   if pcrec.oldmetaline == entry.metaline:
-   return pcrec	 
+   return pcrec
  # find which pcrec matches entry, and return that pcrec.
  # If no match is found, return None
  return None
@@ -55,23 +55,10 @@ def generate_changes(entries,pcrecs):
  print(len(changes),'lines that may need changes')
  return changes
 
-def get_title(sirecs):
+def get_title(pcrecs):
  outarr = []
  outarr.append('; ===================================================')
- outarr.append('slp1 vowels with possible iast (lower and upper case)')
- slp1vowels = 'aAiIuUfFxXeEoO'
- for v in slp1vowels:
-  a = []
-  for sirec in sirecs:
-   if sirec.slp1.startswith(v):
-    a.append(sirec.iast)
-    a.append(sirec.iastcap)
-  astr = ' '.join(a)  # string space separated
-  out = '; slp1 %s : %s' %(v,astr)
-  outarr.append(out)
- outarr.append('; ===================================================')
- outarr.append('; LINES CONTAINING IAST CIRCUMFLEX VOWELS')
- outarr.append('; CHANGE new LINE IF NEEDED')
+ outarr.append('; PC (page-column) ERRORS correction')
  outarr.append('; ===================================================')
  return outarr
                
@@ -81,24 +68,15 @@ def write_changes(fileout,changes,title):
  for change in changes:
   outarr = [] # lines for this change
   entry = change.entry
-  iline = change.iline
-  wordcvs = change.wordcvs
-  line = entry.datalines[iline]
-  linenum1 = entry.linenum1 
-  lnum = linenum1 + iline + 1 # the line number in xxx.txt of this line
-  #
+  pcrec = change.pcrec
   outarr.append('; -------------------------------------')
-  metaline = entry.metaline
-  metaline1 = re.sub(r'<k2>.*$','',metaline)  # just show L,pc,k1
-  outarr.append('; ' + metaline1)
-  if len(wordcvs) != 1:
-   print('multiple at line',lnum)
-  for word,iast in wordcvs:
-   outarr.append('; %s  %s' %(iast,word))
-  outarr.append('%s old %s' %(lnum,line))
+  metaline = entry.metaline # maybe we don't need this line
+  oldmetaline = pcrec.oldmetaline
+  newmetaline = pcrec.newmetaline
+  outarr.append('; ' %pcrec)
+  outarr.append('%s old %s' %oldmetaline)
   outarr.append(';')
-  newline = line # to be changed
-  outarr.append('%s new %s' %(lnum,newline))
+  outarr.append('%s new %s' %newmetaline)
   outrecs.append(outarr)
  with codecs.open(fileout,"w","utf-8") as f:
   for outarr in outrecs:
@@ -113,8 +91,7 @@ if __name__=="__main__":
  entries = digentry.init(filein)
  pcrecs = init_pcrecs(filein1)
  changes = generate_changes(entries,pcrecs)
- exit(1) # temporarily stop program here
- title = get_title(sirecs)
+ title = get_title(pcrecs)
  write_changes(fileout,changes,title)
  
 
