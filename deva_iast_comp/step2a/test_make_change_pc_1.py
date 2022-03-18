@@ -68,6 +68,7 @@ def write_changes(fileout,changes,title):
  for change in changes:
   outarr = [] # lines for this change
   entry = change.entry
+'''
   pcrec = change.pcrec
   outarr.append('; -------------------------------------')
   metaline = entry.metaline
@@ -79,6 +80,7 @@ def write_changes(fileout,changes,title):
   outarr.append('%s old %s' %(lnum,oldmetaline))
   outarr.append(';')
   outarr.append('%s new %s' %(lnum,newmetaline))
+'''
   outrecs.append(outarr)
  with codecs.open(fileout,"w","utf-8") as f:
   for outarr in outrecs:

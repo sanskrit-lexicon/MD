@@ -1,0 +1,363 @@
+; ===================================================
+; PC (page-column) ERRORS correction
+; ===================================================
+; -------------------------------------
+; <L>8241<pc>104-a3<k1>WAtkAra
+46346 old <L>8241<pc>104-a3<k1>WAtkAra<k2>WAtkAra
+;
+46346 new <L>8241<pc>104-b2<k1>WAtkAra<k2>WAtkAra
+; -------------------------------------
+; <L>8242<pc>104-a3<k1>WAra
+46350 old <L>8242<pc>104-a3<k1>WAra<k2>WAra
+;
+46350 new <L>8242<pc>104-b2<k1>WAra<k2>WAra
+; -------------------------------------
+; <L>8243<pc>104-a3<k1>WiRWA
+46355 old <L>8243<pc>104-a3<k1>WiRWA<k2>WiRWA
+;
+46355 new <L>8243<pc>104-b2<k1>WiRWA<k2>WiRWA
+; -------------------------------------
+; <L>8244<pc>104-a3<k1>qam
+46363 old <L>8244<pc>104-a3<k1>qam<k2>qam
+;
+46363 new <L>8244<pc>104-c1<k1>qam<k2>qam
+; -------------------------------------
+; <L>8245<pc>104-a3<k1>qama
+46367 old <L>8245<pc>104-a3<k1>qama<k2>qama
+;
+46367 new <L>8245<pc>104-c1<k1>qama<k2>qama
+; -------------------------------------
+; <L>8246<pc>104-a3<k1>qamara
+46371 old <L>8246<pc>104-a3<k1>qamara<k2>qamara
+;
+46371 new <L>8246<pc>104-c1<k1>qamara<k2>qamara
+; -------------------------------------
+; <L>8247<pc>104-a3<k1>qamarin
+46375 old <L>8247<pc>104-a3<k1>qamarin<k2>qamarin
+;
+46375 new <L>8247<pc>104-c1<k1>qamarin<k2>qamarin
+; -------------------------------------
+; <L>8248<pc>104-a3<k1>qamaru
+46379 old <L>8248<pc>104-a3<k1>qamaru<k2>qamaru
+;
+46379 new <L>8248<pc>104-c1<k1>qamaru<k2>qamaru
+; -------------------------------------
+; <L>8249<pc>104-a3<k1>qamb
+46383 old <L>8249<pc>104-a3<k1>qamb<k2>qamb
+;
+46383 new <L>8249<pc>104-c1<k1>qamb<k2>qamb
+; -------------------------------------
+; <L>8250<pc>104-a3<k1>qambara
+46389 old <L>8250<pc>104-a3<k1>qambara<k2>qambara
+;
+46389 new <L>8250<pc>104-c1<k1>qambara<k2>qambara
+; -------------------------------------
+; <L>8251<pc>104-a3<k1>qamBa
+46395 old <L>8251<pc>104-a3<k1>qamBa<k2>qamBa
+;
+46395 new <L>8251<pc>104-c1<k1>qamBa<k2>qamBa
+; -------------------------------------
+; <L>8252<pc>104-a3<k1>qallaka
+46399 old <L>8252<pc>104-a3<k1>qallaka<k2>qallaka
+;
+46399 new <L>8252<pc>104-c1<k1>qallaka<k2>qallaka
+; -------------------------------------
+; <L>8253<pc>104-a3<k1>qavitTa
+46404 old <L>8253<pc>104-a3<k1>qavitTa<k2>qavitTa
+;
+46404 new <L>8253<pc>104-c1<k1>qavitTa<k2>qavitTa
+; -------------------------------------
+; <L>8254<pc>104-a3<k1>qAkinI
+46409 old <L>8254<pc>104-a3<k1>qAkinI<k2>qAkinI
+;
+46409 new <L>8254<pc>104-c1<k1>qAkinI<k2>qAkinI
+; -------------------------------------
+; <L>8255<pc>104-a3<k1>qAginI
+46415 old <L>8255<pc>104-a3<k1>qAginI<k2>qAginI
+;
+46415 new <L>8255<pc>104-c1<k1>qAginI<k2>qAginI
+; -------------------------------------
+; <L>8256<pc>104-a3<k1>qAgineya
+46419 old <L>8256<pc>104-a3<k1>qAgineya<k2>qAgineya
+;
+46419 new <L>8256<pc>104-c1<k1>qAgineya<k2>qAgineya
+; -------------------------------------
+; <L>8257<pc>104-a3<k1>qAMkfti
+46423 old <L>8257<pc>104-a3<k1>qAMkfti<k2>qAMkfti
+;
+46423 new <L>8257<pc>104-c1<k1>qAMkfti<k2>qAMkfti
+; -------------------------------------
+; <L>8258<pc>104-a3<k1>qAtkfti
+46427 old <L>8258<pc>104-a3<k1>qAtkfti<k2>qAtkfti
+;
+46427 new <L>8258<pc>104-c1<k1>qAtkfti<k2>qAtkfti
+; -------------------------------------
+; <L>8259<pc>104-a3<k1>qAmara
+46431 old <L>8259<pc>104-a3<k1>qAmara<k2>qAmara
+;
+46431 new <L>8259<pc>104-c1<k1>qAmara<k2>qAmara
+; -------------------------------------
+; <L>8260<pc>104-a3<k1>qiRqima
+46437 old <L>8260<pc>104-a3<k1>qiRqima<k2>qiRqima
+;
+46437 new <L>8260<pc>104-c1<k1>qiRqima<k2>qiRqima
+; -------------------------------------
+; <L>8261<pc>104-a3<k1>qitTa
+46442 old <L>8261<pc>104-a3<k1>qitTa<k2>qitTa
+;
+46442 new <L>8261<pc>104-c1<k1>qitTa<k2>qitTa
+; -------------------------------------
+; <L>8262<pc>104-a3<k1>qima
+46446 old <L>8262<pc>104-a3<k1>qima<k2>qima
+;
+46446 new <L>8262<pc>104-c1<k1>qima<k2>qima
+; -------------------------------------
+; <L>8263<pc>104-a3<k1>qimba
+46451 old <L>8263<pc>104-a3<k1>qimba<k2>qimba
+;
+46451 new <L>8263<pc>104-c3<k1>qimba<k2>qimba
+; -------------------------------------
+; <L>8264<pc>104-a3<k1>qimBa
+46457 old <L>8264<pc>104-a3<k1>qimBa<k2>qimBa
+;
+46457 new <L>8264<pc>104-c3<k1>qimBa<k2>qimBa
+; -------------------------------------
+; <L>8265<pc>104-a3<k1>qilli
+46462 old <L>8265<pc>104-a3<k1>qilli<k2>qilli
+;
+46462 new <L>8265<pc>104-c3<k1>qilli<k2>qilli
+; -------------------------------------
+; <L>8266<pc>104-a3<k1>qI
+46466 old <L>8266<pc>104-a3<k1>qI<k2>qI
+;
+46466 new <L>8266<pc>104-c3<k1>qI<k2>qI
+; -------------------------------------
+; <L>8267<pc>104-a3<k1>qIna
+46472 old <L>8267<pc>104-a3<k1>qIna<k2>qIna
+;
+46472 new <L>8267<pc>104-c3<k1>qIna<k2>qIna
+; -------------------------------------
+; <L>8268<pc>104-a3<k1>quRquBa
+46476 old <L>8268<pc>104-a3<k1>quRquBa<k2>quRquBa
+;
+46476 new <L>8268<pc>104-c3<k1>quRquBa<k2>quRquBa
+; -------------------------------------
+; <L>8269<pc>104-a3<k1>qomba
+46480 old <L>8269<pc>104-a3<k1>qomba<k2>qomba
+;
+46480 new <L>8269<pc>104-c3<k1>qomba<k2>qomba
+; -------------------------------------
+; <L>8270<pc>104-a3<k1>qORquBa
+46485 old <L>8270<pc>104-a3<k1>qORquBa<k2>qORquBa
+;
+46485 new <L>8270<pc>104-c3<k1>qORquBa<k2>qORquBa
+; -------------------------------------
+; <L>8271<pc>104-a3<k1>qval
+46490 old <L>8271<pc>104-a3<k1>qval<k2>qval
+;
+46490 new <L>8271<pc>104-c3<k1>qval<k2>qval
+; -------------------------------------
+; <L>8272<pc>104-a3<k1>Qakka
+46496 old <L>8272<pc>104-a3<k1>Qakka<k2>Qakka
+;
+46496 new <L>8272<pc>104-d1<k1>Qakka<k2>Qakka
+; -------------------------------------
+; <L>8273<pc>104-a3<k1>QakkadeSIya
+46501 old <L>8273<pc>104-a3<k1>QakkadeSIya<k2>QakkadeSIya
+;
+46501 new <L>8273<pc>104-d1<k1>QakkadeSIya<k2>QakkadeSIya
+; -------------------------------------
+; <L>8274<pc>104-a3<k1>Qakkana
+46506 old <L>8274<pc>104-a3<k1>Qakkana<k2>Qakkana
+;
+46506 new <L>8274<pc>104-d1<k1>Qakkana<k2>Qakkana
+; -------------------------------------
+; <L>8275<pc>104-a3<k1>QAmarA
+46511 old <L>8275<pc>104-a3<k1>QAmarA<k2>QAmarA
+;
+46511 new <L>8275<pc>104-d2<k1>QAmarA<k2>QAmarA
+; -------------------------------------
+; <L>8276<pc>104-a3<k1>QAla
+46515 old <L>8276<pc>104-a3<k1>QAla<k2>QAla
+;
+46515 new <L>8276<pc>104-d2<k1>QAla<k2>QAla
+; -------------------------------------
+; <L>8277<pc>104-a3<k1>QeNka
+46519 old <L>8277<pc>104-a3<k1>QeNka<k2>QeNka
+;
+46519 new <L>8277<pc>104-d2<k1>QeNka<k2>QeNka
+; -------------------------------------
+; <L>8278<pc>104-a3<k1>Qola
+46524 old <L>8278<pc>104-a3<k1>Qola<k2>Qola
+;
+46524 new <L>8278<pc>104-d2<k1>Qola<k2>Qola
+; -------------------------------------
+; <L>8279<pc>104-a3<k1>QOk
+46529 old <L>8279<pc>104-a3<k1>QOk<k2>QOk
+;
+46529 new <L>8279<pc>104-d3<k1>QOk<k2>QOk
+; -------------------------------------
+; <L>8280<pc>104-a3<k1>QOkana
+46536 old <L>8280<pc>104-a3<k1>QOkana<k2>QOkana
+;
+46536 new <L>8280<pc>104-d3<k1>QOkana<k2>QOkana
+; -------------------------------------
+; <L>8281<pc>104-a3<k1>Ri
+46542 old <L>8281<pc>104-a3<k1>Ri<k2>Ri
+;
+46542 new <L>8281<pc>104-e1<k1>Ri<k2>Ri
+; -------------------------------------
+; <L>8282<pc>104-a3<k1>Rit
+46546 old <L>8282<pc>104-a3<k1>Rit<k2>Rit
+;
+46546 new <L>8282<pc>104-e1<k1>Rit<k2>Rit
+; -------------------------------------
+; <L>8283<pc>104-a3<k1>Rya
+46554 old <L>8283<pc>104-a3<k1>Rya<k2>Rya
+;
+46554 new <L>8283<pc>104-e2<k1>Rya<k2>Rya
+; -------------------------------------
+; <L>8284<pc>104-a3<k1>Ryanta
+46559 old <L>8284<pc>104-a3<k1>Ryanta<k2>Ryanta
+;
+46559 new <L>8284<pc>104-e3<k1>Ryanta<k2>Ryanta
+; -------------------------------------
+; <L>8285<pc>104-a3<k1>Rvul
+46563 old <L>8285<pc>104-a3<k1>Rvul<k2>Rvul
+;
+46563 new <L>8285<pc>104-e3<k1>Rvul<k2>Rvul
+; -------------------------------------
+; <L>10092<pc>133-2<k1>DUmaya
+58175 old <L>10092<pc>133-2<k1>DUmaya<k2>DUmaya
+;
+58175 new <L>10092<pc>133-3<k1>DUmaya<k2>DUmaya
+; -------------------------------------
+; <L>10093<pc>133-2<k1>DUmaleKA
+58183 old <L>10093<pc>133-2<k1>DUmaleKA<k2>DUmaleKA
+;
+58183 new <L>10093<pc>133-3<k1>DUmaleKA<k2>DUmaleKA
+; -------------------------------------
+; <L>10095<pc>133-2<k1>DUmAya
+58195 old <L>10095<pc>133-2<k1>DUmAya<k2>DUmAya
+;
+58195 new <L>10095<pc>133-3<k1>DUmAya<k2>DUmAya
+; -------------------------------------
+; <L>10096<pc>133-2<k1>DUmikA
+58199 old <L>10096<pc>133-2<k1>DUmikA<k2>DUmikA
+;
+58199 new <L>10096<pc>133-3<k1>DUmikA<k2>DUmikA
+; -------------------------------------
+; <L>10097<pc>133-2<k1>DUmin
+58203 old <L>10097<pc>133-2<k1>DUmin<k2>DUmin
+;
+58203 new <L>10097<pc>133-3<k1>DUmin<k2>DUmin
+; -------------------------------------
+; <L>10098<pc>133-2<k1>DUmodgama
+58207 old <L>10098<pc>133-2<k1>DUmodgama<k2>DUmodgama
+;
+58207 new <L>10098<pc>133-3<k1>DUmodgama<k2>DUmodgama
+; -------------------------------------
+; <L>10099<pc>133-2<k1>DUmyA
+58213 old <L>10099<pc>133-2<k1>DUmyA<k2>DUmyA
+;
+58213 new <L>10099<pc>133-3<k1>DUmyA<k2>DUmyA
+; -------------------------------------
+; <L>10100<pc>133-2<k1>DUmra
+58217 old <L>10100<pc>133-2<k1>DUmra<k2>DUmra
+;
+58217 new <L>10100<pc>133-3<k1>DUmra<k2>DUmra
+; -------------------------------------
+; <L>10101<pc>133-2<k1>DUmraya
+58222 old <L>10101<pc>133-2<k1>DUmraya<k2>DUmraya
+;
+58222 new <L>10101<pc>133-3<k1>DUmraya<k2>DUmraya
+; -------------------------------------
+; <L>10102<pc>133-2<k1>DUmravarRa
+58226 old <L>10102<pc>133-2<k1>DUmravarRa<k2>DUmravarRa
+;
+58226 new <L>10102<pc>133-3<k1>DUmravarRa<k2>DUmravarRa
+; -------------------------------------
+; <L>10103<pc>133-2<k1>DUmrIkf
+58231 old <L>10103<pc>133-2<k1>DUmrIkf<k2>DUmrIkf
+;
+58231 new <L>10103<pc>133-3<k1>DUmrIkf<k2>DUmrIkf
+; -------------------------------------
+; <L>10104<pc>133-2<k1>DUrgata
+58235 old <L>10104<pc>133-2<k1>DUrgata<k2>DUrgata
+;
+58235 new <L>10104<pc>133-3<k1>DUrgata<k2>DUrgata
+; -------------------------------------
+; <L>10105<pc>133-2<k1>DUrta
+58241 old <L>10105<pc>133-2<k1>DUrta<k2>DUrta
+;
+58241 new <L>10105<pc>133-3<k1>DUrta<k2>DUrta
+; -------------------------------------
+; <L>10106<pc>133-2<k1>DUrtakitava
+58248 old <L>10106<pc>133-2<k1>DUrtakitava<k2>DUrtakitava
+;
+58248 new <L>10106<pc>133-3<k1>DUrtakitava<k2>DUrtakitava
+; -------------------------------------
+; <L>10107<pc>133-2<k1>DUrti
+58256 old <L>10107<pc>133-2<k1>DUrti<k2>DUrti
+;
+58256 new <L>10107<pc>133-3<k1>DUrti<k2>DUrti
+; -------------------------------------
+; <L>10108<pc>133-2<k1>DUrDara
+58260 old <L>10108<pc>133-2<k1>DUrDara<k2>DUrDara
+;
+58260 new <L>10108<pc>133-3<k1>DUrDara<k2>DUrDara
+; -------------------------------------
+; <L>10109<pc>133-2<k1>DUrv
+58264 old <L>10109<pc>133-2<k1>DUrv<k2>DUrv
+;
+58264 new <L>10109<pc>133-3<k1>DUrv<k2>DUrv
+; -------------------------------------
+; <L>10110<pc>133-2<k1>DUrvoQf
+58270 old <L>10110<pc>133-2<k1>DUrvoQf<k2>DUrvoQf
+;
+58270 new <L>10110<pc>133-3<k1>DUrvoQf<k2>DUrvoQf
+; -------------------------------------
+; <L>10111<pc>133-2<k1>DUlana
+58276 old <L>10111<pc>133-2<k1>DUlana<k2>DUlana
+;
+58276 new <L>10111<pc>133-3<k1>DUlana<k2>DUlana
+; -------------------------------------
+; <L>10112<pc>133-2<k1>DUlaya
+58280 old <L>10112<pc>133-2<k1>DUlaya<k2>DUlaya
+;
+58280 new <L>10112<pc>133-3<k1>DUlaya<k2>DUlaya
+; -------------------------------------
+; <L>10113<pc>133-2<k1>DUli
+58285 old <L>10113<pc>133-2<k1>DUli<k2>DUli
+;
+58285 new <L>10113<pc>133-3<k1>DUli<k2>DUli
+; -------------------------------------
+; <L>10114<pc>133-2<k1>DUlImaya
+58290 old <L>10114<pc>133-2<k1>DUlImaya<k2>DUlImaya
+;
+58290 new <L>10114<pc>133-3<k1>DUlImaya<k2>DUlImaya
+; -------------------------------------
+; <L>10115<pc>133-2<k1>DUsara
+58295 old <L>10115<pc>133-2<k1>DUsara<k2>DUsara
+;
+58295 new <L>10115<pc>133-3<k1>DUsara<k2>DUsara
+; -------------------------------------
+; <L>10116<pc>133-2<k1>DUsarita
+58300 old <L>10116<pc>133-2<k1>DUsarita<k2>DUsarita
+;
+58300 new <L>10116<pc>133-3<k1>DUsarita<k2>DUsarita
+; -------------------------------------
+; <L>10117<pc>133-2<k1>DUsariman
+58304 old <L>10117<pc>133-2<k1>DUsariman<k2>DUsariman
+;
+58304 new <L>10117<pc>133-3<k1>DUsariman<k2>DUsariman
+; -------------------------------------
+; <L>10118<pc>133-2<k1>DUstuRqa
+58308 old <L>10118<pc>133-2<k1>DUstuRqa<k2>DUstuRqa
+;
+58308 new <L>10118<pc>133-3<k1>DUstuRqa<k2>DUstuRqa
+; -------------------------------------
+; <L>10119<pc>133-2<k1>Df
+58313 old <L>10119<pc>133-2<k1>Df<k2>Df
+;
+58313 new <L>10119<pc>133-3<k1>Df<k2>Df
