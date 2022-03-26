@@ -11,7 +11,7 @@ Used by make_change_pc.py
 reads md.txt and 
 
 #
-python make_change_pc2b.py temp_md_0.txt change_2b.txt
+python make_change_pc_2b.py temp_md_0.txt change_2b.txt
   change_2b.txt is created by program make_change_pc2b.py
 
 #

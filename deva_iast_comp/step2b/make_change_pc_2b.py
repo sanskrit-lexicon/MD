@@ -7,22 +7,27 @@ import digentry
 
            
 class Change(object):
- def __init__(self,entry):
-  self.entry = entry
-
+ def __init__(self,metaline,lnum,line,newline): # or def __init__(self,line,newline):
+  self.metaline = metaline # maybe we don't need this line
+  self.lnum = lnum # maybe we don't need this line
+  self.line = line
+  self.newline = re.sub(r"(\{\%)|(\%\})", '', self.line) # or self.newline = newline
+  
 def generate_changes(entries):
  changes = [] # computed by this function
  for entry in entries:
-  x = re.search(r"\{\%\[Page", entry)
-  if x:
-# z = x.string
-# if z == entry:
-   change = Change(entry)
+  for iline,line in enumerate(entry.datalines):
+   #lnum = linenum1 + iline + 1 
+   if line.startswith('{%[Page'):
+    newline = re.sub(r"(\{\%)|(\%\})", '', line) # I am not sure
+    lnum = linenum1 + iline + 1
+   # we should mention metaline, but I don't know how
+   change = Change(metaline,lnum,line,newline)
    changes.append(change)
  print(len(changes),'lines that may need changes')
  return changes
 
-def get_title(pcrecs):
+def get_title(entries):
  outarr = []
  outarr.append('; ===================================================')
  outarr.append('; Italicized page errors correction')
@@ -34,15 +39,16 @@ def write_changes(fileout,changes,title):
  outrecs.append(title)
  for change in changes:
   outarr = [] # lines for this change
-  entry = change.entry
   outarr.append('; -------------------------------------')
-  lnum = entry.linenum1
-  dataline = entry.dataline
-  newentry = re.sub(r"(\{\%)|(\%\})", '', dataline)
-  outarr.append('; %s' %dataline)
-  outarr.append('%s old %s' %(lnum,dataline))
+  metaline = entry.metaline
+  metaline1 = re.sub(r'<k2>.*$','',metaline)  # just show L,pc,k1
+  outarr.append('; %s' %metaline1)
+  lnum = linenum1 + iline + 1
+  line = entry.dataline
+  newline = change.newline
+  outarr.append('%s old %s' %(lnum,line))
   outarr.append(';')
-  outarr.append('%s new %s' %(lnum,newentry))
+  outarr.append('%s new %s' %(lnum,newline))
   outrecs.append(outarr)
  with codecs.open(fileout,"w","utf-8") as f:
   for outarr in outrecs:
@@ -55,5 +61,5 @@ if __name__=="__main__":
  fileout = sys.argv[2] # changes
  entries = digentry.init(filein)
  changes = generate_changes(entries)
- title = get_title(pcrecs)
+ title = get_title(entries)
  write_changes(fileout,changes,title)
