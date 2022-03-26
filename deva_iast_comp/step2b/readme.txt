@@ -18,3 +18,11 @@ python make_change_pc2b.py temp_md_0.txt change_2b.txt
 python updateByLine.py temp_md_0.txt change_1_edit_copy.txt temp_md_01.txt
 The program modify the copy of md.txt (temp_md_0.txt) according the changes included in the change_1_edit_copy.txt
 change_1_edit_copy.txt is the edited manually change_1_edit.txt
+
+
+# show_entry.py
+Displays one entry to help understand the 'Entry' class in digentry.py.
+To show the FIRST entry, use '0'
+python show_entry.py 0 temp_md_0.txt temp_entry.txt
+To show the SECOND entry, use '1'
+python show_entry.py 1 temp_md_0.txt temp_entry.txt
