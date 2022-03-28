@@ -7,23 +7,23 @@ import digentry
 
            
 class Change(object):
- def __init__(self,metaline,lnum,line,newline): # or def __init__(self,line,newline):
-  self.metaline = metaline # maybe we don't need this line
-  self.lnum = lnum # maybe we don't need this line
+ def __init__(self,metaline,lnum,line,newline):
+  self.metaline = metaline
+  self.lnum = lnum
   self.line = line
-  self.newline = re.sub(r"(\{\%)|(\%\})", '', self.line) # or self.newline = newline
+  self.newline = newline
   
 def generate_changes(entries):
  changes = [] # computed by this function
  for entry in entries:
   for iline,line in enumerate(entry.datalines):
-   #lnum = linenum1 + iline + 1 
    if line.startswith('{%[Page'):
-    newline = re.sub(r"(\{\%)|(\%\})", '', line) # I am not sure
+    newline = re.sub(r"(\{\%)|(\%\})", '', line)
+    linenum1 = entry.linenum1
     lnum = linenum1 + iline + 1
-   # we should mention metaline, but I don't know how
-   change = Change(metaline,lnum,line,newline)
-   changes.append(change)
+    metaline = entry.metaline
+    change = Change(metaline,lnum,line,newline)
+    changes.append(change)
  print(len(changes),'lines that may need changes')
  return changes
 
@@ -40,11 +40,11 @@ def write_changes(fileout,changes,title):
  for change in changes:
   outarr = [] # lines for this change
   outarr.append('; -------------------------------------')
-  metaline = entry.metaline
+  metaline = change.metaline
   metaline1 = re.sub(r'<k2>.*$','',metaline)  # just show L,pc,k1
   outarr.append('; %s' %metaline1)
-  lnum = linenum1 + iline + 1
-  line = entry.dataline
+  lnum = change.lnum
+  line = change.line
   newline = change.newline
   outarr.append('%s old %s' %(lnum,line))
   outarr.append(';')
