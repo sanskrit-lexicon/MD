@@ -1,0 +1,533 @@
+Search "%}[^ \r\n,;:\.\)\]<]" (174 hits)
+
+Transliteration (& tag ?) correction:
+Line 1653: {#aNkAvatAra#}¦aṅka‡avatāra, {%m.%} {#°Ra#} {%-n%}a, {%n.%} 
+Line new: {#aNkAvatAra#}¦aṅka‡avatāra, {%m.%} {#°Ra#} -ṇa, {%n.%} 
+
+Line 5474: {#aDyAropa#}¦adhi‡āropa, {%m.%} {#°RA#} {%-n%}ā, {%f.%} erroneous <lbinfo n="4[]"/>
+Line new: {#aDyAropa#}¦adhi‡āropa, {%m.%} {#°RA#} -ṇā, {%f.%} erroneous <lbinfo n="4[]"/>
+
+Line 7866: {#anukarza#}¦anu-karṣa, {%m.%} {#°Ra#} {%-n%}a, {%n.%} drawing after; <lbinfo n="2"/>
+Line new: {#anukarza#}¦anu-karṣa, {%m.%} {#°Ra#} ṇa, {%n.%} drawing after; <lbinfo n="2"/>
+
+Line 13720: {%N. of one of the Ādityas, chief of the Pit%}irś; 
+Line new: {%N. of one of the Ādityas, chief of the Pitṛis%}; 
+
+Line 15984: {#aSvEt#}¦á-śvait, {%V. ¤3¤ sg. aor. of √ s%}vit.
+Line new: {#aSvEt#}¦á-śvait, {%V. ¤3¤ sg. aor. of%} √ śvit.
+
+Line 20583: {#ASIyas#}¦ā́ś-īyas, {%cpv. of ās%}u: {%n. ad.%}.
+Line new: {#ASIyas#}¦ā́ś-īyas, {%cpv. of%} āśu: {%n. ad.%}.
+
+Line 20763: book {%of Pāṇin%}i.
+Line new: book {%of Pāṇini%}.
+
+Line 22506: {%of the Hot%}ri. 
+Line new: {%of the Hotṛ%}. 
+
+Line 23594: {%to the Manes: -m%}{@k@}ṛ, {@dā,@} {%or%} {@pra-dā,@} present 
+Line new: {%to the Manes: -m%}{@kṛ@}, {@dā,@} {%or%} {@pra-dā,@} present 
+
+Line 26561: {@ya@} ({%or ríg%}-) {%a.%} praiseworthy; {@-yajuṣa@}, {%n.%} 
+Line new: {@ya@} ({%or%} ṛg-) {%a.%} praiseworthy; {@-yajuṣa@}, {%n.%} 
+
+Line 26718: {%= ri%}ta-jāta.
+Line new: = ṛta-jāta.
+
+Line 26900: {@-śṛṅga,@} {%m. = ris%}ya-śṛṇga.
+Line new: {@-śṛṅga,@} {%m.%} = {@ṛśya-śṛṅga.@}
+
+Line 27402: {#etaSa#}¦éta-śa ({%sts. -s%}á), {%a.%} motely, shining; 
+Line new: {#etaSa#}¦éta-śa ({%sts.%} -śá), {%a.%} motely, shining; 
+
+Line 28531: {%school of the YV.; pupil or follower of Ka%}tha.
+Line new: {%school of the YV.; pupil or follower of Kaṭha.%}
+
+Line 39459: meeting-place; {%n. kind of s%}rāddha.
+Line new: meeting-place; {%n. kind of%} śrāddha.
+
+Line 39465: company; {@-śrāddha@}, {%n. kind of s%}rāddha.
+Line new: company; {@-śrāddha@}, {%n. kind of%} śrāddha.
+
+Line 41821: {%pat. (from Kana%}ka, {%N. of%} K{%andragupta's %}
+Line new: {%pat. (from%} Caṇaka, {%N. of Candragupta's %}
+
+Line 43854: {%for gar%}aṭha); ¤2.¤ ({@-ára@}), {%n.%} belly; womb; 
+Line new: {%for%} jaraṭha); ¤2.¤ ({@-ára@}), {%n.%} belly; womb; 
+
+Line 45587: {%the term gu%}hoti ({%not by yagati%}).
+Line new: {%the term%} juhoti ({%not by yagati%}).
+
+Line 45955: May-June (= {%gy%}aiṣṭha); {@ā́,@} {%f.%} eldest wife; 
+Line new: May-June (= jyaiṣṭha); {@ā́,@} {%f.%} eldest wife; 
+
+Line 46503: country of {%Dh%}akka.
+Line new: country of Ḍhakka.
+
+Line 48744: {%between the trench (kā%}tvāla) {%and the mound of %}
+Line new: {%between the trench%} (cātvāla) {%and the mound of %}
+
+Line 49683: {#tolaka#}¦tola-ka, {%n.%} (?) {%a weight (= ¤2¤ s%}āṇas).
+Line new: {#tolaka#}¦tola-ka, {%n.%} (?) {%a weight%} (= ¤2¤ śāṇas).
+
+Line 49876: {#trayodaSan#}¦tráyo-daśan ({%or s%}án), {%num.%} thirteen. <lbinfo n="4"/>
+Line new: {#trayodaSan#}¦tráyo-daśan ({%or%} śán), {%num.%} thirteen. <lbinfo n="4"/>
+
+Line 54770: jewel, {%esp. Viṣ%}nu's {%breast ornament%}; whirl 
+Line new: jewel, {%esp. Viṣṇu's breast ornament%}; whirl 
+
+Line 57508: {%son of Brahma and brother of Vidhāt%}ri {%and %}
+Line new: {%son of Brahma and brother of Vidhātṛ and %}
+
+Line 67068: {#parmAqi#}¦parmāḍi ({%or -nd%}i), {%m. N.%} {%of a prince%}.
+Line new: {#parmAqi#}¦parmāḍi ({%or%} -ṇḍi), {%m. N.%} {%of a prince%}.
+
+Line 69076: flour-ball; {@-anvāhārya-ka,@} {%a.%} {%with s%}rāddha, <lbinfo n="8"/>
+Line new: flour-ball; {@-anvāhārya-ka,@} {%a.%} {%s%} śrāddha, <lbinfo n="8"/>
+
+Line 70542: {#puzwi#}¦púṣ-ṭi ({%or -t%}í: {%RV.%}), {%f.%} thriving, increase; <lbinfo n="2"/>
+Line new: {#puzwi#}¦púṣ-ṭi ({%or%} -ṭí: {%RV.%}), {%f.%} thriving, increase; <lbinfo n="2"/>
+
+Line 72959: {%Adhvaryu to the address of the Hot%}ri); {@-gar-@}
+Line new: {%Adhvaryu to the address of the Hotṛ%}); {@-gar-@}
+
+Line 73708: {%priest, assistant of the Udgāt%}ri; {@-harṣa,@} 
+Line new: {%priest, assistant of the Udgātṛ%}; {@-harṣa,@} 
+
+Line 73719: {% with which the Pratihart%}ri strikes into 
+Line new: {% with which the Pratihartṛ%} strikes into 
+
+Line 75710:  {%who is the first assistant of the Hot%}ri; 
+Line new:  {%who is the first assistant of the Hotṛ%}; 
+
+Line 76060:  -- of a Sāman {%sung by the Prastot%}ri 
+Line new:  -- of a Sāman {%sung by the Prastotṛ%} 
+
+Line 76083: {%the Udgāt%}ri {%priest,%} who {%chants the prastāva%}; <lbinfo n="3"/>
+Line new: {%the Udgātṛ priest,%} who {%chants the prastāva%}; <lbinfo n="3"/>
+
+Line 76570:  ({%w. s%}akaṭa, {%m. n.%} car of Rohiṇī); {%m. pat.%} 
+Line new:  ({%w.%} śakaṭa, {%m. n.%} car of Rohiṇī); {%m. pat.%} 
+
+Line 83041:  {%pat. of Ri%}tuparṇa.
+Line new:  {%pat. of%} Ṛtuparṇa.
+
+Line 84140: enjoy carnally ({%ac. of pers. or s%}arīra); receive <lbinfo n="2"/>
+Line new (scan has śarīram): enjoy carnally ({%ac. of pers. or%} śarīram); receive <lbinfo n="2"/>
+
+Line 87430:  {%e. g. s%}āka-pārthiva = vegetable, {%sc.%} 
+Line new: {%e. g.%} śāka-pārthiva = vegetable, {%sc.%} 
+
+Line 89126: ({%designation of the four chief priests Hot%}ri, 
+Line new: ({%designation of the four chief priests Hotṛ,%} 
+
+Line 89127: {%Advaryu, Udgāt%}ri, {%and Brahman%}); {@-ṛddhi@}, 
+Line new: {%Advaryu, Udgātṛ, and Brahman%}); {@-ṛddhi@}, 
+
+Line 94444: {%priest who is the chief assistant of the Hot%}ri: 
+Line new: {%priest who is the chief assistant of the Hotṛ%}: 
+
+Line 95616: {%an ancient race connected with the Bhṛg%}us; 
+Line new: {%an ancient race connected with the Bhṛgus%}; 
+
+Line 96363: {%any one%} ({%d., like a screen, s%}arma-vat; {%Br.%}); 
+Line new: {%any one%} ({%d., like a screen%}, śarma-vat; {%Br.%}); 
+
+Line 98605: {#yos#}¦yós, {%indc.%} health ({%only in s%}á{%m yóh %}
+Line new: {#yos#}¦yós, {%indc.%} health ({%only in%} śáṃ yóḥ 
+
+Line 98606: {%and sam%} ca yoś ca; {%V.%}).
+Line new: {%and%} śáṃ ca yoś ca; {%V.%}).
+
+Line 100998: ({%abbresviation for ri%}ṣabha).
+Line new: ({%abbresviation for%} ṛṣabha).
+
+Line 107558: {%uttered by the Hot%}ri {%at the end of the Yāgyā, %}
+Line new: {%uttered by the Hotṛ at the end of the Yāgyā, %}
+
+Line 107798: {%N. of one of the leading Vedic%} Ri{%ṣie%}s, 
+Line new: {%N. of one of the leading Vedic Ṝṣies,%} 
+
+Line 110045: {%w. s%}ata, {%n.%} one hundred and twenty); consisting <lbinfo n="3"/>
+Line new: {%w.%} śata, {%n.%} one hundred and twenty); consisting <lbinfo n="3"/>
+
+Line 110048: ({%w. s%}ata, {%n.%} twenty per cent.); consisting of 
+Line new: ({%w.%} śata, {%n.%} twenty per cent.); consisting of 
+
+Line 110866: doctrine; profane knowledge ({%opp. gñ%}āna); 
+Line new: doctrine; profane knowledge ({%opp.%} jñāna); 
+
+Line 110894: {%cs. pp.%} √ {%-gñ%}ā; {@-jñāpin@}, {%a.%} announcing (-°); 
+Line new: {%cs. pp.%} √ -jñā; {@-jñāpin@}, {%a.%} announcing (-°); 
+
+Line 112483: {%of the Ri%}bhus ({%pl.%}): {@-tva,@} {%n.%} omnipresence; 
+Line new: {%of the%} Ṛbhus ({%pl.%}): {@-tva,@} {%n.%} omnipresence; 
+
+Line 113447: {#viSAKa#}¦ví-śākha ({%AV. also-s%}ā́kha), branched, 
+Line new: {#viSAKa#}¦ví-śākha ({%AV. also%} -śā́kha), branched, 
+
+Line 113606: {%whose leg was replaced by the A%}svins ({%RV.%}).
+Line new: {%whose leg was replaced by the Aśvins (RV.%}).
+
+Line 118897: prosperous ({%C.%}); {%m. N. of a son of Br%}i{%haspati%}.
+Line new: prosperous ({%C.%}); {%m. N. of a son of Bṛhaspati%}.
+
+Line 118902: {% the words s%}aṃ yoḥ; {@u‡anta,@} {%a.%} ending 
+Line new: {% the words%} śaṃ yoḥ; {@u‡anta,@} {%a.%} ending 
+
+Line 118903: with {%the formula s%}aṃyóḥ.
+Line new: with {%the formula%} śaṃyóḥ.
+
+Line 118909: {%gods, sp. of the Hot%}ri {%in ritual%}: {%V.%}); praise, 
+Line new: {%gods, sp. of the Hotṛ in ritual%}: {%V.%}); praise, 
+
+Line 119015: {#Sakan#}¦śák-an ({%or%} -án), {%n.%} ordure ({%only s%}aknā́, 
+Line new: {#Sakan#}¦śák-an ({%or%} -án), {%n.%} ordure ({%only%} śaknā́, 
+
+Line 119016: śaknás, {%and s%}ákabhiḥ).
+Line new: śaknás, {%and%} śákabhiḥ).
+
+Line 119430: ({%construed like s%}ata); {@-kṛtvas@}, {%ad.%} a hundred <lbinfo n="3"/>
+Line new: ({%construed like%} śata); {@-kṛtvas@}, {%ad.%} a hundred <lbinfo n="3"/>
+
+Line 119866: gone to rest, dead; {%cs.%} ({%sts. s%}ām-) allay, 
+Line new: gone to rest, dead; {%cs.%} ({%sts.%} śām-) allay, 
+
+Line 120495: {#SarmizWA#}¦śarm-iṣṭhā, {%f. spv.%} ({%of s%}arman) {%N. %}
+Line new: {#SarmizWA#}¦śarm-iṣṭhā, {%f. spv.%} ({%of%} śarman) {%N. %}
+
+Line 120846: {%by the Hot%}ri {%and his assistant as an accompaniment %}<lbinfo n="5"/>
+Line new: {%by the Hotṛ and his assistant as an accompaniment %}<lbinfo n="5"/>
+
+Line 120945: {#SAMvatya#}¦śāṃvat-ya, {%m.%} [{%fr. s%}aṃvat] {%N. of %}
+Line new: {#SAMvatya#}¦śāṃvat-ya, {%m.%} [{%fr.%} śaṃvat] {%N. of %}
+
+Line 120979: {#SAkawika#}¦śākaṭ-ika, {%m.%} ({%fr. s%}akaṭa) carter.
+Line new: {#SAkawika#}¦śākaṭ-ika, {%m.%} ({%fr.%} śakaṭa) carter.
+
+Line 120990: {#SAkapURi#}¦śākapūṇi, {%m. pat.%} ({%fr. s%}akapūṇi) 
+Line new: {#SAkapURi#}¦śākapūṇi, {%m. pat.%} ({%fr.%} śakapūṇi) 
+
+Line 121013: {#SAkalya#}¦śākal-ya, {%m. pat.%} ({%fr. s%}akala) {%N. of %}
+Line new: {#SAkalya#}¦śākal-ya, {%m. pat.%} ({%fr.%} śakala) {%N. of %}
+
+Line 121037: {#SAkin#}¦śāk-ín, {%a.%} ({%once s%}ā́kin) mighty, succouring, <lbinfo n="3"/>
+Line new: {#SAkin#}¦śāk-ín, {%a.%} ({%once%} śā́kin) mighty, succouring, <lbinfo n="3"/>
+
+Line 121070: {#SAktIka#}¦śāktī-ka, {%m.%} [{%fr. s%}akti] spearman, 
+Line new: {#SAktIka#}¦śāktī-ka, {%m.%} [{%fr.%} śakti] spearman, 
+
+Line 121075: {#SAktya#}¦śāktyá, {%m. pat.%} ({%fr. s%}akti) {%of%} Gaurivīti.
+Line new: {#SAktya#}¦śāktyá, {%m. pat.%} ({%fr.%} śakti) {%of%} Gaurivīti.
+
+Line 121083: {#SAkya#}¦śāk-ya, {%m.%} [{%pat. fr. s%}aka] {%N. of a %}
+Line new: {#SAkya#}¦śāk-ya, {%m.%} [{%pat. fr.%} śaka] {%N. of a %}
+
+Line 121157: {#SANkuka#}¦śāṅku-ka, {%m.%} ({%fr. s%}aṅku) {%N. of a %}
+Line new: {#SANkuka#}¦śāṅku-ka, {%m.%} ({%fr.%} śaṅku) {%N. of a %}
+
+Line 121168: {#SANKAyana#}¦śāṅkhāyana, {%m. pat.%} ({%fr. s%}aṅkha) 
+Line new: {#SANKAyana#}¦śāṅkhāyana, {%m. pat.%} ({%fr.%} śaṅkha) 
+
+Line 121175: {#SANKika#}¦śāṅkh-ika, {%m.%} [{%fr. s%}aṅkha] shell-blower. <lbinfo n="5"/>
+Line new: {#SANKika#}¦śāṅkh-ika, {%m.%} [{%fr.%} śaṅkha] shell-blower. <lbinfo n="5"/>
+
+Line 121185: {#SAwyAyana#}¦śāṭyāyana, {%m.%} ({%pat. fr. s%}ātya) {%N. %}
+Line new: {#SAwyAyana#}¦śāṭyāyana, {%m.%} ({%pat. fr.%} śātya) {%N. %}
+
+Line 121257: Indra (Śatakratu): {%with s%}arāsana, {%n.%} rainbow; 
+Line new: Indra (Śatakratu): {%with%} śarāsana, {%n.%} rainbow; 
+
+Line 121433:  into the shade ({%v. r. s%}am-); {%n.%} soothing 
+Line new:  into the shade ({%v. r.%} śam-); {%n.%} soothing 
+
+Line 121526: ({%sts. spelt%} sāri): arrow ({%RV.¹%}; {%ep. s%}aru); elephant's <lbinfo n="3"/>
+Line new: ({%sts. spelt%} sāri): arrow ({%RV.¹%}; {%ep.%} śaru); elephant's <lbinfo n="3"/>
+
+Line 121610: {#SAryAta#}¦śāryātá, {%m. pat.%} ({%fr. s%}aryāti): {@ī́,@} {%f.%} 
+Line new: {#SAryAta#}¦śāryātá, {%m. pat.%} ({%fr.%} śaryāti): {@ī́,@} {%f.%} 
+
+Line 121621: {#SArvara#}¦śārvar-a, {%a.%} [{%fr. s%}arvarī] nocturnal: 
+Line new: {#SArvara#}¦śārvar-a, {%a.%} [{%fr.%} śarvarī] nocturnal: 
+
+Line 122999: containing {%the word s%}ukra ({%Br.%}); ({@á@}) {@-var-@}
+Line new: containing {%the word%} śukra ({%Br.%}); ({@á@}) {@-var-@}
+
+Line 123020: {#Sukla#}¦śuk-lá, {%a.%} [{%later form of s%}ukra] bright, 
+Line new: {#Sukla#}¦śuk-lá, {%a.%} [{%later form of%} śukra] bright, 
+
+Line 123173: race; {@-vat,@} {%a.%} containing {%the word s%}uddha: 
+Line new: race; {@-vat,@} {%a.%} containing {%the word%} śuddha: 
+
+Line 123292: {#SunI#}¦śúnī, {%f.%} {%of s%}ván.
+Line new: {#SunI#}¦śúnī, {%f.%} {%of%} śván.
+
+Line 123585: {#SU#}¦śū, {%onom. in s%}ū-kārá {%and s%}ū́-kṛta.
+Line new: {#SU#}¦śū, {%onom. in%} śū-kārá {%and%} śū́-kṛta.
+
+Line 123585: {#SU#}¦śū, {%onom. in s%}ū-kārá {%and s%}ū́-kṛta.
+Line new: {#SU#}¦śū, {%onom. in%} śū-kārá {%and%} śū́-kṛta.
+
+Line 123599: {#SUkAra#}¦śū-kārá, {%m.%} scaring with {%the cry s%}ū 
+Line new: {#SUkAra#}¦śū-kārá, {%m.%} scaring with {%the cry%} śū 
+
+Line 123781: √ {%sri, in s%}araṇa {%etc.%}. {@saṃ-pari@}, cover over: 
+Line new: √ {%śri, in%} śaraṇa {%etc.%}. {@saṃ-pari@}, cover over: 
+
+Line 123860: ({%corruption of sri%}ṅga-giri-).
+Line new: ({%corruption of%} śṛṅga-giri-).
+
+Line 123971: {#Seva#}¦śéva, {%V. a.%} [{%cp. s%}iva] dear; kind.
+Line new: {#Seva#}¦śéva, {%V. a.%} [{%cp.%} śiva] dear; kind.
+
+Line 124106: {#SElAli#}¦śaílāli, {%m. pat.%} ({%fr. s%}ilālin) {%of a %}
+Line new: {#SElAli#}¦śaílāli, {%m. pat.%} ({%fr.%} śilālin) {%of a %}
+
+Line 124112: {#SElI#}¦śail-ī, {%f.%} [{%fr. s%}īla] habit, custom, conduct, <lbinfo n="3[]"/>
+Line new: {#SElI#}¦śail-ī, {%f.%} [{%fr.%} śīla] habit, custom, conduct, <lbinfo n="3[]"/>
+
+Line 124117: {#SElUza#}¦śailūṣá, {%m.%} ({%pat. fr. s%}ilūṣa) dancer, 
+Line new: {#SElUza#}¦śailūṣá, {%m.%} ({%pat. fr.%} śilūṣa) dancer, 
+
+Line 124196: {#SocizWa#}¦śóc-iṣṭha, {%spv. of s%}ukra ({%RV.%}).
+Line new: {#SocizWa#}¦śóc-iṣṭha, {%spv. of%} śukra ({%RV.%}).
+
+Line 124285:  in (-°); -° {%a. instead of s%}obhā.
+Line new:  in (-°); -° {%a. instead of%} śobhā.
+
+Line 124313: {#SONgeya#}¦śauṅgeyá, {%m. met.%} ({%fr. s%}uṅgā) {%of%} 
+Line new: {#SONgeya#}¦śauṅgeyá, {%m. met.%} ({%fr.%} śuṅgā) {%of%} 
+
+Line 124366: {#SOnaka#}¦śaúnaka, {%m. pat.%} ({%fr. s%}unaka), {%esp. %}
+Line new: {#SOnaka#}¦śaúnaka, {%m. pat.%} ({%fr.%} śunaka), {%esp. %}
+
+Line 124385: {#SOri#}¦śaur-i, {%m. pat.%} ({%fr. s%}uāra) {%of%} Vasudeva 
+Line new: {#SOri#}¦śaur-i, {%m. pat.%} ({%fr.%} śūra) {%of%} Vasudeva 
+
+Line 125080: {#SriyA#}¦śriy-ā, {%f.%} ({%collateral form of s%}rī) prosperity, <lbinfo n="4"/>
+Line new: {#SriyA#}¦śriy-ā, {%f.%} ({%collateral form of%} śrī) prosperity, <lbinfo n="4"/>
+
+Line 125392: {#Sreyas#}¦śré-yas, {%cpv.%} [{%fr. s%}rī] {%RV.%}: more 
+Line new: {#Sreyas#}¦śré-yas, {%cpv.%} [{%fr.%} śrī] {%RV.%}: more 
+
+Line 125454: {#SroRI#}¦śroṇī, {%f.%} {%later form of s%}róṇi: {@-bhāra,@} 
+Line new: {#SroRI#}¦śroṇī, {%f.%} {%later form of%} śróṇi: {@-bhāra,@} 
+
+Line 125725: {% of Kṣatt%}ri {%and Ugrā%}); {@-pāda,@} {%m.%} = 
+Line new: {% of Kṣattṛ and Ugrā%}); {@-pāda,@} {%m.%} = 
+
+Line 132292: {%activity of Savit%}ri); {%Br.%}: {%sacrificial%} rite of 
+Line new: {%activity of Savitṛ)%}; {%Br.%}: {%sacrificial%} rite of 
+
+Line 132593: produce ({%often incorrectly spelt s%}asya): {@-kṣe-@}
+Line new: produce ({%often incorrectly spelt%} śasya): {@-kṣe-@}
+
+Line 133428: {%a Vasiṣ%}tha ({%V.%}).
+Line new: {%a Vasiṣṭha%} ({%V.%}).
+
+Line 134555: {#sAla#}¦sāla, {%m.%} {%a tree%} ({%Vatica-robusta = s%}āla);  <lbinfo n="[]"/>
+Line new: {#sAla#}¦sāla, {%m.%} {%a tree%} ({%Vatica-robusta%} = śāla);  <lbinfo n="[]"/>
+
+Line 135975: {#sudi#}¦sudi, {%indecl. incorr. for s%}udi.
+Line new: {#sudi#}¦sudi, {%indecl. incorr. for%} śudi.
+
+Line 136299: {%assistants of the Udgāt%}ri priest: {@ā́,@} {%f.%} invocation <lbinfo n="4"/>
+Line new: {%assistants of the Udgātṛ%} priest: {@ā́,@} {%f.%} invocation <lbinfo n="4"/>
+
+Line 137187: vivify, produce; bestow ({%of Savit%}ri); consecrate, <lbinfo n="5"/>
+Line new: vivify, produce; bestow ({%of Savitṛ%}); consecrate, <lbinfo n="5"/>
+
+Line 137192: {%Savit%}ri). {@ni,@} {%pp.%} {@niṣuta,@} thrown into ({%lc.%}; 
+Line new: {%Savitṛ%}). {@ni,@} {%pp.%} {@niṣuta,@} thrown into ({%lc.%}; 
+
+Line 137195: {%Savit%}ri); impel, urge; allow, give up to: 
+Line new: {%Savitṛ%}); impel, urge; allow, give up to: 
+
+Line 137707: ({%gnly. spelt sri%}gāla): {@i-kā,@} {%f. id.%}; {%N.%}.
+Line new: ({%gnly. spelti%} śṛgāla): {@i-kā,@} {%f. id.%}; {%N.%}.
+
+Line 138980: {#skanda#}¦skand-á, {%m.%} hopper ({%ion trin%}a-skandá, 
+Line new: {#skanda#}¦skand-á, {%m.%} hopper ({%in%} tṛṇa-skandá, 
+
+Line 139412: extol ({%in rit., sp. of the Hot%}ri): {%pp.%} 
+Line new: extol ({%in rit., sp. of the Hotṛ%}): {%pp.%} 
+
+Line 139414: laud, extol ({%V.%}; {%in rit. sp. of the Hot%}ri, {%Br.%}). 
+Line new: laud, extol ({%V.%}; {%in rit. sp. of the Hotṛ%}, {%Br.%}). 
+
+Line 139417: {%or sp. of the Prastot%}ri; {%Br.%}); {%C.%}: come to 
+Line new: {%or sp. of the Prastotṛ%}; {%Br.%}); {%C.%}: come to 
+
+Line 144938: {#himA#}¦himā, {%f.%} ({%only with s%}atá) cold season, 
+Line new: {#himA#}¦himā, {%f.%} ({%only with%} śatá) cold season, 
+
+Line 146184: {%Hot%}ri {%to the Adhvaryu in the form of the %}
+Line new: {%Hotṛ to the Adhvaryu in the form of the %}
+
+
+missing space after %}:
+Line 1729: {#aNga#}¦áṅg-a, {%n. (a. -° f.%}ī limb, member, part, 
+Line new: {#aNga#}¦áṅg-a, {%n. (a. -° f.%} ī) limb, member, part, 
+
+Line 3489: dark red: {%f.%}{@inī@}; {@-laulya,@} {%n.%} excessive greed: 
+Line new: dark red: {%f.%} {@inī@}; {@-laulya,@} {%n.%} excessive greed: 
+
+Line 4138: {#atran#}¦atra-n, {%th suffix%} -atra ({%v.%}n-it). 
+Line new: {#atran#}¦atra-n, {%the suffix%} -atra ({%v.%} n-it). 
+
+Line 4638: {#adroGa#}¦á-drogha, {%a.%} ({%also%}-ghá) guileless; 
+Line new: {#adroGa#}¦á-drogha, {%a.%} ({%also%} {@-ghá@}) guileless; 
+
+Line 7106: {#anArya#}¦an-ārya, {%a.%}ignoble, dishonourable; 
+Line new: {#anArya#}¦an-ārya, {%a.%} ignoble, dishonourable; 
+
+Line 9094: {#anya#}¦anyá, {%a.%} ({%n.%}{@-d@}) other; different from 
+Line new: {#anya#}¦anyá, {%a.%} ({%n.%} {@-d@}) other; different from 
+
+Line 9553: {@-deśin@}, {%a.%} disguised as (-°); {%fp.%}to be 
+Line new: {@-deśin@}, {%a.%} disguised as (-°); {%fp.%} to be 
+
+Line 11139: well-disposed to, longing for ({%ac.,%}-°).
+Line new: well-disposed to, longing for ({%ac.,%} -°).
+
+Line 15633: {#aSaraRa#}¦a-śaraṇ-a, {%n.%} defencelessness; {%a.%}unprotected, <lbinfo n="8"/>
+Line new: {#aSaraRa#}¦a-śaraṇ-a, {%n.%} defencelessness; {%a.%} unprotected, <lbinfo n="8"/>
+
+Line 16107: be for, belong {%or%} accrue to, {%often =%}have {%or%} 
+Line new: be for, belong {%or%} accrue to, {%often =%} have {%or%} 
+
+Line 17427: {#ahna#}¦ahna, {%m.%}-° = áhan, day: {%d.%} at once.
+Line new: {#ahna#}¦ahna, {%m.%} -° = áhan, day: {%d.%} at once.
+
+Line 19796: anchorite; {%n.%} forest-treatise ({%part of a Brāhmaṇa%}to <lbinfo n="6"/>
+Line new: anchorite; {%n.%} forest-treatise ({%part of a Brāhmaṇa to%} <lbinfo n="6"/>
+
+Line 19797:  be studied in solitudes).
+Line new:  {%be studied in solitudes%}).
+
+Line 20604: {%m.%}arrow; {@-gamana,@} {%n.%} rapid course; {@-tva,@} 
+Line new: {%m.%} arrow; {@-gamana,@} {%n.%} rapid course; {@-tva,@} 
+
+Line 20779: {#As#}¦ĀS, II.Ā. {@ā́s-te@} ({%E.%}+ I.Ā. Āsa, II. 
+Line new: {#As#}¦ĀS, II.Ā. {@ā́s-te@} ({%E.%} + I.Ā. {@āsa, II@}. 
+
+Line 20990: {@-in,@} {%a.%} frequenting; addicted to (-°); {@-ya,@} {%fp.%}to be visited.
+Line new: {@-in,@} {%a.%} frequenting; addicted to (-°); {@-ya,@} {%fp.%} to be visited.
+
+Line 21666: {#inakz#}¦i-nak-ṣ, {%des.%} P. ({%of%}√ naś) {@ínakṣa,@} 
+Line new: {#inakz#}¦i-nak-ṣ, {%des.%} P. ({%of%} √ naś) {@ínakṣa,@} 
+
+Line 21700: (Kaśyapa); {@-gopa@} ({%or%}{@ā@}), {%a.%} having Indra as a 
+Line new: (Kaśyapa); {@-gopa@} ({%or%} {@ā@}), {%a.%} having Indra as a 
+
+Line 22254: {#IjAna#}¦īj-āná, {%pf. pt. of%}√ yaj.
+Line new: {#IjAna#}¦īj-āná, {%pf. pt. of%} √ yaj.
+
+Line 22300: = pray; {%w. neg.%}=at all; {%often meaningless.%}.
+Line new: = pray; {%w. neg.%} = at all; {%often meaningless.%}.
+
+Line 26603: {#fca#}¦ṛca, {%m.%}-° = ṛc, hymn, verse.
+Line new: {#fca#}¦ṛca, {%m.%} -° = ṛc, hymn, verse.
+
+Line 28883: {#kad#}¦kád, {%V. n. nm., ac. sg. of%}ka, what? = I 
+Line new: {#kad#}¦kád, {%V. n. nm., ac. sg. of%} ka, what? = I 
+
+Line 29049: {#kanya#}¦kan-ya, {%a.%} smallest: {@-ka,@} {%a. id.,%} {@ā,@} {%f.%}= 
+Line new: {#kanya#}¦kan-ya, {%a.%} smallest: {@-ka,@} {%a. id.,%} {@ā,@} {%f.%} = 
+
+Line 29674: {%ps. or g. w. vbl. N.%}); {%used as ft. of%}√ kṛ; {@-ka,@} 
+Line new: {%ps. or g. w. vbl. N.%}); {%used as ft. of%} √ kṛ; {@-ka,@} 
+
+Line 31530: {@-bhārika,@} {%m.%} carrier of wood; {@-maya,@} {%a.%}(ī) 
+Line new: {@-bhārika,@} {%m.%} carrier of wood; {@-maya,@} {%a.%} ({@ī@}) 
+
+Line 34083: {#kxpti#}¦kḷ́p-ti ({%also%}-tí) {%f.%} coming about, success.
+Line new: {#kxpti#}¦kḷ́p-ti ({%also%} -tí) {%f.%} coming about, success.
+
+Line 40679:  {@-íya,@} {%a.%}driving; travelling.
+Line new:  {@-íya,@} {%a.%} driving; travelling.
+
+Line 41044: {%a.%} having four forms {%or%}faces; {@-yuga,@} {%n.%} the 
+Line new: {%a.%} having four forms {%or%} faces; {@-yuga,@} {%n.%} the 
+
+Line 49347: {#tfn#}¦tṛ-n, {%suffix%}-tṛ {%(denoting an agent) when %}
+Line new: {#tfn#}¦tṛ-n, {%suffix%} -tṛ {%(denoting an agent) when %}
+
+Line 49801: known, indeed ({%always preceded by%} ha{%or%}yásya).
+Line new: known, indeed ({%always preceded by%} ha {%or%} yásya).
+
+Line 49960: {#tri#}¦trí, {%num. pl. m. n. (f.%}tisṛ) three: {@triṣu@} 
+Line new: {#tri#}¦trí, {%num. pl. m. n. (f.%} tisṛ) three: {@triṣu@} 
+
+Line 51964: cause ({%pain etc.%}); allow to ({%ing.%}), {%with n%}{@a@}, not 
+Line new: cause ({%pain etc.%}); allow to ({%ing.%}), {%with%} {@ṇa@}, not 
+
+Line 61845: {@-gṛha@}, {%a.%}({@ī@}) houseless; {@-gaurava,@} {%a.%} devoid 
+Line new: {@-gṛha@}, {%a.%} ({@ī@}) houseless; {@-gaurava,@} {%a.%} devoid 
+
+Line 68266: water: {@-varṣa,@} {%m.%} {%or n.%}(?) downpour of 
+Line new: water: {@-varṣa,@} {%m.%} {%or n.%} (?) downpour of 
+
+Line 68564: {%pat.%} son of Parāśara, {%i. e.%}Vyāsa.
+Line new: {%pat.%} son of Parāśara, {%i. e.%} Vyāsa.
+
+Line 69152: {%m. pl. or%} °- ({%metrical for%}- pitāmaha), fathers 
+Line new: {%m. pl. or%} °- ({%metrical for%} - pitāmaha), fathers 
+
+Line 79788: {%talk%}? in short; {%n.%} {@ū,@} {%ad.%} much; often, repeatedly; <lbinfo n="2"/>
+Line new: {%talk ?%} in short; {%n.%} {@ū,@} {%ad.%} much; often, repeatedly; <lbinfo n="2"/>
+
+Line 90291: {#mAtf#}¦mā-tṛ́, {%f.%} [{%perhaps%}former {%or children%}: 
+Line new: {#mAtf#}¦mā-tṛ́, {%f.%} [{%perhaps%} former {%of children%}: 
+
+Line 91041: {%into Sanskrit from the Pāli%}mārisa = mādṛśa] 
+Line new: {%into Sanskrit from the Pāli%} mārisa = mādṛśa] 
+
+Line 96362: {%etc.%}) over ({%d.%}; {%V.%}0, Ā. extend oneself before 
+Line new: {%etc.%}) over ({%d.%}; {%V.%}, Ā. extend oneself before 
+
+Line 98990:  {@vi,@} {%cs.%}construct, fashion, form; 
+Line new:  {@vi,@} {%cs.%} construct, fashion, form; 
+
+Line 103744: {%pp.%}{@lekhita. abhi,@} inscribe, write; sketch, 
+Line new: {%pp.%} {@lekhita. abhi,@} inscribe, write; sketch, 
+
+Line 106136: {%Aśvin%}s; {%n.%} praise ({%RV.%}); respectful salutation, <lbinfo n="6"/>
+Line new: {%Aśvins;%} {%n.%} praise ({%RV.%}); respectful salutation, <lbinfo n="6"/>
+
+Line 107533: {#vaSI#}¦vaś-ī, {%f.%} [√ vaś] {%in%}-váśī.
+Line new: {#vaSI#}¦vaś-ī, {%f.%} [√ vaś] {%in%} ur-váśī.
+
+Line 111094: {#vid#}¦VID, II.P. {@véd, vid@} ({%V., C.%}0, ¤1.¤ {@veda@} 
+Line new: {#vid#}¦VID, II.P. {@véd, vid@} ({%V., C.%}, ¤1.¤ {@veda@} 
+
+Line 116394: {#vedipurIza#}¦vedi-purīṣa, {%m.%}loose earth of 
+Line new: {#vedipurIza#}¦vedi-purīṣa, {%m.%} loose earth of 
+
+Line 120105: {#Sayita#}¦śay-i-ta, {%pp.%} √ śī; {%n.%} * place where 
+Line new: {#Sayita#}¦śay-i-ta, {%pp.%} √ śī; {%n.%}* place where 
+
+Line 121808: {%V., C.%}: direct, instruct; {%C.%}L give instructions 
+Line new: {%V., C.%}: direct, instruct; {%C.%}: give instructions 
+
+Line 122344: {%m. N.%} {%of a king%}; {@-paṭṭa@}, {%m.%}stone slab ({%for %}
+Line new: {%m. N.%} {%of a king%}; {@-paṭṭa@}, {%m.%} stone slab ({%for %}
+
+Line 123991: {#SevfDa#}¦śé[va]-vṛdha ({%or%}á¹), {%a.%} bliss-increasing <lbinfo n="13"/>
+Line new: {#SevfDa#}¦śé[va]-vṛdha ({%or%} á¹), {%a.%} bliss-increasing <lbinfo n="13"/>
+
+Line 130592: {%a.%}equally honoured with ({%in.%}); {@-mūrdhan,@} 
+Line new: {%a.%} equally honoured with ({%in.%}); {@-mūrdhan,@} 
+
+Line 135201: {%of%}leprosy ({%C.%}); {@-man,@} {%m. n. kind of%} leprosy; 
+Line new: {%of%} leprosy ({%C.%}); {@-man,@} {%m. n. kind of%} leprosy; 
+
+Line 137459: basket {%or%}dish ({%V.%}); {%C.%}: slaughter-house, 
+Line new: basket {%or%} dish ({%V.%}); {%C.%}: slaughter-house, 
+
+Line 140634:  {%or%}act ({%subject with app. in in., gd., or %}
+Line new:  {%or%} act ({%subject with app. in in., gd., or %}
+
+Line 144066: {%sa%}-); {@-in,@} {%a.%} joyful; looking forward to (-°); 
+Line new: {@sa-@}); {@-in,@} {%a.%} joyful; looking forward to (-°); 
+
