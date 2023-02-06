@@ -113,7 +113,8 @@ Line 83041:  {%pat. of Ri%}tuparṇa.
 Line new:  {%pat. of%} Ṛtuparṇa.
 
 Line 84140: enjoy carnally ({%ac. of pers. or s%}arīra); receive <lbinfo n="2"/>
-Line new (scan has śarīram): enjoy carnally ({%ac. of pers. or%} śarīram); receive <lbinfo n="2"/>
+;  (scan has śarīram)
+Line new: enjoy carnally ({%ac. of pers. or%} śarīram); receive <lbinfo n="2"/>
 
 Line 87430:  {%e. g. s%}āka-pārthiva = vegetable, {%sc.%} 
 Line new: {%e. g.%} śāka-pārthiva = vegetable, {%sc.%} 
@@ -265,8 +266,9 @@ Line new: {#SunI#}¦śúnī, {%f.%} {%of%} śván.
 Line 123585: {#SU#}¦śū, {%onom. in s%}ū-kārá {%and s%}ū́-kṛta.
 Line new: {#SU#}¦śū, {%onom. in%} śū-kārá {%and%} śū́-kṛta.
 
-Line 123585: {#SU#}¦śū, {%onom. in s%}ū-kārá {%and s%}ū́-kṛta.
-Line new: {#SU#}¦śū, {%onom. in%} śū-kārá {%and%} śū́-kṛta.
+; duplicate commented out
+; Line 123585: {#SU#}¦śū, {%onom. in s%}ū-kārá {%and s%}ū́-kṛta.
+; Line new: {#SU#}¦śū, {%onom. in%} śū-kārá {%and%} śū́-kṛta.
 
 Line 123599: {#SUkAra#}¦śū-kārá, {%m.%} scaring with {%the cry s%}ū 
 Line new: {#SUkAra#}¦śū-kārá, {%m.%} scaring with {%the cry%} śū 
@@ -504,7 +506,7 @@ Line new: {#vid#}¦VID, II.P. {@véd, vid@} ({%V., C.%}, ¤1.¤ {@veda@}
 Line 116394: {#vedipurIza#}¦vedi-purīṣa, {%m.%}loose earth of 
 Line new: {#vedipurIza#}¦vedi-purīṣa, {%m.%} loose earth of 
 
-Line 120105: {#Sayita#}¦śay-i-ta, {%pp.%} √ śī; {%n.%} * place where 
+Line 120105: {#Sayita#}¦śay-i-ta, {%pp.%} √ śī; {%n.%}* place where 
 Line new: {#Sayita#}¦śay-i-ta, {%pp.%} √ śī; {%n.%}* place where 
 
 Line 121808: {%V., C.%}: direct, instruct; {%C.%}L give instructions 

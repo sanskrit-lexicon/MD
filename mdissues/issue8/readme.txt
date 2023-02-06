@@ -31,3 +31,52 @@ updateByLine.py usage
 # change_fewmore.txt is created by Anna, and pulled by Jim.
 python updateByLine.py temp_md_0.txt change_fewmore.txt temp_md_1.txt
 --------------------------------------------------------------
+02-06-2023
+ Anna submitted change_few.more.txt
+ This is similar to the desired form, but not quite the same.
+ Next program transforms change_few.more.txt to temp_change_fewmore.txt,
+  
+python change_adj.py change_few.more.txt change_fewmore_a.txt
+ This required a couple of edits to change_few.more.txt.
+
+# Now apply this change file, getting temp_md_0a.txt.
+python updateByLine.py temp_md_0.txt change_fewmore_a.txt temp_md_0a.txt
+# Next,
+python diff_to_changes_dict.py temp_md_0.txt temp_md_0a.txt change_fewmore.txt
+#  change_fewmore.txt is functionally the same as change_fewmore_a.txt,
+#  but has extra 'metaline' information helpful for debugging.
+#
+# Next manually reviewed change_fewmore.txt, and
+# changed several.  Search ';x' for these items.
+-------------------------------------------------
+# now get temp_md_1.txt by applying the modified change_fewmore.txt.
+python updateByLine.py temp_md_0.txt change_fewmore.txt temp_md_1.txt
+-------------------------------------------------
+Ready to install temp_md_1.txt.
+# first, install locally
+cp temp_md_1.txt /c/xampp/htdocs/cologne/csl-orig/v02/md/md.txt
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+grep 'md ' redo_xampp_all.sh
+sh generate_dict.sh md  ../../md
+
+cd /c/xampp/htdocs/sanskrit-lexicon/MD/mdissues/issue8
+# check xml
+sh xmlchk_xampp.sh md
+# ok.
+## update csl-orig
+cd /c/xampp/htdocs/cologne/csl-orig/
+git pull
+git add .  # v02/md/md.txt
+git commit -m "md. Misc corrections.
+ Ref: https://github.com/sanskrit-lexicon/MD/issues/8"
+git push
+----------------------------------------------------
+update at Cologne
+cd ... csl-orig
+git pull
+cd ../csl-pywork/v02
+grep 'md ' redo_cologne_all.sh
+sh generate_dict.sh md  ../../MDScan/2020/
+cd /c/xampp/htdocs/sanskrit-lexicon/MD/mdissues/issue8
+----------------------------------------------------
+update this mws repository
