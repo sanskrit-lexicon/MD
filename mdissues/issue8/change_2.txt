@@ -1,22 +1,22 @@
 ; <L>340<pc>003-3<k1>aN<k2>aN
 1618 old {#aN#}¦a-ṅ, {%aor.%} {%suffix%} -a ({%in%} a-gam-a-t); kṛt{%suffix%} <lbinfo n="8"/>
 ;
-1618 new {#aN#}¦a-ṅ, {%aor.%} {%suffix%} -a ({%in%} a-gam-a-t); kṛt{%suffix%} <lbinfo n="8"/>
+1618 new {#aN#}¦a-ṅ, {%aor.%} {%suffix%} -a ({%in%} a-gam-a-t); kṛt- {%suffix%} <lbinfo n="8"/>
 ;---------------------------------------------------
 ; <L>353<pc>004-1<k1>aNkurita<k2>aNkurita
 1682 old sprout{%s;%} combined with ({%in.%}).
 ;
-1682 new sprout{%s;%} combined with ({%in.%}).
+1682 new sproutś combined with ({%in.%}).
 ;---------------------------------------------------
 ; <L>453<pc>005-1<k1>aja<k2>aja<h>3
 2177 old {#aja#}¦aj-a, {%the%} √ a{%g.%}.
 ;
-2177 new {#aja#}¦aj-a, {%the%} √ a{%g.%}.
+2177 new {#aja#}¦aj-a, {%the%} √ aj.
 ;---------------------------------------------------
 ; <L>1163<pc>011-2<k1>anaNga<k2>anaNga
 5632 old Ś{%iva's eye%}); {@-krīḍa@}, {%f.%} dalliance; {@-tva,@} {%n.%} bodilessness; <lbinfo n="4"/>
 ;
-5632 new Ś{%iva's eye%}); {@-krīḍa@}, {%f.%} dalliance; {@-tva,@} {%n.%} bodilessness; <lbinfo n="4"/>
+5632 new {%Śiva's eye%}); {@-krīḍa@}, {%f.%} dalliance; {@-tva,@} {%n.%} bodilessness; <lbinfo n="4"/>
 ;---------------------------------------------------
 ; <L>1855<pc>019-1<k1>apa<k2>apa
 9341 old {#apa#}¦ápa, {%ad.%} off, away (°-); *{%prp.%} away from, 
@@ -26,47 +26,47 @@
 ; <L>2243<pc>023-2<k1>aBimanyu<k2>aBimanyu
 11422 old {#aBimanyu#}¦abhi-manyu, {%m. N.%}; {@ja@}{%m.%} son of 
 ;
-11422 new {#aBimanyu#}¦abhi-manyu, {%m. N.%}; {@ja@}{%m.%} son of 
+11422 new {#aBimanyu#}¦abhi-manyu, {%m.%} {%N.%}; {@ja@} {%m.%} son of 
 ;---------------------------------------------------
 ; <L>2833<pc>030-2<k1>avaSya<k2>avaSya
 14636 old °-{%or%} {@-m,@} {%ad.%} necessarily; certainly: {@-ka-tā,@} 
 ;
-14636 new °-{%or%} {@-m,@} {%ad.%} necessarily; certainly: {@-ka-tā,@} 
+14636 new °- {%or%} {@-m,@} {%ad.%} necessarily; certainly: {@-ka-tā,@} 
 ;---------------------------------------------------
 ; <L>3449<pc>037-3<k1>Ac<k2>Ac
 17945 old {#Ac#}¦ā-c, ā {%in adverbs like%} dakṣiṇ-ā{%&c. (gr.)%}.
 ;
-17945 new {#Ac#}¦ā-c, ā {%in adverbs like%} dakṣiṇ-ā{%&c. (gr.)%}.
+17945 new {#Ac#}¦ā-c, ā {%in adverbs like%} dakṣiṇ-ā {%&c. (gr.)%}.
 ;---------------------------------------------------
 ; <L>3657<pc>040-1<k1>ApAta<k2>ApAta
 19123 old °-{%or%} {@-tas,@} at once, at first sight: {@-mātre@} {%or%} 
 ;
-19123 new °-{%or%} {@-tas,@} at once, at first sight: {@-mātre@} {%or%} 
+19123 new °- {%or%} {@-tas,@} at once, at first sight: {@-mātre@} {%or%} 
 ;---------------------------------------------------
 ; <L>3841<pc>042-1<k1>Arya<k2>Arya
 20029 old {#Arya#}¦ā́rya, {%a.%} ({@ā@}{%or%} {@ī@}) belonging to the faithful, <lbinfo n="5"/>
 ;
-20029 new {#Arya#}¦ā́rya, {%a.%} ({@ā@}{%or%} {@ī@}) belonging to the faithful, <lbinfo n="5"/>
+20029 new {#Arya#}¦ā́rya, {%a.%} ({@ā@} {%or%} {@ī@}) belonging to the faithful, <lbinfo n="5"/>
 ;---------------------------------------------------
 ; <L>3888<pc>042-3<k1>AvayAj<k2>AvayAj
 20297 old {#AvayAj#}¦ā́vayāj, {%m.%} ({%n.%} {@yās@}){%kind of%} priest.
 ;
-20297 new {#AvayAj#}¦ā́vayāj, {%m.%} ({%n.%} {@yās@}){%kind of%} priest.
+20297 new {#AvayAj#}¦ā́vayāj, {%m.%} ({%n.%} {@yās@}) {%kind of%} priest.
 ;---------------------------------------------------
 ; <L>4030<pc>044-2<k1>Aspada<k2>Aspada
 21050 old site; place for, object of ({%g.%}): {@-tā,@} {%f.,%} {@-tva,@}{%n. %}
 ;
-21050 new site; place for, object of ({%g.%}): {@-tā,@} {%f.,%} {@-tva,@}{%n. %}
+21050 new site; place for, object of ({%g.%}): {@-tā,@} {%f.,%} {@-tva,@} {%n. %}
 ;---------------------------------------------------
 ; <L>4279<pc>048-1<k1>ugit<k2>ugit
 22559 old {#ugit#}¦ug-it, {%a.%} having uk ({%i.e.%} u{%or ri%}) for  <lbinfo n="[]"/>
 ;
-22559 new {#ugit#}¦ug-it, {%a.%} having uk ({%i.e.%} u{%or ri%}) for  <lbinfo n="[]"/>
+22559 new {#ugit#}¦ug-it, {%a.%} having uk ({%i.e.%} u {%or%} ṛ) for  <lbinfo n="[]"/>
 ;---------------------------------------------------
 ; <L>4558<pc>051-2<k1>uddAma<k2>uddAma
 24084 old unbridled; abounding in, full of (-°): °-{%and%} 
 ;
-24084 new unbridled; abounding in, full of (-°): °-{%and%} 
+24084 new unbridled; abounding in, full of (-°): °- {%and%} 
 ;---------------------------------------------------
 ; <L>5342<pc>061-1<k1>kacCa<k2>kacCa
 28423 old {#kacCa#}¦kaccha, {%m.%} bank; marshy land; *{%m.,%} 
@@ -91,7 +91,7 @@
 ; <L>5916<pc>068-3<k1>kirAta<k2>kirAta
 31786 old Arjuna's combat with Ś{%iva disguised as a%} Kirāta: <lbinfo n="2"/>
 ;
-31786 new Arjuna's combat with Ś{%iva disguised as a%} Kirāta: <lbinfo n="2"/>
+31786 new Arjuna's combat with {%Śiva disguised as a%} Kirāta: <lbinfo n="2"/>
 ;---------------------------------------------------
 ; <L>5916<pc>068-3<k1>kirAta<k2>kirAta
 31787 old  {%T. of a poem by Bhāravi%} (¤6¤{%th cent. A. D.%}).
@@ -101,132 +101,132 @@
 ; <L>5961<pc>069-1<k1>kuc<k2>kuc
 32016 old {#kuc#}¦KUC, VI.P. {@kuca@}, {#kuYc#} KU{%ÑK,%} 
 ;
-32016 new {#kuc#}¦KUC, VI.P. {@kuca@}, {#kuYc#} KU{%ÑK,%} 
+32016 new {#kuc#}¦KUC, VI.P. {@kuca@}, {#kuYc#} KUÑC, 
 ;---------------------------------------------------
 ; <L>6057<pc>070-2<k1>kumBodara<k2>kumBodara
 32580 old {%of a servant of%} Ś{%iva%}; {@-udbhava,@} {%m. ep. of%} 
 ;
-32580 new {%of a servant of%} Ś{%iva%}; {@-udbhava,@} {%m. ep. of%} 
+32580 new {%of a servant of Śiva%}; {@-udbhava,@} {%m.%} {%ep. of%} 
 ;---------------------------------------------------
 ; <L>6167<pc>072-1<k1>kUpa<k2>kUpa
 33221 old  {@-dardura,@} {%m.%} frog in well={%unsophisticated %}<lbinfo n="15"/>
 ;
-33221 new  {@-dardura,@} {%m.%} frog in well={%unsophisticated %}<lbinfo n="15"/>
+33221 new  {@-dardura,@} {%m.%} frog in well = {%unsophisticated %}<lbinfo n="15"/>
 ;---------------------------------------------------
 ; <L>6409<pc>075-3<k1>kOzItaka<k2>kOzItaka
 34796 old of the Kauṣītakins ({%also called%} Ś{%āṅkhāyana %}
 ;
-34796 new of the Kauṣītakins ({%also called%} Ś{%āṅkhāyana %}
+34796 new of the Kauṣītakins ({%also called%} Śāṅkhāyana %}
 ;---------------------------------------------------
 ; <L>6661<pc>079-a2<k1>KawvANga<k2>KawvANga
 36356 old Ś{%iva%}): {@-dhara, -dhāra, -bhaṛt@}, {%a.%} bearing a 
 ;
-36356 new Ś{%iva%}): {@-dhara, -dhāra, -bhaṛt@}, {%a.%} bearing a 
+36356 new {%Śiva%}): {@-dhara, -dhāra, -bhaṛt@}, {%a.%} bearing a 
 ;---------------------------------------------------
 ; <L>6786<pc>081-1<k1>gaRa<k2>gaRa
 37040 old ({%esp.%} Ś{%iva's retinue, under the special rule of %}
 ;
-37040 new ({%esp.%} Ś{%iva's retinue, under the special rule of %}
+37040 new ({%esp. Śiva's retinue, under the special rule of %}
 ;---------------------------------------------------
 ; <L>6797<pc>081-2<k1>gaReSa<k2>gaReSa
 37119 old {%son of%} Ś{%iva and Pārvatī; also ep. of%} Śiva.
 ;
-37119 new {%son of%} Ś{%iva and Pārvatī; also ep. of%} Śiva.
+37119 new {%son of Śiva and Pārvatī; also ep. of%} Śiva.
 ;---------------------------------------------------
 ; <L>6877<pc>083-1<k1>garBa<k2>garBa
 37715 old Ś{%astra%} (producing fertility); {@-kāla,@} {%m.%} time 
 ;
-37715 new Ś{%astra%} (producing fertility); {@-kāla,@} {%m.%} time 
+37715 new {%Śastra%} (producing fertility); {@-kāla,@} {%m.%} time 
 ;---------------------------------------------------
 ; <L>7099<pc>086-2<k1>gokarRa<k2>gokarRa
 39145 old Ś{%iva;%} Śiva {%worshipped in%} Gokarṇa; {%N. of a %}
 ;
-39145 new Ś{%iva;%} Śiva {%worshipped in%} Gokarṇa; {%N. of a %}
+39145 new {%Śiva;%} Śiva {%worshipped in%} Gokarṇa; {%N.%} {%of a %}
 ;---------------------------------------------------
 ; <L>7159<pc>087-2<k1>gOrI<k2>gOrI
 39547 old Ś{%iva's%} wife; {%N.%}: {@-guru,@} {%m.%} Gaurī's father, 
 ;
-39547 new Ś{%iva's%} wife; {%N.%}: {@-guru,@} {%m.%} Gaurī's father, 
+39547 new {%Śiva's%} wife; {%N.%}: {@-guru,@} {%m.%} Gaurī's father, 
 ;---------------------------------------------------
 ; <L>7436<pc>092-1<k1>campa<k2>campa
 41379 old {%of%} K{%ampā%}.
 ;
-41379 new {%of%} K{%ampā%}.
+41379 new {%of Campā%}.
 ;---------------------------------------------------
 ; <L>7582<pc>094-2<k1>citraka<k2>citraka
 42336 old {% now%} K{%itrakote%}); {%N. of a town%}; 
 ;
-42336 new {% now%} K{%itrakote%}); {%N. of a town%}; 
+42336 new {% now Citrakote%}); {%N.%} {%of a town%}; 
 ;---------------------------------------------------
 ; <L>7824<pc>098-1<k1>jawA<k2>jawA
 43815 old  Ś{%iva, and by mourners%}): {@-kalāpa,@} {%m.%} 
 ;
-43815 new  Ś{%iva, and by mourners%}): {@-kalāpa,@} {%m.%} 
+43815 new  {%Śiva, and by mourners%}): {@-kalāpa,@} {%m.%} 
 ;---------------------------------------------------
 ; <L>7842<pc>098-2<k1>jan<k2>jan
 43933 old  to ({%d.%}); {%often%} °-{%a.%} = having --, {%e. g.%} {@jāta-@}
 ;
-43933 new  to ({%d.%}); {%often%} °-{%a.%} = having --, {%e. g.%} {@jāta-@}
+43933 new  to ({%d.%}); {%often%} °- {%a.%} = having --, {%e. g.%} {@jāta-@}
 ;---------------------------------------------------
 ; <L>7926<pc>099-3<k1>jarAvat<k2>jarAvat
 44446 old {%N. of a prince of Magadha and%} K{%edi%}.
 ;
-44446 new {%N. of a prince of Magadha and%} K{%edi%}.
+44446 new {%N. of a prince of Magadha and Cedi%}.
 ;---------------------------------------------------
 ; <L>7986<pc>100-3<k1>jAtakarman<k2>jAtakarman
 44825 old {%n.%} gold:{@-maya,@}{%a.%} ({@ī@}) golden; {@-vat,@} {%a.%} born; 
 ;
-44825 new {%n.%} gold:{@-maya,@}{%a.%} ({@ī@}) golden; {@-vat,@} {%a.%} born; 
+44825 new {%n.%} gold: {@-maya,@} {%a.%} ({@ī@}) golden; {@-vat,@} {%a.%} born; 
 ;---------------------------------------------------
 ; <L>8192<pc>103-3<k1>jvAla<k2>jvAla
 46114 old {@n. N. of a temple of@} Ś{%iva%}.
 ;
-46114 new {@n. N. of a temple of@} Ś{%iva%}.
+46114 new {%n.%} {%N.%} {%of a temple of Śiva%}.
 ;---------------------------------------------------
 ; <L>8292<pc>105-1<k1>takz<k2>takz
 46610 old {%work of the%} Ri{%bhus%}: {%pp.%} {@taṣṭa. ā@}, procure. 
 ;
-46610 new {%work of the%} Ri{%bhus%}: {%pp.%} {@taṣṭa. ā@}, procure. 
+46610 new {%work of the Ṛbhus%}: {%pp.%} {@taṣṭa. ā@}, procure. 
 ;---------------------------------------------------
 ; <L>8864<pc>113-2<k1>tridiva<k2>tridiva
 50115 old {%always with g.%} diva{%h (V.)%}; heaven ({%C.%}); {@-gata,@} 
 ;
-50115 new {%always with g.%} diva{%h (V.)%}; heaven ({%C.%}); {@-gata,@} 
+50115 new {%always with g.%} divaḥ ({%V.%}); heaven ({%C.%}); {@-gata,@} 
 ;---------------------------------------------------
 ; <L>8869<pc>113-2<k1>tripura<k2>tripura
 50163 old Ś{%iva%}; {@ī,@} {%f. N. of a the capital of%} K{%edi%}; {@-ghātin, @}
 ;
-50163 new Ś{%iva%}; {@ī,@} {%f. N. of a the capital of%} K{%edi%}; {@-ghātin, @}
+50163 new {%Śiva%}; {@ī,@} {%f.%} {%N.%} {%of a the capital of Cedi%}; {@-ghātin, @}
 ;---------------------------------------------------
 ; <L>8900<pc>114-1<k1>trEpura<k2>trEpura
 50414 old {%Cedis%}; {%n.%} Ś{%iva's%} exploit in connexion with 
 ;
-50414 new {%Cedis%}; {%n.%} Ś{%iva's%} exploit in connexion with 
+50414 new {%Cedis%}; {%n.%} {%Śiva's%} exploit in connexion with 
 ;---------------------------------------------------
 ; <L>9172<pc>118-2<k1>dAtf<k2>dAtf
 52108 old {#dAtf#}¦dā́-tṛ, {%a.%} ({%with ac., or%} t{%rí with g.%}) 
 ;
-52108 new {#dAtf#}¦dā́-tṛ, {%a.%} ({%with ac., or%} t{%rí with g.%}) 
+52108 new {#dAtf#}¦dā́-tṛ, {%a.%} ({%with%} {%ac.%}, {%or%} tṛ {%with%} {%g.%}) 
 ;---------------------------------------------------
 ; <L>9182<pc>118-2<k1>dAnava<k2>dAnava
 52168 old {@ as the offspring of Danu and Ka@}s{%yapa %}
 ;
-52168 new {@ as the offspring of Danu and Ka@}s{%yapa %}
+52168 new {% as the offspring of Danu and Kaśyapa %}
 ;---------------------------------------------------
 ; <L>9349<pc>120-3<k1>dInaka<k2>dInaka
 53151 old {@-ṣa,@} {%a.%} dull-witted; {@-dāsa,@} {%m. a%} Ś{%ūdra N.%}; 
 ;
-53151 new {@-ṣa,@} {%a.%} dull-witted; {@-dāsa,@} {%m. a%} Ś{%ūdra N.%}; 
+53151 new {@-ṣa,@} {%a.%} dull-witted; {@-dāsa,@} {%m.%} {%a Śūdra%} {%N.%}; 
 ;---------------------------------------------------
 ; <L>9416<pc>121-3<k1>durga<k2>durga
 53573 old {%N. of%} Ś{%iva's wife; N. of a princess; m. n.%} 
 ;
-53573 new {%N. of%} Ś{%iva's wife; N. of a princess; m. n.%} 
+53573 new {%N.%} {%of Śiva's wife;%} {%N.%} of a princess;%} {%m.%} {%n.%} 
 ;---------------------------------------------------
 ; <L>9466<pc>123-1<k1>duzyanta<k2>duzyanta
 54041 old {#duzyanta#}¦duṣyanta, {%m. N. of%} Ś{%akuntalā's husband %}<lbinfo n="3"/>
 ;
-54041 new {#duzyanta#}¦duṣyanta, {%m. N. of%} Ś{%akuntalā's husband %}<lbinfo n="3"/>
+54041 new {#duzyanta#}¦duṣyanta, {%m.%} {%N.%} {%of Śakuntalā's husband %}<lbinfo n="3"/>
 ;---------------------------------------------------
 ; <L>9674<pc>126-3<k1>dOrhfda<k2>dOrhfda
 55403 old {#dOrhfda#}¦daur-hṛd-a, {%m.%} rogue; *{%n.%} longing of 
@@ -241,107 +241,107 @@
 ; <L>9794<pc>128-1<k1>dvAratA<k2>dvAratA
 56086 old {@-pāla,@} {%m.%} door-keeper: {@-ka,@}{%m.,%} {@i-kā,@} {%f. id.%}; 
 ;
-56086 new {@-pāla,@} {%m.%} door-keeper: {@-ka,@}{%m.,%} {@i-kā,@} {%f. id.%}; 
+56086 new {@-pāla,@} {%m.%} door-keeper: {@-ka,@} {%m.%}, {@i-kā,@} {%f.%} {%id.%}; 
 ;---------------------------------------------------
 ; <L>9949<pc>130-2<k1>DarmanATa<k2>DarmanATa
 57081 old increasing virtue (Ś{%iva%}); {%m. N.%}; {@-vāda,@} {%m.%} 
 ;
-57081 new increasing virtue (Ś{%iva%}); {%m. N.%}; {@-vāda,@} {%m.%} 
+57081 new increasing virtue ({%Śiva%}); {%m.%} {%N.%}; {@-vāda,@} {%m.%} 
 ;---------------------------------------------------
 ; <L>10268<pc>136-1<k1>nanda<k2>nanda
 59256 old {% put to death by%} K{%āṇakya (who raised%} 
 ;
-59256 new {% put to death by%} K{%āṇakya (who raised%} 
+59256 new {% put to death by Cāṇakya (who raised%} 
 ;---------------------------------------------------
 ; <L>10268<pc>136-1<k1>nanda<k2>nanda
 59257 old K{%andragupta to the throne%}). 
 ;
-59257 new K{%andragupta to the throne%}). 
+59257 new {%Candragupta to the throne%}). 
 ;---------------------------------------------------
 ; <L>10276<pc>136-2<k1>nandin<k2>nandin
 59300 old {%attendant of%} Ś{%iva%}; {%N. of%} Śiva's bull.
 ;
-59300 new {%attendant of%} Ś{%iva%}; {%N. of%} Śiva's bull.
+59300 new {%attendant of Śiva%}; {%N.%} {%of%} Śiva's bull.
 ;---------------------------------------------------
 ; <L>10279<pc>136-2<k1>nandISa<k2>nandISa
 59316 old {%an attendant of%} Ś{%iva%}; {@-īśvara@}, {%m. id.%}.
 ;
-59316 new {%an attendant of%} Ś{%iva%}; {@-īśvara@}, {%m. id.%}.
+59316 new {%an attendant of Śiva%}; {@-īśvara@}, {%m.%} {%id.%}.
 ;---------------------------------------------------
 ; <L>10540<pc>140-1<k1>nikuYja<k2>nikuYja
 60900 old {% of%} Ś{%iva%}; {@-kuramba@} {%or%} {@-kurumba,@} 
 ;
-60900 new {% of%} Ś{%iva%}; {@-kuramba@} {%or%} {@-kurumba,@} 
+60900 new {% of Śiva%}; {@-kuramba@} {%or%} {@-kurumba,@} 
 ;---------------------------------------------------
 ; <L>10741<pc>144-3<k1>nizAda<k2>nizAda
 62567 old {% of Brāhmans and%} Ś{%ūdra women; a note %}
 ;
-62567 new {% of Brāhmans and%} Ś{%ūdra women; a note %}
+62567 new {% of Brāhmans and Śūdra women; a note %}
 ;---------------------------------------------------
 ; <L>11002<pc>149-3<k1>paYcamaya<k2>paYcamaya
 64445 old ({%ascetic%}); {%m. N. of an attendant of%} Ś{%iva%}; 
 ;
-64445 new ({%ascetic%}); {%m. N. of an attendant of%} Ś{%iva%}; 
+64445 new ({%ascetic%}); {%m.%} {%N.%} of an attendant of Śiva%}; 
 ;---------------------------------------------------
 ; <L>11241<pc>155-2<k1>paripaRa<k2>paripaRa
 66482 old {@-pelava,@} {%a.%} very delicate, tiny; {@-pothaka,@}{%a.%} 
 ;
-66482 new {@-pelava,@} {%a.%} very delicate, tiny; {@-pothaka,@}{%a.%} 
+66482 new {@-pelava,@} {%a.%} very delicate, tiny; {@-pothaka,@} {%a.%} 
 ;---------------------------------------------------
 ; <L>11446<pc>159-3<k1>pARquleKa<k2>pARquleKa
 67982 old Kānd{%āla and Vaidehī%}).
 ;
-67982 new Kānd{%āla and Vaidehī%}).
+67982 new {%Cāṇdāla and Vaidehī%}).
 ;---------------------------------------------------
 ; <L>11451<pc>159-3<k1>pAtaYjala<k2>pAtaYjala
 68015 old {#pAtaYjala#}¦pātañjala, {%a.%} composed by Pata{%ñ %}
 ;
-68015 new {#pAtaYjala#}¦pātañjala, {%a.%} composed by Pata{%ñ %}
+68015 new {#pAtaYjala#}¦pātañjala, {%a.%} composed by Patañ-
 ;---------------------------------------------------
 ; <L>11521<pc>161-1<k1>pAraSava<k2>pAraSava
 68521 old {%of Brāhmaṇa and%} Ś{%ūdrā%}).
 ;
-68521 new {%of Brāhmaṇa and%} Ś{%ūdrā%}).
+68521 new {%of Brāhmaṇa and Śūdrā%}).
 ;---------------------------------------------------
 ; <L>11685<pc>163-3<k1>pukkaSa<k2>pukkaSa
 69619 old {%caste (offspring of a Niṣāda and a%} Ś{%ūdrā%}).
 ;
-69619 new {%caste (offspring of a Niṣāda and a%} Ś{%ūdrā%}).
+69619 new {%caste (offspring of a Niṣāda and a Śūdrā%}).
 ;---------------------------------------------------
 ; <L>11766<pc>165-3<k1>purUcI<k2>purUcI
 70264 old {#purUcI#}¦purūc-ī, {%a. f.%} ({%of%} *puru‡a{%nk,%} extending <lbinfo n="6"/>
 ;
-70264 new {#purUcI#}¦purūc-ī, {%a. f.%} ({%of%} *puru‡a{%nk,%} extending <lbinfo n="6"/>
+70264 new {#purUcI#}¦purūc-ī, {%a.%} {%f.%} ({%of%} *puru‡añc, extending <lbinfo n="6"/>
 ;---------------------------------------------------
 ; <L>11786<pc>166-1<k1>pulinda<k2>pulinda
 70419 old Ś{%abaras%}); {%sg.%} man of this tribe; prince of the 
 ;
-70419 new Ś{%abaras%}); {%sg.%} man of this tribe; prince of the 
+70419 new {%Śabaras%}); {%sg.%} man of this tribe; prince of the 
 ;---------------------------------------------------
 ; <L>11786<pc>166-1<k1>pulinda<k2>pulinda
 70421 old {%Pulindas,%} Ś{%abaras, and Bhillas%}.
 ;
-70421 new {%Pulindas,%} Ś{%abaras, and Bhillas%}.
+70421 new {%Pulindas, Śabaras, and Bhillas%}.
 ;---------------------------------------------------
 ; <L>11807<pc>166-2<k1>puzpaka<k2>puzpaka
 70573 old {%N. of an attendant of%} Ś{%iva%}; {%n. N. of a %}
 ;
-70573 new {%N. of an attendant of%} Ś{%iva%}; {%n. N. of a %}
+70573 new {%N.%} {%of an attendant of Śiva%}; {%n.%} {%N.%} {%of a %}
 ;---------------------------------------------------
 ; <L>11846<pc>167-2<k1>pUrRa<k2>pUrRa
 70908 old ({@á@}) {@-mās,@}{%m.%} full moon; {@-māsa,@} {%m.%} full moon 
 ;
-70908 new ({@á@}) {@-mās,@}{%m.%} full moon; {@-māsa,@} {%m.%} full moon 
+70908 new ({@á@}) {@-mās,@} {%m.%} full moon; {@-māsa,@} {%m.%} full moon 
 ;---------------------------------------------------
 ; <L>11915<pc>169-2<k1>pfTuvakzas<k2>pfTuvakzas
 71609 old broad-{%or%} flat-headed; {@-śrávas@}, {%a.%} far-famed; 
 ;
-71609 new broad-{%or%} flat-headed; {@-śrávas@}, {%a.%} far-famed; 
+71609 new broad- {%or%} flat-headed; {@-śrávas@}, {%a.%} far-famed; 
 ;---------------------------------------------------
 ; <L>12096<pc>173-3<k1>pratidaRqa<k2>pratidaRqa
 73090 old {@-dvāram,@}{%ac.,%} {@-dvāri,@} {%lc. ad.%} at every door 
 ;
-73090 new {@-dvāram,@}{%ac.,%} {@-dvāri,@} {%lc. ad.%} at every door 
+73090 new {@-dvāram,@} {%ac.,%} {@-dvāri,@} {%lc.%} {%ad.%} at every door 
 ;---------------------------------------------------
 ; <L>12168<pc>176-3<k1>pratyanantara<k2>pratyanantara
 74052 old (*{%g.%}); {@-antāt,@} {%ad.%} to the end in each case; 
@@ -351,427 +351,427 @@
 ; <L>12235<pc>179-2<k1>praBA<k2>praBA
 74886 old {%the son of a minister of%} K{%andraprabha%}; {%m. %}
 ;
-74886 new {%the son of a minister of%} K{%andraprabha%}; {%m. %}
+74886 new {%the son of a minister of Candraprabha%}; {%m.%}
 ;---------------------------------------------------
 ; <L>12242<pc>179-3<k1>pramaMhizWIya<k2>pramaMhizWIya
 74969 old {%attendant on%} Ś{%iva%}; {@-mathana,@} {%a.%} ({@ī@}) tormenting, <lbinfo n="3"/>
 ;
-74969 new {%attendant on%} Ś{%iva%}; {@-mathana,@} {%a.%} ({@ī@}) tormenting, <lbinfo n="3"/>
+74969 new {%attendant on Śiva%}; {@-mathana,@} {%a.%} ({@ī@}) tormenting, <lbinfo n="3"/>
 ;---------------------------------------------------
 ; <L>12318<pc>183-2<k1>praskaRva<k2>praskaRva
 76029 old leaping forward, attacking, {%ep. of%} Ś{%iva%}; suffering <lbinfo n="3"/>
 ;
-76029 new leaping forward, attacking, {%ep. of%} Ś{%iva%}; suffering <lbinfo n="3"/>
+76029 new leaping forward, attacking, {%ep. of Śiva%}; suffering <lbinfo n="3"/>
 ;---------------------------------------------------
 ; <L>12666<pc>191-1<k1>bawu<k2>bawu
 78802 old Ś{%aṃkarācārya%}.
 ;
-78802 new Ś{%aṃkarācārya%}.
+78802 new {%Śaṃkarācārya%}.
 ;---------------------------------------------------
 ; <L>12683<pc>191-2<k1>banD<k2>banD
 78989 old ({%neck%}); draw forth; check, suspend; Ā. -{%or%} 
 ;
-78989 new ({%neck%}); draw forth; check, suspend; Ā. -{%or%} 
+78989 new ({%neck%}); draw forth; check, suspend; Ā. - {%or%} 
 ;---------------------------------------------------
 ; <L>12691<pc>192-1<k1>banDu<k2>banDu
 79130 old {%sunrise%}): {@-ka,@} {%m. id.%}; {%N. of a%} k{%akravartin%}; 
 ;
-79130 new {%sunrise%}): {@-ka,@} {%m. id.%}; {%N. of a%} k{%akravartin%}; 
+79130 new {%sunrise%}): {@-ka,@} {%m.%} {%id.%}; {%N.%} {%of a cakravartin%}; 
 ;---------------------------------------------------
 ; <L>12797<pc>194-3<k1>bahvakzara<k2>bahvakzara
 80039 old {%applied to the%} Ri{%g-veda%}); {@-ṛcá@}, {%a. id.%}; {%m.%} 
 ;
-80039 new {%applied to the%} Ri{%g-veda%}); {@-ṛcá@}, {%a. id.%}; {%m.%} 
+80039 new {%applied to the Ṛg-veda%}); {@-ṛcá@}, {%a.%} {%id.%}; {%m.%} 
 ;---------------------------------------------------
 ; <L>12807<pc>195-1<k1>bAdarAyaRa<k2>bAdarAyaRa
 80118 old Ś{%ārīraka Sūtras of the Uttara-mīmāṃsā%}; 
 ;
-80118 new Ś{%ārīraka Sūtras of the Uttara-mīmāṃsā%}; 
+80118 new {%Śārīraka Sūtras of the Uttara-mīmāṃsā%}; 
 ;---------------------------------------------------
 ; <L>12831<pc>195-3<k1>bAzkala<k2>bAzkala
 80345 old  ({%of the%} Rij-{%veda%}).
 ;
-80345 new  ({%of the%} Rij-{%veda%}).
+80345 new  ({%of the Ṛg-veda%}).
 ;---------------------------------------------------
 ; <L>12842<pc>195-3<k1>bAhuka<k2>bAhuka
 80405 old {% of%} Ri{%tuparṇa%}.
 ;
-80405 new {% of%} Ri{%tuparṇa%}.
+80405 new {% of Ṛtuparṇa%}.
 ;---------------------------------------------------
 ; <L>12859<pc>196-1<k1>bindu<k2>bindu
 80545 old {%mystical import and connected with%} Ś{%iva%}); 
 ;
-80545 new {%mystical import and connected with%} Ś{%iva%}); 
+80545 new {%mystical import and connected with Śiva%}); 
 ;---------------------------------------------------
 ; <L>12860<pc>196-2<k1>bindumat<k2>bindumat
 80561 old {%N. of a prince, son of%} K{%andra-gupta%}.
 ;
-80561 new {%N. of a prince, son of%} K{%andra-gupta%}.
+80561 new {%N.%} {%of a prince, son of Candra-gupta%}.
 ;---------------------------------------------------
 ; <L>12919<pc>197-3<k1>bfhatkaTA<k2>bfhatkaTA
 81083 old pṛṣṭha-{%stotra%}; {@-phala,@} {%m. pl. a class of %}
 ;
-81083 new pṛṣṭha-{%stotra%}; {@-phala,@} {%m. pl. a class of %}
+81083 new Pṛṣṭha-{%stotra%}; {@-phala,@} {%m.%} {%pl.%} {%a class of %}
 ;---------------------------------------------------
 ; <L>12920<pc>197-3<k1>bfhadaNga<k2>bfhadaNga
 81101 old Ś{%atapatha-brāhmaṇa%}: {@-upaniṣad,@} {%f.%} the 
 ;
-81101 new Ś{%atapatha-brāhmaṇa%}: {@-upaniṣad,@} {%f.%} the 
+81101 new {%Śatapatha-brāhmaṇa%}: {@-upaniṣad,@} {%f.%} the 
 ;---------------------------------------------------
 ; <L>12921<pc>197-3<k1>bfhadukTa<k2>bfhadukTa
 81113 old {%of an Anukramaṇī ascribed to%} Ś{%aunaka%}; 
 ;
-81113 new {%of an Anukramaṇī ascribed to%} Ś{%aunaka%}; 
+81113 new {%of an Anukramaṇī ascribed to Śaunaka%}; 
 ;---------------------------------------------------
 ; <L>12952<pc>198-3<k1>brahman<k2>brahman<h>2
 81438 old {%the Preserver, and%} Ś{%iva the Destroyer%}); intellect <lbinfo n="2"/>
 ;
-81438 new {%the Preserver, and%} Ś{%iva the Destroyer%}); intellect <lbinfo n="2"/>
+81438 new {%the Preserver, and Śiva the Destroyer%}); intellect <lbinfo n="2"/>
 ;---------------------------------------------------
 ; <L>13004<pc>200-a3<k1>BagIraTa<k2>BagIraTa
 82043 old {%who having with the help of%} Ś{%iva brought the %}
 ;
-82043 new {%who having with the help of%} Ś{%iva brought the %}
+82043 new {%who having with the help of Śiva brought the %}
 ;---------------------------------------------------
 ; <L>13039<pc>201-3<k1>BadrAkza<k2>BadrAkza
 82361 old {%of%} Ś{%iva%}; {%N. of a locality%}; {%N. of a scribe%}.
 ;
-82361 new {%of%} Ś{%iva%}; {%N. of a locality%}; {%N. of a scribe%}.
+82361 new {%of Śiva%}; {%N.%} {%of a locality%}; {%N.%} {%of a scribe%}.
 ;---------------------------------------------------
 ; <L>13056<pc>202-1<k1>Barata<k2>Barata
 82494 old {% Raghuvaṃśa%}, Ś{%isupālavadha, and %}
 ;
-82494 new {% Raghuvaṃśa%}, Ś{%isupālavadha, and %}
+82494 new {% Raghuvaṃśa, Śisupālavadha, and %}
 ;---------------------------------------------------
 ; <L>13091<pc>202-3<k1>BavaBaNga<k2>BavaBaNga
 82729 old k{%arita, and the Uttararāmacarita, who lived %}
 ;
-82729 new k{%arita, and the Uttararāmacarita, who lived %}
+82729 new {%carita, and the Uttararāmacarita, who lived %}
 ;---------------------------------------------------
 ; <L>13123<pc>203-2<k1>BAkta<k2>BAkta
 82948 old {%of a certain%} Ś{%aiva and Vaiṣṇava sect%}.
 ;
-82948 new {%of a certain%} Ś{%aiva and Vaiṣṇava sect%}.
+82948 new {%of a certain Śaiva and Vaiṣṇava sect%}.
 ;---------------------------------------------------
 ; <L>13259<pc>206-2<k1>BIzma<k2>BIzma
 84057 old  {%m. N. of a son of Gaṅgā and%} Ś{%āṃtanu, %}
 ;
-84057 new  {%m. N. of a son of Gaṅgā and%} Ś{%āṃtanu, %}
+84057 new  {%m.%} {%N.%} {%of a son of Gaṅgā and Śāṃtanu, %}
 ;---------------------------------------------------
 ; <L>13273<pc>206-3<k1>BujacCAyA<k2>BujacCAyA
 84198 old {%of%} Ś{%iva%}); {@-daṇḍa@}, {%m.%} long arm; {@-bandhana,@} 
 ;
-84198 new {%of%} Ś{%iva%}); {@-daṇḍa@}, {%m.%} long arm; {@-bandhana,@} 
+84198 new {%of Śiva%}); {@-daṇḍa@}, {%m.%} long arm; {@-bandhana,@} 
 ;---------------------------------------------------
 ; <L>13300<pc>208-1<k1>BUtakaraRa<k2>BUtakaraRa
 84591 old gñ{%as to be performed daily by the householder%}; 
 ;
-84591 new gñ{%as to be performed daily by the householder%}; 
+84591 new {%jñas to be performed daily by the householder%}; 
 ;---------------------------------------------------
 ; <L>13358<pc>209-3<k1>BfNgin<k2>BfNgin
 85141 old Ś{%iva%}.
 ;
-85141 new Ś{%iva%}.
+85141 new {%Śiva%}.
 ;---------------------------------------------------
 ; <L>13359<pc>209-3<k1>BfNgiriwa<k2>BfNgiriwa
 85146 old {%of%} Ś{%iva%}; {@-riṭi@}, {%m. id.%}.
 ;
-85146 new {%of%} Ś{%iva%}; {@-riṭi@}, {%m. id.%}.
+85146 new {%of Śiva%}; {@-riṭi@}, {%m.%} {%id.%}.
 ;---------------------------------------------------
 ; <L>13513<pc>212-a3<k1>maNgalA<k2>maNgalA
 86265 old {#maNgalA#}¦maṅgalā, {%f.%} {%a form of%} Umā (Ś{%iva's%}  <lbinfo n="[]"/>
 ;
-86265 new {#maNgalA#}¦maṅgalā, {%f.%} {%a form of%} Umā (Ś{%iva's%}  <lbinfo n="[]"/>
+86265 new {#maNgalA#}¦maṅgalā, {%f.%} {%a form of%} Umā {%(Śiva's%}  <lbinfo n="[]"/>
 ;---------------------------------------------------
 ; <L>13549<pc>213-2<k1>maRika<k2>maRika
 86499 old Ś{%iva%}; {@-pūra,@} {%n. N. of a%} town {%in Kaliṅga %}
 ;
-86499 new Ś{%iva%}; {@-pūra,@} {%n. N. of a%} town {%in Kaliṅga %}
+86499 new {%Śiva%}; {@-pūra,@} {%n.%} {%N.%} {%of a%} town {%in Kaliṅga %}
 ;---------------------------------------------------
 ; <L>13651<pc>215-3<k1>maDUcCizwa<k2>maDUcCizwa
 87335 old {%full moon in the month%} K{%aitra%}; {@-udaka,@} {%n.%} 
 ;
-87335 new {%full moon in the month%} K{%aitra%}; {@-udaka,@} {%n.%} 
+87335 new {%full moon in the month Caitra%}; {@-udaka,@} {%n.%} 
 ;---------------------------------------------------
 ; <L>13796<pc>219-2<k1>marutvat<k2>marutvat
 88576 old {%the midday libation and of the%} s{%astra recited %}
 ;
-88576 new {%the midday libation and of the%} s{%astra recited %}
+88576 new {%the midday libation and of the śastra recited %}
 ;---------------------------------------------------
 ; <L>13843<pc>220-1<k1>mallikAKya<k2>mallikAKya
 88922 old {%sacred to%} Ś{%iva%}.
 ;
-88922 new {%sacred to%} Ś{%iva%}.
+88922 new {%sacred to Śiva%}.
 ;---------------------------------------------------
 ; <L>13844<pc>220-2<k1>mallinATa<k2>mallinATa
 88932 old Ś{%isupālavadha%}.
 ;
-88932 new Ś{%isupālavadha%}.
+88932 new {%Śisupālavadha%}.
 ;---------------------------------------------------
 ; <L>13939<pc>224-1<k1>mAGa<k2>mAGa
 90098 old  {%N. of the author of the%} Ś{%isupālavadha%} 
 ;
-90098 new  {%N. of the author of the%} Ś{%isupālavadha%} 
+90098 new  {%N. of the author of the Śisupālavadha%} 
 ;---------------------------------------------------
 ; <L>14062<pc>226-1<k1>mAyAkapota<k2>mAyAkapota
 90949 old {%prince of the%} Ś{%abaras%}; {@-abhyudayana,@} {%m.%} 
 ;
-90949 new {%prince of the%} Ś{%abaras%}; {@-abhyudayana,@} {%m.%} 
+90949 new {%prince of the Śabaras%}; {@-abhyudayana,@} {%m.%} 
 ;---------------------------------------------------
 ; <L>14130<pc>227-2<k1>mAlya<k2>mAlya
 91407 old {%Rākṣasa%}; {%N. of an attendant of%} Ś{%iva%}; 
 ;
-91407 new {%Rākṣasa%}; {%N. of an attendant of%} Ś{%iva%}; 
+91407 new {%Rākṣasa%}; {%N.%} {%of an attendant of Śiva%}; 
 ;---------------------------------------------------
 ; <L>14166<pc>228-1<k1>mitaBAzitf<k2>mitaBAzitf
 91627 old {@-ana@}{%a.%} sparing in diet; {@-mati,@} {%a.%} having a 
 ;
-91627 new {@-ana@}{%a.%} sparing in diet; {@-mati,@} {%a.%} having a 
+91627 new {@ana@} {%a.%} sparing in diet; {@-mati,@} {%a.%} having a 
 ;---------------------------------------------------
 ; <L>14181<pc>228-2<k1>mitreSvara<k2>mitreSvara
 91750 old {%a temple of%} Ś{%iva erected by%} Mitraśarman.
 ;
-91750 new {%a temple of%} Ś{%iva erected by%} Mitraśarman.
+91750 new {%a temple of Śiva erected by%} Mitraśarman.
 ;---------------------------------------------------
 ; <L>14309<pc>231-2<k1>muraja<k2>muraja
 92874 old {@-ka,@} {%m. N. of an attendant of%} Ś{%iva%}. 
 ;
-92874 new {@-ka,@} {%m. N. of an attendant of%} Ś{%iva%}. 
+92874 new {@-ka,@} {%m.%} {%N.%} {%of an attendant of Śiva%}. 
 ;---------------------------------------------------
 ; <L>14359<pc>232-2<k1>mUrti<k2>mUrti
 93248 old  {%of%} Ś{%iva%} and the {%various%} Gaṇeśas.
 ;
-93248 new  {%of%} Ś{%iva%} and the {%various%} Gaṇeśas.
+93248 new  {%of Śiva%} and the {%various%} Gaṇeśas.
 ;---------------------------------------------------
 ; <L>14491<pc>235-3<k1>menakA<k2>menakA
 94324 old {%of%} Ś{%akunialā%}).
 ;
-94324 new {%of%} Ś{%akunialā%}).
+94324 new {%of Śakunialā%}).
 ;---------------------------------------------------
 ; <L>14543<pc>236-2<k1>moda<k2>moda
 94661 old {%of a Kṣatriya and%} Ś{%ūdrā%}): {@-kāra,@} {%m.%} confectioner. <lbinfo n="3"/>
 ;
-94661 new {%of a Kṣatriya and%} Ś{%ūdrā%}): {@-kāra,@} {%m.%} confectioner. <lbinfo n="3"/>
+94661 new {%of a Kṣatriya and Śūdrā%}): {@-kāra,@} {%m.%} confectioner. <lbinfo n="3"/>
 ;---------------------------------------------------
 ; <L>14580<pc>237-1<k1>mOrya<k2>mOrya
 94879 old {% with%} K{%andra-gupta%}: {@-datta,@} {%m. N.%}.
 ;
-94879 new {% with%} K{%andra-gupta%}: {@-datta,@} {%m. N.%}.
+94879 new {% with Candra-gupta%}: {@-datta,@} {%m.%} {%N.%}.
 ;---------------------------------------------------
 ; <L>14684<pc>239-3<k1>yaTAkanizWam<k2>yaTAkanizWam
 95803 old (Ś{%B.%} {@ám@}), {%ad.%} according to wish, at will 
 ;
-95803 new (Ś{%B.%} {@ám@}), {%ad.%} according to wish, at will 
+95803 new ({%ŚB.%} {@ám@}), {%ad.%} according to wish, at will 
 ;---------------------------------------------------
 ; <L>14696<pc>241-1<k1>yadA<k2>yadA
 96170 old ({%rarely omitted%}) tadā, {%sts.%} tata{%h, in V. also%} 
 ;
-96170 new ({%rarely omitted%}) tadā, {%sts.%} tata{%h, in V. also%} 
+96170 new ({%rarely omitted%}) tadā, {%sts.%} tataḥ, {%in%} {%V.%} {%also%} 
 ;---------------------------------------------------
 ; <L>14700<pc>241-1<k1>yadu<k2>yadu
 96223 old {%Vasu, prince of%} K{%edi, and of Haryaśva%}; {%he %}
 ;
-96223 new {%Vasu, prince of%} K{%edi, and of Haryaśva%}; {%he %}
+96223 new {%Vasu, prince of Cedi, and of Haryaśva%}; {%he %}
 ;---------------------------------------------------
 ; <L>14743<pc>242-2<k1>yavapizwa<k2>yavapizwa
 96686 old {%of%} K{%āndrāyaṇa or lunar penance%} ({%also%} -madhyama); <lbinfo n="3"/>
 ;
-96686 new {%of%} K{%āndrāyaṇa or lunar penance%} ({%also%} -madhyama); <lbinfo n="3"/>
+96686 new {%of Cāndrāyaṇa or lunar penance (also%} -madhyama); <lbinfo n="3"/>
 ;---------------------------------------------------
 ; <L>14747<pc>242-3<k1>yavizWa<k2>yavizWa
 96716 old {@-īyas,@} {%epv.%} younger ({%also said of%} Ś{%ūdras as %}
 ;
-96716 new {@-īyas,@} {%epv.%} younger ({%also said of%} Ś{%ūdras as %}
+96716 new {@-īyas,@} {%cpv.%} younger ({%also said of Śūdras as %}
 ;---------------------------------------------------
 ; <L>15029<pc>250-1<k1>raRadunduBi<k2>raRadunduBi
 99250 old {@-svāmin,@} {%m. statue of%} Ś{%iva as%} lord of battles.
 ;
-99250 new {@-svāmin,@} {%m. statue of%} Ś{%iva as%} lord of battles.
+99250 new {@-svāmin,@} {%m.%} {%statue of Śiva as%} lord of battles.
 ;---------------------------------------------------
 ; <L>15187<pc>254-1<k1>rAti<k2>rAti
 100639 old [-sā{%k, strg. form of%} √ sac], granting favour 
 ;
-100639 new [-sā{%k, strg. form of%} √ sac], granting favour 
+100639 new [-sāc, {%strg. form of%} √ sac], granting favour 
 ;---------------------------------------------------
 ; <L>15210<pc>254-2<k1>rAmAnanda<k2>rAmAnanda
 100818 old s{%aratha%}; {%n.%} epic relating the doings of Rāma 
 ;
-100818 new s{%aratha%}; {%n.%} epic relating the doings of Rāma 
+100818 new {%śaratha%}; {%n.%} epic relating the doings of Rāma 
 ;---------------------------------------------------
 ; <L>15526<pc>261-3<k1>lalita<k2>lalita
 103354 old  acts {%of%} Ś{%ākyamuni, T. of a Buddhistic %}
 ;
-103354 new  acts {%of%} Ś{%ākyamuni, T. of a Buddhistic %}
+103354 new  acts {%of Śākyamuni, T. of a Buddhistic %}
 ;---------------------------------------------------
 ; <L>15660<pc>264-2<k1>leSa<k2>leSa
 104385 old {% of%} Ś{%ikhandin will be ours'%}); {%a rhetorical %}<lbinfo n="7"/>
 ;
-104385 new {% of%} Ś{%ikhandin will be ours'%}); {%a rhetorical %}<lbinfo n="7"/>
+104385 new {% of Śikhandin will be ours'%}); {%a rhetorical %}<lbinfo n="7"/>
 ;---------------------------------------------------
 ; <L>16126<pc>273-2<k1>vasizWa<k2>vasizWa
 107801 old {% of the seventh%} M{%aṇḍala of the RV.%}; {%in %}
 ;
-107801 new {% of the seventh%} M{%aṇḍala of the RV.%}; {%in %}
+107801 new {% of the seventh Maṇḍala of the RV.; in %}
 ;---------------------------------------------------
 ; <L>16143<pc>274-1<k1>vastUtTApanA<k2>vastUtTApanA
 107948 old ({%the common quality being omitted%}: {%e. g.%} '{%thy %}
 ;
-107948 new ({%the common quality being omitted%}: {%e. g.%} '{%thy %}
+107948 new ({%the common quality being omitted%}: {%e. g.%} {%'thy %}
 ;---------------------------------------------------
 ; <L>16209<pc>275-3<k1>vAja<k2>vAja
 108583 old  {%N. of one of the three%} Ri{%bhus%}: {%pl.%} 
 ;
-108583 new  {%N. of one of the three%} Ri{%bhus%}: {%pl.%} 
+108583 new  {%N.%} {%of one of the three Ṛbhus%}: {%pl.%} 
 ;---------------------------------------------------
 ; <L>16457<pc>280-2<k1>vikramatuNga<k2>vikramatuNga
 110306 old {%conqueror of the%} Ś{%akas and founder of the %}
 ;
-110306 new {%conqueror of the%} Ś{%akas and founder of the %}
+110306 new {%conqueror of the Śakas and founder of the %}
 ;---------------------------------------------------
 ; <L>16492<pc>281-1<k1>vicitra<k2>vicitra
 110634 old  heroism), {%N. of a son of%} Ś{%aṃtanu and %}
 ;
-110634 new  heroism), {%N. of a son of%} Ś{%aṃtanu and %}
+110634 new  heroism), {%N.%} {%of a son of Śaṃtanu and %}
 ;---------------------------------------------------
 ; <L>16576<pc>283-2<k1>vidyADara<k2>vidyADara
 111410 old {% in the Himālaya, attendant on%} Ś{%iva, and%} 
 ;
-111410 new {% in the Himālaya, attendant on%} Ś{%iva, and%} 
+111410 new {% in the Himālaya, attendant on Śiva, and%} 
 ;---------------------------------------------------
 ; <L>16581<pc>283-3<k1>vidyeSa<k2>vidyeSa
 111487 old {%mystical%} Ś{%ivaites%}; {@-īśvara@}, {%m. id.%}; {%N. of a %}
 ;
-111487 new {%mystical%} Ś{%ivaites%}; {@-īśvara@}, {%m. id.%}; {%N. of a %}
+111487 new {%mystical Śivaites%}; {@-īśvara@}, {%m.%} {%id.%}; {%N.%} {%of a %}
 ;---------------------------------------------------
 ; <L>16620<pc>284-3<k1>vinawana<k2>vinawana
 111812 old d{%a, Aruṇa. etc.%}: {@-tanayā,@} {%f.%} daughter of 
 ;
-111812 new d{%a, Aruṇa. etc.%}: {@-tanayā,@} {%f.%} daughter of 
+111812 new {%ḍa, Aruṇa. etc.%}: {@-tanayā,@} {%f.%} daughter of 
 ;---------------------------------------------------
 ; <L>16697<pc>287-1<k1>viBvan<k2>viBvan
 112554 old  ({%RV.%}); {%m. N. of one of the%} Ri{%bhus%}; 
 ;
-112554 new  ({%RV.%}); {%m. N. of one of the%} Ri{%bhus%}; 
+112554 new  ({%RV.%}); {%m.%} {%N.%} {%of one of the Ṛbhus%}; 
 ;---------------------------------------------------
 ; <L>16729<pc>288-2<k1>vivaktf<k2>vivaktf
 113089 old {%the end of a%} Ś{%loka%}); {@-vaśa@}, {%a.%} deprived of will, 
 ;
-113089 new {%the end of a%} Ś{%loka%}); {@-vaśa@}, {%a.%} deprived of will, 
+113089 new {%the end of a Śloka%}); {@-vaśa@}, {%a.%} deprived of will, 
 ;---------------------------------------------------
 ; <L>16746<pc>290-1<k1>viSAKa<k2>viSAKa
 113472 old {%of%} Śiva, {%sp. as author of a%} Ś{%āstra%}.
 ;
-113472 new {%of%} Śiva, {%sp. as author of a%} Ś{%āstra%}.
+113472 new {%of%} Śiva, {%sp. as author of a Śāstra%}.
 ;---------------------------------------------------
 ; <L>16770<pc>291-1<k1>viSvAtiTi<k2>viSvAtiTi
 113802 old {%celebrated%} Ri{%ṣi, chief author of Ṛg-veda III%} 
 ;
-113802 new {%celebrated%} Ri{%ṣi, chief author of Ṛg-veda III%} 
+113802 new {%celebrated Ṛṣi, chief author of Ṛg-veda III%} 
 ;---------------------------------------------------
 ; <L>16837<pc>292-2<k1>vizRu<k2>vizRu
 114257 old {% or%} Ś{%rī, and Sarasvalī, father of the god %}
 ;
-114257 new {% or%} Ś{%rī, and Sarasvalī, father of the god %}
+114257 new {% or Śrī, and Sarasvalī, father of the god %}
 ;---------------------------------------------------
 ; <L>16837<pc>292-2<k1>vizRu<k2>vizRu
 114258 old {%of love, on the serpent%} Ś{%eha, and has %}
 ;
-114258 new {%of love, on the serpent%} Ś{%eha, and has %}
+114258 new {%of love, on the serpent Śeṣa, and has %}
 ;---------------------------------------------------
 ; <L>16910<pc>294-1<k1>vIratara<k2>vIratara
 114854 old {%N. of an attendant of%} Ś{%iva, who destroyed %}
 ;
-114854 new {%N. of an attendant of%} Ś{%iva, who destroyed %}
+114854 new {%N.%} {%of an attendant of Śiva, who destroyed %}
 ;---------------------------------------------------
 ; <L>17004<pc>297-3<k1>vfzwipAta<k2>vfzwipAta
 116053 old {@-mát@} ({%RV.%}) {%or%} ({@vṛṣṭi@}) {@-mat@} (Ś{%B.%}) {%a.%} raining, 
 ;
-116053 new {@-mát@} ({%RV.%}) {%or%} ({@vṛṣṭi@}) {@-mat@} (Ś{%B.%}) {%a.%} raining, 
+116053 new {@-mát@} ({%RV.%}) {%or%} ({@vṛṣṭi@}) {@-mat@} ({%ŚB.%}) {%a.%} raining, 
 ;---------------------------------------------------
 ; <L>17143<pc>300-1<k1>vEdeha<k2>vEdeha
 116998 old  woman ({%in Manu%}) {%or of a%} Ś{%ūdra and %}
 ;
-116998 new  woman ({%in Manu%}) {%or of a%} Ś{%ūdra and %}
+116998 new  woman ({%in Manu%}) {%or of a Śūdra and %}
 ;---------------------------------------------------
 ; <L>17230<pc>301-2<k1>vESaMpAyana<k2>vESaMpAyana
 117483 old {% of Vyāsa in E.%}); {%N. of a son of%} Ś{%ukanāsa, %}
 ;
-117483 new {% of Vyāsa in E.%}); {%N. of a son of%} Ś{%ukanāsa, %}
+117483 new {% of Vyāsa in E.%}); {%N.%} {%of a son of Śukanāsa, %}
 ;---------------------------------------------------
 ; <L>17244<pc>301-2<k1>vESvadeva<k2>vESvadeva
 117574 old {%a certain%} Ś{%astra%} ({%Br., S.%}); {%a king of%} Śrāddha, <lbinfo n="8"/>
 ;
-117574 new {%a certain%} Ś{%astra%} ({%Br., S.%}); {%a king of%} Śrāddha, <lbinfo n="8"/>
+117574 new {%a certain Śastra%} ({%Br., S.%}); {%a king of%} Śrāddha, <lbinfo n="8"/>
 ;---------------------------------------------------
 ; <L>17406<pc>305-a2<k1>Saka<k2>Saka<h>2
 118982 old ({%A. D. ¤78,¤ founded by%} Ś{%ālivāhana%}).
 ;
-118982 new ({%A. D. ¤78,¤ founded by%} Ś{%ālivāhana%}).
+118982 new ({%A. D. ¤78,¤ founded by Śālivāhana%}).
 ;---------------------------------------------------
 ; <L>17428<pc>305-a3<k1>Sakti<k2>Sakti<h>1
 119116 old Ś{%iva%}); force {%of a word,%} signification, function, <lbinfo n="4"/>
 ;
-119116 new Ś{%iva%}); force {%of a word,%} signification, function, <lbinfo n="4"/>
+119116 new {%Śiva%}); force {%of a word,%} signification, function, <lbinfo n="4"/>
 ;---------------------------------------------------
 ; <L>17443<pc>306-2<k1>SaMkara<k2>SaMkara
 119278 old {% reformer of%} Ś{%aivism%} ({%died%} ¤820¤ {%A. D.%}).
 ;
-119278 new {% reformer of%} Ś{%aivism%} ({%died%} ¤820¤ {%A. D.%}).
+119278 new {% reformer of Śaivism (died%} ¤820¤ {%A. D.%}).
 ;---------------------------------------------------
 ; <L>17458<pc>306-3<k1>SaRqa<k2>SaRqa
 119397 old {%Asuras, son of%} Ś{%ukra%}.
 ;
-119397 new {%Asuras, son of%} Ś{%ukra%}.
+119397 new {%Asuras, son of Śukra%}.
 ;---------------------------------------------------
 ; <L>17462<pc>306-3<k1>Sataka<k2>Sataka
 119436 old Indra ({%C.%}).: -° {%with%} kṣiti-{%etc.,%} lord of earth, 
 ;
-119436 new Indra ({%C.%}).: -° {%with%} kṣiti-{%etc.,%} lord of earth, 
+119436 new Indra ({%C.%}).: -° {%with%} kṣiti- {%etc.,%} lord of earth, 
 ;---------------------------------------------------
 ; <L>17536<pc>308-2<k1>SambUka<k2>SambUka
 120022 old {%pious%} Ś{%ūdra slain by Rāma%}.
 ;
-120022 new {%pious%} Ś{%ūdra slain by Rāma%}.
+120022 new {%pious Śūdra slain by Rāma%}.
 ;---------------------------------------------------
 ; <L>17807<pc>312-2<k1>SAliBavana<k2>SAliBavana
 121705 old Ś{%aka era%}; {@-saṃrakṣikā@}, {%f.%} female guardian 
 ;
-121705 new Ś{%aka era%}; {@-saṃrakṣikā@}, {%f.%} female guardian 
+121705 new {%Śaka era%}; {@-saṃrakṣikā@}, {%f.%} female guardian 
 ;---------------------------------------------------
 ; <L>17907<pc>314-2<k1>Silpa<k2>Silpa<h>2
 122399 old  Ś{%astras%} ({%Br., S.%}).
 ;
-122399 new  Ś{%astras%} ({%Br., S.%}).
+122399 new  {%Śastras%} ({%Br., S.%}).
 ;---------------------------------------------------
 ; <L>18017<pc>316-2<k1>SudDodana<k2>SudDodana
 123209 old {%the race of the%} Ś{%ākyas, father of Buddha%}.
 ;
-123209 new {%the race of the%} Ś{%ākyas, father of Buddha%}.
+123209 new {%the race of the Śākyas, father of Buddha%}.
 ;---------------------------------------------------
 ; <L>18066<pc>317-2<k1>SuzmiRa<k2>SuzmiRa
 123566 old Ś{%ibis%} ({%Br.%}).
 ;
-123566 new Ś{%ibis%} ({%Br.%}).
+123566 new {%Śibis%} ({%Br.%}).
 ;---------------------------------------------------
 ; <L>18093<pc>317-3<k1>SUla<k2>SUla
 123741 old spike, dart, spear ({%esp. of%} Ś{%iva%}); acute pain, 
 ;
-123741 new spike, dart, spear ({%esp. of%} Ś{%iva%}); acute pain, 
+123741 new spike, dart, spear ({%esp. of Śiva%}); acute pain, 
 ;---------------------------------------------------
 ; <L>18117<pc>318-1<k1>SF<k2>SF
 123901 old {%leaf%}); {@śīrta@}, destructible ({%only in%} a-śīrta{%and%} <lbinfo n="13"/>
 ;
-123901 new {%leaf%}); {@śīrta@}, destructible ({%only in%} a-śīrta{%and%} <lbinfo n="13"/>
+123901 new {%leaf%}); {@śīrta@}, destructible ({%only in%} a-śīrta- {%and%}
 ;---------------------------------------------------
 ; <L>18295<pc>321-2<k1>SrIka<k2>SrIka
 125149 old {@-narendra‡īśvara@}, {%m. N. of a statue of%} Ś{%iva %}
 ;
-125149 new {@-narendra‡īśvara@}, {%m. N. of a statue of%} Ś{%iva %}
+125149 new {@-narendra‡īśvara@}, {%m.%} {%N.%} {%of a statue of Śiva %}
 ;---------------------------------------------------
 ; <L>18296<pc>321-2<k1>SrIla<k2>SrIla
 125187 old {% and the Naiṣadha%} -k{%arita%}.
 ;
-125187 new {% and the Naiṣadha%} -k{%arita%}.
+125187 new {% and the Naiṣadha-carita%}.
 ;---------------------------------------------------
 ; <L>18344<pc>323-1<k1>Slu<k2>Slu
 125639 old {%base in verbs of the%} ¤3¤{%rd class%}.
@@ -781,165 +781,165 @@
 ; <L>18608<pc>330-2<k1>satI<k2>satI
 128163 old {%of Bhava%} (Ś{%iva%}): {@-tva,@} {%n.%} wifely fidelity; 
 ;
-128163 new {%of Bhava%} (Ś{%iva%}): {@-tva,@} {%n.%} wifely fidelity; 
+128163 new {%of Bhava (Śiva%}): {@-tva,@} {%n.%} wifely fidelity; 
 ;---------------------------------------------------
 ; <L>18959<pc>339-3<k1>saMBava<k2>saMBava
 131392 old {#saMBava#}¦saṃ-bhavá ({%VS.%}, sám-{%ŚB.%}), {%m.%} (being 
 ;
-131392 new {#saMBava#}¦saṃ-bhavá ({%VS.%}, sám-{%ŚB.%}), {%m.%} (being 
+131392 new {#saMBava#}¦saṃ-bhavá ({%VS.%}, sám- {%ŚB.%}), {%m.%} (being 
 ;---------------------------------------------------
 ; <L>18987<pc>340-3<k1>sarastIra<k2>sarastIra
 131709 old ({%V., C.%}); {%in C. she is at enmity with%} Ś{%rī%} ({%or %}
 ;
-131709 new ({%V., C.%}); {%in C. she is at enmity with%} Ś{%rī%} ({%or %}
+131709 new ({%V., C.%}); {%in C. she is at enmity with Śrī (or %}
 ;---------------------------------------------------
 ; <L>18987<pc>340-3<k1>sarastIra<k2>sarastIra
 131714 old {%mendicant orders traced to%} Ś{%aṅkarākārya, %}
 ;
-131714 new {%mendicant orders traced to%} Ś{%aṅkarākārya, %}
+131714 new {%mendicant orders traced to Śaṅkarākārya, %}
 ;---------------------------------------------------
 ; <L>19017<pc>341-2<k1>sarvakarman<k2>sarvakarman
 131919 old Ri{%tuparṇa%}; {@-kāmika,@} {%a.%} fulfilling all wishes; 
 ;
-131919 new Ri{%tuparṇa%}; {@-kāmika,@} {%a.%} fulfilling all wishes; 
+131919 new {%Ṛtuparṇa%}; {@-kāmika,@} {%a.%} fulfilling all wishes; 
 ;---------------------------------------------------
 ; <L>19017<pc>341-2<k1>sarvakarman<k2>sarvakarman
 131939 old {% commentary on the%} Ś{%isupāla-vadha%}; <lbinfo n="15"/>
 ;
-131939 new {% commentary on the%} Ś{%isupāla-vadha%}; <lbinfo n="15"/>
+131939 new {% commentary on the Śisupāla-vadha%}; <lbinfo n="15"/>
 ;---------------------------------------------------
 ; <L>19025<pc>341-3<k1>sarvada<k2>sarvada
 132015 old Ś{%skuntalā%}; {%N. of an Asura%}; {@-darśin@}, {%a.%} allseeing; <lbinfo n="3"/>
 ;
-132015 new Ś{%skuntalā%}; {%N. of an Asura%}; {@-darśin@}, {%a.%} allseeing; <lbinfo n="3"/>
+132015 new {%Śakuntalā%}; {%N.%} {%of an Asura%}; {@-darśin@}, {%a.%} allseeing; <lbinfo n="3"/>
 ;---------------------------------------------------
 ; <L>19052<pc>342-3<k1>savitf<k2>savitf
 132368 old  (Tvaṣ{%tri, RV., rare%}); {%N. of a Vedic god %}
 ;
-132368 new  (Tvaṣ{%tri, RV., rare%}); {%N. of a Vedic god %}
+132368 new  (Tvaṣṭṛ, {%RV., rare%}); {%N.%} {%of a Vedic god %}
 ;---------------------------------------------------
 ; <L>19132<pc>345-2<k1>sAkzAt<k2>sAkzAt
 133199 old see with {%one's own%} eyes, realise; -{%bhū,%} appear 
 ;
-133199 new see with {%one's own%} eyes, realise; -{%bhū,%} appear 
+133199 new see with {%one's own%} eyes, realise; {@-bhū,@} appear 
 ;---------------------------------------------------
 ; <L>19292<pc>348-2<k1>sAraNga<k2>sAraNga
 134326 old {#sAraNga#}¦sāráṅga ({%or%} á, Ś{%B%}.), {%a.%} ({@ī@}) variegated, 
 ;
-134326 new {#sAraNga#}¦sāráṅga ({%or%} á, Ś{%B%}.), {%a.%} ({@ī@}) variegated, 
+134326 new {#sAraNga#}¦sāráṅga ({%or%} á, {%ŚB%}.), {%a.%} ({@ī@}) variegated, 
 ;---------------------------------------------------
 ; <L>19399<pc>350-2<k1>sidDi<k2>sidDi<h>2
 135146 old Śiva; {%n. N. of a region sacred to%} Ś{%iva%}.
 ;
-135146 new Śiva; {%n. N. of a region sacred to%} Ś{%iva%}.
+135146 new Śiva; {%n.%} {%N.%} {%of a region sacred to Śiva%}.
 ;---------------------------------------------------
 ; <L>19455<pc>351-2<k1>su<k2>su<h>2
 135489 old {@sutá,@} urged, instigated (Ś{%B.%}).
 ;
-135489 new {@sutá,@} urged, instigated (Ś{%B.%}).
+135489 new {@sutá,@} urged, instigated ({%ŚB.%}).
 ;---------------------------------------------------
 ; <L>19458<pc>351-2<k1>sukaRWa<k2>sukaRWa
 135509 old {@-kanyā́,@} {%f. N. of a daughter of%} Ś{%aryāta and %}
 ;
-135509 new {@-kanyā́,@} {%f. N. of a daughter of%} Ś{%aryāta and %}
+135509 new {@-kanyā́,@} {%f.%} {%N.%} {%of a daughter of Śaryāta and %}
 ;---------------------------------------------------
 ; <L>19458<pc>351-2<k1>sukaRWa<k2>sukaRWa
 135510 old {%wife of%} K{%yavana%} ({%Br., C.%}); {@-kára,@} {%a.%} easily 
 ;
-135510 new {%wife of%} K{%yavana%} ({%Br., C.%}); {@-kára,@} {%a.%} easily 
+135510 new {%wife of Cyavana%} ({%Br., C.%}); {@-kára,@} {%a.%} easily 
 ;---------------------------------------------------
 ; <L>19534<pc>354-2<k1>sumanomattaka<k2>sumanomattaka
 136433 old {%a wife of Daśaratha, mother of%} Ś{%atrughna %}
 ;
-136433 new {%a wife of Daśaratha, mother of%} Ś{%atrughna %}
+136433 new {%a wife of Daśaratha, mother of Śatrughna %}
 ;---------------------------------------------------
 ; <L>19651<pc>357-3<k1>sUrya<k2>sUrya
 137561 old solar race; {@-varman,@} {%m. N. of a%} D{%āmara%}; 
 ;
-137561 new solar race; {@-varman,@} {%m. N. of a%} D{%āmara%}; 
+137561 new solar race; {@-varman,@} {%m.%} {%N.%} {%of a Ḍāmara%}; 
 ;---------------------------------------------------
 ; <L>19726<pc>360-1<k1>sopAka<k2>sopAka
 138335 old {% of a%} K{%āṇḍāla and of a Pulkasī%}).
 ;
-138335 new {% of a%} K{%āṇḍāla and of a Pulkasī%}).
+138335 new {% of a Cāṇḍāla and of a Pulkasī%}).
 ;---------------------------------------------------
 ; <L>19730<pc>360-1<k1>soma<k2>soma
 138366 old {%identified with Viṣṇu and%} Ś{%iva, reputed %}
 ;
-138366 new {%identified with Viṣṇu and%} Ś{%iva, reputed %}
+138366 new {%identified with Viṣṇu and Śiva, reputed %}
 ;---------------------------------------------------
 ; <L>19734<pc>360-2<k1>someSvara<k2>someSvara
 138442 old {%N. of a%} K{%ālukya%}.
 ;
-138442 new {%N. of a%} K{%ālukya%}.
+138442 new {%N.%} {%of a Cālukya%}.
 ;---------------------------------------------------
 ; <L>19828<pc>361-3<k1>skanda<k2>skanda
 138985 old {%eternal youth%} ({%hence%} Kumāra), {%son of%} Ś{%iva or %}
 ;
-138985 new {%eternal youth%} ({%hence%} Kumāra), {%son of%} Ś{%iva or %}
+138985 new {%eternal youth%} ({%hence%} Kumāra), {%son of Śiva or %}
 ;---------------------------------------------------
 ; <L>19868<pc>362-2<k1>stamBa<k2>stamBa
 139294 old {%of%} Ś{%iva%}.
 ;
-139294 new {%of%} Ś{%iva%}.
+139294 new {%of Śiva%}.
 ;---------------------------------------------------
 ; <L>19915<pc>363-2<k1>stotavya<k2>stotavya
 139605 old {%corresponding to the%} Ś{%stras%} ({%rit.%}).
 ;
-139605 new {%corresponding to the%} Ś{%stras%} ({%rit.%}).
+139605 new {%corresponding to the Śastras%} ({%rit.%}).
 ;---------------------------------------------------
 ; <L>19944<pc>364-1<k1>sTaviman<k2>sTaviman
 139844 old sthū-{%or%} sthū-la) thickest, largest, stoutest; 
 ;
-139844 new sthū-{%or%} sthū-la) thickest, largest, stoutest; 
+139844 new sthū-ra {%or%} sthū-la) thickest, largest, stoutest; 
 ;---------------------------------------------------
 ; <L>19966<pc>366-1<k1>sTAla<k2>sTAla
 140390 old caldron: ({@sthā́tī@} {@-pāka@} ({%AV.%}) {%or%} {@-pāká,@} (Ś{%B.%}), 
 ;
-140390 new caldron: ({@sthā́tī@} {@-pāka@} ({%AV.%}) {%or%} {@-pāká,@} (Ś{%B.%}), 
+140390 new caldron: ({@sthā́tī@} {@-pāka@} ({%AV.%}) {%or%} {@-pāká,@} ({%ŚB.%}), 
 ;---------------------------------------------------
 ; <L>20011<pc>367-1<k1>snIhan<k2>snIhan
 140786 old  {%of the nose%} (Ś{%B.%}).
 ;
-140786 new  {%of the nose%} (Ś{%B.%}).
+140786 new  {%of the nose%} ({%ŚB.%}).
 ;---------------------------------------------------
 ; <L>20317<pc>373-1<k1>svAmin<k2>svAmin
 143085 old {%esp. of%} Ś{%iva%} ({%often%} -°); {%N.%}: {@-ī,@} {%f.%} mistress.
 ;
-143085 new {%esp. of%} Ś{%iva%} ({%often%} -°); {%N.%}: {@-ī,@} {%f.%} mistress.
+143085 new {%esp. of Śiva%} ({%often%} -°); {%N.%}: {@-ī,@} {%f.%} mistress.
 ;---------------------------------------------------
 ; <L>20320<pc>373-1<k1>svAyaMBuva<k2>svAyaMBuva
 143104 old Brahman); relating {%etc.%} to Manu Svāya{%mbhuva%}; <lbinfo n="10"/>
 ;
-143104 new Brahman); relating {%etc.%} to Manu Svāya{%mbhuva%}; <lbinfo n="10"/>
+143104 new Brahman); relating {%etc.%} to Manu Svāyaṃbhuva; <lbinfo n="10"/>
 ;---------------------------------------------------
 ; <L>20387<pc>375-1<k1>hammIra<k2>hammIra
 143706 old {#hammIra#}¦hammīra, {%m. N.%} {%of a king of%} Ś{%ākambhari%} <lbinfo n="9"/>
 ;
-143706 new {#hammIra#}¦hammīra, {%m. N.%} {%of a king of%} Ś{%ākambhari%} <lbinfo n="9"/>
+143706 new {#hammIra#}¦hammīra, {%m.%} {%N.%} {%of a king of Śākambhari%} <lbinfo n="9"/>
 ;---------------------------------------------------
 ; <L>20475<pc>377-1<k1>hA<k2>hA<h>2
 144418 old  excepting; {%ps.%} {@hī́yate, hīyáte@} (Ś{%B.%}), 
 ;
-144418 new  excepting; {%ps.%} {@hī́yate, hīyáte@} (Ś{%B.%}), 
+144418 new  excepting; {%ps.%} {@hī́yate, hīyáte@} ({%ŚB.%}), 
 ;---------------------------------------------------
 ; <L>20546<pc>378-2<k1>hiraRya<k2>hiraRya
 144994 old {%author of%} Jri{%hya-sūtras%}; {@-garbhá,@} {%m.%} womb 
 ;
-144994 new {%author of%} Jri{%hya-sūtras%}; {@-garbhá,@} {%m.%} womb 
+144994 new {%author of Gṛhya-sūtras%}; {@-garbhá,@} {%m.%} womb 
 ;---------------------------------------------------
 ; <L>20615<pc>380-3<k1>hemaka<k2>hemaka
 145683 old (¤12¤{%th cnetury%}); {@-jata@}, {%m. pl. a kind of%} Kirātas; <lbinfo n="2"/>
 ;
-145683 new (¤12¤{%th cnetury%}); {@-jata@}, {%m. pl. a kind of%} Kirātas; <lbinfo n="2"/>
+145683 new (¤12¤{%th cnetury%}); {@-jata@}, {%m.%} {%pl.%} {%a kind of%} Kirātas; <lbinfo n="2"/>
 ;---------------------------------------------------
 ; <L>20675<pc>381-2<k1>hrasva<k2>hrasva
 146046 old {%in the service of%} Ri{%tuparṇa%}; {@-aṅga,@} {%a.%} short-bodied, <lbinfo n="5"/>
 ;
-146046 new {%in the service of%} Ri{%tuparṇa%}; {@-aṅga,@} {%a.%} short-bodied, <lbinfo n="5"/>
+146046 new {%in the service of  Ṛtuparṇa%}; {@-aṅga,@} {%a.%} short-bodied, <lbinfo n="5"/>
 ;---------------------------------------------------
 ; <L>20741<pc>384-1<k1>pracaya<k2>pracaya
 146561 old {%a.%} nodding {%while asleep%} (āsina-, -{%in a%} sitting 
 ;
-146561 new {%a.%} nodding {%while asleep%} (āsina-, -{%in a%} sitting 
+146561 new {%a.%} nodding {%while asleep%} (āsina-, - {%in a%} sitting 
 ;---------------------------------------------------
