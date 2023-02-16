@@ -931,7 +931,7 @@
 ; <L>20615<pc>380-3<k1>hemaka<k2>hemaka
 145683 old (¤12¤{%th cnetury%}); {@-jata@}, {%m. pl. a kind of%} Kirātas; <lbinfo n="2"/>
 ;
-145683 new (¤12¤{%th cnetury%}); {@-jata@}, {%m.%} {%pl.%} {%a kind of%} Kirātas; <lbinfo n="2"/>
+145683 new (¤12¤{%th century%}); {@-jata@}, {%m.%} {%pl.%} {%a kind of%} Kirātas; <lbinfo n="2"/>
 ;---------------------------------------------------
 ; <L>20675<pc>381-2<k1>hrasva<k2>hrasva
 146046 old {%in the service of%} Ri{%tuparṇa%}; {@-aṅga,@} {%a.%} short-bodied, <lbinfo n="5"/>
