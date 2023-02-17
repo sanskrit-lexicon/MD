@@ -71,12 +71,12 @@
 ; <L>5342<pc>061-1<k1>kacCa<k2>kacCa
 28423 old {#kacCa#}¦kaccha, {%m.%} bank; marshy land; *{%m.,%} 
 ;
-28423 new {#kacCa#}¦kaccha, {%m.%} bank; marshy land; *{%m.,%} 
+28423 new {#kacCa#}¦kaccha, {%m.%} bank; marshy land; *{%m.%}, 
 ;---------------------------------------------------
 ; <L>5401<pc>061-3<k1>katipaya<k2>katipaya
 28721 old {#katipaya#}¦kati-payá, {%a.%} ({@ī@}) some, a few: *{%in., %}
 ;
-28721 new {#katipaya#}¦kati-payá, {%a.%} ({@ī@}) some, a few: *{%in., %}
+28721 new {#katipaya#}¦kati-payá, {%a.%} ({@ī@}) some, a few: *{%in.%}, 
 ;---------------------------------------------------
 ; <L>5860<pc>068-1<k1>kAvya<k2>kAvya<h>3
 31452 old {%and Alaṭa%} (11{%th or%} ¤12¤{%th century%}); {@-mīmāṃsa-@}
@@ -115,8 +115,9 @@
 ;---------------------------------------------------
 ; <L>6409<pc>075-3<k1>kOzItaka<k2>kOzItaka
 34796 old of the Kauṣītakins ({%also called%} Ś{%āṅkhāyana %}
-;
-34796 new of the Kauṣītakins ({%also called%} Śāṅkhāyana %}
+; jim
+;34796 new of the Kauṣītakins ({%also called%} Śāṅkhāyana %}
+34796 new of the Kauṣītakins ({%also called Śāṅkhāyana %}
 ;---------------------------------------------------
 ; <L>6661<pc>079-a2<k1>KawvANga<k2>KawvANga
 36356 old Ś{%iva%}): {@-dhara, -dhāra, -bhaṛt@}, {%a.%} bearing a 
@@ -220,8 +221,9 @@
 ;---------------------------------------------------
 ; <L>9416<pc>121-3<k1>durga<k2>durga
 53573 old {%N. of%} Ś{%iva's wife; N. of a princess; m. n.%} 
-;
-53573 new {%N.%} {%of Śiva's wife;%} {%N.%} of a princess;%} {%m.%} {%n.%} 
+; jim
+;53573 new {%N.%} {%of Śiva's wife;%} {%N.%} of a princess;%} {%m.%} {%n.%} 
+53573 new {%N.%} {%of Śiva's wife%}; {%N. of a princess;%} {%m.%} {%n.%} 
 ;---------------------------------------------------
 ; <L>9466<pc>123-1<k1>duzyanta<k2>duzyanta
 54041 old {#duzyanta#}¦duṣyanta, {%m. N. of%} Ś{%akuntalā's husband %}<lbinfo n="3"/>
@@ -280,8 +282,9 @@
 ;---------------------------------------------------
 ; <L>11002<pc>149-3<k1>paYcamaya<k2>paYcamaya
 64445 old ({%ascetic%}); {%m. N. of an attendant of%} Ś{%iva%}; 
-;
-64445 new ({%ascetic%}); {%m.%} {%N.%} of an attendant of Śiva%}; 
+; jim
+;64445 new ({%ascetic%}); {%m.%} {%N.%} of an attendant of Śiva%}; 
+64445 new ({%ascetic%}); {%m.%} {%N. of an attendant of Śiva%}; 
 ;---------------------------------------------------
 ; <L>11241<pc>155-2<k1>paripaRa<k2>paripaRa
 66482 old {@-pelava,@} {%a.%} very delicate, tiny; {@-pothaka,@}{%a.%} 
@@ -296,7 +299,10 @@
 ; <L>11451<pc>159-3<k1>pAtaYjala<k2>pAtaYjala
 68015 old {#pAtaYjala#}¦pātañjala, {%a.%} composed by Pata{%ñ %}
 ;
-68015 new {#pAtaYjala#}¦pātañjala, {%a.%} composed by Patañ-
+68015 new {#pAtaYjala#}¦pātañjala, {%a.%} composed by Patañjali;  <lbinfo n="5"/>
+;
+68016 old jali; {%m.%} follower {%of the Yoga system%} of 
+68016 new {%m.%} follower {%of the Yoga system%} of 
 ;---------------------------------------------------
 ; <L>11521<pc>161-1<k1>pAraSava<k2>pAraSava
 68521 old {%of Brāhmaṇa and%} Ś{%ūdrā%}).
@@ -464,9 +470,12 @@
 84198 new {%of Śiva%}); {@-daṇḍa@}, {%m.%} long arm; {@-bandhana,@} 
 ;---------------------------------------------------
 ; <L>13300<pc>208-1<k1>BUtakaraRa<k2>BUtakaraRa
+84590 old {%all%} created beings ({%one of the five Mahāya-%} 
+84590 new {%all%} created beings ({%one of the five Mahāyajñas %} <lbinfo n="6"/>
+;
 84591 old gñ{%as to be performed daily by the householder%}; 
 ;
-84591 new {%jñas to be performed daily by the householder%}; 
+84591 new {%to be performed daily by the householder%};
 ;---------------------------------------------------
 ; <L>13358<pc>209-3<k1>BfNgin<k2>BfNgin
 85141 old Ś{%iva%}.
@@ -524,9 +533,12 @@
 91407 new {%Rākṣasa%}; {%N.%} {%of an attendant of Śiva%}; 
 ;---------------------------------------------------
 ; <L>14166<pc>228-1<k1>mitaBAzitf<k2>mitaBAzitf
+91626 old {@-ta,@} {%pp.,%} {@-bhuj@}, {%a.%} eating springly; {@-bhoj-@}
+91626 new {@-ta,@} {%pp.%}, {@-bhuj@}, {%a.%} eating springly; {@-bhojana @} <lbinfo n="4"/>
+;
 91627 old {@-ana@}{%a.%} sparing in diet; {@-mati,@} {%a.%} having a 
 ;
-91627 new {@ana@} {%a.%} sparing in diet; {@-mati,@} {%a.%} having a 
+91627 new {%a.%} sparing in diet; {@-mati,@} {%a.%} having a 
 ;---------------------------------------------------
 ; <L>14181<pc>228-2<k1>mitreSvara<k2>mitreSvara
 91750 old {%a temple of%} Ś{%iva erected by%} Mitraśarman.
@@ -644,9 +656,12 @@
 111487 new {%mystical Śivaites%}; {@-īśvara@}, {%m.%} {%id.%}; {%N.%} {%of a %}
 ;---------------------------------------------------
 ; <L>16620<pc>284-3<k1>vinawana<k2>vinawana
+111811 old {%of Kaśyapa, and mother of Superṇa, Garu-%} 
+111811 new {%of Kaśyapa, and mother of Superṇa, Garuḍa, %} <lbinfo n="4"/>
+;
 111812 old d{%a, Aruṇa. etc.%}: {@-tanayā,@} {%f.%} daughter of 
 ;
-111812 new {%ḍa, Aruṇa. etc.%}: {@-tanayā,@} {%f.%} daughter of 
+111812 new {%Aruṇa. etc.%}: {@-tanayā,@} {%f.%} daughter of 
 ;---------------------------------------------------
 ; <L>16697<pc>287-1<k1>viBvan<k2>viBvan
 112554 old  ({%RV.%}); {%m. N. of one of the%} Ri{%bhus%}; 

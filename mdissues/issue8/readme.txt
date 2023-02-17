@@ -79,4 +79,124 @@ grep 'md ' redo_cologne_all.sh
 sh generate_dict.sh md  ../../MDScan/2020/
 cd /c/xampp/htdocs/sanskrit-lexicon/MD/mdissues/issue8
 ----------------------------------------------------
-update this mws repository
+update this md repository
+-------------------------------------------------
+Ready to install temp_md_1.txt.
+# first, install locally
+cp temp_md_1.txt /c/xampp/htdocs/cologne/csl-orig/v02/md/md.txt
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+grep 'md ' redo_xampp_all.sh
+sh generate_dict.sh md  ../../md
+
+cd /c/xampp/htdocs/sanskrit-lexicon/MD/mdissues/issue8
+# check xml
+sh xmlchk_xampp.sh md
+# ok.
+## update csl-orig
+cd /c/xampp/htdocs/cologne/csl-orig/
+git pull
+git add .  # v02/md/md.txt
+git commit -m "md. Misc corrections.
+ Ref: https://github.com/sanskrit-lexicon/MD/issues/8"
+git push
+----------------------------------------------------
+update at Cologne
+cd ... csl-orig
+git pull
+cd ../csl-pywork/v02
+grep 'md ' redo_cologne_all.sh
+sh generate_dict.sh md  ../../MDScan/2020/
+cd /c/xampp/htdocs/sanskrit-lexicon/MD/mdissues/issue8
+----------------------------------------------------
+update this md repository
+-------------------------------------------------
+Ready to install temp_md_1.txt.
+# first, install locally
+cp temp_md_1.txt /c/xampp/htdocs/cologne/csl-orig/v02/md/md.txt
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+grep 'md ' redo_xampp_all.sh
+sh generate_dict.sh md  ../../md
+
+cd /c/xampp/htdocs/sanskrit-lexicon/MD/mdissues/issue8
+# check xml
+sh xmlchk_xampp.sh md
+# ok.
+## update csl-orig
+cd /c/xampp/htdocs/cologne/csl-orig/
+git pull
+git add .  # v02/md/md.txt
+git commit -m "md. Misc corrections.
+ Ref: https://github.com/sanskrit-lexicon/MD/issues/8"
+git push
+----------------------------------------------------
+update at Cologne
+cd ... csl-orig
+git pull
+cd ../csl-pywork/v02
+grep 'md ' redo_cologne_all.sh
+sh generate_dict.sh md  ../../MDScan/2020/
+cd /c/xampp/htdocs/sanskrit-lexicon/MD/mdissues/issue8
+----------------------------------------------------
+update this md repository
+-------------------------------------------------
+Ready to install temp_md_1.txt.
+# first, install locally
+cp temp_md_1.txt /c/xampp/htdocs/cologne/csl-orig/v02/md/md.txt
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+grep 'md ' redo_xampp_all.sh
+sh generate_dict.sh md  ../../md
+
+cd /c/xampp/htdocs/sanskrit-lexicon/MD/mdissues/issue8
+# check xml
+sh xmlchk_xampp.sh md
+# ok.
+## update csl-orig
+cd /c/xampp/htdocs/cologne/csl-orig/
+git pull
+git add .  # v02/md/md.txt
+git commit -m "md. Misc corrections.
+ Ref: https://github.com/sanskrit-lexicon/MD/issues/8"
+git push
+----------------------------------------------------
+update at Cologne
+cd ... csl-orig
+git pull
+cd ../csl-pywork/v02
+grep 'md ' redo_cologne_all.sh
+sh generate_dict.sh md  ../../MDScan/2020/
+cd /c/xampp/htdocs/sanskrit-lexicon/MD/mdissues/issue8
+----------------------------------------------------
+update this md repository
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+change_2.txt applied, to get temp_md_2.txt
+python updateByLine.py temp_md_1.txt change_2.txt temp_md_2.txt
+-------------------------------------------------
+Ready to install temp_md_2.txt.
+# first, install locally
+cp temp_md_2.txt /c/xampp/htdocs/cologne/csl-orig/v02/md/md.txt
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+grep 'md ' redo_xampp_all.sh
+sh generate_dict.sh md  ../../md
+# check xml
+sh xmlchk_xampp.sh md
+# ok.
+cd /c/xampp/htdocs/sanskrit-lexicon/MD/mdissues/issue8
+## update csl-orig
+cd /c/xampp/htdocs/cologne/csl-orig/
+git pull
+git add .  # v02/md/md.txt
+git commit -m "md. Misc corrections.
+ Ref: https://github.com/sanskrit-lexicon/MD/issues/8"
+git push
+----------------------------------------------------
+update at Cologne
+cd ... csl-orig
+git pull
+cd ../csl-pywork/v02
+grep 'md ' redo_cologne_all.sh
+sh generate_dict.sh md  ../../MDScan/2020/
+cd /c/xampp/htdocs/sanskrit-lexicon/MD/mdissues/issue8
+----------------------------------------------------
+update this md repository
