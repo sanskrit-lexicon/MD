@@ -1,0 +1,125 @@
+; <L>357<pc>004-1<k1>aNkte<k2>aNkte
+1700 old {#aNkte#}¦aṅkté, 3 {%s.%} Ā. of √ añj.
+;
+1700 new {#aNkte#}¦aṅkté, ¤3¤ {%s.%} Ā. of √ añj.
+;---------------------------------------------------
+; <L>368<pc>004-1<k1>aNgatva<k2>aNgatva
+1754 old {#aNgatva#}¦aṅga-tva, {%n. abst. N. from%} 3. áṅga.
+;
+1754 new {#aNgatva#}¦aṅga-tva, {%n. abst. N. from%} ¤3.¤ áṅga.
+;---------------------------------------------------
+; <L>2047<pc>021-2<k1>aptoryAma<k2>aptoryAma
+10391 old 2
+;
+10391 new 
+;---------------------------------------------------
+; <L>3092<pc>033-2<k1>azwapada<k2>azwapada
+16016 old of 8 {%kinds of%} flowers; {@-bhāga,@} {%m.%} eighth part.
+;
+16016 new of ¤8¤ {%kinds of%} flowers; {@-bhāga,@} {%m.%} eighth part.
+;---------------------------------------------------
+; <L>3094<pc>033-2<k1>azwamUrti<k2>azwamUrti
+16028 old {%a.%} containing the 8 emotions ({%drama%}); {@-ṛca@}, 
+;
+16028 new {%a.%} containing the ¤8¤ emotions ({%drama%}); {@-ṛca@}, 
+;---------------------------------------------------
+; <L>3094<pc>033-2<k1>azwamUrti<k2>azwamUrti
+16029 old {%a.%} consisting of 8 verses; {@-varṣa,@} {%a.%} 8 years 
+;
+16029 new {%a.%} consisting of ¤8¤ verses; {@-varṣa,@} {%a.%} 8 years 
+;---------------------------------------------------
+; <L>4993<pc>056-1<k1>UrRa<k2>UrRa
+26345 old {#UrRa#}¦ūr-ṇa, {%n.%} wool (-°); {@0nābha, -nā́bhi,@} {%m.%} 
+;
+26345 new {#UrRa#}¦ūr-ṇa, {%n.%} wool (-°); {@-nābha, -nā́bhi,@} {%m.%} 
+;---------------------------------------------------
+; <L>5689<pc>065-2<k1>kAkiRI<k2>kAkiRI
+30413 old {%coin = 1/4 paṇa.%}.
+;
+30413 new {%coin = ¤1/4¤ paṇa.%}.
+;---------------------------------------------------
+; <L>5860<pc>068-1<k1>kAvya<k2>kAvya<h>3
+31452 old {%and Alaṭa%} (11{%th or%} ¤12¤{%th century%}); {@-mīmāṃsa-@}
+;
+31452 new {%and Alaṭa%} (¤11¤{%th or%} ¤12¤{%th century%}); {@-mīmāṃsa-@}
+;---------------------------------------------------
+; <L>5861<pc>068-1<k1>kAvyAdarSa<k2>kAvyAdarSa
+31460 old {%T. of a work on poetics by Daṇḍin%} (6{%th %}
+;
+31460 new {%T. of a work on poetics by Daṇḍin%} (¤6¤{%th %}
+;---------------------------------------------------
+; <L>5992<pc>069-3<k1>kuqava<k2>kuqava
+32185 old {#kuqava#}¦kuḍa-va, {%m. a measure and weight%} (= 1/4 
+;
+32185 new {#kuqava#}¦kuḍa-va, {%m. a measure and weight%} (= ¤1/4¤ 
+;---------------------------------------------------
+; <L>7554<pc>094-1<k1>cikitsa<k2>cikitsa
+42154 old {%id.%} (0°, {%a. f.%} {@ā@}); {@-sya,@} {%fp.%} curable.
+;
+42154 new {%id.%} (-°, {%a. f.%} {@ā@}); {@-sya,@} {%fp.%} curable.
+;---------------------------------------------------
+; <L>11469<pc>160-1<k1>pAToja<k2>pAToja
+68124 old (flower); {@-jin-10@}, {%f.%} lotus (plant); {@-da@} {%or%} 
+;
+68124 new (flower); {@-jin-ī@}, {%f.%} lotus (plant); {@-da@} {%or%} 
+;---------------------------------------------------
+; <L>11776<pc>165-3<k1>purohita<k2>purohita
+70357 old {%n.%} office of a Purohita; ({@04@}) {@-hiti,@} {%f.%} priestly 
+;
+70357 new {%n.%} office of a Purohita; {@(ó)-hiti,@} {%f.%} priestly 
+;---------------------------------------------------
+; <L>12194<pc>177-2<k1>pratyAharaRa<k2>pratyAharaRa
+74297 old {%with the technical suffix%} 1), {%designates the %}
+;
+74297 new {%with the technical suffix%} l), {%designates the %}
+;---------------------------------------------------
+; <L>12276<pc>181-2<k1>pravarga<k2>pravarga
+75455 old increasing (-°0; {@-vardhana,@} {%a. id.%}; {@-varṣa,@} 
+;
+75455 new increasing (-°; {@-vardhana,@} {%a. id.%}; {@-varṣa,@} 
+;---------------------------------------------------
+; <L>12287<pc>181-3<k1>praveka<k2>praveka
+75623 old through {%or%} over (-°0; having sexual intercourse 
+;
+75623 new through {%or%} over (-°; having sexual intercourse 
+;---------------------------------------------------
+; <L>12537<pc>188-2<k1>prekzA<k2>prekzA
+77817 old mean (-°0; reflexion, deliberation; understanding: <lbinfo n="5"/>
+;
+77817 new mean (-°; reflexion, deliberation; understanding: <lbinfo n="5"/>
+;---------------------------------------------------
+; <L>12539<pc>188-2<k1>preNKa<k2>preNKa
+77840 old  (-°0; {%n.%} swinging; {%kind of minor play %}
+;
+77840 new  (-°; {%n.%} swinging; {%kind of minor play %}
+;---------------------------------------------------
+; <L>12887<pc>196-3<k1>budDa<k2>budDa
+80764 old {%and died about 477 B. C.%}; {@-gayā,@} {%f.%} Buddha's 
+;
+80764 new {%and died about ¤477¤ B. C.%}; {@-gayā,@} {%f.%} Buddha's 
+;---------------------------------------------------
+; <L>13443<pc>211-3<k1>BramaRa<k2>BramaRa
+85796 old roving; roaming over {%or%} through (-°0; tottering, <lbinfo n="3"/>
+;
+85796 new roving; roaming over {%or%} through (-°; tottering, <lbinfo n="3"/>
+;---------------------------------------------------
+; <L>13670<pc>216-2<k1>man<k2>man
+87535 old valued by (-°0; intended; conjectured; known; 
+;
+87535 new valued by (-°; intended; conjectured; known; 
+;---------------------------------------------------
+; <L>14654<pc>238-3<k1>yaR<k2>yaR
+95508 old {#yaR#}¦ya-ṇ, {%pratyāhāra for%} y, v, r. 1.
+;
+95508 new {#yaR#}¦ya-ṇ, {%pratyāhāra for%} y, v, r. l.
+;---------------------------------------------------
+; <L>18321<pc>322-2<k1>SroRa<k2>SroRa
+125445 old {%20th (21st) lunar asterism%} (= śravaṇā; {%V., P.%}).
+;
+125445 new {%20th (¤21¤st) lunar asterism%} (= śravaṇā; {%V., P.%}).
+;---------------------------------------------------
+; <L>20363<pc>374-a1<k1>haMsa<k2>haMsa
+143425 old {%N.%}; {@-4āja@}, {%m.%} king of geese, large gander; 
+;
+143425 new {%N.%}; {@-rāja@}, {%m.%} king of geese, large gander; 
+;---------------------------------------------------

@@ -1,0 +1,75 @@
+old (1700): {#aNkte#}¦aṅkté, 3 {%s.%} Ā. of √ añj.
+new (1700): {#aNkte#}¦aṅkté, ¤3¤ {%s.%} Ā. of √ añj.
+=====================
+old (1754): {#aNgatva#}¦aṅga-tva, {%n. abst. N. from%} 3. áṅga.
+new (1754): {#aNgatva#}¦aṅga-tva, {%n. abst. N. from%} ¤3.¤ áṅga.
+=====================
+old (10391): 2
+new (10391): ""	// i.e. delete the number 2
+=====================
+old (16016): of 8 {%kinds of%} flowers; {@-bhāga,@} {%m.%} eighth part.
+new (16016): of ¤8¤ {%kinds of%} flowers; {@-bhāga,@} {%m.%} eighth part.
+=====================
+old (16028): {%a.%} containing the 8 emotions ({%drama%}); {@-ṛca@}, 
+new (16028): {%a.%} containing the ¤8¤ emotions ({%drama%}); {@-ṛca@}, 
+=====================
+old (16029): {%a.%} consisting of 8 verses; {@-varṣa,@} {%a.%} 8 years 
+new (16029): {%a.%} consisting of ¤8¤ verses; {@-varṣa,@} {%a.%} 8 years 
+=====================
+old (26345): {#UrRa#}¦ūr-ṇa, {%n.%} wool (-°); {@0nābha, -nā́bhi,@} {%m.%} 
+new (26345): {#UrRa#}¦ūr-ṇa, {%n.%} wool (-°); {@-nābha, -nā́bhi,@} {%m.%} 
+=====================
+old (30413): {%coin = 1/4 paṇa.%}.
+new (30413): {%coin = ¤(1/4)¤ paṇa.%}.
+=====================
+old (31452): {%and Alaṭa%} (11{%th or%} ¤12¤{%th century%}); {@-mīmāṃsa-@}
+new (31452): {%and Alaṭa%} (¤11¤{%th or%} ¤12¤{%th century%}); {@-mīmāṃsa-@}
+=====================
+old (31460): {%T. of a work on poetics by Daṇḍin%} (6{%th %}
+new (31460): {%T. of a work on poetics by Daṇḍin%} (¤6¤{%th %}
+=====================
+old (32185): {#kuqava#}¦kuḍa-va, {%m. a measure and weight%} (= 1/4 
+new (32185): {#kuqava#}¦kuḍa-va, {%m. a measure and weight%} (= ¤(1/4)¤ 
+=====================
+old (42154): {%id.%} (0°, {%a. f.%} {@ā@}); {@-sya,@} {%fp.%} curable.
+new (42154): {%id.%} (-°, {%a. f.%} {@ā@}); {@-sya,@} {%fp.%} curable.
+=====================
+old (68124): (flower); {@-jin-10@}, {%f.%} lotus (plant); {@-da@} {%or%} 
+new (68124): (flower); {@-jin-ī@}, {%f.%} lotus (plant); {@-da@} {%or%} 
+=====================
+old (70357): {%n.%} office of a Purohita; ({@04@}) {@-hiti,@} {%f.%} priestly 
+new (70357): {%n.%} office of a Purohita; {@(ó)-hiti,@} {%f.%} priestly 
+=====================
+old (74297): {%with the technical suffix%} 1), {%designates the %}
+new (74297): {%with the technical suffix%} l), {%designates the %}
+=====================
+old (75455): increasing (-°0; {@-vardhana,@} {%a. id.%}; {@-varṣa,@} 
+new (75455): increasing (-°; {@-vardhana,@} {%a. id.%}; {@-varṣa,@} 
+=====================
+old (75623): through {%or%} over (-°0; having sexual intercourse 
+new (75623): through {%or%} over (-°; having sexual intercourse 
+=====================
+old (77817): mean (-°0; reflexion, deliberation; understanding: 
+new (77817): mean (-°; reflexion, deliberation; understanding: 
+=====================
+old (77840):  (-°0; {%n.%} swinging; {%kind of minor play %}
+new (77840):  (-°; {%n.%} swinging; {%kind of minor play %}
+=====================
+old (80764): {%and died about 477 B. C.%}; {@-gayā,@} {%f.%} Buddha's 
+new (80764): {%and died about ¤477¤ B. C.%}; {@-gayā,@} {%f.%} Buddha's 
+=====================
+old (85796): roving; roaming over {%or%} through (-°0; tottering, 
+new (85796): roving; roaming over {%or%} through (-°; tottering, 
+=====================
+old (87535): valued by (-°0; intended; conjectured; known; 
+new (87535): valued by (-°; intended; conjectured; known; 
+=====================
+old (95508): {#yaR#}¦ya-ṇ, {%pratyāhāra for%} y, v, r. 1.
+new (95508): {#yaR#}¦ya-ṇ, {%pratyāhāra for%} y, v, r. l.
+=====================
+old (125445): {%20th (21st) lunar asterism%} (= śravaṇā; {%V., P.%}).
+new (125445): {%20th (¤21¤st) lunar asterism%} (= śravaṇā; {%V., P.%}).
+=====================
+old (143425): {%N.%}; {@-4āja@}, {%m.%} king of geese, large gander; 
+new (143425): {%N.%}; {@-rāja@}, {%m.%} king of geese, large gander; 
+=====================
