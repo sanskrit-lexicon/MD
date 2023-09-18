@@ -288,7 +288,6 @@ python ../make_mdab_input.py abbrev1.txt mdab_input_1.txt
 185 abbreviations read from abbrev1.txt
 185 lines written to mdab_input_1.txt
 
-
 cp mdab_input_1.txt /c/xampp/htdocs/cologne/csl-pywork/v02/distinctfiles/md/pywork/mdab/mdab_input.txt
 
 cd ../

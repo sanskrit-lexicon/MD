@@ -64,11 +64,6 @@ cd /c/xampp/htdocs/sanskrit-lexicon/md/mdissues/issue11
 python make_mdab_input.py abbrev0/abbrev0.txt abbrev0/mdab_input_0.txt
 cp abbrev0/mdab_input_0.txt /c/xampp/htdocs/cologne/csl-pywork/v02/distinctfiles/md/pywork/mdab/mdab_input.txt
 
-4a. use abbrev1
-python make_mdab_input.py abbrev1/abbrev1.txt abbrev1/mdab_input_1.txt
- 179 abbreviations read from abbrev1/abbrev1.txt
- 
-cp abbrev1/mdab_input_1.txt /c/xampp/htdocs/cologne/csl-pywork/v02/distinctfiles/md/pywork/mdab/mdab_input.txt
 
 --------------------------------------------------------------
 dev version
@@ -78,19 +73,42 @@ localhost/sanskrit-lexicon/MD/mdissues/issue11/dev1/web/
 .gitignore
 
 --------------------------------------------------------------
+Cologne install based on temp_md_1.txt and abbrev1/abbrev1.txt
+1. mdab_input_1.txt
+  See abbrev1 directory for details
+cp abbrev1/mdab_input_1.txt /c/xampp/htdocs/cologne/csl-pywork/v02/distinctfiles/md/pywork/mdab/mdab_input.txt
 
---------------------------------------------------------------
-Apply ab markup using abbrev0/abbrev0.txt
+2. md.txt
+cp temp_md_1.txt /c/xampp/htdocs/cologne/csl-orig/v02/md/md.txt
 
+3. generate local displays for md, check xml validity
+cd /c/xampp/htdocs/cologne/csl-pywork/v02/
+sh generate_dict.sh md  ../../md
 
---------------------------------------------------------------
-abbrev1 folder: temp_pw_1.txt
-Apply ab markup using abbrev0/abbrev0.txt
-python mark_ab.py ../temp_pw_0.txt ../abbrev0/abbrev0.txt temp_pw_1.txt
+sh xmlchk_xampp.sh md
+python3 ../../xmlvalidate.py ../../md/pywork/md.xml ../../md/pywork/md.dtd
+ok
+
+4. sync csl-pywork to github
+
+5. update csl-orig repository and sync to github
+cd /c/xampp/htdocs/cologne/csl-orig/v02/
+   commit: 258eefdfa059239b571715b3e502d42ac28823a4
+cd /c/xampp/htdocs/sanskrit-lexicon/MD/mdissues/issue11
+
+6. Login to Cologne ssh
+6a. cd to scans/csl-orig
+  git pull
+6b. cd to scans/csl-pywork/v02
+  git pull
+6c. regen Cologne displays for md
+ sh generate_dict.sh md  ../../MDScan/2020/
+
 --------------------------------------------------------------
 page 199 smudged -- need new image
 237, 384
 --------------------------------------------------------------
+
 --------------------------------------------------------------
 --------------------------------------------------------------
 --------------------------------------------------------------
