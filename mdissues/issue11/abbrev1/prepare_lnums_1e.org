@@ -1,0 +1,1133 @@
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=035-3][035-3]]
+<L>3261<pc>035-3<k1>asTan<k2>asTan
+ bone; kernel: {@-vat,@} {%<ab>a.</ab>%} having bones; {%<ab>N_.</ab>%} 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=043-3][043-3]]
+<L>3980<pc>043-3<k1>As<k2>As<h>4
+{%or%} being ({%<ab>w.</ab> <ab>pt.</ab>, <ab>gd.</ab>, <ab>a.</ab>, <ab>N_.</ab> <ab>ad.</ab>%}); tend to ({%<ab>d.</ab>%}); 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=047-3][047-3]]
+<L>4250<pc>047-3<k1>ISAna<k2>ISAna
+ruling over ({%<ab>g.</ab>%}); {%<ab>m.</ab>%} ruler; {%<ab>ep.</ab> of%} Śiva; {%<ab>N_.</ab>%}; 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=049-3][049-3]]
+<L>4420<pc>049-3<k1>utTa<k2>utTa
+{%<ab>N_.</ab>;%} {@-thita,@} {%<ab>pp.</ab>%} <ab>√</ab> sthā.
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=050-1][050-1]]
+<L>4461<pc>050-1<k1>ud<k2>ud<h>1
+<hom>1.</hom> {#ud#}¦ud, {%<ab>px.</ab> (<ab>w.</ab> <ab>vb.</ab>, <ab>N_.</ab> or <ab>a.</ab>%}) up; out.
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=066-1][066-1]]
+<L>5734<pc>066-1<k1>kAnti<k2>kAnti
+{%<ab>N_.</ab>,%} {@-tā,@} {%<ab>f.</ab>%} grace, beauty.
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=066-1][066-1]]
+<L>5739<pc>066-1<k1>kApAla<k2>kApAla
+{%<ab>ep.</ab> of%} Śiva; {%<ab>N_.</ab>%}; {%<ab>a.</ab>%} practised by a Kāpālika.
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=070-2][070-2]]
+<L>6050<pc>070-2<k1>kumudvat<k2>kumudvat
+{@-ī,@} {%<ab>f.</ab>%} night lotus; group of night lotuses; {%<ab>N_.</ab>%}.
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=070-3][070-3]]
+<L>6083<pc>070-3<k1>kulatantu<k2>kulatantu
+{@-nandana,@} {%<ab>a.</ab> <ab>N_.</ab>%} (child) delighting the family; 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=071-2][071-2]]
+<L>6116<pc>071-2<k1>kuSa<k2>kuSa
+{#kuSa#}¦kuś-á, {%<ab>m.</ab>%} grass, {%<ab>esp.</ab>%} sacrificial grass; {%<ab>N_.</ab>%}: 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=071-2][071-2]]
+<L>6131<pc>071-2<k1>kuzItaka<k2>kuzItaka
+{#kuzItaka#}¦kuṣītaka, {%<ab>m.</ab>%} {%kind of bird%}; {%<ab>N_.</ab>%}.
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=071-3][071-3]]
+<L>6143<pc>071-3<k1>kusumAkara<k2>kusumAkara
+{%<ab>m.</ab>%} Kāma; {%<ab>N_.</ab>%}; {@-āsava,@} {%<ab>m.</ab>%} honey; {@-āstara-@}
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=075-1][075-1]]
+<L>6344<pc>075-1<k1>koRa<k2>koRa
+point {%of the compass%} (<ab>N_.</ab> <ab>E.</ab> {%<ab>etc.</ab>%}).
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=075-3][075-3]]
+<L>6397<pc>075-3<k1>kOlUta<k2>kOlUta
+{#kOlUta#}¦kaulūta, {%<ab>m.</ab> <ab>pl.</ab> <ab>N_.</ab> a people: <ab>sg.</ab> king%}  <lbinfo n="[]"/>
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=077-3][077-3]]
+<L>6537<pc>077-3<k1>kzama<k2>kzama
+{%<ab>N_.</ab> having a passive sense%}): {@-tvā,@} {%<ab>f.</ab>,%} {@-tva,@} {%<ab>n.</ab>%} 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=078-2][078-2]]
+<L>6564<pc>078-2<k1>kzit<k2>kzit
+{#kzit#}¦kṣi-t, {%<ab>a.</ab> <ab>N_.</ab>%} dweller; ruler (-°).
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=082-1][082-1]]
+<L>6836<pc>082-1<k1>ganDAra<k2>ganDAra
+{%the <ab>N_.</ab> W.%}; {@i,@} {%<ab>m.</ab> <ab>pl.</ab> <ab>id.</ab>%}.
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=084-1][084-1]]
+<L>6947<pc>084-1<k1>gArgya<k2>gArgya
+{#gArgya#}¦gārg-ya, {%<ab>m.</ab> <ab>pat.</ab> from%} Garga: {%<ab>N_.</ab>%}: {@-āya-@}
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=087-2][087-2]]
+<L>7159<pc>087-2<k1>gOrI<k2>gOrI
+{%Śiva's%} wife; {%<ab>N_.</ab>%}: {@-guru,@} {%<ab>m.</ab>%} Gaurī's father, 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=091-3][091-3]]
+<L>7414<pc>091-3<k1>candra<k2>candra
+in a peacock's tail; {%<ab>N_.</ab>%}; {@-kalā,@} {%<ab>f.</ab>%} sixteenth 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=092-1][092-1]]
+<L>7417<pc>092-1<k1>candrarAja<k2>candrarAja
+crescent; {%<ab>N_.</ab>%}; {@-vaṃśa@}, {%<ab>m.</ab>%} the ({%royal%}) lunar 
+Śiva; {%<ab>N_.</ab>%}; {@-śrī@}, {%<ab>f.</ab> <ab>N_.</ab>%}; {@-saṃ-jña@}, {%<ab>m.</ab>%} camphor; 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=092-1][092-1]]
+<L>7418<pc>092-1<k1>candrAMSu<k2>candrAMSu
+{%of%} Śiva; {%<ab>N_.</ab>%}; {@-ardha,@} {%<ab>m.</ab>%} half-moon: {@-cūḍā-@}
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=092-1][092-1]]
+<L>7419<pc>092-1<k1>candrikA<k2>candrikA
+{#candrikA#}¦candr-ikā, {%<ab>f.</ab>%} moonlight; {%<ab>N_.</ab>%}.
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=092-2][092-2]]
+<L>7443<pc>092-2<k1>cara<k2>cara
+{#cara#}¦car-a, {%<ab>a.</ab>%} movable, moving; {%<ab>N_.</ab>%} animal 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=094-3][094-3]]
+<L>7584<pc>094-3<k1>citraraTa<k2>citraraTa
+{%<ab>pp.</ab>%} painted; {@-lekhā,@} {%<ab>f.</ab>%} picture; {%<ab>N_.</ab>%}; {@-vat,@} {%<ab>a.</ab>%} 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=095-1][095-1]]
+<L>7597<pc>095-1<k1>cintA<k2>cintA
+{%<ab>lc.</ab>, or%} upari); {%<ab>N_.</ab>%}; {@-para,@} {%<ab>a.</ab>%} engrossed by ({%sad%}) 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=095-3][095-3]]
+<L>7648<pc>095-3<k1>cullI<k2>cullI
+hall ({%looking towards <ab>N_.</ab>, <ab>E.</ab> and W.%}).
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=095-3][095-3]]
+<L>7651<pc>095-3<k1>cUqAkaraRa<k2>cUqAkaraRa
+jewel {%or%} pearl among; {%<ab>N_.</ab>; <ab>T.</ab> of various %}
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=095-3][095-3]]
+<L>7666<pc>095-3<k1>cekitAna<k2>cekitAna
+ wise; {%<ab>N_.</ab>%}.
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=096-1][096-1]]
+<L>7685<pc>096-1<k1>cEtra<k2>cEtra
+(March-April); {%<ab>N_.</ab>%}; {@-ratha,@} {%<ab>n.</ab>%} ({%<ab>sc.</ab>%} vana) 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=098-1][098-1]]
+<L>7814<pc>098-1<k1>jaNgama<k2>jaNgama
+living; {%<ab>N_.</ab>%} all that moves, living beings: {@-tva,@} 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=098-3][098-3]]
+<L>7844<pc>098-3<k1>janaka<k2>janaka
+father; {%<ab>N_.</ab> <ab>esp.</ab> of a king of Videha%} ({%Mithilā%}).
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=099-2][099-2]]
+<L>7898<pc>099-2<k1>jaya<k2>jaya
+{% or play%}); {%<ab>N_.</ab>%}; {%<ab>pl.</ab>%} (jáya), verses conducive <lbinfo n="5"/>
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=101-1][101-1]]
+<L>8011<pc>101-1<k1>jAbAla<k2>jAbAla
+{%<ab>N_.</ab>%}: {%<ab>pl.</ab> <ab>N_.</ab> of a school%}; {@i,@} {%<ab>m.</ab> <ab>pat.</ab>%} descendant 
+of Jabala, {%<ab>N_.</ab>%}.
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=101-1][101-1]]
+<L>8013<pc>101-1<k1>jAmadagneya<k2>jAmadagneya
+Jamadagni; {@-ya,@} {%<ab>m.</ab> <ab>pat.</ab> <ab>id.</ab>, <ab>N_.</ab>%}; relating {%<ab>etc.</ab>%} 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=103-3][103-3]]
+<L>8176<pc>103-3<k1>jyotizkaRa<k2>jyotizkaRa
+heavenly; {%<ab>m.</ab>%} sun; {%<ab>N_.</ab>%}; {@-ī,@} {%<ab>f.</ab> a form of triṣ-%} 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=104-b2][104-b2]]
+<L>8243<pc>104-b2<k1>WiRWA<k2>WiRWA
+{#WiRWA#}¦ṭhiṇṭhā, {%<ab>f.</ab>%} gambling-house; {%<ab>N_.</ab>%}: {@-ka-@}
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=107-1][107-1]]
+<L>8410<pc>107-1<k1>tapoDana<k2>tapoDana
+ devout, pious; {%<ab>m.</ab>%} ascentic, devotee; {%<ab>N_.</ab>%}; 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=107-2][107-2]]
+<L>8427<pc>107-2<k1>tara<k2>tara
+passage, ferry; boat-hire, fare; {%<ab>N_.</ab>%}.
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=108-3][108-3]]
+<L>8531<pc>108-3<k1>tAmraka<k2>tAmraka
+ {%<ab>m.</ab>%} cock; {%<ab>N_.</ab>%}: {@-yuddha,@} {%<ab>n.</ab>%} cock-fight; 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=108-3][108-3]]
+<L>8540<pc>108-3<k1>tAraka<k2>tAraka<h>2
+{@ā,@} {%<ab>f.</ab> <ab>id.</ab>%}; meteor; {%<ab>N_.</ab>%}.
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=109-3][109-3]]
+<L>8617<pc>109-3<k1>tilaka<k2>tilaka
+(-°); {%<ab>N_.</ab>; <ab>n.</ab>%} alliteration; {%a metre%}: {@-ka,@} {%<ab>m.</ab> <ab>N_.</ab>%}.
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=110-1][110-1]]
+<L>8630<pc>110-1<k1>tizya<k2>tizya
+{%a tree; <ab>N_.</ab>%}.
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=110-2][110-2]]
+<L>8651<pc>110-2<k1>tuNga<k2>tuNga
+height; hill; {%<ab>N_.</ab>%}; {@-dhanvan,@} {%<ab>m.</ab> <ab>N_.</ab> of a king%}; 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=110-2][110-2]]
+<L>8654<pc>110-2<k1>tucCa<k2>tucCa
+{#tucCa#}¦tuccha, {%<ab>a.</ab>%} empty, void, vain; {%<ab>N_.</ab>%} vain 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=113-1][113-1]]
+<L>8840<pc>113-1<k1>trAyati<k2>trAyati
+{%used as <ab>N_.</ab>%}).
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=113-3][113-3]]
+<L>8878<pc>113-3<k1>trilocana<k2>trilocana
+{%<ab>N_.</ab>%}: {@-pāla,@} {%<ab>m.</ab> <ab>N_.</ab>%}.
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=116-2][116-2]]
+<L>9059<pc>116-2<k1>daBIti<k2>daBIti
+{#daBIti#}¦dabh-ī́ti, {%<ab>m.</ab>%} injurer, foe; {%<ab>N_.</ab>%}.
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=116-3][116-3]]
+<L>9093<pc>116-3<k1>dardura<k2>dardura
+{%<ab>N_.</ab> of a mountain-range in the South; <ab>N_.</ab>%}: 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=117-2][117-2]]
+<L>9135<pc>117-2<k1>daSapala<k2>daSapala
+{@-pūrva-ratha,@} {%<ab>m.</ab> paraphrase of%} the {%<ab>N_.</ab>%} Daśaratha; <lbinfo n="8"/>
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=118-3][118-3]]
+<L>9197<pc>118-3<k1>dAmodara<k2>dAmodara
+{%him thus; <ab>N_.</ab>%}: {@-gupta,@} {%<ab>m.</ab> <ab>N_.</ab> of a poet%}; 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=119-1][119-1]]
+<L>9245<pc>119-1<k1>dASaraTi<k2>dASaraTi
+{#dASaraTi#}¦dāśarath-i, {%<ab>m.</ab> <ab>pat.</ab> <ab>N_.</ab>: <ab>du.</ab>%} Rāma 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=119-3][119-3]]
+<L>9290<pc>119-3<k1>dina<k2>dina<h>2
+sun; {%<ab>N_.</ab>%}; {@-kartavya,@} {%<ab>n.</ab>%} daily observance; 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=120-2][120-2]]
+<L>9327<pc>120-2<k1>diS<k2>diS
+ quarter ({%four, <ab>N_.</ab>, <ab>S.</ab>, <ab>E.</ab>, W.%}; {%eight, %}
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=120-3][120-3]]
+<L>9349<pc>120-3<k1>dInaka<k2>dInaka
+{@-ṣa,@} {%<ab>a.</ab>%} dull-witted; {@-dāsa,@} {%<ab>m.</ab>%} {%a Śūdra%} {%<ab>N_.</ab>%}; 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=123-1][123-1]]
+<L>9470<pc>123-1<k1>dustara<k2>dustara
+to abandon {%or%} renounce: {@-tā,@} {%<ab>f.</ab> abse. <ab>N_.</ab>%}.
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=125-1][125-1]]
+<L>9566<pc>125-1<k1>devadatta<k2>devadatta
+yawning; Dieu-donné, {%very common <ab>N_.</ab>, %}
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=125-1][125-1]]
+<L>9575<pc>125-1<k1>devarata<k2>devarata
+ruler; {%<ab>N_.</ab>%}; {@-rājya@}, {%<ab>n.</ab>%} sovereignty of the gods; 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=129-a1][129-a1]]
+<L>9893<pc>129-a1<k1>DanaMjaya<k2>DanaMjaya
+ {%<ab>ep.</ab> of%} Arjuna; {%<ab>N_.</ab>%}: {@-vijaya@}, {%<ab>m.</ab>%} Victory <lbinfo n="3"/>
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=129-a1][129-a1]]
+<L>9894<pc>129-a1<k1>Danatfpti<k2>Danatfpti
+wealth, {%<ab>ep.</ab> of%} Kubera; {%<ab>N_.</ab>%}; {@-daṇḍa@}, {%<ab>m.</ab>%} fine; 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=129-a3][129-a3]]
+<L>9903<pc>129-a3<k1>Danika<k2>Danika
+creditor; {%<ab>N_.</ab>%}; {@-ín,@} {%<ab>a.</ab>%} wealthy; {%<ab>m.</ab>%} rich man; 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=130-1][130-1]]
+<L>9935<pc>130-1<k1>DaraRI<k2>DaraRI
+king; {%<ab>N_.</ab>%}; {@-dhra,@} {%<ab>m.</ab>%} mountain; {@-bhṛt@}, {%<ab>a.</ab>%} 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=130-2][130-2]]
+<L>9945<pc>130-2<k1>Darmakarman<k2>Darmakarman
+Kurukṣetra); {@-gupta,@} {%<ab>pp.</ab> <ab>N_.</ab>%} (law-protected); 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=130-2][130-2]]
+<L>9949<pc>130-2<k1>DarmanATa<k2>DarmanATa
+ {@-buddhi,@} {%<ab>a.</ab>%} righteous-minded; {%<ab>N_.</ab>%}; 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=135-a2][135-a2]]
+<L>10222<pc>135-a2<k1>nagararakzADikfta<k2>nagararakzADikfta
+{%<ab>m.</ab>%} head of the city; {%<ab>N_.</ab>%}.
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=136-1][136-1]]
+<L>10268<pc>136-1<k1>nanda<k2>nanda
+{#nanda#}¦nánd-a, {%<ab>m.</ab>%} joy; son; {%<ab>N_.</ab>, <ab>esp.</ab> of Kṛṣṇa's %}<lbinfo n="5"/>
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=137-1][137-1]]
+<L>10313<pc>137-1<k1>nara<k2>nara
+primordial Man, -- Spirit; {%<ab>N_.</ab>%}.
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=137-1][137-1]]
+<L>10319<pc>137-1<k1>narayAna<k2>narayAna
+by men; {%<ab>m.</ab> <ab>ep.</ab> of%} Kubera; {%<ab>N_.</ab>%}: {@-datta,@} {%<ab>m.</ab> %}
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=138-2][138-2]]
+<L>10408<pc>138-2<k1>nahuza<k2>nahuza
+race; {%<ab>N_.</ab>, <ab>esp.</ab> of a king who displaced Indra, %}
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=138-2][138-2]]
+<L>10416<pc>138-2<k1>nAga<k2>nAga
+{%of several plants%}; {%<ab>N_.</ab>%}.
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=138-2][138-2]]
+<L>10425<pc>138-2<k1>nAgalatA<k2>nAgalatA
+{#nAgalatA#}¦nāga-latā, {%<ab>f.</ab> a tree%}; {%<ab>N_.</ab>%}; {@-lekhā,@} 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=139-1][139-1]]
+<L>10454<pc>139-1<k1>nAnA<k2>nAnA
+ something different; {%<ab>N_.</ab>%} word with 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=139-2][139-2]]
+<L>10481<pc>139-2<k1>nAyaka<k2>nAyaka
+pearl {%in a necklace%}; {%<ab>N_.</ab>%}: {@-tva,@} {%<ab>n.</ab>%} leadership.
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=139-2][139-2]]
+<L>10491<pc>139-2<k1>nArAyaRa<k2>nArAyaRa
+{% with Viṣṇu and Kṛṣṇa%}; {%<ab>N_.</ab>%}; {@a,@} {%<ab>a.</ab>%} relating <lbinfo n="2"/>
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=141-2][141-2]]
+<L>10602<pc>141-2<k1>niBa<k2>niBa
+ {%<ab>N_.</ab>%} appearance, pretext ({%only <ab>in.</ab> %}
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=144-3][144-3]]
+<L>10740<pc>144-3<k1>nizaDa<k2>nizaDa
+{%<ab>N_.</ab> of a people%}; {%<ab>sg.</ab> <ab>N_.</ab>%}: {@-vaṃśa@}, {%<ab>m.</ab>%} race of 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=146-3][146-3]]
+<L>10819<pc>146-3<k1>nIla<k2>nIla
+{%<ab>m.</ab>%} sapphire; Indian fig-tree; {%<ab>N_.</ab>%}; {%<ab>n.</ab>%} indigo; 
+Śiva; {%<ab>N_.</ab>, <ab>esp.</ab> of a commentator on the Mahābhādrata%}; <lbinfo n="6"/>
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=147-2][147-2]]
+<L>10862<pc>147-2<k1>nfyajYa<k2>nfyajYa
+{%Avatār of%} Viṣṇu; {%<ab>N_.</ab>%}: {@-ka,@} {%<ab>m.</ab>%} man-lion, 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=151-2][151-2]]
+<L>11077<pc>151-2<k1>patitva<k2>patitva
+family; {@-vatnī,@} {%<ab>a.</ab> <ab>f.</ab>%} having a husband; {%<ab>N_.</ab>%} 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=151-2][151-2]]
+<L>11080<pc>151-2<k1>pattra<k2>pattra
+{@-rekhā,@} {%<ab>f.</ab>%} = bhaṅga; {@-latā,@} {%<ab>f.</ab> <ab>id.</ab>%}; {%<ab>N_.</ab>%}; {@-le-@}
+{@-khā,@} {%<ab>f.</ab> <ab>id.</ab>%}; {%<ab>N_.</ab>%}; {@-vāha,@} {%<ab>m.</ab>%} (borne on wings), 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=152-3][152-3]]
+<L>11114<pc>152-3<k1>padmaka<k2>padmaka
+Śiva; {%<ab>N_.</ab>%}; inside of a lotus; {%<ab>n.</ab>%} Lotus-filled, 
+{@-darśana@}, {%<ab>m.</ab>%} (lotus-like), {%<ab>N_.</ab>%}; {@-nābha,@} {%<ab>m.</ab>%} 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=152-3][152-3]]
+<L>11120<pc>152-3<k1>padmodBava<k2>padmodBava
+a lotus; {%<ab>m.</ab> <ab>ep.</ab> of%} Brahma; {%<ab>N_.</ab>%}.
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=154-2][154-2]]
+<L>11219<pc>154-2<k1>parASara<k2>parASara
+{#parASara#}¦parā-śará, {%<ab>m.</ab>%} destroyer; {%<ab>N_.</ab>%}.
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=161-2][161-2]]
+<L>11540<pc>161-2<k1>pArTa<k2>pArTa
+{%<ab>N_.</ab>%}: {@-ja@}, {%<ab>m.</ab>%} son of Pārtha.
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=162-1][162-1]]
+<L>11585<pc>162-1<k1>piNgala<k2>piNgala
+ {%<ab>m.</ab>%} {%<ab>ep.</ab> of%} Śiva {%and of a Dānava%}; {%<ab>N_.</ab>,%} 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=164-3][164-3]]
+<L>11732<pc>164-3<k1>puraMjaya<k2>puraMjaya
+{#puraMjaya#}¦pura-ṃ-jaya, {%<ab>m.</ab>%} conqueror of cities, {%<ab>N_.</ab>%}.
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=165-3][165-3]]
+<L>11764<pc>165-3<k1>puruzottama<k2>puruzottama
+soul, {%<ab>ep.</ab> of%} Viṣṇu {%or%} kṛṣṇa; {%<ab>N_.</ab>%}; {@-upa-@}
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=166-1][166-1]]
+<L>11793<pc>166-1<k1>puzkara<k2>puzkara
+cloud occasioning dearth ({%<ab>pl.</ab>%}); {%<ab>N_.</ab>,%} {%<ab>esp.</ab>%} {%of %}
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=169-1][169-1]]
+<L>11892<pc>169-1<k1>pfkza<k2>pfkza
+nourishment; {%<ab>m.</ab>%} dappled horse; {%<ab>N_.</ab>%}.
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=169-2][169-2]]
+<L>11910<pc>169-2<k1>pfTu<k2>pfTu
+pṛtha); {%<ab>N_.</ab>%}.
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=169-3][169-3]]
+<L>11921<pc>169-3<k1>pfSni<k2>pfSni
+({%in <ab>C.</ab>%} {%this word occurs only as a <ab>N_.</ab>%}).
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=170-3][170-3]]
+<L>11998<pc>170-3<k1>pORqra<k2>pORqra
+Pauṇḍras; {%<ab>n.</ab>%} sectarian mark: {@-ka,@} {%<ab>m.</ab> <ab>pl.</ab> <ab>N_.</ab>%} 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=172-1][172-1]]
+<L>12054<pc>172-1<k1>prajApati<k2>prajApati
+ {%planet%} Mars; {%<ab>N_.</ab>%}: {@-yajña@}, {%<ab>m.</ab>%} 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=172-1][172-1]]
+<L>12064<pc>172-1<k1>prajYA<k2>prajYA
+wisdom), {%<ab>N_.</ab>%}.
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=172-3][172-3]]
+<L>12077<pc>172-3<k1>prataNkam<k2>prataNkam
+{%sun%}); vigour, power, energy; {%<ab>N_.</ab>%}; {@-tāpana,@} 
+Majesty, {%<ab>N_.</ab> and <ab>ep.</ab> of various prices%}; {@-tāp-@}
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=178-3][178-3]]
+<L>12217<pc>178-3<k1>pradyumna<k2>pradyumna
+ {%<ab>N_.</ab>%}; {%<ab>N_.</ab> of a <ab>mtn.</ab>%}; {%<ab>N_.</ab> of a river%}: {@-pura,@} 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=179-2][179-2]]
+<L>12235<pc>179-2<k1>praBA<k2>praBA
+{%<ab>N_.</ab>%}: {%<ab>du.</ab>%} sun and moon: {@-deva,@} {%<ab>m.</ab> <ab>N_.</ab>%}, {@-vardh-@}
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=179-3][179-3]]
+<L>12237<pc>179-3<k1>praBu<k2>praBu
+Prajāpati; {%<ab>N_.</ab>%}: {@-kṛta@}, {%<ab>pp.</ab>%} made by a lord, 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=180-2][180-2]]
+<L>12256<pc>180-2<k1>pramoka<k2>pramoka
+strong perfume; {%<ab>N_.</ab>%}:{@-ka,@} {%<ab>m.</ab> kind of%} rice; 
+<ab>√</ab> mud) {%<ab>m.</ab> <ab>ep.</ab> of%} Kubera; {%<ab>N_.</ab>%}; {@-modin,@} {%<ab>a.</ab>%} 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=180-2][180-2]]
+<L>12259<pc>180-2<k1>prayAga<k2>prayAga
+{%a kingdom%}: {%<ab>pl.</ab>%} inhabitants of Prayāga; {%<ab>N_.</ab>%}; 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=185-1][185-1]]
+<L>12390<pc>185-1<k1>prARa<k2>prARa
+{%<ab>pl.</ab>%}) {%<ab>N_.</ab>%}; -°, {%<ab>a.</ab>%} = loving -- as dearly as life, 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=186-3][186-3]]
+<L>12454<pc>186-3<k1>prAya<k2>prAya
+ -° {%<ab>a.</ab>%} ¤1.¤ {%after a <ab>N_.</ab>,%} having -- for the 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=187-2][187-2]]
+<L>12503<pc>187-2<k1>prAsa<k2>prAsa
+dart; {%<ab>N_.</ab>%}.
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=188-3][188-3]]
+<L>12549<pc>188-3<k1>preman<k2>preman
+fun, sport; {%<ab>N_.</ab>%}.
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=190-3][190-3]]
+<L>12634<pc>190-3<k1>Palguna<k2>Palguna
+uttarā); {@a-ka,@} {%<ab>m.</ab> <ab>N_.</ab> of a people%} ({%<ab>pl.</ab>%}); <ab>N_.</ab>
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=191-1][191-1]]
+<L>12659<pc>191-1<k1>baka<k2>baka
+hypocrite; {%<ab>N_.</ab>%}: {@-kaccha@}, {%<ab>m.</ab>%} Heron-bank, {%<ab>N_.</ab> %}
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=192-2][192-2]]
+<L>12700<pc>192-2<k1>bapyanIla<k2>bapyanIla
+{#bapyanIla#}¦bapyanīla, {%<ab>N_.</ab> f a country%}.
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=192-2][192-2]]
+<L>12705<pc>192-2<k1>baBru<k2>baBru
+Viṣṇu, {%and%} Śiva; {%<ab>N_.</ab>%}; {%<ab>f.</ab>%} {@u,@} reddish-brown 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=192-3][192-3]]
+<L>12734<pc>192-3<k1>bala<k2>bala<h>2
+{%<ab>etc.</ab>%}: {@ā,@} {%<ab>f.</ab> kind of spell%}; {%<ab>N_.</ab>%}.
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=193-1][193-1]]
+<L>12739<pc>193-1<k1>balaBadra<k2>balaBadra
+{% with%} Baladeva; {%<ab>N_.</ab>%}; {@-bhid,@} {%<ab>m.</ab>%} destroyer 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=193-1][193-1]]
+<L>12740<pc>193-1<k1>balavat<k2>balavat
+Indra; {@-hara,@} {%<ab>m.</ab>%} (strength-depriving), {%<ab>N_.</ab>%}; 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=193-1][193-1]]
+<L>12741<pc>193-1<k1>balAka<k2>balAka
+({%the fleṣ of which is eaten%}); {%<ab>N_.</ab>%}.
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=193-2][193-2]]
+<L>12751<pc>193-2<k1>bali<k2>bali
+{%which he was allowed to rule%}: {%<ab>N_.</ab>%}; {%incorrect %}
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=193-2][193-2]]
+<L>12752<pc>193-2<k1>balin<k2>balin
+ {%<ab>N_.</ab>%}.
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=194-2][194-2]]
+<L>12788<pc>194-2<k1>bahula<k2>bahula
+{%<ab>m.</ab>%} dark half of a month; {%<ab>N_.</ab>%}: {@-tā,@} {%<ab>f.</ab>%} abundance <lbinfo n="4"/>
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=194-3][194-3]]
+<L>12802<pc>194-3<k1>bARa<k2>bARa
+{%of an Asura%}; {%<ab>N_.</ab>%}; {%<ab>m.</ab>%} blue Barleria; {%<ab>n.</ab>%} {%its %}
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=195-2][195-2]]
+<L>12818<pc>195-2<k1>bAla<k2>bAla<h>1
+{%age%}); simpleton, fool; {%<ab>N_.</ab>%}: {@ā,@} {%<ab>f.</ab>%} girl, young 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=195-3][195-3]]
+<L>12841<pc>195-3<k1>bAhu<k2>bAhu
+{% measure%} (= ¤12¤ aṅgulas); {%<ab>N_.</ab>%}.
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=195-3][195-3]]
+<L>12842<pc>195-3<k1>bAhuka<k2>bAhuka
+ {%<ab>m.</ab> <ab>N_.</ab>%}; {%<ab>N_.</ab> assumed by Nala when charioteer %}<lbinfo n="3"/>
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=195-3][195-3]]
+<L>12844<pc>195-3<k1>bAhucyuta<k2>bAhucyuta
+strength of arm; {%<ab>m.</ab>%} (Arm-strong), {%<ab>N_.</ab>%}; {@-bal-@}
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=196-1][196-1]]
+<L>12859<pc>196-1<k1>bindu<k2>bindu
+{%paint on the body of an elephant%}; {%<ab>N_.</ab>%}: {@-ka,@} 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=196-2][196-2]]
+<L>12860<pc>196-2<k1>bindumat<k2>bindumat
+{%of verses%}; {%<ab>N_.</ab>%}; {@-rekhā,@} {%<ab>f.</ab>%} line of dots; 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=196-2][196-2]]
+<L>12866<pc>196-2<k1>bimba<k2>bimba
+ {%<ab>m.</ab>%} lizard, chameleon; {%<ab>N_.</ab>%}; {%<ab>n.</ab> fruit %}
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=196-3][196-3]]
+<L>12887<pc>196-3<k1>budDa<k2>budDa
+{%beginning of the fifth century <ab>A. D.</ab>%} ({%the <ab>N_.</ab> is %}
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=197-2][197-2]]
+<L>12895<pc>197-2<k1>buDa<k2>buDa<h>2
+{%a son of Soma = the planet%} Mercury; {%<ab>N_.</ab>%}: 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=197-3][197-3]]
+<L>12919<pc>197-3<k1>bfhatkaTA<k2>bfhatkaTA
+buttocks), {%<ab>N_.</ab>%}.
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=197-3][197-3]]
+<L>12921<pc>197-3<k1>bfhadukTa<k2>bfhadukTa
+{%a certain%} Agni; {%<ab>N_.</ab>%}; ({@-ád@}) {@-diva,@} {%<ab>a.</ab>%} belonging <lbinfo n="6"/>
+of great brilliance; {%<ab>m.</ab> a certain%} Agni; {%<ab>N_.</ab>%}; 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=198-1][198-1]]
+<L>12923<pc>198-1<k1>bfhaspati<k2>bfhaspati
+{%works are ascribed%}); {%the planet%} Jupiter; {%<ab>N_.</ab>%}.
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=198-1][198-1]]
+<L>12933<pc>198-1<k1>boDa<k2>boDa
+understanding; designation; {%<ab>N_.</ab>%}; {@-aka,@} {%<ab>a.</ab>%} 
+instructor; {%<ab>N_.</ab>%}; {@-ana,@} {%<ab>a.</ab>%} ({@ī@}) causing to awake, 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=198-2][198-2]]
+<L>12943<pc>198-2<k1>braDna<k2>braDna
+{#braDna#}¦bradh-ná, {%<ab>a.</ab>%} ruddy; {%<ab>m.</ab>%} sun; {%<ab>N_.</ab>%}; {%<ab>n.</ab>%} 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=198-2][198-2]]
+<L>12945<pc>198-2<k1>brahma<k2>brahma
+{% ¤598¤ <ab>A. D.</ab>%}; {%<ab>N_.</ab>%}; {@-gola,@} {%<ab>m.</ab>%} universe; {@-ghāt-@}
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=198-3][198-3]]
+<L>12950<pc>198-3<k1>brahmatA<k2>brahmatA
+{@-dattá,@} {%<ab>m.</ab>%} given by {%the god%} Brahman; {%<ab>N_.</ab>%}; 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=199-3][199-3]]
+<L>12965<pc>199-3<k1>brAhma<k2>brAhma
+{% in return on his part%}); {%<ab>m.</ab> <ab>pat.</ab> <ab>N_.</ab>%}; {%<ab>n.</ab>%} 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=201-3][201-3]]
+<L>13035<pc>201-3<k1>Badra<k2>Badra
+ ({%<ab>pl.</ab>%}); {%<ab>N_.</ab>%}; {%<ab>n.</ab>%} welfare, happiness, blessing, <lbinfo n="5"/>
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=201-3][201-3]]
+<L>13037<pc>201-3<k1>BadraMkara<k2>BadraMkara
+{#BadraMkara#}¦bhadraṃ-kara, {%<ab>m.</ab>%} (auspicious), {%<ab>N_.</ab>%}.
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=201-3][201-3]]
+<L>13038<pc>201-3<k1>Badratara<k2>Badratara
+{%<ab>a.</ab>%} auspicious: {@-ī,@} {%<ab>f.</ab>%} courtesan; {%<ab>N_.</ab>%}; {@-vasana,@} 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=202-3][202-3]]
+<L>13094<pc>202-3<k1>BavAnI<k2>BavAnI
+{%<ab>N_.</ab>%}: {@-pati, -vallabha, -sakha@}, {%<ab>m.</ab> <ab>ep.</ab> of%} Śiva.
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=203-1][203-1]]
+<L>13120<pc>203-1<k1>BA<k2>BA
+{%<ab>N_.</ab> in%} -tva). {@sam-ā,@} appear {%or%} look like (iva). 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=203-3][203-3]]
+<L>13155<pc>203-3<k1>BAnu<k2>BAnu
+ray; sun; {%<ab>N_.</ab>%}: {%<ab>pl.</ab>%} the sons of Bhānu, the 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=204-1][204-1]]
+<L>13157<pc>204-1<k1>BAnumat<k2>BAnumat
+radiant; {%<ab>m.</ab>%} sun; {%<ab>N_.</ab>%}: {@-ī,@} {%<ab>f.</ab> <ab>N_.</ab>%}; {@-maya,@} {%<ab>a.</ab>%} 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=205-1][205-1]]
+<L>13213<pc>205-1<k1>BAsa<k2>BAsa
+{%a bird of prey%}; {%<ab>N_.</ab>%}: ({@a@}) {@-ka,@} {%<ab>a.</ab>%} showing, 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=205-2][205-2]]
+<L>13217<pc>205-2<k1>BAskara<k2>BAskara
+ luminous, brilliant; {%<ab>m.</ab>%} sun; {%<ab>N_.</ab> <ab>esp.</ab> of %}
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=206-1][206-1]]
+<L>13242<pc>206-1<k1>Bizaj<k2>Bizaj
+ remedy ({%<ab>V.</ab>%}); {%<ab>N_.</ab>%}.
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=206-2][206-2]]
+<L>13252<pc>206-2<k1>BImakarman<k2>BImakarman
+{%<ab>N_.</ab>%}, {%especially of the%} second Pāṇḍava {%prince%}; 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=206-3][206-3]]
+<L>13271<pc>206-3<k1>BujaMga<k2>BujaMga
+prince; {%<ab>N_.</ab>%}: {@ī,@} {%<ab>f.</ab>%} female serpent; {@a-kanyā,@} 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=208-2][208-2]]
+<L>13303<pc>208-2<k1>BUtAtmaka<k2>BUtAtmaka
+{%<ab>pp.</ab>%} formed out of the elements; {%<ab>N_.</ab> <ab>pl.</ab>%} all 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=208-2][208-2]]
+<L>13309<pc>208-2<k1>BUdina<k2>BUdina
+{%<ab>id.</ab>%}; {@-deva,@} {%<ab>m.</ab>%} god on earth, Brāhman; {%<ab>N_.</ab>%} 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=208-2][208-2]]
+<L>13310<pc>208-2<k1>BUDra<k2>BUDra
+favourite of kings ({%horse%}); {%<ab>N_.</ab>%}; {@-putra,@} {%<ab>m.</ab>%} 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=209-1][209-1]]
+<L>13330<pc>209-1<k1>BUyizWa<k2>BUyizWa
+{%a <ab>pp.</ab>%} mostly, almost ({%a <ab>N_.</ab> belonging to the %}
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=209-1][209-1]]
+<L>13333<pc>209-1<k1>BUri<k2>BUri
+Indra; {%<ab>N_.</ab>%}.
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=210-2][210-2]]
+<L>13398<pc>210-2<k1>BErava<k2>BErava
+({%of which eight kinds are distinguished%}); {%<ab>N_.</ab>%}: 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=210-3][210-3]]
+<L>13410<pc>210-3<k1>Boja<k2>Boja
+king of the bhojas; {%<ab>N_.</ab>, <ab>esp.</ab> of a king of %}
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=211-3][211-3]]
+<L>13446<pc>211-3<k1>BramarI<k2>BramarI
+{#BramarI#}¦bhramar-ī, {%<ab>f.</ab>%} female bee; {%<ab>N_.</ab>%}.
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=212-2][212-2]]
+<L>13473<pc>212-2<k1>BrURa<k2>BrURa
+Brāhman ({%<ab>comm.</ab>%}); {%<ab>N_.</ab>%} killing of an embryo; 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=212-a1][212-a1]]
+<L>13486<pc>212-a1<k1>makaranda<k2>makaranda
+{#makaranda#}¦makaranda, {%<ab>m.</ab>%} flower-juice; {%<ab>N_.</ab>%}; 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=212-a3][212-a3]]
+<L>13512<pc>212-a3<k1>maNgala<k2>maNgala
+Mars; {%<ab>N_.</ab>%}: {@-karaṇa@}, {%<ab>n.</ab>%} uttering a prayer {%for %}
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=213-2][213-2]]
+<L>13549<pc>213-2<k1>maRika<k2>maRika
+{%<ab>N_.</ab> of a sacred pool near Benares%}; {%<ab>N_.</ab>%}; {@-kā-@}
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=214-1][214-1]]
+<L>13590<pc>214-1<k1>matsya<k2>matsya
+{#matsya#}¦mát-sya, {%<ab>m.</ab>%} [lively: <ab>√</ab> mad] fish; {%<ab>N_.</ab>%} 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=214-3][214-3]]
+<L>13606<pc>214-3<k1>madana<k2>madana
+lust; {%<ab>m.</ab>%} god of love, Kāma; {%<ab>N_.</ab>%}; {%a plant%}: 
+ {%<ab>N_.</ab>%}; {@-vega,@} {%<ab>N_.</ab> of a prince of the %}
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=215-1][215-1]]
+<L>13634<pc>215-1<k1>maDu<k2>maDu
+ spring; {%<ab>N_.</ab> of two Asuras%}; {%<ab>N_.</ab>%}; {%<ab>n.</ab>%} 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=215-2][215-2]]
+<L>13636<pc>215-2<k1>maDukarAya<k2>maDukarAya
+{%<ab>f.</ab>%} female bee; {%<ab>N_.</ab>%}; {@-kānana,@} {%<ab>n.</ab>%} forest of 
+{%<ab>f.</ab> <ab>N_.</ab> of a river%}; {%<ab>N_.</ab> of a city%}; {%<ab>N_.</ab>%}; {@-matta,@} 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=217-2][217-2]]
+<L>13707<pc>217-2<k1>manoBU<k2>manoBU
+ wish; {%<ab>N_.</ab>%}: {@-dāyaka,@} {%<ab>m.</ab>%} fulfilling 
+{%<ab>N_.</ab>%}, {@-siddhi,@} {%<ab>f.</ab>%} fulfilment of a wish; {%<ab>m.</ab> <ab>N_.</ab>%}: 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=218-3][218-3]]
+<L>13758<pc>218-3<k1>manya<k2>manya
+ for; {%<ab>N_.</ab> the root%} man; {@-ya-ti,@} {%<ab>m.</ab>%} (¤3¤ {%<ab>sg.</ab> %}
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=219-1][219-1]]
+<L>13787<pc>219-1<k1>marica<k2>marica
+{#marica#}¦marica, {%<ab>m.</ab>%} pepper-shrub; {%<ab>N_.</ab>%}.
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=219-1][219-1]]
+<L>13788<pc>219-1<k1>marIca<k2>marIca
+{#marIca#}¦marīca, {%<ab>m.</ab>%} pepper-shrub; {%<ab>N_.</ab>%}; {%<ab>n.</ab>%} 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=219-1][219-1]]
+<L>13789<pc>219-1<k1>marIci<k2>marIci
+{%a Daitya%}; {%<ab>N_.</ab>%}: {@-kā,@} {%<ab>f.</ab>%} mirage; {@-toya,@} {%<ab>n.</ab> <ab>id.</ab>%}.
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=220-1][220-1]]
+<L>13839<pc>220-1<k1>malla<k2>malla
+ very powerful man; {%a mixed caste%}; {%<ab>N_.</ab>%}: 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=221-1][221-1]]
+<L>13886<pc>221-1<k1>mahAtattva<k2>mahAtattva
+{%men%}); {%<ab>m.</ab> <ab>ep.</ab> of%} Skanda; {%<ab>N_.</ab>%}; {@-taila,@} {%<ab>n.</ab>%} precious <lbinfo n="3"/>
+{@-diś@}, {%<ab>f.</ab>%} chief cardinal point ({%<ab>N_.</ab>, <ab>S.</ab>, <ab>E.</ab>, W.%}); 
+{%<ab>N_.</ab>%}: {@-giri,@} {%<ab>m.</ab> <ab>N_.</ab> of a%} mountain; {@-devī,@} {%<ab>f.</ab>%} 
+king; {%<ab>N_.</ab>%}; {@-adbhuta,@} {%<ab>a.</ab>%} very wonderful; {%<ab>n.</ab>%} 
+face; {@-ānanda,@} {%<ab>m.</ab>%} great joy {%or%} bliss; {%<ab>N_.</ab>%}; 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=221-2][221-2]]
+<L>13887<pc>221-2<k1>mahApakza<k2>mahApakza
+({%leech%}); {%<ab>N_.</ab>%}; {@-pāśupata@}, {%<ab>a.</ab>%} {%with%} vrata, {%<ab>n.</ab>%} the 
+{%<ab>m.</ab> <ab>ep.</ab> of%} Viṣṇu; {%<ab>N_.</ab>%}; {@-bila,@} {%<ab>n.</ab>%} deep hole; 
+clever; {%<ab>m.</ab> <ab>N_.</ab> of an Asura%}; {%<ab>N_.</ab>%}; {@-bṛhatī@}, {%<ab>f.</ab>%} 
+ {@-bhaṭa@}, {%<ab>m.</ab>%} great warrior; {%<ab>N_.</ab>%}; {@-bha-@}
+great chariot; great warrior; {%<ab>N_.</ab>%}; {@-rathyā,@} 
+ {%<ab>N_.</ab>%}; {@-saṃkaṭa@}, {%<ab>n.</ab>%} great danger {%or%} 
+great lion; {%<ab>N_.</ab>%}; {@-siddha,@} ({%<ab>pp.</ab>%}) {%<ab>m.</ab>%} great 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=223-1][223-1]]
+<L>13900<pc>223-1<k1>mahIkampa<k2>mahIkampa
+ the earth; {%<ab>m.</ab>%} mountain; {%<ab>N_.</ab>, <ab>esp.</ab> of %}
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=223-1][223-1]]
+<L>13909<pc>223-1<k1>maheSa<k2>maheSa
+{%<ab>ep.</ab> of%} Śiva {%and of%} Viṣṇu; {%<ab>N_.</ab>%}: {%<ab>pl.</ab>%} the world-guardians <lbinfo n="5"/>
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=224-2][224-2]]
+<L>13960<pc>224-2<k1>mARqavya<k2>mARqavya
+{#mARqavya#}¦mā́ṇḍav-ya, {%<ab>m.</ab> <ab>pat.</ab>%} ({%<ab>fr.</ab>%} maṇḍu), {%<ab>N_.</ab>%} 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=225-1][225-1]]
+<L>13995<pc>225-1<k1>mADavikA<k2>mADavikA
+({%Gaertnera racemosa%}); {%<ab>N_.</ab>%}.
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=225-2][225-2]]
+<L>14014<pc>225-2<k1>mAnaka<k2>mAnaka
+{@-tuṅga,@} {%<ab>m.</ab>%} man high in honour; {%<ab>N_.</ab>%}; {@-da,@} {%<ab>a.</ab>%} 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=227-1][227-1]]
+<L>14116<pc>227-1<k1>mAlatI<k2>mAlatI
+{%<ab>N_.</ab>%}: {@i-kā,@} {%<ab>f.</ab> <ab>N_.</ab>%}; {@ī-mādhava,@} {%<ab>n.</ab>%} Mālatī and 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=227-1][227-1]]
+<L>14120<pc>227-1<k1>mAlava<k2>mAlava
+{%<ab>m.</ab>%} prince of Mālva; {%<ab>N_.</ab>%}: {@-viṣaya,@} {%<ab>m.</ab>%} 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=227-2][227-2]]
+<L>14125<pc>227-2<k1>mAli<k2>mAli
+{%virgin%}; {%<ab>N_.</ab>%}; {%<ab>N_.</ab> of a town and of various rivers%}.
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=228-2][228-2]]
+<L>14185<pc>228-2<k1>miTila<k2>miTila
+{#miTila#}¦mithila, {%<ab>m.</ab> <ab>N_.</ab> of a people%} ({%<ab>pl.</ab>%}); {%<ab>N_.</ab>%} 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=228-3][228-3]]
+<L>14209<pc>228-3<k1>miSra<k2>miSra
+{% for names ending in%} miśra; {%<ab>N_.</ab>%}; {%<ab>n.</ab>%} 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=229-3][229-3]]
+<L>14250<pc>229-3<k1>muktAratna<k2>muktAratna
+{@-āvali@} ({%or%} {@ī@}), {%<ab>f.</ab>%} string of pearls; {%<ab>N_.</ab>%}; {@-śukti@}, 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=231-1][231-1]]
+<L>14277<pc>231-1<k1>muRqa<k2>muRqa
+head {%or%} bald pate; {%<ab>N_.</ab>%}: {@-ka,@} {%<ab>m.</ab>%} trunk of a 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=231-1][231-1]]
+<L>14288<pc>231-1<k1>mudgala<k2>mudgala
+{#mudgala#}¦múd-gala, {%<ab>m.</ab>%} [shouting for joy], {%<ab>N_.</ab>,%} 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=231-2][231-2]]
+<L>14297<pc>231-2<k1>muni<k2>muni
+{%Bear%}; {%<ab>sg.</ab> <ab>N_.</ab>%}; {%<ab>N_.</ab> of the%} mango tree, {%Artemisia %}<lbinfo n="6"/>
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=231-3][231-3]]
+<L>14313<pc>231-3<k1>muravErin<k2>muravErin
+{%of%} Viṣṇu {%or%} Kṛṣṇa; {@-ari,@} {%<ab>m.</ab> <ab>id.</ab>%}; {%<ab>N_.</ab>%}.
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=233-2][233-2]]
+<L>14391<pc>233-2<k1>mfgANka<k2>mfgANka
+{%<ab>N_.</ab> of a sword%}; {%<ab>N_.</ab>%}; {@-ka,@} {%<ab>m.</ab> <ab>N_.</ab> of a sword%}; 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=235-1][235-1]]
+<L>14450<pc>235-1<k1>mekala<k2>mekala
+{#mekala#}¦mekala, {%<ab>m.</ab> <ab>N_.</ab> of a people%} ({%<ab>pl.</ab>%}); {%<ab>N_.</ab>%} 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=235-1][235-1]]
+<L>14452<pc>235-1<k1>meKalA<k2>meKalA
+the girdle; slope ({%of a mountain%}); {%<ab>N_.</ab>%}: {@-pa-@}
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=235-1][235-1]]
+<L>14454<pc>235-1<k1>meGa<k2>meGa
+Indrajit; {%<ab>N_.</ab>%}; {%<ab>N_.</ab> of a frog%}; {@-nādin,@} {%<ab>a.</ab>%} resounding <lbinfo n="2"/>
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=235-2][235-2]]
+<L>14487<pc>235-2<k1>meDAvatI<k2>meDAvatI
+understanding), {%<ab>N_.</ab>%}; {@-vara,@} {%<ab>m.</ab> <ab>N_.</ab>%}; {@-vín,@} {%<ab>a.</ab>%} 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=235-3][235-3]]
+<L>14489<pc>235-3<k1>meDya<k2>meDya
+{%<ab>N_.</ab>%}: {@-ṭvá@}, {%<ab>n.</ab>%} ritual purity.
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=236-3][236-3]]
+<L>14551<pc>236-3<k1>mohana<k2>mohana
+{%the five arrows of the god of love%}; {%<ab>N_.</ab>%}; {%<ab>n.</ab>%} 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=237-1][237-1]]
+<L>14580<pc>237-1<k1>mOrya<k2>mOrya
+{% with Candra-gupta%}: {@-datta,@} {%<ab>m.</ab>%} {%<ab>N_.</ab>%}.
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=238-2][238-2]]
+<L>14648<pc>238-2<k1>yajYakarman<k2>yajYakarman
+sacrificial fee; {@-datta,@} {%<ab>m.</ab> a frequent <ab>N_.</ab>%}; 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=242-2][242-2]]
+<L>14729<pc>242-2<k1>yamunA<k2>yamunA
+ {%in <ab>C.</ab> identified with%} Yamī; {%<ab>N_.</ab>%}; {@-datta,@} 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=242-2][242-2]]
+<L>14739<pc>242-2<k1>yavana<k2>yavana<h>2
+{%<ab>N_.</ab> probably of%} Alexandria; {@-sena,@} {%<ab>m.</ab> <ab>N_.</ab>%}.
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=242-3][242-3]]
+<L>14754<pc>242-3<k1>yaSoGna<k2>yaSoGna
+{%prince%}; {@-dhara,@} {%<ab>m.</ab>%} (supporter of fame), {%<ab>N_.</ab>%}: 
+{%<ab>f.</ab>%} (famous), {%<ab>N_.</ab>%}; {@-vartman,@} {%<ab>n.</ab>%} road to glory; 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=244-2][244-2]]
+<L>14825<pc>244-2<k1>yAminI<k2>yAminI
+night; {%<ab>N_.</ab>%}: {@-dayita,@} {%<ab>m.</ab>%} lover --, {@-nātha@} {%or%} 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=249-1][249-1]]
+<L>14992<pc>249-1<k1>raNga<k2>raNga
+stage, scene, arena; theatrical audience; {%<ab>N_.</ab>%}: 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=249-3][249-3]]
+<L>15009<pc>249-3<k1>rajanI<k2>rajanI
+{#rajanI#}¦raj-anī, {%<ab>f.</ab>%} [darkener], night; {%<ab>N_.</ab>%}: 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=250-2][250-2]]
+<L>15040<pc>250-2<k1>ratna<k2>ratna
+{@ā,@} {%<ab>f.</ab>%} earth; {%<ab>N_.</ab>%}; {%<ab>T.</ab> of the seventh Lambaka of %}
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=250-2][250-2]]
+<L>15041<pc>250-2<k1>ratnAkara<k2>ratnAkara
+ocean; {%<ab>N_.</ab>%}; {%<ab>N_.</ab> of a mythical horse%}; {%<ab>T.</ab> of %}
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=251-3][251-3]]
+<L>15101<pc>251-3<k1>raSmi<k2>raSmi
+{@-mat,@} {%<ab>a.</ab>%} radiant; {%<ab>m.</ab>%} sun; {%<ab>N_.</ab>%}; {@-mālin,@} {%<ab>a.</ab>%} 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=252-3][252-3]]
+<L>15147<pc>252-3<k1>rAjaka<k2>rAjaka
+= rājan, king; {%<ab>N_.</ab>%}; {%<ab>n.</ab>%} assemblage of kings; 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=253-1][253-1]]
+<L>15151<pc>253-1<k1>rAjatanaya<k2>rAjatanaya
+{%chronicles of Cashmere%}; {%<ab>N_.</ab>%}; {@-tā,@} {%<ab>f.</ab>%} kingship, 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=253-3][253-3]]
+<L>15164<pc>253-3<k1>rAjasaMSraya<k2>rAjasaMSraya
+swan, flamingo; {%<ab>N_.</ab>%}; {@-harmya,@} {%<ab>n.</ab>%} royal palace; 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=254-1][254-1]]
+<L>15182<pc>254-1<k1>rAjyakara<k2>rAjyakara
+{@-ra,@} {%<ab>m.</ab>%} (regent), {%<ab>N_.</ab>%}; {@-paribhraṣṭa@}, {%<ab>pp.</ab>%} 
+{%personified%}); {%<ab>N_.</ab>%}; {@-sukha,@} {%<ab>n.</ab>%} pleasures of 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=254-2][254-2]]
+<L>15204<pc>254-2<k1>rAma<k2>rAma
+{% <ab>N_.</ab> in later <ab>C.</ab>%}; {%<ab>n.</ab>%} [causing to rest: 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=254-2][254-2]]
+<L>15205<pc>254-2<k1>rAmakfzRa<k2>rAmakfzRa
+{%of Daśaratha%}; {%<ab>N_.</ab>%}; {@-ja@}, {%<ab>m.</ab> <ab>N_.</ab>%}.
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=254-2][254-2]]
+<L>15207<pc>254-2<k1>rAmadeva<k2>rAmadeva
+{%Daśaratha%}; {%<ab>N_.</ab>%}; {@-nātha,@} {%<ab>m.</ab> <ab>id.</ab>%}; {@-pāla,@} {%<ab>m.</ab> %}
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=256-1][256-1]]
+<L>15300<pc>256-1<k1>rudra<k2>rudra
+verses addressed to Rudra; {%<ab>N_.</ab>%}: {@-kośa@}, {%<ab>m.</ab>%} 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=256-3][256-3]]
+<L>15314<pc>256-3<k1>ruru<k2>ruru
+{#ruru#}¦rúru, {%<ab>m.</ab>%} {%kind of deer%}; {%<ab>N_.</ab>%}; {%<ab>N_.</ab> of a Dānava %}<lbinfo n="4"/>
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=258-1][258-1]]
+<L>15354<pc>258-1<k1>reRu<k2>reRu
+dust; grain of dust; pollen {%of flowers%}; {%<ab>N_.</ab>%}: 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=258-1][258-1]]
+<L>15364<pc>258-1<k1>reBa<k2>reBa
+ ({%<ab>V.</ab>%}); {%<ab>m.</ab>%} slinger; {%<ab>N_.</ab>%}.
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=258-1][258-1]]
+<L>15368<pc>258-1<k1>revat<k2>revat
+{%a certain lunar mansion%}; {%<ab>N_.</ab>, <ab>esp.</ab> of the wife %}
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=259-a2][259-a2]]
+<L>15454<pc>259-a2<k1>lakzmaRa<k2>lakzmaRa
+crane ({%Ardea sibirica%}); {%<ab>N_.</ab>, <ab>esp.</ab> of a son of %}
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=262-1][262-1]]
+<L>15564<pc>262-1<k1>lAtavya<k2>lAtavya
+{#lAtavya#}¦lātav-ya, {%<ab>m.</ab>%} ({%<ab>pat.</ab> <ab>fr.</ab>%} Latu) {%<ab>N_.</ab>%}.
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=263-2][263-2]]
+<L>15618<pc>263-2<k1>lIlAvat<k2>lIlAvat
+ woman; {%<ab>ep.</ab> of%} Durgā; {%<ab>N_.</ab>%}; {@-vāpī,@} {%<ab>f.</ab>%} 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=263-2][263-2]]
+<L>15619<pc>263-2<k1>luk<k2>luk
+{#luk#}¦luk, {%<ab>N_.</ab>%} dropping {%or%} disappearance ({%of %}
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=264-1][264-1]]
+<L>15635<pc>264-1<k1>lup<k2>lup
+{#lup#}¦lup, {%<ab>N_.</ab>%} dropping, elision ({%of a letter %}
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=266-a1][266-a1]]
+<L>15730<pc>266-a1<k1>vaMSakara<k2>vaMSakara
+{%<ab>m.</ab>%} continuer of a family; {%<ab>N_.</ab>%}; {@-karma-kṛt@}, 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=267-1][267-1]]
+<L>15778<pc>267-1<k1>vajra<k2>vajra
+{% array%}; {%<ab>N_.</ab>%}: {@-karṣaṇa@}, {%<ab>m.</ab> <ab>ep.</ab> of%} Indra; 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=267-2][267-2]]
+<L>15781<pc>267-2<k1>vajrAyuDa<k2>vajrAyuDa
+thunderbolt; {%<ab>m.</ab> <ab>ep.</ab> of%} Indra; {%<ab>N_.</ab>%}.
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=267-2][267-2]]
+<L>15798<pc>267-2<k1>vaqabA<k2>vaqabA
+({%rare%}); {%<ab>N_.</ab>%}: {@-agni,@} {%<ab>m.</ab>%} submarine fire ({%supposed %}<lbinfo n="6"/>
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=267-3][267-3]]
+<L>15815<pc>267-3<k1>vatsa<k2>vatsa
+{%in%} tri-vatsá); {%<ab>N_.</ab>%}; {%<ab>N_.</ab> of a country%}: {%<ab>pl.</ab> its %}
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=270-2][270-2]]
+<L>15956<pc>270-2<k1>varAha<k2>varAha
+{%Daitya%}; {%<ab>N_.</ab>%}; {@-datta,@} {%<ab>m.</ab> <ab>N_.</ab>%}; {@-deva,@} {%<ab>m.</ab> <ab>N_.</ab>%}; 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=271-3][271-3]]
+<L>16022<pc>271-3<k1>varDamAna<k2>varDamAna
+{% now%} Burdwan; {%<ab>N_.</ab> of a village%}; {%<ab>N_.</ab>%}: 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=272-2][272-2]]
+<L>16070<pc>272-2<k1>valgana<k2>valgana
+{@ā,@} {%<ab>f.</ab>%} bridle; {%<ab>N_.</ab>%}; {@-ita,@} {%<ab>pp.</ab>%} <ab>√</ab> valg; {%<ab>n.</ab>%} gallop; 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=272-2][272-2]]
+<L>16077<pc>272-2<k1>vallaBa<k2>vallaBa
+dearer than ({%<ab>ab.</ab>%}); {%<ab>m.</ab>%} favourite; lover; {%<ab>N_.</ab>%}: 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=273-2][273-2]]
+<L>16117<pc>273-2<k1>vasanta<k2>vasanta
+{%<ab>N_.</ab>%}: {@-ka,@} {%<ab>m.</ab> <ab>id.</ab>%}; {@-kāla,@} {%<ab>m.</ab>%} spring time; {@-tila-@}
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=273-2][273-2]]
+<L>16124<pc>273-2<k1>vasAti<k2>vasAti
+ ({%<ab>pl.</ab>%}); {%<ab>N_.</ab>%}.
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=273-3][273-3]]
+<L>16128<pc>273-3<k1>vasu<k2>vasu
+{%of light%} ({%<ab>C.</ab>, rare%}); {%<ab>N_.</ab>%}; {%<ab>n.</ab>%} goods, wealth, 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=273-3][273-3]]
+<L>16132<pc>273-3<k1>vasuMDara<k2>vasuMDara
+ soil; ground; {%<ab>N_.</ab>%}: {@-dhara,@} {%<ab>m.</ab>%} mountain; <lbinfo n="4"/>
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=273-3][273-3]]
+<L>16134<pc>273-3<k1>vasumat<k2>vasumat
+ground; {%<ab>N_.</ab>%}: {@-pati,@} {%<ab>m.</ab>%} lord of earth, king, 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=275-3][275-3]]
+<L>16209<pc>275-3<k1>vAja<k2>vAja
+the Ṛbhus; ¤2.¤ {%<ab>C.</ab>%} feathers on an arrow; {%<ab>N_.</ab>%}.
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=277-1][277-1]]
+<L>16289<pc>277-1<k1>vAmana<k2>vAmana
+{%or west%}; {%<ab>N_.</ab>, <ab>esp.</ab> of the author of the Kāvyālaṃkāra-vṛtti %}<lbinfo n="9"/>
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=277-2][277-2]]
+<L>16296<pc>277-2<k1>vAmalocana<k2>vAmalocana
+{@ā,@} {%<ab>f.</ab>%} fair-eyed woman; {%<ab>N_.</ab>%}; {@-śiva@}, {%<ab>m.</ab> <ab>N_.</ab>%}; 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=278-2][278-2]]
+<L>16358<pc>278-2<k1>vArzRa<k2>vArzRa
+{#vArzRa#}¦vā́rṣṇa, ({%or%} á), {%<ab>m.</ab> <ab>pat.</ab> <ab>N_.</ab>%}.
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=279-1][279-1]]
+<L>16414<pc>279-1<k1>vAsuki<k2>vAsuki
+{%the sovereign of the serpents%}; {%<ab>N_.</ab>%}.
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=279-1][279-1]]
+<L>16415<pc>279-1<k1>vAsudeva<k2>vAsudeva
+ {%<ab>N_.</ab>%}; {%<ab>a.</ab>%} ({@ī@}) relating to Vāsudeva 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=280-1][280-1]]
+<L>16455<pc>280-1<k1>vikrama<k2>vikrama
+({%<ab>gr.</ab>%}); {%<ab>N_.</ab>%}; {%also%} = Vikramāditya: {%<ab>ab.</ab>%} {@vikra-@}
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=281-1][281-1]]
+<L>16492<pc>281-1<k1>vicitra<k2>vicitra
+{@-katha,@} {%<ab>m.</ab>%} (telling interesting tales), {%<ab>N_.</ab>%}; 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=281-3][281-3]]
+<L>16507<pc>281-3<k1>vijaya<k2>vijaya
+of troops; {%<ab>N_.</ab>%}; {%<ab>N_.</ab> of a hare%}; {%<ab>n.</ab>%} ({%<ab>C.</ab>%}) royal 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=282-3][282-3]]
+<L>16538<pc>282-3<k1>vitrapa<k2>vitrapa
+{#vitrapa#}¦vi-trapa, {%<ab>m.</ab>%} (shameless), {%<ab>N_.</ab>%}; {@-trāsa,@} 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=283-3][283-3]]
+<L>16579<pc>283-3<k1>vidyut<k2>vidyut
+{%<ab>N_.</ab>%}: {@ā,@} {%<ab>f.</ab> <ab>N_.</ab>%}; {@-vat,@} {%<ab>a.</ab>%} containing {%or%} charged 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=283-3][283-3]]
+<L>16582<pc>283-3<k1>vidyota<k2>vidyota
+{%<ab>N_.</ab>%}: {@ā,@} {%<ab>f.</ab> <ab>N_.</ab>%}; {@-dtotaka,@} {%<ab>a.</ab>%} illuminating, 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=284-3][284-3]]
+<L>16620<pc>284-3<k1>vinawana<k2>vinawana
+{%<ab>N_.</ab>%}: {@ā,@} {%<ab>f.</ab> <ab>N_.</ab> of a daughter of Dakṣa, wife %}
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=285-1][285-1]]
+<L>16626<pc>285-1<k1>vinAma<k2>vinAma
+{%of obstacles, <ab>ep.</ab> of%} Gaṇeśa; {%<ab>N_.</ab>%}.
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=285-2][285-2]]
+<L>16636<pc>285-2<k1>vinda<k2>vinda
+{%<ab>N_.</ab>%}: {@-ka,@} {%<ab>m.</ab> <ab>N_.</ab>%}.
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=288-2][288-2]]
+<L>16724<pc>288-2<k1>vilAsikA<k2>vilAsikA
+wife; wanton woman, concubine; {%<ab>N_.</ab>%}.
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=290-1][290-1]]
+<L>16746<pc>290-1<k1>viSAKa<k2>viSAKa
+ {%regarded as his son%}; {%<ab>N_.</ab>%}; {%<ab>n.</ab>%} fork: {@ā,@} {%<ab>f.</ab> %}
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=290-3][290-3]]
+<L>16764<pc>290-3<k1>viSvaka<k2>viSvaka
+universe, {%<ab>ep.</ab> of%} Śiva; {%<ab>N_.</ab>%}; {@-ṃ -tara@}, {%<ab>a.</ab>%} all-subduing <lbinfo n="3"/>
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=291-2][291-2]]
+<L>16777<pc>291-2<k1>viSveSa<k2>viSveSa
+{%<ab>id.</ab>%}; {@-īśvara@}, {%<ab>m.</ab> <ab>id.</ab>%}; {%<ab>N_.</ab>%}.
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=292-2][292-2]]
+<L>16838<pc>292-2<k1>vizRukrama<k2>vizRukrama
+{@-mitra,@} {%<ab>m.</ab> frequent <ab>N_.</ab>%} ({%used as an instance %}
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=293-3][293-3]]
+<L>16893<pc>293-3<k1>vIRA<k2>vIRA
+ {%<ab>N_.</ab>%}; ({@vī́ṇā@} {@-gaṇagin@}, {%<ab>m.</ab>%} leader of a musical <lbinfo n="4"/>
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=293-3][293-3]]
+<L>16900<pc>293-3<k1>vItihotra<k2>vItihotra
+god of fire; {%<ab>N_.</ab>%}.
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=293-3][293-3]]
+<L>16907<pc>293-3<k1>vIra<k2>vIra
+({%<ab>V.</ab>%}); heroic sentiment ({%<ab>rh.</ab>%}); {%<ab>N_.</ab>%}. 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=294-1][294-1]]
+<L>16908<pc>294-1<k1>vIraka<k2>vIraka
+{#vIraka#}¦vīra-ká, {%<ab>m.</ab>%} pitiable hero; {%<ab>N_.</ab>%}; {@-kar-@}
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=294-3][294-3]]
+<L>16924<pc>294-3<k1>vfka<k2>vfka
+{%of%} <ab>√</ab> vraśc] wolf; plough ({%<ab>RV.</ab>%}); {%<ab>N_.</ab>%}: {@-kar-@}
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=296-2][296-2]]
+<L>16942<pc>296-2<k1>vft<k2>vft<h>2
+{%<ab>etc.</ab>%}; -fold ({%after numerals%}); {%<ab>N_.</ab>%} conclusion, 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=297-2][297-2]]
+<L>16985<pc>297-2<k1>vfzan<k2>vfzan
+= Indra, lord ({%of the earth = king%}); {%<ab>N_.</ab>%} ({%<ab>V.</ab>%}).
+* start [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=300-2][300-2]]
+<L>17144<pc>300-2<k1>vEdya<k2>vEdya
+{%<ab>m.</ab>%} master physician; {%a form of%} Śiva; {%<ab>N_.</ab>%}; 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=301-2][301-2]]
+<L>17246<pc>301-2<k1>vESvAnara<k2>vESvAnara
+({%Vedānta <ab>phil.</ab>%}); {%<ab>N_.</ab>%}: ({@a@}) {@-datta,@} {%<ab>m.</ab> <ab>N_.</ab>%}; {@ī-ya,@} 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=301-3][301-3]]
+<L>17247<pc>301-3<k1>vESvAmitra<k2>vESvAmitra
+ {%<ab>m.</ab> <ab>pat.</ab> <ab>N_.</ab>%}: {@ī,@} {%<ab>f.</ab>%} the gāyatrī of 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=303-3][303-3]]
+<L>17326<pc>303-3<k1>vyAGra<k2>vyAGra
+chief; {%<ab>N_.</ab>%}: ({@a@}) {@-ketu,@} {%<ab>m.</ab> <ab>N_.</ab>%}; {@-carman@}, {%<ab>n.</ab>%} 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=304-1][304-1]]
+<L>17354<pc>304-1<k1>vyAsa<k2>vyAsa
+ account ({%<ab>in.</ab>, <ab>ab.</ab>,%} {@-tas,@} in detail); {%<ab>N_.</ab>%} 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=305-a3][305-a3]]
+<L>17420<pc>305-a3<k1>Sakuni<k2>Sakuni
+hen-bird; {%<ab>N_.</ab>%}; {@i-vāda,@} {%<ab>m.</ab> first%} song of birds 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=306-1][306-1]]
+<L>17432<pc>306-1<k1>Saktikara<k2>Saktikara
+{%of%} Skanda; {%<ab>N_.</ab>%}; {@-dhvaja@}, {%<ab>m.</ab> <ab>ep.</ab> of%} Skanda; 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=306-2][306-2]]
+<L>17443<pc>306-2<k1>SaMkara<k2>SaMkara
+{%<ab>C.</ab>%}); {%<ab>N_.</ab>, <ab>esp.</ab> of a philosopher, regenerator %}
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=306-2][306-2]]
+<L>17447<pc>306-2<k1>SaNku<k2>SaNku
+{%<ab>N_.</ab>%}: ({@u@}) {@-ka,@} {%<ab>m.</ab>%} little peg; {%<ab>N_.</ab>%}; {@-karṇa@}, {%<ab>a.</ab>%} 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=306-2][306-2]]
+<L>17449<pc>306-2<k1>SaNKa<k2>SaNKa
+{%demon%}; {%<ab>N_.</ab> among others of a lawgiver%}: 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=307-2][307-2]]
+<L>17471<pc>307-2<k1>SatruGna<k2>SatruGna
+{%<ab>N_.</ab>, <ab>esp.</ab> of a son of Dasaratha, and youngest %}
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=308-1][308-1]]
+<L>17513<pc>308-1<k1>Sam<k2>Sam
+{#Sam#}¦śám, {%indecl.%} auspiciously ({%<ab>V.</ab>%}); {%<ab>N_.</ab>%} blessing, <lbinfo n="5"/>
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=308-3][308-3]]
+<L>17556<pc>308-3<k1>Sara<k2>Sara<h>1
+arrow; {%<ab>N_.</ab>%} ({%<ab>RV.</ab>%}); {%<ab>N_.</ab> of an Asura%} ({%<ab>E.</ab>%}).
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=309-1][309-1]]
+<L>17576<pc>309-1<k1>SaraBa<k2>SaraBa
+{%lions and elephants%}; {%<ab>C.</ab>%}); {%<ab>N_.</ab>%}.
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=310-1][310-1]]
+<L>17655<pc>310-1<k1>SaSANka<k2>SaSANka
+{%<ab>N_.</ab>%}: {@-kula,@} {%<ab>n.</ab>%} lunar race: {@-bhūṣaṇa@}, {%<ab>n.</ab>%} 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=310-1][310-1]]
+<L>17657<pc>310-1<k1>SaSikalA<k2>SaSikalA
+crescent; moon; {%<ab>N_.</ab>%}; {@-khaṇḍa@}, {%<ab>m.</ab> or <ab>n.</ab>%} crescent; <lbinfo n="4"/>
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=310-1][310-1]]
+<L>17658<pc>310-1<k1>SaSin<k2>SaSin
+{%<ab>N_.</ab>%}.
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=310-1][310-1]]
+<L>17659<pc>310-1<k1>SaSiputra<k2>SaSiputra
+(moon-streak), {%<ab>N_.</ab>%}; {@-lekhā,@} {%<ab>f.</ab>%} crescent; {%<ab>N_.</ab> %}
+{%of an Apsaras%}; {%<ab>N_.</ab>%}; {@-vaṃśa@}, {%<ab>m.</ab>%} lunar race: 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=311-2][311-2]]
+<L>17726<pc>311-2<k1>SARqila<k2>SARqila
+{%regarded as the mother of Agni%}; {%<ab>N_.</ab>%}: {@-mātṛ@}, 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=312-1][312-1]]
+<L>17788<pc>312-1<k1>SArNga<k2>SArNga
+Śārṅga) {%<ab>id.</ab>%}; {%<ab>N_.</ab>%}: {@-paddhati,@} {%<ab>f.</ab>%} Śārṅgadhara's 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=312-3][312-3]]
+<L>17822<pc>312-3<k1>SAsa<k2>SAsa
+{@á,@} {%<ab>m.</ab>%} ruler, chastiser ({%<ab>RV.</ab> ²%}); {%<ab>N_.</ab> of <ab>RV.</ab> <ab>N_.</ab>%} 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=313-1][313-1]]
+<L>17825<pc>313-1<k1>SAsanIya<k2>SAsanIya
+{%used as <ab>N_.</ab>%}) {%the root%} ¤1.¤ śās; {@-tṛ@}, {%<ab>m.</ab>%} punisher, 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=313-2][313-2]]
+<L>17846<pc>313-2<k1>SiKara<k2>SiKara
+a ({%back of an elephant%}, -°); {%<ab>N_.</ab>%}.
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=313-2][313-2]]
+<L>17858<pc>313-2<k1>Siti<k2>Siti
+ {%<ab>ep.</ab> of%} Śiva; {%<ab>N_.</ab>%}: {@-ka,@} {%<ab>a.</ab>%} blue-necked 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=314-2][314-2]]
+<L>17911<pc>314-2<k1>Siva<k2>Siva
+jackal; {%<ab>N_.</ab>%}; {%<ab>n.</ab>%} prosperity, welfare, bliss.
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=314-2][314-2]]
+<L>17913<pc>314-2<k1>SivatAti<k2>SivatAti
+{@-yogin,@} {%<ab>m.</ab>%} Śaiva monk; {%<ab>N_.</ab>%}; {@-ratha,@} {%<ab>m.</ab> <ab>N_.</ab>%}; 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=314-2][314-2]]
+<L>17924<pc>314-2<k1>SiSu<k2>SiSu
+{%of%} Skanda; {%<ab>N_.</ab>%}.
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=314-3][314-3]]
+<L>17925<pc>314-3<k1>SiSuka<k2>SiSuka
+{%<ab>m.</ab>%} young serpent; {%<ab>N_.</ab>%}; {@-pāla,@} {%<ab>m.</ab> <ab>N_.</ab> of a king %}
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=316-1][316-1]]
+<L>18002<pc>316-1<k1>Suci<k2>Suci
+season ({%<ab>V.</ab>, <ab>C.</ab>%}); {%<ab>N_.</ab>%}.
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=316-2][316-2]]
+<L>18013<pc>316-2<k1>SudDa<k2>SudDa
+ {%<ab>N_.</ab>%}; {@-pāraṣṇi@}, {%<ab>a.</ab>%} having {%one's%} rear 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=316-3][316-3]]
+<L>18021<pc>316-3<k1>SunaHpucCa<k2>SunaHpucCa
+{#SunaHpucCa#}¦śunaḥ-puccha, {%<ab>m.</ab>%} (Dog's tail), {%<ab>N_.</ab>%}.
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=316-3][316-3]]
+<L>18022<pc>316-3<k1>Sunaka<k2>Sunaka
+{#Sunaka#}¦śuna-ka, {%<ab>m.</ab>%} (little) dog; {%<ab>N_.</ab>%}: {%<ab>pl.</ab>%} descendants <lbinfo n="2"/>
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=316-3][316-3]]
+<L>18025<pc>316-3<k1>SunaHSepa<k2>SunaHSepa
+{#SunaHSepa#}¦śúnaḥ-śépa, {%<ab>m.</ab>%} (Dog's tail), {%<ab>N_.</ab>%}.
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=316-3][316-3]]
+<L>18028<pc>316-3<k1>SunolANgUla<k2>SunolANgUla
+{#SunolANgUla#}¦śuno-lāṅgūla, {%<ab>m.</ab>%} (Dog's tail), {%<ab>N_.</ab>%}.
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=317-3][317-3]]
+<L>18085<pc>317-3<k1>SUra<k2>SUra
+hero in ({%<ab>in.</ab>, <ab>lc.</ab>,%} -°); heroism ({%in%} -vinā); {%<ab>N_.</ab>%}: 
+{@-ja@}, {%<ab>m.</ab>%} son of Śūra; {%<ab>N_.</ab>%}.
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=317-3][317-3]]
+<L>18087<pc>317-3<k1>SUratA<k2>SUratA
+of Śūrasena; {%<ab>N_.</ab>%}: {@-ka, -ja@}, {%<ab>m.</ab> <ab>pl.</ab>%} people of 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=317-3][317-3]]
+<L>18094<pc>317-3<k1>SUlagava<k2>SUlagava
+hand; {%<ab>m.</ab> <ab>ep.</ab>%} of Rudra-Śiva; {%<ab>N_.</ab>%}; {@-pāla,@} {%<ab>m.</ab>%} 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=318-1][318-1]]
+<L>18107<pc>318-1<k1>SfNgAra<k2>SfNgAra
+ {%and%} vipralambha-śṛṅgāra); {%<ab>N_.</ab>%}: {@-ceṣ-@}
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=319-1][319-1]]
+<L>18177<pc>319-1<k1>SoBa<k2>SoBa
+{#SoBa#}¦śobh-a, {%<ab>m.</ab>%} [<ab>√</ab> śubh] {%<ab>N_.</ab>%}: {@a-ka,@} {%<ab>a.</ab>%} ({@i-kā@}) 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=319-3][319-3]]
+<L>18222<pc>319-3<k1>SyAmA<k2>SyAmA
+ creeper; {%<ab>N_.</ab>%}.
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=319-3][319-3]]
+<L>18235<pc>319-3<k1>SyEta<k2>SyEta
+{#SyEta#}¦śyaitá, {%<ab>m.</ab> <ab>pat.</ab> <ab>N_.</ab>%}; {%<ab>n.</ab> <ab>N_.</ab> of various %}
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=321-2][321-2]]
+<L>18295<pc>321-2<k1>SrIka<k2>SrIka
+{%of%} Śiva; {%<ab>N_.</ab>%}; {%<ab>ep.</ab> of%} Bhavabhūtī; {%<ab>N_.</ab> of a region%}: <lbinfo n="2"/>
+{%<ab>N_.</ab>%} ({%<ab>Pr.</ab>%}), {@-pṛthvī-dhara, -śaila@}, {%<ab>m.</ab>%} Malaya 
+ {%<ab>N_.</ab>%}: {@-svāmin,@} {%<ab>m.</ab> <ab>N_.</ab> of a commentator %}<lbinfo n="3"/>
+abode of Śrī; {%<ab>ep.</ab> of%} Viṣṇu-Kṛṣṇa; {%<ab>N_.</ab>%}; 
+ {%<ab>N_.</ab>%}; {@-parṇa@}, {%<ab>n.</ab>%} lotus; {@-parvata,@} {%<ab>m.</ab> <ab>N_.</ab> %}
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=321-3][321-3]]
+<L>18300<pc>321-3<k1>Sruta<k2>Sruta
+{%<ab>m.</ab>%} ear; {%<ab>N_.</ab>%}; {@-dhi,@} {%<ab>m.</ab> <ab>N_.</ab>%}; {@-pāraga,@} {%<ab>a.</ab>%} extremely <lbinfo n="2"/>
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=323-3][323-3]]
+<L>18391<pc>323-3<k1>Sveta<k2>Sveta
+horse ({%<ab>Br.</ab>%}); {%<ab>N_.</ab>%}; {%<ab>n.</ab>%} ({%<ab>C.</ab>%}) white ({%of the eye%}).
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=323-3][323-3]]
+<L>18395<pc>323-3<k1>SvetA<k2>SvetA
+{#SvetA#}¦śvetā, {%<ab>f.</ab>%} (white), {%<ab>N_.</ab>%}.
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=324-2][324-2]]
+<L>18413<pc>324-2<k1>zaRRavati<k2>zaRRavati
+ {%or%} six-faced; {%<ab>m.</ab> <ab>ep.</ab> of%} Skanda; {%<ab>N_.</ab>%}.
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=324-2][324-2]]
+<L>18415<pc>324-2<k1>zaz<k2>zaz
+{% used as a <ab>N_.</ab> with <ab>g.</ab> or%} -°).
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=325-2][325-2]]
+<L>18453<pc>325-2<k1>saMvadana<k2>saMvadana
+end {%or%} dissolution of the world; {%<ab>N_.</ab>%} ({%<ab>C.</ab>%}; {@á,@} 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=325-3][325-3]]
+<L>18454<pc>325-3<k1>saMvijYAna<k2>saMvijYAna
+ ({%in%} a-, {%<ab>Br.</ab>,%}); {%<ab>N_.</ab>%} agreement ({%<ab>perh.</ab> <ab>incorr.</ab> %}
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=327-3][327-3]]
+<L>18510<pc>327-3<k1>saMkawa<k2>saMkawa
+{% things%}); {%<ab>N_.</ab>%}; Slender, {%<ab>N_.</ab> of a gander%}; 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=328-2][328-2]]
+<L>18532<pc>328-2<k1>saMgawa<k2>saMgawa
+{#saMgawa#}¦saṃga-ṭa, {%<ab>m.</ab>%} [-ṭa = bhaṭa] {%<ab>N_.</ab>%}.
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=328-3][328-3]]
+<L>18544<pc>328-3<k1>saMgrAma<k2>saMgrAma
+with (samam, saha, sārdam, -°); {%<ab>N_.</ab>%} ({%<ab>C.</ab>%}): 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=329-2][329-2]]
+<L>18574<pc>329-2<k1>sajjana<k2>sajjana<h>2
+kind, {%or%} ({%sts.%}) wise man; {%<ab>N_.</ab>%}.
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=330-1][330-1]]
+<L>18588<pc>330-1<k1>saMjaya<k2>saMjaya
+ ({%<ab>Br.</ab>%}); {%kind of military array%} ({%<ab>C.</ab>%}); {%<ab>N_.</ab>, %}
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=330-3][330-3]]
+<L>18623<pc>330-3<k1>satya<k2>satya
+{%certain genius%}; {%<ab>N_.</ab>%}; {%<ab>n.</ab>%} reality, truth, truthfulness, <lbinfo n="5"/>
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=334-3][334-3]]
+<L>18774<pc>334-3<k1>saptati<k2>saptati
+{#saptati#}¦sapta-tí, {%<ab>f.</ab>%} seventy ({%<ab>w.</ab> <ab>N_.</ab> in <ab>opp.</ab>, <ab>g.</ab>,%} 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=335-2][335-2]]
+<L>18804<pc>335-2<k1>sam<k2>sam
+{#sam#}¦sám, {%<ab>ad.</ab> as <ab>vbl.</ab> <ab>prp.</ab> or%} °- {%<ab>w.</ab> a <ab>N_.</ab> expressing %}<lbinfo n="2"/>
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=335-2][335-2]]
+<L>18806<pc>335-2<k1>sama<k2>sama<h>2
+{%<ab>incorr.</ab> for%} sama); {%<ab>N_.</ab>%}; {%<ab>n.</ab> <ab>V.</ab>, <ab>C.</ab>%}: even ground, 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=336-2][336-2]]
+<L>18843<pc>336-2<k1>samara<k2>samara
+battle, with (saha; {%rare in <ab>V.</ab>%}; {%<ab>C.</ab>%}); {%<ab>N_.</ab>%} ({%<ab>C.</ab>%}): 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=344-1][344-1]]
+<L>19084<pc>344-1<k1>sahakartf<k2>sahakartf
+{%<ab>N_.</ab>%}: {@ā,@} {%<ab>f.</ab> <ab>N_.</ab>%}; {@-janyā́@}, {%<ab>f.</ab> <ab>N_.</ab> of an Apsaras%}; 
+{%<ab>N_.</ab>%} ({%<ab>V.</ab>, <ab>C.</ab>%}), {%<ab>esp.</ab> of the youngest Pāṇḍava%}; 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=344-1][344-1]]
+<L>19086<pc>344-1<k1>sahapAMsukrIqana<k2>sahapAMsukrIqana
+innate, natural; {%<ab>N_.</ab>%} counterpart of ({%<ab>g.</ab>%}); {@-bhoj-@}
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=348-3][348-3]]
+<L>19316<pc>348-3<k1>sArYjaya<k2>sArYjaya
+{#sArYjaya#}¦sārñjayá, {%<ab>m.</ab> <ab>pat.</ab>%} ({%<ab>fr.</ab>%} sṛñjaya) {%<ab>N_.</ab>%}.
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=349-1][349-1]]
+<L>19330<pc>349-1<k1>sAlhaRa<k2>sAlhaRa
+{@i,@} {%<ab>m.</ab> <ab>pat.</ab> <ab>N_.</ab>%} ({%<ab>fr.</ab>%} Salhaṇa).
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=349-2][349-2]]
+<L>19346<pc>349-2<k1>sAsAra<k2>sAsAra
+{@-asthi,@} {%<ab>a.</ab>%} having bones; {%<ab>N_.</ab>%} animal with bones; 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=349-2][349-2]]
+<L>19367<pc>349-2<k1>siMha<k2>siMha
+lord {%or%} ruler of ({%also%} °- {%in some cpds.%}); {%<ab>N_.</ab>%}: 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=349-3][349-3]]
+<L>19369<pc>349-3<k1>siMhavarman<k2>siMhavarman
+{%<ab>m.</ab> <ab>N_.</ab> of a fairy prince%}; {%<ab>N_.</ab> fo a thief%}; {@-vi-@}
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=350-1][350-1]]
+<L>19393<pc>350-1<k1>sidDa<k2>sidDa
+({%with the Jains%}); {%<ab>N_.</ab>%}; {%<ab>n.</ab>%} magical {%or%} supernatural <lbinfo n="5"/>
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=350-2][350-2]]
+<L>19396<pc>350-2<k1>sidDArTa<k2>sidDArTa
+white mustard (seed); {%<ab>N_.</ab>, among others, of%} 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=350-3][350-3]]
+<L>19408<pc>350-3<k1>sinDu<k2>sinDu
+people of Sindh ({%<ab>pl.</ab>%}; {%<ab>C.</ab>%}); {%<ab>N_.</ab>%} ({%<ab>C.</ab>%}): {@-gañja@}, 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=352-1][352-1]]
+<L>19469<pc>352-1<k1>suga<k2>suga
+{@ā,@} {%<ab>f.</ab> <ab>N_.</ab> of a various plants%}; {%<ab>N_.</ab>%}.
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=352-1][352-1]]
+<L>19476<pc>352-1<k1>sugama<k2>sugama
+access; going well; {@-galā,@} {%<ab>f.</ab>%} (fair-neck), {%<ab>N_.</ab>%}; 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=352-3][352-3]]
+<L>19499<pc>352-3<k1>sutvan<k2>sutvan
+{%<ab>N_.</ab>%} ({%<ab>Br.</ab>%}).
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=352-3][352-3]]
+<L>19502<pc>352-3<k1>sudina<k2>sudina
+{%<ab>m.</ab>%} ({%<ab>C.</ab>%}) {%<ab>N_.</ab>%}; {@-dyija@}, {%<ab>a.</ab>%} having beautiful teeth; 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=353-2][353-2]]
+<L>19513<pc>353-2<k1>sundarI<k2>sundarI
+({%of a bird%}; {%rare%}); {%a tree%}; {%<ab>N_.</ab> of a divinity%}; {%<ab>N_.</ab>%}: 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=353-3][353-3]]
+<L>19523<pc>353-3<k1>subadDa<k2>subadDa
+good friend; {%<ab>N_.</ab>%}; {@-bala,@} {%<ab>m.</ab> <ab>N_.</ab>%}; {@-bahu,@} {%<ab>a.</ab>%} 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=354-1][354-1]]
+<L>19527<pc>354-1<k1>suBawa<k2>suBawa
+{#suBawa#}¦su-bhaṭa, {%<ab>m.</ab>%} mercenary, soldier; {%<ab>N_.</ab>%}: 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=354-1][354-1]]
+<L>19531<pc>354-1<k1>sumati<k2>sumati
+{%or in cpds.%}); {%<ab>N_.</ab>%}.
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=354-2][354-2]]
+<L>19534<pc>354-2<k1>sumanomattaka<k2>sumanomattaka
+{%<ab>N_.</ab> of a fairy%}; {@-mitrá,@} {%<ab>m.</ab>%} kind friend; {%<ab>N_.</ab>, %}
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=354-3][354-3]]
+<L>19544<pc>354-3<k1>suraYjita<k2>suraYjita
+{%<ab>N_.</ab>,%} {@-priyā,@} {%<ab>f.</ab> <ab>N_.</ab>%}, {@-mañjarī@}, {%<ab>f.</ab> <ab>N_.</ab> of a %}
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=355-1][355-1]]
+<L>19558<pc>355-1<k1>surasaKa<k2>surasaKa
+{@-senā,@} {%<ab>f.</ab>%} host of the gods; {%<ab>N_.</ab>%}; {@-strī,@} {%<ab>f.</ab>%} celestial <lbinfo n="5"/>
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=355-2][355-2]]
+<L>19578<pc>355-2<k1>sureSa<k2>sureSa
+{%<ab>N_.</ab>%}: {@ī,@} {%<ab>f.</ab> <ab>ep.</ab> of%} Durgā, ({@a@}) {@-dhanus,@} {%<ab>n.</ab>%} Indra's 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=355-2][355-2]]
+<L>19585<pc>355-2<k1>suvacana<k2>suvacana
+{%<ab>a.</ab>%} fair-faced: {@ā,@} {%<ab>f.</ab>%} beautiful woman; {%<ab>N_.</ab>%}; 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=355-3][355-3]]
+<L>19590<pc>355-3<k1>suvitta<k2>suvitta
+pleasant ({%<ab>C.</ab>%}); {%<ab>m.</ab> frequent <ab>N_.</ab>%}; {@-śasta@}, {%<ab>pp.</ab>%} 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=357-3][357-3]]
+<L>19651<pc>357-3<k1>sUrya<k2>sUrya
+{#sUrya#}¦sū́r-ya, {%<ab>m.</ab>%} [svar] sun; sun-god; {%<ab>N_.</ab>%} 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=358-2][358-2]]
+<L>19658<pc>358-2<k1>sfgAla<k2>sfgAla
+({%<ab>gnly.</ab> spelt%} śṛgāla): {@i-kā,@} {%<ab>f.</ab> <ab>id.</ab>%}; {%<ab>N_.</ab>%}.
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=358-3][358-3]]
+<L>19661<pc>358-3<k1>sfjati<k2>sfjati
+{%as a <ab>N_.</ab>%}).
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=360-1][360-1]]
+<L>19730<pc>360-1<k1>soma<k2>soma
+{%author of a law-book%}; Monday; {%<ab>N_.</ab>%}.
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=360-2][360-2]]
+<L>19734<pc>360-2<k1>someSvara<k2>someSvara
+{#someSvara#}¦soma‡īśvara, {%<ab>m.</ab> <ab>N_.</ab> of a god%}; {%<ab>N_.</ab>%}; 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=360-3][360-3]]
+<L>19749<pc>360-3<k1>sOjAmi<k2>sOjAmi
+{#sOjAmi#}¦saujāmi, {%<ab>m.</ab>%} [{%<ab>pat.</ab> <ab>fr.</ab>%} sujāmi] {%<ab>N_.</ab>%}.
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=361-1][361-1]]
+<L>19793<pc>361-1<k1>sOyAmi<k2>sOyAmi
+{#sOyAmi#}¦sauyāmi, {%<ab>m.</ab> <ab>pat.</ab> <ab>N_.</ab>%}.
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=361-3][361-3]]
+<L>19828<pc>361-3<k1>skanda<k2>skanda
+grasshopper, {%<ab>N_.</ab>%}); effusion, dropping (of, {%<ab>g.</ab>,%} 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=364-1][364-1]]
+<L>19946<pc>364-1<k1>sTA<k2>sTA
+ remain ({%<ab>w.</ab> <ab>nm.</ab> <ab>N_.</ab>, <ab>e. g.</ab> a girl = unmarried%}; <lbinfo n="2"/>
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=373-1][373-1]]
+<L>20317<pc>373-1<k1>svAmin<k2>svAmin
+{%<ab>esp.</ab> of Śiva%} ({%often%} -°); {%<ab>N_.</ab>%}: {@-ī,@} {%<ab>f.</ab>%} mistress.
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=373-3][373-3]]
+<L>20350<pc>373-3<k1>sveda<k2>sveda
+ {%<ab>N_.</ab>%} vermin; {@-jala@}, {%<ab>n.</ab>%} perspiration: 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=374-a1][374-a1]]
+<L>20363<pc>374-a1<k1>haMsa<k2>haMsa
+{%kind of%} ascetic; {%<ab>N_.</ab>%}: {@-ka,@} {%<ab>m.</ab>%} (little {%or%} poor) 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=374-a1][374-a1]]
+<L>20366<pc>374-a1<k1>haMsAvalI<k2>haMsAvalI
+{#haMsAvalI#}¦haṃsa‡āvalī, {%<ab>f.</ab>%} flight of geese; {%<ab>N_.</ab>%}.
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=375-1][375-1]]
+<L>20394<pc>375-1<k1>hara<k2>hara
+{%<ab>m.</ab>%} Destroy, {%<ab>ep.</ab> of%} Śiva; {%<ab>N_.</ab>%}; ({@hár@}) {@-aṇa@}, 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=375-2][375-2]]
+<L>20400<pc>375-2<k1>hari<k2>hari
+horses; {%<ab>N_.</ab>%}; {@-ghoṣa,@} {%<ab>m.</ab> <ab>N_.</ab>%}; {@-candana@}, 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=375-3][375-3]]
+<L>20434<pc>375-3<k1>haryaSva<k2>haryaSva
+({%<ab>RV.</ab>%}); {%<ab>m.</ab>%} ({%<ab>C.</ab>%}) {%<ab>ep.</ab> of%} Indra; {%<ab>N_.</ab>%}: {@-cāpa@}, {%<ab>m.</ab> <ab>n.</ab>%} 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=375-3][375-3]]
+<L>20435<pc>375-3<k1>harza<k2>harza
+gladness, delight; {%<ab>N_.</ab> of an Asura%}; {%<ab>N_.</ab>, <ab>esp.</ab> %}
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=376-3][376-3]]
+<L>20465<pc>376-3<k1>hastin<k2>hastin
+{%<ab>m.</ab>%} ({%<ab>V.</ab>, <ab>C.</ab>%}) elephant; {%<ab>N_.</ab>%} ({%<ab>C.</ab>%}): ({@in@}) {@-ī,@} {%<ab>f.</ab>%} female 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=376-3][376-3]]
+<L>20467<pc>376-3<k1>hastinApura<k2>hastinApura
+{%an old bed of the Ganges, ¤57¤ miles <ab>N_.</ab> <ab>E.</ab> of %}
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=377-2][377-2]]
+<L>20485<pc>377-2<k1>hAra<k2>hAra
+{@-latā,@} {%<ab>f.</ab> <ab>id.</ab>%}; {%<ab>N_.</ab>%}.
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=378-2][378-2]]
+<L>20546<pc>378-2<k1>hiraRya<k2>hiraRya
+aggregate; {%<ab>N_.</ab>%}; {%<ab>N_.</ab> of a flamingo%}; {@-gupta,@} 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=378-3][378-3]]
+<L>20548<pc>378-3<k1>hiraRyaraTa<k2>hiraRyaraTa
+ ({@hí-@}) {@-stūpa,@} {%<ab>m.</ab>%} (gold-tuft), {%<ab>N_.</ab>%}; ({@hí-@})-
+{%slain by Viṣṇu in the shape of a boar%}; {%<ab>N_.</ab>%}; 
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=380-3][380-3]]
+<L>20623<pc>380-3<k1>heruka<k2>heruka
+{#heruka#}¦heruka, {%<ab>m.</ab> <ab>ep.</ab> of%} Gaṇeśa; {%<ab>N_.</ab>%}.
+* [[https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MD&page=384-1][384-1]]
+<L>20741<pc>384-1<k1>pracaya<k2>pracaya
+Varuṇa; {%<ab>N_.</ab>%}; {@-codana@}, {%<ab>n.</ab>%} instigation, incitement; <lbinfo n="2"/>

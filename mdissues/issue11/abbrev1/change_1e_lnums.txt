@@ -1,0 +1,2790 @@
+; <L>2464<pc>025-3<k1>ambazWa<k2>ambazWa
+12584 old {% and a woman fo the third caste: <ab>pl.</ab> <ab>N.</ab> of a people%}.
+;
+12584 new {% and a woman of the third caste: <ab>pl.</ab> <ab>N.</ab> of a people%}.
+;---------------------------------------------------
+; <L>2508<pc>026-2<k1>ayugArcis<k2>ayugArcis
+12812 old = seven-rayed).
+;
+12812 new ^<ab>=</ab> seven-rayed).
+;---------------------------------------------------
+; <L>2808<pc>030-1<k1>avantI<k2>avantI
+14465 old =avanti-nagarī; {@-iśvara,@} {%<ab>m.</ab> <ab>N.</ab> of a temple.%}.
+;
+14465 new ^<ab>=</ab> avanti-nagarī; {@-iśvara,@} {%<ab>m.</ab> <ab>N.</ab> of a temple.%}.
+;---------------------------------------------------
+; <L>2814<pc>030-1<k1>avayava<k2>avayava
+14516 old  of parts; {%<ab n="noun.>N.</ab>%} whole: ({@-i@}) {@-rūpaka,@} {%<ab>n.</ab> kind of %}
+;
+14516 new  of parts; {%<ab n="noun.">N.</ab>%} whole: ({@-i@}) {@-rūpaka,@} {%<ab>n.</ab> kind of %}
+;---------------------------------------------------
+; <L>3079<pc>033-1<k1>aSvatTa<k2>aSvatTa
+15934 old {@-dāta-sārameya-maya,@} {%<ab>a.</ab>%} ({@ī@}) consisting fo 
+;
+15934 new {@-dāta-sārameya-maya,@} {%<ab>a.</ab>%} ({@ī@}) consisting of 
+;---------------------------------------------------
+; <L>3261<pc>035-3<k1>asTan<k2>asTan
+16990 old  bone; kernel: {@-vat,@} {%<ab>a.</ab>%} having bones; {%<ab>N.</ab>%} 
+;
+16990 new  bone; kernel: {@-vat,@} {%<ab>a.</ab>%} having bones; {%<ab n="noun.">N.</ab>%} 
+;---------------------------------------------------
+; <L>3456<pc>037-3<k1>AcArya<k2>AcArya
+17988 old ({%teacher fo the Pādavas%}); son of an outcast 
+;
+17988 new ({%teacher of the Pādavas%}); son of an outcast 
+;---------------------------------------------------
+; <L>3980<pc>043-3<k1>As<k2>As<h>4
+20785 old {%or%} being ({%<ab>w.</ab> <ab>pt.</ab>, <ab>gd.</ab>, <ab>a.</ab>, <ab>N.</ab> <ab>ad.</ab>%}); tend to ({%<ab>d.</ab>%}); 
+;
+20785 new {%or%} being ({%<ab>w.</ab> <ab>pt.</ab>, <ab>gd.</ab>, <ab>a.</ab>, <ab n="noun.">N.</ab> <ab>ad.</ab>%}); tend to ({%<ab>d.</ab>%}); 
+;---------------------------------------------------
+; <L>4036<pc>044-2<k1>AsvAda<k2>AsvAda
+21081 old = āsvāda; {@-a-vat,@} {%<ab>a.</ab>%} tasting well, dainty; 
+;
+21081 new ^<ab>=</ab> āsvāda; {@-a-vat,@} {%<ab>a.</ab>%} tasting well, dainty; 
+;---------------------------------------------------
+; <L>4073<pc>044-a1<k1>i<k2>i
+21347 old = being in); admitted, assented to, promised. 
+;
+21347 new ^<ab>=</ab> being in); admitted, assented to, promised. 
+;---------------------------------------------------
+; <L>4102<pc>045-3<k1>itTA<k2>itTA
+21558 old =) just, quite, even, really; {@kiṃ te@}-, what 
+;
+21558 new ^<ab>=</ab>) just, quite, even, really; {@kiṃ te@}-, what 
+;---------------------------------------------------
+; <L>4235<pc>047-2<k1>Im<k2>Im
+22300 old = pray; {%<ab>w.</ab> <ab>neg.</ab>%} = at all; {%often meaningless.%}.
+;
+22300 new ^<ab>=</ab> pray; {%<ab>w.</ab> <ab>neg.</ab>%} = at all; {%often meaningless.%}.
+;---------------------------------------------------
+; <L>4383<pc>049-1<k1>uttamaganDAQya<k2>uttamaganDAQya
+23119 old = {%our%}) first person ({%<ab>gr.</ab>%}).
+;
+23119 new ^<ab>=</ab> {%our%}) first person ({%<ab>gr.</ab>%}).
+;---------------------------------------------------
+; <L>4420<pc>049-3<k1>utTa<k2>utTa
+23341 old appearing; active, strenuous: {@-i-tva,@} {%<ab>n.</ab> <ab>abst.</ab> %}
+;
+23341 new appearing; active, strenuous: {@-i-tva,@} {%<ab>n.</ab> <ab>abst. N.</ab>;%} 
+;---------------------------------------------------
+; <L>4420<pc>049-3<k1>utTa<k2>utTa
+23342 old {%<ab>N.</ab>;%} {@-thita,@} {%<ab>pp.</ab>%} <ab>√</ab> sthā.
+;
+23342 new {@-thita,@} {%<ab>pp.</ab>%} <ab>√</ab> sthā.
+;---------------------------------------------------
+; <L>4461<pc>050-1<k1>ud<k2>ud<h>1
+23573 old <hom>1.</hom> {#ud#}¦ud, {%<ab>px.</ab> (<ab>w.</ab> <ab>vb.</ab>, <ab>N.</ab> or <ab>a.</ab>%}) up; out.
+;
+23573 new <hom>1.</hom> {#ud#}¦ud, {%<ab>px.</ab> (<ab>w.</ab> <ab>vb.</ab>, <ab n="noun.">N.</ab> or <ab>a.</ab>%}) up; out.
+;---------------------------------------------------
+; <L>5048<pc>057-1<k1>fta<k2>fta
+26718 old = ṛta-jāta.
+;
+26718 new ^<ab>=</ab> ṛta-jāta.
+;---------------------------------------------------
+; <L>5933<pc>068-3<k1>kIwa<k2>kIwa
+31871 old = wretched (-°); {@-ka,@} {%<ab>m.</ab>,%} {@i-kā,@} {%<ab>f.</ab> <ab>id.</ab>%}; {@-ja@}, 
+;
+31871 new ^<ab>=</ab> wretched (-°); {@-ka,@} {%<ab>m.</ab>,%} {@i-kā,@} {%<ab>f.</ab> <ab>id.</ab>%}; {@-ja@}, 
+;---------------------------------------------------
+; <L>6083<pc>070-3<k1>kulatantu<k2>kulatantu
+32724 old {@-nandana,@} {%<ab>a.</ab> <ab>N.</ab>%} (child) delighting the family; 
+;
+32724 new {@-nandana,@} {%<ab>a.</ab> <ab n="noun.">N.</ab>%} (child) delighting the family; 
+;---------------------------------------------------
+; <L>6329<pc>075-1<k1>ko<k2>ko°
+34364 old = strange, indifferent, somewhat, easily ({%<ab>ep.</ab>%} 
+;
+34364 new ^<ab>=</ab> strange, indifferent, somewhat, easily ({%<ab>ep.</ab>%} 
+;---------------------------------------------------
+; <L>6344<pc>075-1<k1>koRa<k2>koRa
+34439 old point {%of the compass%} (<ab>N.</ab> <ab>E.</ab> {%<ab>etc.</ab>%}).
+;
+34439 new point {%of the compass%} (<ab>N.E.</ab> {%<ab>etc.</ab>%}).
+;---------------------------------------------------
+; <L>6537<pc>077-3<k1>kzama<k2>kzama
+35616 old {%<ab>N.</ab> having a passive sense%}): {@-tvā,@} {%<ab>f.</ab>,%} {@-tva,@} {%<ab>n.</ab>%} 
+;
+35616 new {%<ab n="noun.">N.</ab> having a passive sense%}): {@-tvā,@} {%<ab>f.</ab>,%} {@-tva,@} {%<ab>n.</ab>%} 
+;---------------------------------------------------
+; <L>6564<pc>078-2<k1>kzit<k2>kzit
+35785 old {#kzit#}¦kṣi-t, {%<ab>a.</ab> <ab>N.</ab>%} dweller; ruler (-°).
+;
+35785 new {#kzit#}¦kṣi-t, {%<ab>a.</ab> <ab n="noun.">N.</ab>%} dweller; ruler (-°).
+;---------------------------------------------------
+; <L>6779<pc>081-1<k1>gajAhvaya<k2>gajAhvaya
+37008 old = gaja-pura.
+;
+37008 new ^<ab>=</ab> gaja-pura.
+;---------------------------------------------------
+; <L>6836<pc>082-1<k1>ganDAra<k2>ganDAra
+37370 old {%the <ab>N.</ab> W.%}; {@i,@} {%<ab>m.</ab> <ab>pl.</ab> <ab>id.</ab>%}.
+;
+37370 new {%the <ab>N.W.</ab>%}; {@i,@} {%<ab>m.</ab> <ab>pl.</ab> <ab>id.</ab>%}.
+;---------------------------------------------------
+; <L>6971<pc>084-2<k1>girIndra<k2>girIndra
+38297 old = high mountain; {@-īśa@}, {%<ab>m.</ab>%} lord of mountains, 
+;
+38297 new ^<ab>=</ab> high mountain; {@-īśa@}, {%<ab>m.</ab>%} lord of mountains, 
+;---------------------------------------------------
+; <L>7443<pc>092-2<k1>cara<k2>cara
+41475 old {#cara#}¦car-a, {%<ab>a.</ab>%} movable, moving; {%<ab>N.</ab>%} animal 
+;
+41475 new {#cara#}¦car-a, {%<ab>a.</ab>%} movable, moving; {%<ab n="noun.">N.</ab>%} animal 
+;---------------------------------------------------
+; <L>7648<pc>095-3<k1>cullI<k2>cullI
+42751 old hall ({%looking towards <ab>N.</ab>, <ab>E.</ab> and W.%}).
+;
+42751 new hall ({%looking towards <ab n="North.">N.</ab>, <ab n="East.">E.</ab> and <ab n="West.">W.</ab>%}).
+;---------------------------------------------------
+; <L>7814<pc>098-1<k1>jaNgama<k2>jaNgama
+43767 old living; {%<ab>N.</ab>%} all that moves, living beings: {@-tva,@} 
+;
+43767 new living; {%<ab n="noun.">N.</ab>%} all that moves, living beings: {@-tva,@} 
+;---------------------------------------------------
+; <L>8313<pc>105-2<k1>tatas<k2>tatas
+46730 old = pray go on; {@tato'nyataḥ@}, to some other 
+;
+46730 new ^<ab>=</ab> pray go on; {@tato'nyataḥ@}, to some other 
+;---------------------------------------------------
+; <L>8654<pc>110-2<k1>tucCa<k2>tucCa
+48838 old {#tucCa#}¦tuccha, {%<ab>a.</ab>%} empty, void, vain; {%<ab>N.</ab>%} vain 
+;
+48838 new {#tucCa#}¦tuccha, {%<ab>a.</ab>%} empty, void, vain; {%<ab n="noun.">N.</ab>%} vain 
+;---------------------------------------------------
+; <L>8840<pc>113-1<k1>trAyati<k2>trAyati
+49944 old {%used as <ab>N.</ab>%}).
+;
+49944 new {%used as <ab n="noun.">N.</ab>%}).
+;---------------------------------------------------
+; <L>9290<pc>119-3<k1>dina<k2>dina<h>2
+52747 old = -kārya; {@-kṣaya,@} {%<ab>m.</ab>%} decline of day, evening; <lbinfo n="4"/>
+;
+52747 new ^<ab>=</ab> -kārya; {@-kṣaya,@} {%<ab>m.</ab>%} decline of day, evening; <lbinfo n="4"/>
+;---------------------------------------------------
+; <L>9327<pc>120-2<k1>diS<k2>diS
+53014 old  quarter ({%four, <ab>N.</ab>, <ab>S.</ab>, <ab>E.</ab>, W.%}; {%eight, %}
+;
+53014 new  quarter ({%four, <ab n="North.">N.</ab>, <ab n="South.">S.</ab>, <ab n="East.">E.</ab>, <ab n="West.">W.</ab>%}; {%eight, %}
+;---------------------------------------------------
+; <L>9327<pc>120-2<k1>diS<k2>diS
+53015 old {%the same <ab>+</ab> NE., Se., Sw., and NW.; or ten, %}
+;
+53015 new {%the same <ab>+</ab> <ab n="Northeast">NE.</ab>, <ab n="Southeast">SE.</ab>, <ab n="Southwest.">SW.</ab>, and <ab n="Northwest">NW.</ab>; or ten, %}
+;---------------------------------------------------
+; <L>9327<pc>120-2<k1>diS<k2>diS
+53022 old = from the end of the world.
+;
+53022 new ^<ab>=</ab> from the end of the world.
+;---------------------------------------------------
+; <L>9430<pc>122-1<k1>durjanIkf<k2>durjanIkf
+53658 old = insult ({%<ab>Pr.</ab>%}).
+;
+53658 new ^<ab>=</ab> insult ({%<ab>Pr.</ab>%}).
+;---------------------------------------------------
+; <L>9470<pc>123-1<k1>dustara<k2>dustara
+54065 old to abandon {%or%} renounce: {@-tā,@} {%<ab>f.</ab> abse. <ab>N.</ab>%}.
+;
+54065 new to abandon {%or%} renounce: {@-tā,@} {%<ab>f.</ab> <ab>abst. N.</ab>%}.
+;---------------------------------------------------
+; <L>9486<pc>123-2<k1>dUra<k2>dUra
+54170 old = thoroughly ({%examine%}); {%<ab>lc.</ab>%} in the distance, 
+;
+54170 new ^<ab>=</ab> thoroughly ({%examine%}); {%<ab>lc.</ab>%} in the distance, 
+;---------------------------------------------------
+; <L>9968<pc>131-1<k1>DA<k2>DA<h>1
+57341 old = honour; take to {%heart%} (manasi) = reflect, 
+;
+57341 new ^<ab>=</ab> honour; take to {%heart%} (manasi) = reflect, 
+;---------------------------------------------------
+; <L>10042<pc>133-1<k1>DizaRA<k2>DizaRA
+57892 old = heaven and earth; {%<ab>pl.</ab>%} the {%three%} worlds, 
+;
+57892 new ^<ab>=</ab> heaven and earth; {%<ab>pl.</ab>%} the {%three%} worlds, 
+;---------------------------------------------------
+; <L>10215<pc>135-a2<k1>naKAnaKi<k2>naKAnaKi
+58949 old = tooth and nail.
+;
+58949 new ^<ab>=</ab> tooth and nail.
+;---------------------------------------------------
+; <L>10345<pc>137-2<k1>nalva<k2>nalva
+59772 old = ¤52¤ {%or%} ¤200¤ {%yards%}.
+;
+59772 new ^<ab>=</ab> ¤52¤ {%or%} ¤200¤ {%yards%}.
+;---------------------------------------------------
+; <L>10376<pc>137-3<k1>navIna<k2>navIna
+59919 old = another.
+;
+59919 new ^<ab>=</ab> another.
+;---------------------------------------------------
+; <L>10454<pc>139-1<k1>nAnA<k2>nAnA
+60419 old  something different; {%<ab>N.</ab>%} word with 
+;
+60419 new  something different; {%<ab n="noun.">N.</ab>%} word with 
+;---------------------------------------------------
+; <L>10602<pc>141-2<k1>niBa<k2>niBa
+61348 old  {%<ab>N.</ab>%} appearance, pretext ({%only <ab>in.</ab> %}
+;
+61348 new  {%<ab n="noun.">N.</ab>%} appearance, pretext ({%only <ab>in.</ab> %}
+;---------------------------------------------------
+; <L>10966<pc>149-1<k1>pakzAnta<k2>pakzAnta
+64167 old = supposing, if); another opinion; {@-ābhāsa,@} 
+;
+64167 new ^<ab>=</ab> supposing, if); another opinion; {@-ābhāsa,@} 
+;---------------------------------------------------
+; <L>11077<pc>151-2<k1>patitva<k2>patitva
+65015 old family; {@-vatnī,@} {%<ab>a.</ab> <ab>f.</ab>%} having a husband; {%<ab>N.</ab>%} 
+;
+65015 new family; {@-vatnī,@} {%<ab>a.</ab> <ab>f.</ab>%} having a husband; {%<ab n="noun.">N.</ab>%} 
+;---------------------------------------------------
+; <L>11080<pc>151-2<k1>pattra<k2>pattra
+65050 old {@-rekhā,@} {%<ab>f.</ab>%} = bhaṅga; {@-latā,@} {%<ab>f.</ab> <ab>id.</ab>%}; {%<ab>N.</ab>%}; {@-le-@}
+;
+65050 new {@-rekhā,@} {%<ab>f.</ab>%} = bhaṅga; {@-latā,@} {%<ab>f.</ab> <ab>id.</ab>%}; {%<ab>N.</ab>%};
+;---------------------------------------------------
+; <L>11080<pc>151-2<k1>pattra<k2>pattra
+65051 old {@-khā,@} {%<ab>f.</ab> <ab>id.</ab>%}; {%<ab>N.</ab>%}; {@-vāha,@} {%<ab>m.</ab>%} (borne on wings), 
+;
+65051 new {@le-khā,@} {%<ab>f.</ab> <ab>id.</ab>%}; {%<ab>N.</ab>%}; {@-vāha,@} {%<ab>m.</ab>%} (borne on wings), 
+;---------------------------------------------------
+; <L>11100<pc>152-2<k1>pada<k2>pada
+65316 old = overcome, surpass, {@hṛdaye@} {%or%} {@citte@} --, take 
+;
+65316 new ^<ab>=</ab> overcome, surpass, {@hṛdaye@} {%or%} {@citte@} --, take 
+;---------------------------------------------------
+; <L>11728<pc>164-3<k1>pura<k2>pura
+69959 old = Tri-pura, the three citadels of the Asuras: 
+;
+69959 new ^<ab>=</ab> Tri-pura, the three citadels of the Asuras: 
+;---------------------------------------------------
+; <L>11764<pc>165-3<k1>puruzottama<k2>puruzottama
+70254 old soul, {%<ab>ep.</ab> of%} Viṣṇu {%or%} kṛṣṇa; {%<ab>N.</ab>%}; {@-upa-@}
+;
+70254 new soul, {%<ab>ep.</ab> of%} Viṣṇu {%or%} Kṛṣṇa; {%<ab>N.</ab>%}; {@-upa-@}
+;---------------------------------------------------
+; <L>12021<pc>171-1<k1>pOrogava<k2>pOrogava
+72235 old {%a princely kitchen%}; {@-dhas-a,@} {%<ab>n.</ab>%} office fo 
+;
+72235 new {%a princely kitchen%}; {@-dhas-a,@} {%<ab>n.</ab>%} office of 
+;---------------------------------------------------
+; <L>12096<pc>173-3<k1>pratidaRqa<k2>pratidaRqa
+73088 old = rivalling; {@-dvandvī-bhū,@} become an 
+;
+73088 new ^<ab>=</ab> rivalling; {@-dvandvī-bhū,@} become an 
+;---------------------------------------------------
+; <L>12233<pc>179-2<k1>praboDa<k2>praboDa
+74821 old = causing to open {%or%} blossom; -° {%<ab>a.</ab>%} ({@-i-kā@}), 
+;
+74821 new ^<ab>=</ab> causing to open {%or%} blossom; -° {%<ab>a.</ab>%} ({@-i-kā@}), 
+;---------------------------------------------------
+; <L>12244<pc>180-1<k1>pramARa<k2>pramARa
+75019 old = person authorized to: {@-ka,@} {%<ab>a.</ab>%} -° = pramāṇa, <lbinfo n="7"/>
+;
+75019 new ^<ab>=</ab> person authorized to: {@-ka,@} {%<ab>a.</ab>%} -° = pramāṇa, <lbinfo n="7"/>
+;---------------------------------------------------
+; <L>12263<pc>180-3<k1>prayoga<k2>prayoga
+75252 old {@-tas,@} {%<ab>ad.</ab>%} by means fo (-°): {@-grahaṇa@}, {%<ab>n.</ab>%} acquirement <lbinfo n="2"/>
+;
+75252 new {@-tas,@} {%<ab>ad.</ab>%} by means of (-°): {@-grahaṇa@}, {%<ab>n.</ab>%} acquirement <lbinfo n="2"/>
+;---------------------------------------------------
+; <L>12454<pc>186-3<k1>prAya<k2>prAya
+77201 old  -° {%<ab>a.</ab>%} ¤1.¤ {%after a <ab>N.</ab>,%} having -- for the 
+;
+77201 new  -° {%<ab>a.</ab>%} ¤1.¤ {%after a <ab n="noun.">N.</ab>,%} having -- for the 
+;---------------------------------------------------
+; <L>12671<pc>191-1<k1>bata<k2>bata<h>2
+78828 old <hom>2.</hom> {#bata#}¦batá, {%<ab>m.</ab>%} weakling ({%<ab>RV.</ab>¹%}).
+;
+78828 new <hom>2.</hom> {#bata#}¦batá, {%<ab>m.</ab>%} weakling ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>12673<pc>191-1<k1>badDa<k2>badDa
+78854 old the affections fixed on, enamoured fo ({%<ab>lc.</ab>%}); 
+;
+78854 new the affections fixed on, enamoured of ({%<ab>lc.</ab>%}); 
+;---------------------------------------------------
+; <L>12691<pc>192-1<k1>banDu<k2>banDu
+79125 old {%<ab>a.</ab>%} dwelling among kinsmen ({%<ab>RV.</ab>¹%}); {@-jana@}, 
+;
+79125 new {%<ab>a.</ab>%} dwelling among kinsmen ({%<ab>RV.¹</ab>%}); {@-jana@}, 
+;---------------------------------------------------
+; <L>12691<pc>192-1<k1>banDu<k2>banDu
+79134 old {%<ab>m.</ab> <ab>N.</ab>%}; {@-pṛcch@}, {%<ab>a.</ab>%} seeking {%one's%} kin ({%<ab>RV.</ab>¹%}); 
+;
+79134 new {%<ab>m.</ab> <ab>N.</ab>%}; {@-pṛcch@}, {%<ab>a.</ab>%} seeking {%one's%} kin ({%<ab>RV.¹</ab>%}); 
+;---------------------------------------------------
+; <L>12700<pc>192-2<k1>bapyanIla<k2>bapyanIla
+79190 old {#bapyanIla#}¦bapyanīla, {%<ab>N.</ab> f a country%}.
+;
+79190 new {#bapyanIla#}¦bapyanīla, {%<ab>N.</ab> of a country%}.
+;---------------------------------------------------
+; <L>12710<pc>192-2<k1>barjaha<k2>barjaha
+79238 old {#barjaha#}¦bárjaha, {%<ab>m.</ab>%} udder ({%<ab>RV.</ab>¹%}).
+;
+79238 new {#barjaha#}¦bárjaha, {%<ab>m.</ab>%} udder ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>12768<pc>193-2<k1>bazkaya<k2>bazkaya
+79655 old {#bazkaya#}¦baṣkáya, {%<ab>a.</ab>%} ({%<ab>RV.</ab>¹%}) being in its 
+;
+79655 new {#bazkaya#}¦baṣkáya, {%<ab>a.</ab>%} ({%<ab>RV.¹</ab>%}) being in its 
+;---------------------------------------------------
+; <L>12771<pc>193-2<k1>basri<k2>basri
+79671 old {#basri#}¦básri, {%<ab>ad.</ab>%} ({%<ab>RV.</ab>¹%}) quickly. 
+;
+79671 new {#basri#}¦básri, {%<ab>ad.</ab>%} ({%<ab>RV.¹</ab>%}) quickly. 
+;---------------------------------------------------
+; <L>12799<pc>194-3<k1>bAkura<k2>bAkura
+80055 old ({%<ab>RV.</ab>¹%}).
+;
+80055 new ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>12801<pc>194-3<k1>bAQa<k2>bAQa
+80065 old mightily ({%<ab>RV.</ab>¹%}); ({@a@}) {@-m,@} {%<ab>ad.</ab>%} ({%<ab>C.</ab>%}) certainly, 
+;
+80065 new mightily ({%<ab>RV.¹</ab>%}); ({@a@}) {@-m,@} {%<ab>ad.</ab>%} ({%<ab>C.</ab>%}) certainly, 
+;---------------------------------------------------
+; <L>12802<pc>194-3<k1>bARa<k2>bARa
+80076 old {%Harṣacarita%} ({%seventh century A. D%}); {%<ab>N.</ab> %}
+;
+80076 new {%Harṣacarita%} ({%seventh century <ab>A. D.</ab>%}); {%<ab>N.</ab> %}
+;---------------------------------------------------
+; <L>12816<pc>195-2<k1>bArhaddEvata<k2>bArhaddEvata
+80214 old =Bṛhaddevatā; {@-ratha,@} {%<ab>a.</ab>%} relating to Bṛhad-ratha. <lbinfo n="7"/>
+;
+80214 new ^<ab>=</ab>Bṛhaddevatā; {@-ratha,@} {%<ab>a.</ab>%} relating to Bṛhad-ratha. <lbinfo n="7"/>
+;---------------------------------------------------
+; <L>12854<pc>196-1<k1>bAhyAMsa<k2>bAhyAMsa
+80512 old {@-artha-vādin,@} {%<ab>a.</ab>%} maintaining the reality fo 
+;
+80512 new {@-artha-vādin,@} {%<ab>a.</ab>%} maintaining the reality of 
+;---------------------------------------------------
+; <L>12876<pc>196-2<k1>bilma<k2>bilma
+80658 old {#bilma#}¦bíl-ma, {%<ab>n.</ab>%} chip ({%<ab>RV.</ab>¹%}).
+;
+80658 new {#bilma#}¦bíl-ma, {%<ab>n.</ab>%} chip ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>12893<pc>197-1<k1>buD<k2>buD
+80875 old heed to ({%<ab>RV.</ab>¹%}). {@ud,@} awake: {%<ab>pp.</ab>%} expanded, 
+;
+80875 new heed to ({%<ab>RV.¹</ab>%}). {@ud,@} awake: {%<ab>pp.</ab>%} expanded, 
+;---------------------------------------------------
+; <L>12919<pc>197-3<k1>bfhatkaTA<k2>bfhatkaTA
+81078 old {@ketu,@} {%<ab>a.</ab>%} of great brilliance ({%<ab>RV.</ab>¹%}); {%<ab>m.</ab> <ab>N.</ab>%}; 
+;
+81078 new {@ketu,@} {%<ab>a.</ab>%} of great brilliance ({%<ab>RV.¹</ab>%}); {%<ab>m.</ab> <ab>N.</ab>%}; 
+;---------------------------------------------------
+; <L>12921<pc>197-3<k1>bfhadukTa<k2>bfhadukTa
+81117 old hero ({%<ab>RV.</ab>¹%}); ({@-ád@}) {@-rātha,@} {%<ab>m.</ab> <ab>N.</ab>%}; {@-tathaṃ-@}
+;
+81117 new hero ({%<ab>RV.¹</ab>%}); ({@-ád@}) {@-rātha,@} {%<ab>m.</ab> <ab>N.</ab>%}; {@-tathaṃ-@}
+;---------------------------------------------------
+; <L>12921<pc>197-3<k1>bfhadukTa<k2>bfhadukTa
+81120 old ({%<ab>RV.</ab>¹%}); {@-vrata,@} {%<ab>n.</ab>%} the great vow {%of chastity%}; 
+;
+81120 new ({%<ab>RV.¹</ab>%}); {@-vrata,@} {%<ab>n.</ab>%} the great vow {%of chastity%}; 
+;---------------------------------------------------
+; <L>12945<pc>198-2<k1>brahma<k2>brahma
+81311 old ({%<ab>RV.</ab>¹%}); {@-kūrca@}, {%<ab>n.</ab> a kind of penance in %}
+;
+81311 new ({%<ab>RV.¹</ab>%}); {@-kūrca@}, {%<ab>n.</ab> a kind of penance in %}
+;---------------------------------------------------
+; <L>13043<pc>201-3<k1>BandanAya<k2>BandanAya
+82383 old {@-yát,@} shouting, yelling ({%<ab>RV.</ab>¹%}).
+;
+82383 new {@-yát,@} shouting, yelling ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>13120<pc>203-1<k1>BA<k2>BA
+82916 old {%<ab>N.</ab> in%} -tva). {@sam-ā,@} appear {%or%} look like (iva). 
+;
+82916 new {%<ab n="noun.">N.</ab> in%} -tva). {@sam-ā,@} appear {%or%} look like (iva). 
+;---------------------------------------------------
+; <L>13231<pc>205-3<k1>Bid<k2>Bid
+83836 old {%mark%}); destroying; {%<ab>f.</ab>%} wall ({%<ab>RV.</ab>¹%}); distinction; <lbinfo n="7"/>
+;
+83836 new {%mark%}); destroying; {%<ab>f.</ab>%} wall ({%<ab>RV.¹</ab>%}); distinction; <lbinfo n="7"/>
+;---------------------------------------------------
+; <L>13234<pc>205-3<k1>Bindu<k2>Bindu
+83854 old {#Bindu#}¦bhind-ú, {%<ab>m.</ab>%} destroyer ({%<ab>RV.</ab>¹%}); drop ({%<ab>V.</ab>%}).
+;
+83854 new {#Bindu#}¦bhind-ú, {%<ab>m.</ab>%} destroyer ({%<ab>RV.¹</ab>%}); drop ({%<ab>V.</ab>%}).
+;---------------------------------------------------
+; <L>13241<pc>206-1<k1>Bizaj<k2>Bizaj
+83917 old plaster], II.<ab>P.</ab> {@bhiṣákti,@} heal ({%<ab>RV.</ab>¹%}).
+;
+83917 new plaster], II.<ab>P.</ab> {@bhiṣákti,@} heal ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>13245<pc>206-1<k1>BizRajya<k2>BizRajya
+83938 old {#BizRajya#}¦bhiṣṇaj-ya, <ab>P.</ab> heal ({%<ab>RV.</ab>¹%}).
+;
+83938 new {#BizRajya#}¦bhiṣṇaj-ya, <ab>P.</ab> heal ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>13284<pc>207-1<k1>Buraj<k2>Buraj
+84265 old {#Buraj#}¦BHURAJ, {@bhurája@}, ({%<ab>RV.</ab>¹%} = bhraja),  <lbinfo n="[]"/>
+;
+84265 new {#Buraj#}¦BHURAJ, {@bhurája@}, ({%<ab>RV.¹</ab>%} = bhraja),  <lbinfo n="[]"/>
+;---------------------------------------------------
+; <L>13303<pc>208-2<k1>BUtAtmaka<k2>BUtAtmaka
+84637 old {%<ab>pp.</ab>%} formed out of the elements; {%<ab>N.</ab> <ab>pl.</ab>%} all 
+;
+84637 new {%<ab>pp.</ab>%} formed out of the elements; {%<ab n="noun.">N.</ab> <ab>pl.</ab>%} all 
+;---------------------------------------------------
+; <L>13330<pc>209-1<k1>BUyizWa<k2>BUyizWa
+84887 old {%a <ab>pp.</ab>%} mostly, almost ({%a <ab>N.</ab> belonging to the %}
+;
+84887 new {%a <ab>pp.</ab>%} mostly, almost ({%a <ab n="noun.">N.</ab> belonging to the %}
+;---------------------------------------------------
+; <L>13338<pc>209-2<k1>BUryakza<k2>BUryakza
+84962 old {#BUryakza#}¦bhūri‡akṣá, {%<ab>a.</ab>%} many-eyed ({%<ab>RV.</ab>¹%}).
+;
+84962 new {#BUryakza#}¦bhūri‡akṣá, {%<ab>a.</ab>%} many-eyed ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>13351<pc>209-2<k1>Bf<k2>Bf
+85042 old {#Bf#}¦BHṚ, II.<ab>P.</ab> {@bhár-ti@} ({%<ab>RV.</ab> ²%}), I.<ab>P.</ab> <ab>Ā.</ab> 
+;
+85042 new {#Bf#}¦BHṚ, II.<ab>P.</ab> {@bhár-ti@} ({%<ab>RV.²</ab>%}), I.<ab>P.</ab> <ab>Ā.</ab> 
+;---------------------------------------------------
+; <L>13371<pc>210-1<k1>BfTa<k2>BfTa
+85210 old {#BfTa#}¦bhṛ-thá, {%<ab>m.</ab>%} (?) offering ({%<ab>RV.</ab> ²%}).
+;
+85210 new {#BfTa#}¦bhṛ-thá, {%<ab>m.</ab>%} (?) offering ({%<ab>RV.²</ab>%}).
+;---------------------------------------------------
+; <L>13439<pc>211-2<k1>Braj<k2>Braj
+85722 old {#Braj#}¦bhraj, {%<ab>a.</ab>%} ({%only%} -°: {%<ab>RV.</ab>¹%}) breaking forth 
+;
+85722 new {#Braj#}¦bhraj, {%<ab>a.</ab>%} ({%only%} -°: {%<ab>RV.¹</ab>%}) breaking forth 
+;---------------------------------------------------
+; <L>13467<pc>212-1<k1>BrASya<k2>BrASya
+85949 old {#BrASya#}¦bhrā́ś-ya, {%<ab>fp.</ab>%} to be broken off ({%<ab>RV.</ab>¹%}).
+;
+85949 new {#BrASya#}¦bhrā́ś-ya, {%<ab>fp.</ab>%} to be broken off ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>13473<pc>212-2<k1>BrURa<k2>BrURa
+85994 old Brāhman ({%<ab>comm.</ab>%}); {%<ab>N.</ab>%} killing of an embryo; 
+;
+85994 new Brāhman ({%<ab>comm.</ab>%}); {%<ab n="noun.">N.</ab>%} killing of an embryo; 
+;---------------------------------------------------
+; <L>13496<pc>212-a2<k1>maKas<k2>maKas
+86141 old {#maKas#}¦makh-as, {%only,%} -°, {%<ab>a.</ab>%} ({%<ab>RV.</ab>¹%}): {@-yá,@} {%<ab>den.</ab>%} 
+;
+86141 new {#maKas#}¦makh-as, {%only,%} -°, {%<ab>a.</ab>%} ({%<ab>RV.¹</ab>%}): {@-yá,@} {%<ab>den.</ab>%} 
+;---------------------------------------------------
+; <L>13504<pc>212-a2<k1>maGavattva<k2>maGavattva
+86188 old ({%<ab>RV.</ab>¹%}).
+;
+86188 new ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>13549<pc>213-2<k1>maRika<k2>maRika
+86489 old {%<ab>N.</ab> of a sacred pool near Benares%}; {%<ab>N.</ab>%}; {@-kā-@}
+;
+86489 new {%<ab>N.</ab> of a sacred pool near Benares%}; {%<ab>N.</ab>%};
+;---------------------------------------------------
+; <L>13549<pc>213-2<k1>maRika<k2>maRika
+86490 old {@-rá,@} {%<ab>m.</ab>%} jeweller; {@-daṇḍa@}, {%<ab>a.</ab>%} having a handle 
+;
+86490 new {@-kārá,@} {%<ab>m.</ab>%} jeweller; {@-daṇḍa@}, {%<ab>a.</ab>%} having a handle 
+;---------------------------------------------------
+; <L>13586<pc>214-1<k1>matsaKi<k2>matsaKi
+86783 old companion ({%<ab>RV.</ab>¹%}).
+;
+86783 new companion ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>13628<pc>215-1<k1>madryaYc<k2>madryaYc
+87135 old ({%<ab>RV.</ab> ¹%}): {@ak,@} {%<ab>n.</ab> <ab>ad.</ab>%} towards me ({%<ab>RV.</ab>¹%}).
+;
+87135 new ({%<ab>RV.</ab> ¹%}): {@ak,@} {%<ab>n.</ab> <ab>ad.</ab>%} towards me ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>13636<pc>215-2<k1>maDukarAya<k2>maDukarAya
+87211 old {@-psaras,@} eager for sweetness ({%<ab>RV.</ab>¹%}); {@-bhad-@}
+;
+87211 new {@-psaras,@} eager for sweetness ({%<ab>RV.¹</ab>%}); {@-bhad-@}
+;---------------------------------------------------
+; <L>13647<pc>215-3<k1>maDulih<k2>maDulih
+87301 old {%<ab>a.</ab>%} addicted to sweetness ({%<ab>RV.</ab>¹%}); {%<ab>m.</ab>%} bee: {@ī,@} 
+;
+87301 new {%<ab>a.</ab>%} addicted to sweetness ({%<ab>RV.¹</ab>%}); {%<ab>m.</ab>%} bee: {@ī,@} 
+;---------------------------------------------------
+; <L>13658<pc>216-1<k1>maDyama<k2>maDyama
+87409 old = Madhya-deśa; middle = forth {%or%} fifth note 
+;
+87409 new ^<ab>=</ab> Madhya-deśa; middle = forth {%or%} fifth note 
+;---------------------------------------------------
+; <L>13675<pc>216-3<k1>manas<k2>manas
+87629 old = imagine, remember, -- {@saṃ-gam@}, become 
+;
+87629 new ^<ab>=</ab> imagine, remember, -- {@saṃ-gam@}, become 
+;---------------------------------------------------
+; <L>13698<pc>217-1<k1>manuzyakAra<k2>manuzyakAra
+87798 old = charity, hospitality; {@-rathá,@} {%<ab>m.</ab>%} human 
+;
+87798 new ^<ab>=</ab> charity, hospitality; {@-rathá,@} {%<ab>m.</ab>%} human 
+;---------------------------------------------------
+; <L>13703<pc>217-1<k1>manogata<k2>manogata
+87842 old =) guessing {%one's%} thoughts; {@-jū́@}, {%<ab>a.</ab>%} swift as 
+;
+87842 new ^<ab>=</ab>) guessing {%one's%} thoughts; {@-jū́@}, {%<ab>a.</ab>%} swift as 
+;---------------------------------------------------
+; <L>13714<pc>217-3<k1>mantraya<k2>mantraya
+88011 old = offer {%anything%} to. {@saṃ-ni@}, invite. {@pari,@} 
+;
+88011 new ^<ab>=</ab> offer {%anything%} to. {@saṃ-ni@}, invite. {@pari,@} 
+;---------------------------------------------------
+; <L>13758<pc>218-3<k1>manya<k2>manya
+88355 old  for; {%<ab>N.</ab> the root%} man; {@-ya-ti,@} {%<ab>m.</ab>%} (¤3¤ {%<ab>sg.</ab> %}
+;
+88355 new  for; {%<ab n="noun.">N.</ab> the root%} man; {@-ya-ti,@} {%<ab>m.</ab>%} (¤3¤ {%<ab>sg.</ab> %}
+;---------------------------------------------------
+; <L>13765<pc>218-3<k1>mamakAra<k2>mamakAra
+88405 old ownership ({%<ab>RV.</ab>¹%}).
+;
+88405 new ownership ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>13801<pc>219-2<k1>marka<k2>marka<h>1
+88613 old <hom>1.</hom> {#marka#}¦marká, {%<ab>m.</ab>%} eclipse {%of the sun%} ({%<ab>RV.</ab>¹%}).
+;
+88613 new <hom>1.</hom> {#marka#}¦marká, {%<ab>m.</ab>%} eclipse {%of the sun%} ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>13880<pc>220-3<k1>mahas<k2>mahas
+89150 old celebration ({%<ab>C.</ab>%}); {@ás,@} {%<ab>ac.</ab> <ab>ad.</ab>%} ({%<ab>RV.</ab>¹%}) gladly; 
+;
+89150 new celebration ({%<ab>C.</ab>%}); {@ás,@} {%<ab>ac.</ab> <ab>ad.</ab>%} ({%<ab>RV.¹</ab>%}) gladly; 
+;---------------------------------------------------
+; <L>13884<pc>220-3<k1>mahAkaTA<k2>mahAkaTA
+89218 old {%<ab>m.</ab> <ab>ep.</ab> of%} Rāhu; {@-grāmá,@} {%<ab>m.</ab>%} great host ({%<ab>RV.</ab>¹%}); 
+;
+89218 new {%<ab>m.</ab> <ab>ep.</ab> of%} Rāhu; {@-grāmá,@} {%<ab>m.</ab>%} great host ({%<ab>RV.¹</ab>%}); 
+;---------------------------------------------------
+; <L>13886<pc>221-1<k1>mahAtattva<k2>mahAtattva
+89279 old {@-diś@}, {%<ab>f.</ab>%} chief cardinal point ({%<ab>N.</ab>, <ab>S.</ab>, <ab>E.</ab>, W.%}); 
+;
+89279 new {@-diś@}, {%<ab>f.</ab>%} chief cardinal point ({%<ab n="North.">N.</ab>, <ab n="South.">S.</ab>, <ab n="East.">E.</ab>, <ab n="West.">W.</ab>%}); 
+;---------------------------------------------------
+; <L>13886<pc>221-1<k1>mahAtattva<k2>mahAtattva
+89280 old {@-duckha@}, {%<ab>n.</ab>%} great sorrow; {@-durga,@} {%<ab>n.</ab>%} great 
+;
+89280 new {@-duHKa@}, {%<ab>n.</ab>%} great sorrow; {@-durga,@} {%<ab>n.</ab>%} great 
+;---------------------------------------------------
+; <L>13887<pc>221-2<k1>mahApakza<k2>mahApakza
+89401 old  {@-bhaṭa@}, {%<ab>m.</ab>%} great warrior; {%<ab>N.</ab>%}; {@-bha-@}
+;
+89401 new  {@-bhaṭa@}, {%<ab>m.</ab>%} great warrior; {%<ab>N.</ab>%};
+;---------------------------------------------------
+; <L>13887<pc>221-2<k1>mahApakza<k2>mahApakza
+89402 old {@-ya,@} {%<ab>n.</ab>%} great danger {%or%} straits; {@-bhāga,@} {%<ab>a.</ab>%} 
+;
+89402 new {@-bhaya,@} {%<ab>n.</ab>%} great danger {%or%} straits; {@-bhāga,@} {%<ab>a.</ab>%} 
+;---------------------------------------------------
+; <L>13988<pc>225-1<k1>mAdana<k2>mAdana
+90449 old {#mAdana#}¦mā́d-ana, {%<ab>a.</ab>%} delighting ({%<ab>RV.</ab>¹%}); intoxicating <lbinfo n="2"/>
+;
+90449 new {#mAdana#}¦mā́d-ana, {%<ab>a.</ab>%} delighting ({%<ab>RV.¹</ab>%}); intoxicating <lbinfo n="2"/>
+;---------------------------------------------------
+; <L>14161<pc>227-3<k1>mit<k2>mit<h>1
+91601 old <hom>1.</hom> {#mit#}¦mí-t, {%<ab>f.</ab>%} erected post, pillar ({%<ab>RV.</ab>¹%}).
+;
+91601 new <hom>1.</hom> {#mit#}¦mí-t, {%<ab>f.</ab>%} erected post, pillar ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>14224<pc>229-1<k1>mI<k2>mI
+92062 old {@minóti@} ({%<ab>RV.</ab>¹, <ab>C.</ab>¹%}), <ab>Ā.</ab> {%mī́yate%} ({%<ab>RV.</ab>, %}
+;
+92062 new {@minóti@} ({%<ab>RV.¹</ab>, <ab>C.</ab>¹%}), <ab>Ā.</ab> {%mī́yate%} ({%<ab>RV.</ab>, %}
+;---------------------------------------------------
+; <L>14224<pc>229-1<k1>mI<k2>mI
+92063 old {%rare%}), {@minī@} ({%<ab>RV.</ab> ²%}), diminish, destroy; lose 
+;
+92063 new {%rare%}), {@minī@} ({%<ab>RV.²</ab>%}), diminish, destroy; lose 
+;---------------------------------------------------
+; <L>14274<pc>231-1<k1>muYjakeSa<k2>muYjakeSa
+92641 old ({%<ab>RV.</ab>¹%}); {@-maya,@} {%<ab>a.</ab>%} ({@ī@}) consisting of muñja 
+;
+92641 new ({%<ab>RV.¹</ab>%}); {@-maya,@} {%<ab>a.</ab>%} ({@ī@}) consisting of muñja 
+;---------------------------------------------------
+; <L>14317<pc>231-3<k1>muz<k2>muz
+92916 old {#muz#}¦MUṢ, I.<ab>P.</ab> {@móṣa@} ({%<ab>RV.</ab>¹%}), VI.<ab>P.</ab> 
+;
+92916 new {#muz#}¦MUṢ, I.<ab>P.</ab> {@móṣa@} ({%<ab>RV.¹</ab>%}), VI.<ab>P.</ab> 
+;---------------------------------------------------
+; <L>14321<pc>231-3<k1>muzIvan<k2>muzIvan
+92949 old {#muzIvan#}¦muṣ-ī-ván, {%<ab>m.</ab>%} robber ({%<ab>RV.</ab>¹%}).
+;
+92949 new {#muzIvan#}¦muṣ-ī-ván, {%<ab>m.</ab>%} robber ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>14348<pc>232-2<k1>mUra<k2>mUra<h>1
+93153 old {%<ab>RV.</ab>¹%}).
+;
+93153 new {%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>14380<pc>233-1<k1>mfkza<k2>mfkza<h>2
+93457 old <hom>2.</hom> {#mfkza#}¦mṛkṣ-á, {%<ab>m.</ab>%} comb ({%<ab>RV.</ab>¹%}); {@-iṇī@}, {%<ab>f.</ab>%} 
+;
+93457 new <hom>2.</hom> {#mfkza#}¦mṛkṣ-á, {%<ab>m.</ab>%} comb ({%<ab>RV.¹</ab>%}); {@-iṇī@}, {%<ab>f.</ab>%} 
+;---------------------------------------------------
+; <L>14383<pc>233-2<k1>mfgayas<k2>mfgayas
+93505 old {#mfgayas#}¦mṛgay-ás, {%<ab>m.</ab>%} wild beast ({%<ab>RV.</ab>¹%}).
+;
+93505 new {#mfgayas#}¦mṛgay-ás, {%<ab>m.</ab>%} wild beast ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>14421<pc>234-2<k1>mfd<k2>mfd
+93853 old {@-mar[t]ti@}, crush ({%<ab>RV.</ab>¹%}). {@abhi,@} tread, trample <lbinfo n="4"/>
+;
+93853 new {@-mar[t]ti@}, crush ({%<ab>RV.¹</ab>%}). {@abhi,@} tread, trample <lbinfo n="4"/>
+;---------------------------------------------------
+; <L>14566<pc>236-3<k1>mOjavata<k2>mOjavata
+94804 old {%Moiunt%} Mūjāvat ({%<ab>RV.</ab>¹%}).
+;
+94804 new {%Moiunt%} Mūjāvat ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>14608<pc>237-3<k1>mluc<k2>mluc
+95063 old {@apa,@} {%<ab>pp.</ab>%} {@ápamulkta,@} hidden ({%<ab>RV.</ab>¹%}). {@ni,@} 
+;
+95063 new {@apa,@} {%<ab>pp.</ab>%} {@ápamulkta,@} hidden ({%<ab>RV.¹</ab>%}). {@ni,@} 
+;---------------------------------------------------
+; <L>14621<pc>237-a3<k1>yakza<k2>yakza
+95194 old spectral appearance ({%<ab>RV.</ab>¹%}); {@-deva-gṛha@}, 
+;
+95194 new spectral appearance ({%<ab>RV.¹</ab>%}); {@-deva-gṛha@}, 
+;---------------------------------------------------
+; <L>14621<pc>237-a3<k1>yakza<k2>yakza
+95198 old (?; {%<ab>RV.</ab>¹%}); {@-rāj@}, {%<ab>m.</ab>%} king of the Yakṣas, {%<ab>ep.</ab> of%} 
+;
+95198 new (?; {%<ab>RV.¹</ab>%}); {@-rāj@}, {%<ab>m.</ab>%} king of the Yakṣas, {%<ab>ep.</ab> of%} 
+;---------------------------------------------------
+; <L>14622<pc>237-a3<k1>yakzin<k2>yakzin
+95205 old {#yakzin#}¦yakṣ-ín, {%<ab>a.</ab>%} living ({%<ab>RV.</ab>¹%}); {@-iṇ-ī@}, {%<ab>f.</ab>%} 
+;
+95205 new {#yakzin#}¦yakṣ-ín, {%<ab>a.</ab>%} living ({%<ab>RV.¹</ab>%}); {@-iṇ-ī@}, {%<ab>f.</ab>%} 
+;---------------------------------------------------
+; <L>14626<pc>238-1<k1>yakzya<k2>yakzya
+95231 old {#yakzya#}¦yákṣ-ya, {%<ab>fp.</ab>%} active ({%<ab>RV.</ab>¹%}).
+;
+95231 new {#yakzya#}¦yákṣ-ya, {%<ab>fp.</ab>%} active ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>14648<pc>238-2<k1>yajYakarman<k2>yajYakarman
+95407 old {@-dhu,@} {%<ab>m.</ab>%} associate in sacrifice ({%<ab>RV.</ab>¹%}); {@-bāhu,@} 
+;
+95407 new {@-dhu,@} {%<ab>m.</ab>%} associate in sacrifice ({%<ab>RV.¹</ab>%}); {@-bāhu,@} 
+;---------------------------------------------------
+; <L>14648<pc>238-2<k1>yajYakarman<k2>yajYakarman
+95418 old ({@á@}) {@-manman,@} {%<ab>a.</ab>%} intent on sacrifice ({%<ab>RV.</ab>¹%}); 
+;
+95418 new ({@á@}) {@-manman,@} {%<ab>a.</ab>%} intent on sacrifice ({%<ab>RV.¹</ab>%}); 
+;---------------------------------------------------
+; <L>14649<pc>238-3<k1>yajYAMSaBuj<k2>yajYAMSaBuj
+95473 old  ({%<ab>RV.</ab>¹%}).
+;
+95473 new  ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>14717<pc>241-2<k1>yam<k2>yam
+96409 old {%<ab>RV.</ab>¹%}). {@abhi‡ud,@} {%<ab>pp.</ab>%} uplifted; offered; prepared <lbinfo n="3"/>
+;
+96409 new {%<ab>RV.¹</ab>%}). {@abhi‡ud,@} {%<ab>pp.</ab>%} uplifted; offered; prepared <lbinfo n="3"/>
+;---------------------------------------------------
+; <L>14718<pc>242-1<k1>yama<k2>yama<h>1
+96491 old <hom>1.</hom> {#yama#}¦yám-a, {%<ab>m.</ab>%} (restrainer), rein ({%<ab>RV.</ab>¹%}); 
+;
+96491 new <hom>1.</hom> {#yama#}¦yám-a, {%<ab>m.</ab>%} (restrainer), rein ({%<ab>RV.¹</ab>%}); 
+;---------------------------------------------------
+; <L>14718<pc>242-1<k1>yama<k2>yama<h>1
+96492 old driver ({%<ab>RV.</ab>¹%}); suppression, restraint; self-restraint; <lbinfo n="4"/>
+;
+96492 new driver ({%<ab>RV.¹</ab>%}); suppression, restraint; self-restraint; <lbinfo n="4"/>
+;---------------------------------------------------
+; <L>14728<pc>242-2<k1>yamI<k2>yamI
+96592 old = yamunā.
+;
+96592 new ^<ab>=</ab> yamunā.
+;---------------------------------------------------
+; <L>14735<pc>242-2<k1>yava<k2>yava
+96634 old = ¤6¤ {%or%} ¤12¤ {%mustard-seeds or%} ¤½¤ guñjā.
+;
+96634 new ^<ab>=</ab> ¤6¤ {%or%} ¤12¤ {%mustard-seeds or%} ¤½¤ guñjā.
+;---------------------------------------------------
+; <L>14759<pc>242-3<k1>yas<k2>yas
+96805 old {#yas#}¦YAS, III.<ab>P.</ab> {@yayas@} ({%<ab>RV.</ab>¹%}), I.<ab>P.</ab> 
+;
+96805 new {#yas#}¦YAS, III.<ab>P.</ab> {@yayas@} ({%<ab>RV.¹</ab>%}), I.<ab>P.</ab> 
+;---------------------------------------------------
+; <L>14766<pc>243-1<k1>yA<k2>yA
+96979 old travel round {%<ab>ac.</ab>%}; {%<ab>RV.</ab>¹%}). {@prati-pra,@} come 
+;
+96979 new travel round {%<ab>ac.</ab>%}; {%<ab>RV.¹</ab>%}). {@prati-pra,@} come 
+;---------------------------------------------------
+; <L>14792<pc>244-1<k1>yAtf<k2>yAtf<h>2
+97178 old ({%<ab>RV.</ab>¹%}).
+;
+97178 new ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>14803<pc>244-1<k1>yAdura<k2>yAdura
+97247 old ({%<ab>RV.</ab>¹%}).
+;
+97247 new ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>14841<pc>245-1<k1>yAvan<k2>yAvan
+97519 old {#yAvan#}¦yā-van, {%<ab>m.</ab>%} foeman ({%<ab>RV.</ab>¹%}); {%<ab>a.</ab>%} going 
+;
+97519 new {#yAvan#}¦yā-van, {%<ab>m.</ab>%} foeman ({%<ab>RV.¹</ab>%}); {%<ab>a.</ab>%} going 
+;---------------------------------------------------
+; <L>14852<pc>245-1<k1>yu<k2>yu<h>2
+97606 old VI. <ab>P.</ab> <ab>Ā.</ab> {@-yuva@} ({%<ab>V.</ab>%}), I.<ab>Ā.</ab> {@-yava@} ({%<ab>RV.</ab>¹%}), 
+;
+97606 new VI. <ab>P.</ab> <ab>Ā.</ab> {@-yuva@} ({%<ab>V.</ab>%}), I.<ab>Ā.</ab> {@-yava@} ({%<ab>RV.¹</ab>%}), 
+;---------------------------------------------------
+; <L>14868<pc>245-3<k1>yuj<k2>yuj
+97790 old ({%<ab>RV.</ab>¹%}), I. {@yója@} ({%<ab>RV.</ab>, rare%}), harness, yoke 
+;
+97790 new ({%<ab>RV.¹</ab>%}), I. {@yója@} ({%<ab>RV.</ab>, rare%}), harness, yoke 
+;---------------------------------------------------
+; <L>14879<pc>246-3<k1>yuDAjit<k2>yuDAjit
+98102 old =) in fight; {%<ab>m.</ab> <ab>N.</ab>%}; {@-manya,@} {%<ab>m.</ab> <ab>N.</ab> of a %}
+;
+98102 new ^<ab>=</ab>) in fight; {%<ab>m.</ab> <ab>N.</ab>%}; {@-manya,@} {%<ab>m.</ab> <ab>N.</ab> of a %}
+;---------------------------------------------------
+; <L>14890<pc>247-1<k1>yuvat<k2>yuvat<h>2
+98161 old <hom>2.</hom> {#yuvat#}¦yú-vat, {%<ab>a.</ab>%} youthful ({%<ab>RV.</ab>¹%}).
+;
+98161 new <hom>2.</hom> {#yuvat#}¦yú-vat, {%<ab>a.</ab>%} youthful ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>14893<pc>247-1<k1>yuvadrik<k2>yuvadrik
+98179 old ({%<ab>RV.</ab>¹%}).
+;
+98179 new ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>14908<pc>247-1<k1>yuzmAnIta<k2>yuzmAnIta
+98256 old ({%<ab>RV.</ab>¹%}).
+;
+98256 new ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>14909<pc>247-1<k1>yuzmezita<k2>yuzmezita
+98261 old ({%<ab>RV.</ab>¹%}). 
+;
+98261 new ({%<ab>RV.¹</ab>%}). 
+;---------------------------------------------------
+; <L>14984<pc>248-a3<k1>rakzA<k2>rakzA
+98851 old = from, {%<ab>e. g.</ab> cold, or%} on, {%<ab>e. g.</ab> a journey%}); 
+;
+98851 new ^<ab>=</ab> from, {%<ab>e. g.</ab> cold, or%} on, {%<ab>e. g.</ab> a journey%}); 
+;---------------------------------------------------
+; <L>15012<pc>249-3<k1>rajaHspfS<k2>rajaHspfS
+99134 old =) the earth; {@-sveda-samanvita,@} {%<ab>pp.</ab>%} 
+;
+99134 new ^<ab>=</ab>) the earth; {@-sveda-samanvita,@} {%<ab>pp.</ab>%} 
+;---------------------------------------------------
+; <L>15027<pc>250-1<k1>raRa<k2>raRa
+99221 old  {@-kṛt@}, {%<ab>a.</ab>%} causing joy ({%<ab>RV.</ab>¹%}); {%<ab>m.</ab>%} fighter, 
+;
+99221 new  {@-kṛt@}, {%<ab>a.</ab>%} causing joy ({%<ab>RV.¹</ab>%}); {%<ab>m.</ab>%} fighter, 
+;---------------------------------------------------
+; <L>15040<pc>250-2<k1>ratna<k2>ratna
+99353 old city; {@-prakāśa@}, {%<ab>m.</ab> <ab>T.</ab> of a dictionary%}; {@-pra-@}
+;
+99353 new city; {@-prakāśa@}, {%<ab>m.</ab> <ab>T.</ab> of a dictionary%}; 
+;---------------------------------------------------
+; <L>15040<pc>250-2<k1>ratna<k2>ratna
+99354 old {@-dīpa,@} {%<ab>m.</ab>%} (-° {%<ab>a.</ab>%} {@-ka,@}) = -dīpa; {@-prabha,@} {%<ab>m.</ab> <ab>N.</ab>%}: 
+;
+99354 new {@-pradīpa,@} {%<ab>m.</ab>%} (-° {%<ab>a.</ab>%} {@-ka,@}) = -dīpa; {@-prabha,@} {%<ab>m.</ab> <ab>N.</ab>%}: 
+;---------------------------------------------------
+; <L>15040<pc>250-2<k1>ratna<k2>ratna
+99367 old ({%<ab>RV.</ab>¹%}); abounding in jewels {%or%} pearls, jewelled; <lbinfo n="3"/>
+;
+99367 new ({%<ab>RV.¹</ab>%}); abounding in jewels {%or%} pearls, jewelled; <lbinfo n="3"/>
+;---------------------------------------------------
+; <L>15071<pc>251-1<k1>rapSadUDan<k2>rapSadUDan
+99614 old  udder ({%<ab>RV.</ab>¹%}).
+;
+99614 new  udder ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>15082<pc>251-3<k1>ramb<k2>ramb
+99761 old down ({%<ab>RV.</ab>¹%}). {@ava,@} {%<ab>id.</ab>%} ({%<ab>RV.</ab>¹%}).
+;
+99761 new down ({%<ab>RV.¹</ab>%}). {@ava,@} {%<ab>id.</ab>%} ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>15088<pc>251-3<k1>rayintama<k2>rayintama
+99799 old ({%<ab>RV.</ab>¹%}).
+;
+99799 new ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>15090<pc>251-3<k1>rayyA<k2>rayyA
+99808 old {#rayyA#}¦rayi‡ā́, {%<ab>V.</ab> <ab>in.</ab> of%} rayí ({%<ab>RV.</ab>¹%}).
+;
+99808 new {#rayyA#}¦rayi‡ā́, {%<ab>V.</ab> <ab>in.</ab> of%} rayí ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>15147<pc>252-3<k1>rAjaka<k2>rAjaka
+100248 old = rājan, king; {%<ab>N.</ab>%}; {%<ab>n.</ab>%} assemblage of kings; 
+;
+100248 new <ab>=</ab> rājan, king; {%<ab>N.</ab>%}; {%<ab>n.</ab>%} assemblage of kings; 
+;---------------------------------------------------
+; <L>15155<pc>253-1<k1>rAjan<k2>rAjan<h>2
+100335 old <hom>2.</hom> {#rAjan#}¦rāj-án, {%<ab>n.</ab>%} (?) guidance ({%<ab>RV.</ab>¹%}).
+;
+100335 new <hom>2.</hom> {#rAjan#}¦rāj-án, {%<ab>n.</ab>%} (?) guidance ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>15159<pc>253-2<k1>rAjapawwa<k2>rAjapawwa
+100373 old  kings as sons ({%<ab>RV.</ab>¹%}); {@-putraka,@} {%<ab>m.</ab>%} king's 
+;
+100373 new  kings as sons ({%<ab>RV.¹</ab>%}); {@-putraka,@} {%<ab>m.</ab>%} king's 
+;---------------------------------------------------
+; <L>15162<pc>253-2<k1>rAjayakzma<k2>rAjayakzma
+100433 old = in the presence of a king; {%<ab>m.</ab> <ab>N.</ab>%}: {@-ī,@} {%<ab>f.</ab> <ab>N.</ab>%}; 
+;
+100433 new ^<ab>=</ab> in the presence of a king; {%<ab>m.</ab> <ab>N.</ab>%}: {@-ī,@} {%<ab>f.</ab> <ab>N.</ab>%}; 
+;---------------------------------------------------
+; <L>15204<pc>254-2<k1>rAma<k2>rAma
+100780 old <ab>√</ab> ram] darkness ({%<ab>RV.</ab>¹%}).
+;
+100780 new <ab>√</ab> ram] darkness ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>15211<pc>254-3<k1>rAmI<k2>rAmI
+100827 old darkness, night ({%<ab>RV.</ab>¹%}).
+;
+100827 new darkness, night ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>15235<pc>255-1<k1>rAhusUtaka<k2>rAhusUtaka
+100978 old =) appearance, eclipse ({%of sun or moon%}).
+;
+100978 new ^<ab>=</ab>) appearance, eclipse ({%of sun or moon%}).
+;---------------------------------------------------
+; <L>15244<pc>255-1<k1>riK<k2>riK
+101034 old tear, rend ({%<ab>RV.</ab>¹%}).
+;
+101034 new tear, rend ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>15254<pc>255-2<k1>ripra<k2>ripra
+101123 old impurity ({%<ab>RV.</ab>¹%}).
+;
+101123 new impurity ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>15325<pc>256-3<k1>ruh<k2>ruh<h>2
+101711 old = be a match for ({%<ab>g.</ab>%}); put on ({%shoes%}); ride 
+;
+101711 new ^<ab>=</ab> be a match for ({%<ab>g.</ab>%}); put on ({%shoes%}); ride 
+;---------------------------------------------------
+; <L>15354<pc>258-1<k1>reRu<k2>reRu
+102012 old {%of Parasurāma%}: {@-tanaya,@} {%<ab>m.</ab>%} son fo Reṇukā, 
+;
+102012 new {%of Parasurāma%}: {@-tanaya,@} {%<ab>m.</ab>%} son of Reṇukā, 
+;---------------------------------------------------
+; <L>15362<pc>258-1<k1>repas<k2>repas
+102056 old {#repas#}¦rép-as, {%<ab>n.</ab>%} [<ab>√</ab> rip] stain ({%<ab>RV.</ab>¹%}).
+;
+102056 new {#repas#}¦rép-as, {%<ab>n.</ab>%} [<ab>√</ab> rip] stain ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>15371<pc>258-1<k1>rezaRa<k2>rezaRa
+102100 old {#rezaRa#}¦reṣ-aṇá, {%<ab>a.</ab>%} [<ab>√</ab> riṣ] ({%<ab>RV.</ab>¹%}); 
+;
+102100 new {#rezaRa#}¦reṣ-aṇá, {%<ab>a.</ab>%} [<ab>√</ab> riṣ] ({%<ab>RV.¹</ab>%}); 
+;---------------------------------------------------
+; <L>15376<pc>258-1<k1>rEvata<k2>rEvata
+102124 old {#rEvata#}¦raivat-á, {%<ab>a.</ab>%} ({@ī@}) wealthy ({%<ab>RV.</ab>¹%}); {%<ab>m.</ab>%} ({%<ab>C.</ab>%}) 
+;
+102124 new {#rEvata#}¦raivat-á, {%<ab>a.</ab>%} ({@ī@}) wealthy ({%<ab>RV.¹</ab>%}); {%<ab>m.</ab>%} ({%<ab>C.</ab>%}) 
+;---------------------------------------------------
+; <L>15377<pc>258-1<k1>roka<k2>roka
+102131 old ({@rók@}) {@-a,@} {%<ab>m.</ab> or%} ({@rók@}) {@-as,@} {%<ab>n.</ab>%} splendour ({%<ab>RV.</ab>¹%}).
+;
+102131 new ({@rók@}) {@-a,@} {%<ab>m.</ab> or%} ({@rók@}) {@-as,@} {%<ab>n.</ab>%} splendour ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>15402<pc>258-2<k1>romaRvat<k2>romaRvat
+102277 old {#romaRvat#}¦rómaṇ-vat, {%<ab>a.</ab>%} hairy ({%<ab>RV.</ab>¹%}).
+;
+102277 new {#romaRvat#}¦rómaṇ-vat, {%<ab>a.</ab>%} hairy ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>15619<pc>263-2<k1>luk<k2>luk
+104057 old {#luk#}¦luk, {%<ab>N.</ab>%} dropping {%or%} disappearance ({%of %}
+;
+104057 new {#luk#}¦luk, {%<ab n="noun.">N.</ab>%} dropping {%or%} disappearance ({%of %}
+;---------------------------------------------------
+; <L>15635<pc>264-1<k1>lup<k2>lup
+104190 old {#lup#}¦lup, {%<ab>N.</ab>%} dropping, elision ({%of a letter %}
+;
+104190 new {#lup#}¦lup, {%<ab n="noun.">N.</ab>%} dropping, elision ({%of a letter %}
+;---------------------------------------------------
+; <L>15668<pc>264-3<k1>loka<k2>loka
+104457 old = (a) va-loká: <ab>√</ab> ruc] ({%free%}) space, room, place 
+;
+104457 new ^<ab>=</ab> (a) va-loká: <ab>√</ab> ruc] ({%free%}) space, room, place 
+;---------------------------------------------------
+; <L>15737<pc>266-a1<k1>vak<k2>vak<h>2
+105033 old {@-vakré@} ({%<ab>RV.</ab>¹%}).
+;
+105033 new {@-vakré@} ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>15753<pc>266-a2<k1>vakzaRa<k2>vakzaRa
+105141 old  ({%<ab>RV.</ab>¹%}); {%<ab>n.</ab>%} invigoration ({%<ab>RV.</ab>¹%}); 
+;
+105141 new  ({%<ab>RV.¹</ab>%}); {%<ab>n.</ab>%} invigoration ({%<ab>RV.¹</ab>%}); 
+;---------------------------------------------------
+; <L>15842<pc>268-2<k1>vaDarya<k2>vaDarya
+105805 old ({%<ab>RV.</ab>¹%}).
+;
+105805 new ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>15861<pc>268-3<k1>vanakapi<k2>vanakapi
+105928 old = -cara; {@-cchid@}, {%<ab>m.</ab>%} wood-cutter; {@-ja@}, {%<ab>a.</ab>%} 
+;
+105928 new ^<ab>=</ab> -cara; {@-cchid@}, {%<ab>m.</ab>%} wood-cutter; {@-ja@}, {%<ab>a.</ab>%} 
+;---------------------------------------------------
+; <L>15862<pc>268-3<k1>vananA<k2>vananA
+105941 old {#vananA#}¦van-ánā, {%<ab>f.</ab>%} desire ({%<ab>RV.</ab>¹%}).
+;
+105941 new {#vananA#}¦van-ánā, {%<ab>f.</ab>%} desire ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>15868<pc>268-3<k1>vanas<k2>vanas
+105988 old {#vanas#}¦ván-as, {%<ab>n.</ab>%} loveliness ({%<ab>RV.</ab>¹%}).
+;
+105988 new {#vanas#}¦ván-as, {%<ab>n.</ab>%} loveliness ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>15872<pc>269-1<k1>vanA<k2>vanA
+106013 old {#vanA#}¦van-ā, {%<ab>f.</ab>%} fire-stick ({%personified%}; {%<ab>RV.</ab>¹%}).
+;
+106013 new {#vanA#}¦van-ā, {%<ab>f.</ab>%} fire-stick ({%personified%}; {%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>15915<pc>269-3<k1>vam<k2>vam
+106315 old = repent ({%<ab>RV.</ab>%}): {%<ab>pp.</ab>%} {@vānta,@} vomited, spit 
+;
+106315 new ^<ab>=</ab> repent ({%<ab>RV.</ab>%}): {%<ab>pp.</ab>%} {@vānta,@} vomited, spit 
+;---------------------------------------------------
+; <L>15925<pc>269-3<k1>vayA<k2>vayA
+106381 old ({%<ab>RV.</ab>¹%}).
+;
+106381 new ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>15926<pc>269-3<k1>vayI<k2>vayI
+106385 old {#vayI#}¦vay-ī́, {%<ab>f.</ab>%} female weaver ({%<ab>RV.</ab>¹%}). 
+;
+106385 new {#vayI#}¦vay-ī́, {%<ab>f.</ab>%} female weaver ({%<ab>RV.¹</ab>%}). 
+;---------------------------------------------------
+; <L>16017<pc>271-2<k1>varDa<k2>varDa
+107018 old  (-°); {%<ab>m.</ab>%} granting of prosperity ({%<ab>RV.</ab>¹%}).
+;
+107018 new  (-°); {%<ab>m.</ab>%} granting of prosperity ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>16088<pc>272-2<k1>vaS<k2>vaS
+107449 old {#vaS#}¦VAŚ, {%<ab>red.</ab>%} {@vivaś@} ({%<ab>V.</ab> ²%}), {@vavaś@} ({%<ab>RV.</ab>¹%}), 
+;
+107449 new {#vaS#}¦VAŚ, {%<ab>red.</ab>%} {@vivaś@} ({%<ab>V.</ab> ²%}), {@vavaś@} ({%<ab>RV.¹</ab>%}), 
+;---------------------------------------------------
+; <L>16088<pc>272-2<k1>vaS<k2>vaS
+107457 old ({%<ab>RV.</ab>¹%}), commanding, having at command 
+;
+107457 new ({%<ab>RV.¹</ab>%}), commanding, having at command 
+;---------------------------------------------------
+; <L>16093<pc>272-3<k1>vaSanI<k2>vaSanI
+107500 old {#vaSanI#}¦vaśa-nī́, {%<ab>a.</ab>%} subject to ({%<ab>g.</ab>, <ab>RV.</ab>¹%}); 
+;
+107500 new {#vaSanI#}¦vaśa-nī́, {%<ab>a.</ab>%} subject to ({%<ab>g.</ab>, <ab>RV.¹</ab>%}); 
+;---------------------------------------------------
+; <L>16098<pc>272-3<k1>vaSin<k2>vaSin
+107528 old =) empty ({%rare%}); {%<ab>m.</ab>%} ruler, lord of ({%<ab>g.</ab>%}): {@-ī,@} 
+;
+107528 new ^<ab>=</ab>) empty ({%rare%}); {%<ab>m.</ab>%} ruler, lord of ({%<ab>g.</ab>%}): {@-ī,@} 
+;---------------------------------------------------
+; <L>16105<pc>272-3<k1>vazwi<k2>vazwi
+107575 old {#vazwi#}¦váṣ-ṭi, {%<ab>a.</ab>%} eager ({%<ab>RV.</ab>¹%}).
+;
+107575 new {#vazwi#}¦váṣ-ṭi, {%<ab>a.</ab>%} eager ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>16111<pc>273-2<k1>vas<k2>vas<h>4
+107693 old {@anu,@} hasten towards {%or%} consume ({%<ab>RV.</ab>¹%}).
+;
+107693 new {@anu,@} hasten towards {%or%} consume ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>16120<pc>273-2<k1>vasarhan<k2>vasarhan
+107765 old ({%<ab>RV.</ab>¹%}).
+;
+107765 new ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>16136<pc>273-3<k1>vasuvani<k2>vasuvani
+107888 old ({@vásu@}) {@-śravas@}, {%<ab>a.</ab>%} famed for wealth ({%<ab>RV.</ab>¹%}); 
+;
+107888 new ({@vásu@}) {@-śravas@}, {%<ab>a.</ab>%} famed for wealth ({%<ab>RV.¹</ab>%}); 
+;---------------------------------------------------
+; <L>16140<pc>273-3<k1>vasti<k2>vasti
+107910 old =) aperture of the bladder; {@-śīrṣa@}, {%<ab>n.</ab> <ab>sg.</ab> %}
+;
+107910 new ^<ab>=</ab>) aperture of the bladder; {@-śīrṣa@}, {%<ab>n.</ab> <ab>sg.</ab> %}
+;---------------------------------------------------
+; <L>16146<pc>274-1<k1>vastrAYcala<k2>vastrAYcala
+107971 old =) upper garment; {@-ardha,@} {%<ab>m.</ab> <ab>n.</ab>%} half of a 
+;
+107971 new ^<ab>=</ab>) upper garment; {@-ardha,@} {%<ab>m.</ab> <ab>n.</ab>%} half of a 
+;---------------------------------------------------
+; <L>16149<pc>274-1<k1>vasnya<k2>vasnya
+107985 old {#vasnya#}¦vásn-ya, {%<ab>a.</ab>%} valuable ({%<ab>RV.</ab>¹%}).
+;
+107985 new {#vasnya#}¦vásn-ya, {%<ab>a.</ab>%} valuable ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>16150<pc>274-1<k1>vasman<k2>vasman
+107989 old {#vasman#}¦vás-man, {%<ab>n.</ab>%} ¤1.¤ cover ({%<ab>RV.</ab> ²%}); ¤2.¤ nest  <lbinfo n="[]"/>
+;
+107989 new {#vasman#}¦vás-man, {%<ab>n.</ab>%} ¤1.¤ cover ({%<ab>RV.²</ab>%}); ¤2.¤ nest  <lbinfo n="[]"/>
+;---------------------------------------------------
+; <L>16150<pc>274-1<k1>vasman<k2>vasman
+107990 old ({%<ab>RV.</ab>¹%}).
+;
+107990 new ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>16166<pc>274-3<k1>vahyeSayA<k2>vahyeSayA
+108187 old {%or%} couch ({%<ab>RV.</ab>¹%}).
+;
+108187 new {%or%} couch ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>16243<pc>276-2<k1>vAtakara<k2>vAtakara
+108802 old outstripping the wind ({%<ab>RV.</ab>¹%}); {@-bhakṣa,@} {%<ab>a.</ab>%} 
+;
+108802 new outstripping the wind ({%<ab>RV.¹</ab>%}); {@-bhakṣa,@} {%<ab>a.</ab>%} 
+;---------------------------------------------------
+; <L>16249<pc>276-2<k1>vAtasvana<k2>vAtasvana
+108839 old ({%Agni%}; {%<ab>RV.</ab>¹%}); {%<ab>m.</ab> <ab>N.</ab> of a mountain%} ({%<ab>C.</ab>%}); 
+;
+108839 new ({%Agni%}; {%<ab>RV.¹</ab>%}); {%<ab>m.</ab> <ab>N.</ab> of a mountain%} ({%<ab>C.</ab>%}); 
+;---------------------------------------------------
+; <L>16249<pc>276-2<k1>vAtasvana<k2>vAtasvana
+108840 old {@-svanas,@} {%<ab>a.</ab> <ab>id.</ab>%} ({%<ab>RV.</ab>¹%}).
+;
+108840 new {@-svanas,@} {%<ab>a.</ab> <ab>id.</ab>%} ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>16285<pc>277-1<k1>vAm<k2>vAm<h>2
+109073 old <hom>2.</hom> {#vAm#}¦vā́m, {%<ab>perh.</ab> <ab>nm.</ab> <ab>du.</ab>%} = āvām ({%<ab>RV.</ab>¹%}).
+;
+109073 new <hom>2.</hom> {#vAm#}¦vā́m, {%<ab>perh.</ab> <ab>nm.</ab> <ab>du.</ab>%} = āvām ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>16341<pc>278-1<k1>vArtraGna<k2>vArtraGna
+109476 old = sacrifice for victory; {%<ab>m.</ab> <ab>pat.</ab> of%} Arjuna 
+;
+109476 new ^<ab>=</ab> sacrifice for victory; {%<ab>m.</ab> <ab>pat.</ab> of%} Arjuna 
+;---------------------------------------------------
+; <L>16385<pc>278-3<k1>vAs<k2>vAs
+109721 old {%<ab>RV.</ab>¹%}).
+;
+109721 new {%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>16418<pc>279-1<k1>vAsoda<k2>vAsoda
+109919 old {%<ab>a.</ab> <ab>id.</ab>%} ({%<ab>RV.</ab>¹%}); {@-bhṛt@}, {%<ab>a.</ab>%} wearing a -- garment 
+;
+109919 new {%<ab>a.</ab> <ab>id.</ab>%} ({%<ab>RV.¹</ab>%}); {@-bhṛt@}, {%<ab>a.</ab>%} wearing a -- garment 
+;---------------------------------------------------
+; <L>16418<pc>279-1<k1>vAsoda<k2>vAsoda
+109921 old weaving a garment ({%<ab>RV.</ab>¹%}).
+;
+109921 new weaving a garment ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>16424<pc>279-2<k1>vAh<k2>vAh<h>1
+109965 old <ab>√</ab> vah) for drawing ({%<ab>RV.</ab>¹%}).
+;
+109965 new <ab>√</ab> vah) for drawing ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>16440<pc>279-3<k1>vikawa<k2>vikawa
+110091 old  altered {%in appearance%}; {%<ab>RV.</ab>¹%}, {%<ab>C.</ab>%}] having 
+;
+110091 new  altered {%in appearance%}; {%<ab>RV.¹</ab>%}, {%<ab>C.</ab>%}] having 
+;---------------------------------------------------
+; <L>16457<pc>280-2<k1>vikramatuNga<k2>vikramatuNga
+110296 old = Vikrama‡āditya; {@-pura,@} {%<ab>n.</ab> <ab>N.</ab> of a%} town; 
+;
+110296 new ^<ab>=</ab> Vikrama‡āditya; {@-pura,@} {%<ab>n.</ab> <ab>N.</ab> of a%} town; 
+;---------------------------------------------------
+; <L>16457<pc>280-2<k1>vikramatuNga<k2>vikramatuNga
+110302 old = Vikramāditya: {@-deva,@} {%<ab>m.</ab> <ab>id.</ab>%}: {@-carita@}, {%<ab>n.</ab>%} 
+;
+110302 new ^<ab>=</ab> Vikramāditya: {@-deva,@} {%<ab>m.</ab> <ab>id.</ab>%}: {@-carita@}, {%<ab>n.</ab>%} 
+;---------------------------------------------------
+; <L>16473<pc>280-3<k1>vigada<k2>vigada
+110436 old ({%<ab>RV.</ab>¹%}); ¤2.¤ {@a,@} {%<ab>a.</ab>%} healthy; {@-gandha,@} {%<ab>a.</ab>%} ill-smelling; <lbinfo n="3"/>
+;
+110436 new ({%<ab>RV.¹</ab>%}); ¤2.¤ {@a,@} {%<ab>a.</ab>%} healthy; {@-gandha,@} {%<ab>a.</ab>%} ill-smelling; <lbinfo n="3"/>
+;---------------------------------------------------
+; <L>16487<pc>281-1<k1>vic<k2>vic
+110554 old <ab>P.</ab> {@vivekṣi@} ({%<ab>RV.</ab>¹%}), sift ({%grain from %}
+;
+110554 new <ab>P.</ab> {@vivekṣi@} ({%<ab>RV.¹</ab>%}), sift ({%grain from %}
+;---------------------------------------------------
+; <L>16490<pc>281-1<k1>vicAra<k2>vicAra
+110604 old wide ways ({%earth%}; {%<ab>RV.</ab>¹%}); wandering about; 
+;
+110604 new wide ways ({%earth%}; {%<ab>RV.¹</ab>%}); wandering about; 
+;---------------------------------------------------
+; <L>16503<pc>281-2<k1>vij<k2>vij
+110727 old {@abhi,@} upset ({%<ab>int.</ab>%}: ¤3.¤ {%<ab>sg.</ab> <ab>aor.</ab>%} -vikta: {%<ab>RV.</ab>¹%}). 
+;
+110727 new {@abhi,@} upset ({%<ab>int.</ab>%}: ¤3.¤ {%<ab>sg.</ab> <ab>aor.</ab>%} -vikta: {%<ab>RV.¹</ab>%}). 
+;---------------------------------------------------
+; <L>16509<pc>281-3<k1>vijara<k2>vijara
+110803 old ({%<ab>RV.</ab>¹%}); {@-jā-van@}, {%<ab>a.</ab>%} bodily, own ({%<ab>V.</ab>%}).
+;
+110803 new ({%<ab>RV.¹</ab>%}); {@-jā-van@}, {%<ab>a.</ab>%} bodily, own ({%<ab>V.</ab>%}).
+;---------------------------------------------------
+; <L>16556<pc>283-1<k1>vidAyya<k2>vidAyya
+111279 old {#vidAyya#}¦vid-ā́yya, {%<ab>fp.</ab>%} to be found ({%<ab>RV.</ab>¹%}).
+;
+111279 new {#vidAyya#}¦vid-ā́yya, {%<ab>fp.</ab>%} to be found ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>16607<pc>284-2<k1>viDu<k2>viDu<h>2
+111709 old <hom>2.</hom> {#viDu#}¦vidh-ú, {%<ab>a.</ab>%} solitary, isolated ({%<ab>RV.</ab>¹%}); 
+;
+111709 new <hom>2.</hom> {#viDu#}¦vidh-ú, {%<ab>a.</ab>%} solitary, isolated ({%<ab>RV.¹</ab>%}); 
+;---------------------------------------------------
+; <L>16621<pc>284-3<k1>vinaya<k2>vinaya
+111822 old {#vinaya#}¦vi-nayá, {%<ab>a.</ab>%} removing ({%<ab>RV.</ab>¹%}); {%<ab>m.</ab>%} ({%<ab>C.</ab>%}) 
+;
+111822 new {#vinaya#}¦vi-nayá, {%<ab>a.</ab>%} removing ({%<ab>RV.¹</ab>%}); {%<ab>m.</ab>%} ({%<ab>C.</ab>%}) 
+;---------------------------------------------------
+; <L>16624<pc>284-3<k1>vinAqikA<k2>vinAqikA
+111866 old = (¤1/60¤) nāḍikā {%or%} ghaṭikā, = ¤24¤ seconds; {@-nāḍī@}, 
+;
+111866 new ^<ab>=</ab> (¤1/60¤) nāḍikā {%or%} ghaṭikā, = ¤24¤ seconds; {@-nāḍī@}, 
+;---------------------------------------------------
+; <L>16647<pc>285-3<k1>vipaya<k2>vipaya
+112097 old tremble ({%<ab>RV.</ab>¹%}).
+;
+112097 new tremble ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>16654<pc>285-3<k1>vipAka<k2>vipAka
+112156 old {#vipAka#}¦ví-pāka, {%<ab>a.</ab>%} ripe ({%<ab>RV.</ab>¹%}); {%<ab>m.</ab>%} ({%<ab>C.</ab>%}) 
+;
+112156 new {#vipAka#}¦ví-pāka, {%<ab>a.</ab>%} ripe ({%<ab>RV.¹</ab>%}); {%<ab>m.</ab>%} ({%<ab>C.</ab>%}) 
+;---------------------------------------------------
+; <L>16654<pc>285-3<k1>vipAka<k2>vipAka
+112173 old ({%car%}: {%<ab>RV.</ab>¹ ?%}).
+;
+112173 new ({%car%}: {%<ab>RV.¹</ab> ?%}).
+;---------------------------------------------------
+; <L>16660<pc>286-1<k1>vipoDA<k2>vipoDA
+112211 old {#vipoDA#}¦vipo-dhā́, {%<ab>a.</ab>%} ({%<ab>RV.</ab>¹%}) bestowing inspiration <lbinfo n="2[]"/>
+;
+112211 new {#vipoDA#}¦vipo-dhā́, {%<ab>a.</ab>%} ({%<ab>RV.¹</ab>%}) bestowing inspiration <lbinfo n="2[]"/>
+;---------------------------------------------------
+; <L>16681<pc>286-2<k1>vibanDa<k2>vibanDa
+112370 old {%of a river%} ({%<ab>RV.</ab>¹%}).
+;
+112370 new {%of a river%} ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>16688<pc>286-2<k1>viBAjaka<k2>viBAjaka
+112441 old {%<ab>RV.</ab>¹%}); {@-bhāva,@} {%<ab>m.</ab> <ab>ep.</ab> of%} Śiva; a representation <lbinfo n="8"/>
+;
+112441 new {%<ab>RV.¹</ab>%}); {@-bhāva,@} {%<ab>m.</ab> <ab>ep.</ab> of%} Śiva; a representation <lbinfo n="8"/>
+;---------------------------------------------------
+; <L>16690<pc>286-3<k1>viBu<k2>viBu
+112485 old  everywhere ({%<ab>RV.</ab>¹%}); joined with the 
+;
+112485 new  everywhere ({%<ab>RV.¹</ab>%}); joined with the 
+;---------------------------------------------------
+; <L>16702<pc>287-1<k1>vimAMsa<k2>vimAMsa
+112615 old = -māna, celestial car, {@-tā,@} {%<ab>f.</ab>%} condition of a 
+;
+112615 new ^<ab>=</ab> -māna, celestial car, {@-tā,@} {%<ab>f.</ab>%} condition of a 
+;---------------------------------------------------
+; <L>16764<pc>290-3<k1>viSvaka<k2>viSvaka
+113711 old  ({%<ab>RV.</ab>¹%}); ({@á@}) {@-tas,@} {%<ab>ad.</ab>%} from {%or%} on all sides, 
+;
+113711 new  ({%<ab>RV.¹</ab>%}); ({@á@}) {@-tas,@} {%<ab>ad.</ab>%} from {%or%} on all sides, 
+;---------------------------------------------------
+; <L>16770<pc>291-1<k1>viSvAtiTi<k2>viSvAtiTi
+113795 old = going everywhere; {@-ātman,@} {%<ab>m.</ab>%} universal 
+;
+113795 new ^<ab>=</ab> going everywhere; {@-ātman,@} {%<ab>m.</ab>%} universal 
+;---------------------------------------------------
+; <L>16770<pc>291-1<k1>viSvAtiTi<k2>viSvAtiTi
+113801 old {%<ab>a.</ab>%} all-sustaining ({%<ab>RV.</ab>¹%}); {@ā́-mitra,@} {%<ab>m.</ab> <ab>N.</ab> of a %}
+;
+113801 new {%<ab>a.</ab>%} all-sustaining ({%<ab>RV.¹</ab>%}); {@ā́-mitra,@} {%<ab>m.</ab> <ab>N.</ab> of a %}
+;---------------------------------------------------
+; <L>16790<pc>291-3<k1>vizamaSara<k2>vizamaSara
+113951 old = five-arrowed), god of love; {@-śilā@}, {%<ab>f.</ab>%} uneven 
+;
+113951 new ^<ab>=</ab> five-arrowed), god of love; {@-śilā@}, {%<ab>f.</ab>%} uneven 
+;---------------------------------------------------
+; <L>16805<pc>292-1<k1>vizARin<k2>vizARin
+114084 old horns {%in their hands, <ab>comm.</ab>%}; {%<ab>RV.</ab>¹%}).
+;
+114084 new horns {%in their hands, <ab>comm.</ab>%}; {%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>16831<pc>292-2<k1>vizwAra<k2>vizwAra
+114219 old layer {%of grass%} ({%<ab>RV.</ab>¹%}): ({@á@}) {@-paṅkti,@} {%<ab>f.</ab> a metre%} 
+;
+114219 new layer {%of grass%} ({%<ab>RV.¹</ab>%}): ({@á@}) {@-paṅkti,@} {%<ab>f.</ab> a metre%} 
+;---------------------------------------------------
+; <L>16839<pc>292-2<k1>vizpaS<k2>vizpaS
+114286 old {%<ab>RV.</ab>¹%}; <ab>√</ab> spaś).
+;
+114286 new {%<ab>RV.¹</ab>%}; <ab>√</ab> spaś).
+;---------------------------------------------------
+; <L>16845<pc>292-2<k1>vizvadryaYc<k2>vizvadryaYc
+114320 old in all directions: {%<ab>ad.</ab>%} {@-dryâk,@} away ({%<ab>RV.</ab>¹%}).
+;
+114320 new in all directions: {%<ab>ad.</ab>%} {@-dryâk,@} away ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>16856<pc>292-3<k1>visft<k2>visft
+114409 old {#visft#}¦vi-sṛ́t, {%<ab>f.</ab>%} flowing water ({%<ab>RV.</ab>¹%}; {@-sṛt-@}
+;
+114409 new {#visft#}¦vi-sṛ́t, {%<ab>f.</ab>%} flowing water ({%<ab>RV.¹</ab>%}; {@-sṛt-@}
+;---------------------------------------------------
+; <L>16856<pc>292-3<k1>visft<k2>visft
+114414 old ({%<ab>RV.</ab>¹%}); ({@vi@}) {@-sṛṣṭi@}, {%<ab>f.</ab>%} discharge; creation.
+;
+114414 new ({%<ab>RV.¹</ab>%}); ({@vi@}) {@-sṛṣṭi@}, {%<ab>f.</ab>%} discharge; creation.
+;---------------------------------------------------
+; <L>16866<pc>293-1<k1>visraMsa<k2>visraMsa
+114507 old {%<ab>f.</ab>%} ({%<ab>RV.</ab> ²%}) shoot; plant; {@-svara,@} {%<ab>m.</ab>%} discord; 
+;
+114507 new {%<ab>f.</ab>%} ({%<ab>RV.²</ab>%}) shoot; plant; {@-svara,@} {%<ab>m.</ab>%} discord; 
+;---------------------------------------------------
+; <L>16881<pc>293-2<k1>vI<k2>vI<h>3
+114641 old <hom>3.</hom> {#vI#}¦VĪ, {%<ab>intv.</ab>%} {@vevīyate,@} flutter ({%<ab>RV.</ab>¹%}); 
+;
+114641 new <hom>3.</hom> {#vI#}¦VĪ, {%<ab>intv.</ab>%} {@vevīyate,@} flutter ({%<ab>RV.¹</ab>%}); 
+;---------------------------------------------------
+; <L>16883<pc>293-2<k1>vI<k2>vI
+114650 old {#vI#}¦vī, {%<ab>a.</ab>%} I. (vī́) eager for ({%<ab>g.</ab>%}; {%<ab>RV.</ab>¹%}; ¤2.¤ set 
+;
+114650 new {#vI#}¦vī, {%<ab>a.</ab>%} I. (vī́) eager for ({%<ab>g.</ab>%}; {%<ab>RV.¹</ab>%}; ¤2.¤ set 
+;---------------------------------------------------
+; <L>16886<pc>293-2<k1>vIci<k2>vIci<h>1
+114672 old vi <ab>+</ab> <ab>√</ab> añc] deceit, seduction ({%<ab>RV.</ab>¹%}); {@i@} {%or%} {@ī,@} 
+;
+114672 new vi <ab>+</ab> <ab>√</ab> añc] deceit, seduction ({%<ab>RV.¹</ab>%}); {@i@} {%or%} {@ī,@} 
+;---------------------------------------------------
+; <L>16897<pc>293-3<k1>vItacinta<k2>vItacinta
+114756 old a smooth tail ({%steed%}; {%<ab>RV.</ab>¹%}); {@-viṣa,@} {%<ab>a.</ab>%} free 
+;
+114756 new a smooth tail ({%steed%}; {%<ab>RV.¹</ab>%}); {@-viṣa,@} {%<ab>a.</ab>%} free 
+;---------------------------------------------------
+; <L>16925<pc>294-3<k1>vfkAyu<k2>vfkAyu
+115068 old {#vfkAyu#}¦vṛkā-yú, {%<ab>a.</ab>%} murderous ({%<ab>RV.</ab>¹%}).
+;
+115068 new {#vfkAyu#}¦vṛkā-yú, {%<ab>a.</ab>%} murderous ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>16928<pc>294-3<k1>vfkka<k2>vfkka
+115081 old {%<ab>RV.</ab>¹%}; {%<ab>m.</ab> <ab>du.</ab>%} kidneys ({%<ab>V.</ab>, <ab>C.</ab>%}): {@-ka,@} {%<ab>m.</ab> <ab>du.</ab> %}
+;
+115081 new {%<ab>RV.¹</ab>%}; {%<ab>m.</ab> <ab>du.</ab>%} kidneys ({%<ab>V.</ab>, <ab>C.</ab>%}): {@-ka,@} {%<ab>m.</ab> <ab>du.</ab> %}
+;---------------------------------------------------
+; <L>16931<pc>294-3<k1>vfkza<k2>vfkza
+115098 old = <ab>√</ab> vraśc] tree; plant ({%rare%}); tree {%bearing %}
+;
+115098 new ^<ab>=</ab> <ab>√</ab> vraśc] tree; plant ({%rare%}); tree {%bearing %}
+;---------------------------------------------------
+; <L>16931<pc>294-3<k1>vfkza<k2>vfkza
+115101 old {%<ab>a.</ab>%} wooded ({%<ab>RV.</ab>¹%}); {@-ghaṭa@}, {%<ab>m.</ab> <ab>N.</ab> of an Agrahāra%}; <lbinfo n="4"/>
+;
+115101 new {%<ab>a.</ab>%} wooded ({%<ab>RV.¹</ab>%}); {@-ghaṭa@}, {%<ab>m.</ab> <ab>N.</ab> of an Agrahāra%}; <lbinfo n="4"/>
+;---------------------------------------------------
+; <L>16937<pc>295-1<k1>vfjanI<k2>vfjanI
+115193 old  fold ({%<ab>RV.</ab>¹%}).
+;
+115193 new  fold ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>16940<pc>295-1<k1>vft<k2>vft
+115329 old turn ({%<ab>RV.</ab>¹%}). {@anu-pari‡ā,@} turn in the direction <lbinfo n="5"/>
+;
+115329 new turn ({%<ab>RV.¹</ab>%}). {@anu-pari‡ā,@} turn in the direction <lbinfo n="5"/>
+;---------------------------------------------------
+; <L>16940<pc>295-1<k1>vft<k2>vft
+115509 old {@abhi-sam,@} arise ({%<ab>RV.</ab>¹%}).
+;
+115509 new {@abhi-sam,@} arise ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>16942<pc>296-2<k1>vft<k2>vft<h>2
+115519 old {%<ab>etc.</ab>%}; -fold ({%after numerals%}); {%<ab>N.</ab>%} conclusion, 
+;
+115519 new {%<ab>etc.</ab>%}; -fold ({%after numerals%}); {%<ab n="noun.">N.</ab>%} conclusion, 
+;---------------------------------------------------
+; <L>16953<pc>296-3<k1>vftratara<k2>vftratara
+115633 old ({%<ab>RV.</ab>¹%}); {@-vadha,@} {%<ab>m.</ab>%} slaying of Vṛtra; {@-vi-@}
+;
+115633 new ({%<ab>RV.¹</ab>%}); {@-vadha,@} {%<ab>m.</ab>%} slaying of Vṛtra; {@-vi-@}
+;---------------------------------------------------
+; <L>16954<pc>296-3<k1>vfTag<k2>vfTag
+115645 old ({%<ab>RV.</ab>¹%}).
+;
+115645 new ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>16958<pc>296-3<k1>vfdDaka<k2>vfdDaka
+115696 old of great might ({%<ab>RV.</ab>¹%}); {@-viṣṇu@}, {%<ab>m.</ab>%} Viṣṇu 
+;
+115696 new of great might ({%<ab>RV.¹</ab>%}); {@-viṣṇu@}, {%<ab>m.</ab>%} Viṣṇu 
+;---------------------------------------------------
+; <L>16985<pc>297-2<k1>vfzan<k2>vfzan
+115930 old = Indra, lord ({%of the earth = king%}); {%<ab>N.</ab>%} ({%<ab>V.</ab>%}).
+;
+115930 new ^<ab>=</ab> Indra, lord ({%of the earth = king%}); {%<ab>N.</ab>%} ({%<ab>V.</ab>%}).
+;---------------------------------------------------
+; <L>16988<pc>297-3<k1>vfzaparvan<k2>vfzaparvan
+115946 old joints ({%indra%}; {%<ab>RV.</ab>¹%}); {%<ab>m.</ab> <ab>N.</ab> of a Dāmava%} 
+;
+115946 new joints ({%indra%}; {%<ab>RV.¹</ab>%}); {%<ab>m.</ab> <ab>N.</ab> of a Dāmava%} 
+;---------------------------------------------------
+; <L>16988<pc>297-3<k1>vfzaparvan<k2>vfzaparvan
+115948 old mighty ({%Soma%}) is presented ({%Indra%}; {%<ab>RV.</ab>¹%}).
+;
+115948 new mighty ({%Soma%}) is presented ({%Indra%}; {%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>16994<pc>297-3<k1>vfzavAha<k2>vfzavAha
+115994 old  a vast host ({%Maruts%}; {%<ab>RV.</ab>¹%}); {@-śiprá@}, {%<ab>m.</ab> %}
+;
+115994 new  a vast host ({%Maruts%}; {%<ab>RV.¹</ab>%}); {@-śiprá@}, {%<ab>m.</ab> %}
+;---------------------------------------------------
+; <L>16994<pc>297-3<k1>vfzavAha<k2>vfzavAha
+115996 old mighty courage ({%<ab>RV.</ab>¹%}); {@-skandha,@} {%<ab>a.</ab>%} having 
+;
+115996 new mighty courage ({%<ab>RV.¹</ab>%}); {@-skandha,@} {%<ab>a.</ab>%} having 
+;---------------------------------------------------
+; <L>16996<pc>297-3<k1>vfzAkapAyI<k2>vfzAkapAyI
+116007 old  ({%<ab>RV.</ab>¹%}).
+;
+116007 new  ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>17000<pc>297-3<k1>vfzAyuD<k2>vfzAyuD
+116031 old {%kind of animal%} ({%<ab>RV.</ab>¹%}).
+;
+116031 new {%kind of animal%} ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>17047<pc>298-3<k1>vedIyas<k2>vedIyas
+116407 old better than ({%<ab>ab.</ab>%}; {%<ab>RV.</ab>¹%}).
+;
+116407 new better than ({%<ab>ab.</ab>%}; {%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>17075<pc>299-2<k1>veSI<k2>veSI
+116584 old {#veSI#}¦veś-ī́, {%<ab>f.</ab>%} [<ab>√</ab> viś] needle ({%<ab>RV.</ab>¹%}).
+;
+116584 new {#veSI#}¦veś-ī́, {%<ab>f.</ab>%} [<ab>√</ab> viś] needle ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>17283<pc>302-1<k1>vyaYjana<k2>vyaYjana
+117809 old {#vyaYjana#}¦vi‡áñjana, {%<ab>n.</ab>%} ornament ({%<ab>RV.</ab>¹%}); {%<ab>C.</ab>%}; 
+;
+117809 new {#vyaYjana#}¦vi‡áñjana, {%<ab>n.</ab>%} ornament ({%<ab>RV.¹</ab>%}); {%<ab>C.</ab>%}; 
+;---------------------------------------------------
+; <L>17301<pc>302-3<k1>vyayana<k2>vyayana
+118028 old {#vyayana#}¦vi‡áyana, {%<ab>n.</ab>%} departure ({%<ab>RV.</ab>¹%}); expenditure, <lbinfo n="2"/>
+;
+118028 new {#vyayana#}¦vi‡áyana, {%<ab>n.</ab>%} departure ({%<ab>RV.¹</ab>%}); expenditure, <lbinfo n="2"/>
+;---------------------------------------------------
+; <L>17306<pc>302-3<k1>vyalkaSA<k2>vyalkaSA
+118066 old {#vyalkaSA#}¦ví‡alkaśā, {%<ab>f.</ab>%} {%kind of plant%} ({%<ab>RV.</ab>¹%}).
+;
+118066 new {#vyalkaSA#}¦ví‡alkaśā, {%<ab>f.</ab>%} {%kind of plant%} ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>17364<pc>304-2<k1>vyenas<k2>vyenas
+118625 old {#vyenas#}¦ví‡enas, {%<ab>a.</ab>%} guiltless ({%<ab>RV.</ab>¹%}); ({@ví@}) {@-enī,@} 
+;
+118625 new {#vyenas#}¦ví‡enas, {%<ab>a.</ab>%} guiltless ({%<ab>RV.¹</ab>%}); ({@ví@}) {@-enī,@} 
+;---------------------------------------------------
+; <L>17364<pc>304-2<k1>vyenas<k2>vyenas
+118626 old {%<ab>a.</ab> <ab>f.</ab>%} various-tinted ({%dawn%}; {%<ab>RV.</ab>¹%}).
+;
+118626 new {%<ab>a.</ab> <ab>f.</ab>%} various-tinted ({%dawn%}; {%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>17370<pc>304-3<k1>vraja<k2>vraja
+118700 old {#vraja#}¦vraj-á, {%<ab>m.</ab>%} ({%<ab>n.</ab> <ab>RV.</ab>¹%}) fold, stall, cowpen; <lbinfo n="3"/>
+;
+118700 new {#vraja#}¦vraj-á, {%<ab>m.</ab>%} ({%<ab>n.</ab> <ab>RV.¹</ab>%}) fold, stall, cowpen; <lbinfo n="3"/>
+;---------------------------------------------------
+; <L>17370<pc>304-3<k1>vraja<k2>vraja
+118703 old roaming, going ({%elsewhere%}; {%<ab>C.</ab>%}); path ({%<ab>RV.</ab>¹%}).
+;
+118703 new roaming, going ({%elsewhere%}; {%<ab>C.</ab>%}); path ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>17382<pc>305-2<k1>vrad<k2>vrad
+118806 old become soft, give way ({%<ab>RV.</ab>¹%}).
+;
+118806 new become soft, give way ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>17383<pc>305-2<k1>vrandin<k2>vrandin
+118810 old {#vrandin#}¦vrand-ín, {%<ab>a.</ab>%} growing slack ({%<ab>RV.</ab> ²%}).
+;
+118810 new {#vrandin#}¦vrand-ín, {%<ab>a.</ab>%} growing slack ({%<ab>RV.²</ab>%}).
+;---------------------------------------------------
+; <L>17390<pc>305-3<k1>vriS<k2>vriS
+118854 old {#vriS#}¦vriś, {%<ab>f.</ab>%} finger ({%<ab>RV.</ab>¹%}).
+;
+118854 new {#vriS#}¦vriś, {%<ab>f.</ab>%} finger ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>17396<pc>305-3<k1>vlag<k2>vlag
+118884 old {%with%} {@abhi,@} {%<ab>gd.</ab>%} {@-vlagyá@} ({%<ab>RV.</ab> ²%}).
+;
+118884 new {%with%} {@abhi,@} {%<ab>gd.</ab>%} {@-vlagyá@} ({%<ab>RV.²</ab>%}).
+;---------------------------------------------------
+; <L>17400<pc>305-a1<k1>SaMs<k2>SaMs
+118930 old {%<ab>RV.</ab>¹%}). {@pra,@} proclaim, praise, extol; foretell 
+;
+118930 new {%<ab>RV.¹</ab>%}). {@pra,@} proclaim, praise, extol; foretell 
+;---------------------------------------------------
+; <L>17447<pc>306-2<k1>SaNku<k2>SaNku
+119311 old {%<ab>N.</ab>%}: ({@u@}) {@-ka,@} {%<ab>m.</ab>%} little peg; {%<ab>N.</ab>%}; {@-karṇa@}, {%<ab>a.</ab>%} 
+;
+119311 new {%<ab>N.</ab>%}: ({@u@}){@-ka,@} {%<ab>m.</ab>%} little peg; {%<ab>N.</ab>%}; {@-karṇa@}, {%<ab>a.</ab>%} 
+;---------------------------------------------------
+; <L>17455<pc>306-3<k1>SacI<k2>SacI
+119379 old = lord; {@-ramaṇa@}, {%<ab>m.</ab>%} lover of Śaci, Indra.
+;
+119379 new ^<ab>=</ab> lord; {@-ramaṇa@}, {%<ab>m.</ab>%} lover of Śaci, Indra.
+;---------------------------------------------------
+; <L>17461<pc>306-3<k1>Sata<k2>Sata
+119419 old = ¤200¤th); {%with a numeral in%} -ka {%it = so many%} 
+;
+119419 new ^<ab>=</ab> ¤200¤th); {%with a numeral in%} -ka {%it = so many%} 
+;---------------------------------------------------
+; <L>17462<pc>306-3<k1>Sataka<k2>Sataka
+119448 old -han; ({@á@}) {@-cakra@}, {%<ab>a.</ab>%} hundred-wheeled ({%<ab>RV.</ab>¹%}); 
+;
+119448 new -han; ({@á@}) {@-cakra@}, {%<ab>a.</ab>%} hundred-wheeled ({%<ab>RV.¹</ab>%}); 
+;---------------------------------------------------
+; <L>17462<pc>306-3<k1>Sataka<k2>Sataka
+119463 old having a hundred feathers {%or%} leaves ({%<ab>RV.</ab>¹%}); 
+;
+119463 new having a hundred feathers {%or%} leaves ({%<ab>RV.¹</ab>%}); 
+;---------------------------------------------------
+; <L>17462<pc>306-3<k1>Sataka<k2>Sataka
+119472 old a hundredfold ({%<ab>RV.</ab>¹%}); {@-pādaka,@} {%<ab>m.</ab>%} centipede; <lbinfo n="5"/>
+;
+119472 new a hundredfold ({%<ab>RV.¹</ab>%}); {@-pādaka,@} {%<ab>m.</ab>%} centipede; <lbinfo n="5"/>
+;---------------------------------------------------
+; <L>17462<pc>306-3<k1>Sataka<k2>Sataka
+119510 old  {@-séya,@} {%<ab>n.</ab>%} hundredfold gain ({%<ab>RV.</ab>¹%}); 
+;
+119510 new  {@-séya,@} {%<ab>n.</ab>%} hundredfold gain ({%<ab>RV.¹</ab>%}); 
+;---------------------------------------------------
+; <L>17462<pc>306-3<k1>Sataka<k2>Sataka
+119511 old {@-svin,@} {%<ab>a.</ab>%} possessing a hundred ({%<ab>RV.</ab>¹%}); {@-hán,@} 
+;
+119511 new {@-svin,@} {%<ab>a.</ab>%} possessing a hundred ({%<ab>RV.¹</ab>%}); {@-hán,@} 
+;---------------------------------------------------
+; <L>17491<pc>307-3<k1>SaPa<k2>SaPa
+119697 old by the hoofs ({%dust, <ab>RV.</ab>¹%}).
+;
+119697 new by the hoofs ({%dust, <ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>17513<pc>308-1<k1>Sam<k2>Sam
+119891 old {#Sam#}¦śám, {%indecl.%} auspiciously ({%<ab>V.</ab>%}); {%<ab>N.</ab>%} blessing, <lbinfo n="5"/>
+;
+119891 new {#Sam#}¦śám, {%indecl.%} auspiciously ({%<ab>V.</ab>%}); {%<ab n="noun.">N.</ab>%} blessing, <lbinfo n="5"/>
+;---------------------------------------------------
+; <L>17529<pc>308-2<k1>Samba<k2>Samba
+119984 old {%<ab>comm.</ab>%}; {%<ab>RV.</ab>¹%}).
+;
+119984 new {%<ab>comm.</ab>%}; {%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>17548<pc>308-3<k1>SayA<k2>SayA
+120088 old {#SayA#}¦śay-ā́, {%<ab>f.</ab>%} [<ab>√</ab> śī] couch ({%<ab>RV.</ab>¹%}).
+;
+120088 new {#SayA#}¦śay-ā́, {%<ab>f.</ab>%} [<ab>√</ab> śī] couch ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>17579<pc>309-1<k1>SaraBeda<k2>SaraBeda
+120270 old = Kārttikeya), {@-udbhava,@} {%<ab>m.</ab> <ab>ep.</ab> of%} Kārttikeya; <lbinfo n="8"/>
+;
+120270 new ^<ab>=</ab> Kārttikeya), {@-udbhava,@} {%<ab>m.</ab> <ab>ep.</ab> of%} Kārttikeya; <lbinfo n="8"/>
+;---------------------------------------------------
+; <L>17612<pc>309-2<k1>Sarmaya<k2>Sarmaya
+120485 old  ({%<ab>RV.</ab>¹%}). 
+;
+120485 new  ({%<ab>RV.¹</ab>%}). 
+;---------------------------------------------------
+; <L>17622<pc>309-3<k1>SarvarI<k2>SarvarI
+120541 old motley steeds {%of the Maruts%} ({%<ab>pl.</ab>%}; {%<ab>RV.</ab>¹%}); 
+;
+120541 new motley steeds {%of the Maruts%} ({%<ab>pl.</ab>%}; {%<ab>RV.¹</ab>%}); 
+;---------------------------------------------------
+; <L>17663<pc>310-2<k1>SaSvaDA<k2>SaSvaDA
+120799 old ({%<ab>RV.</ab>¹%}).
+;
+120799 new ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>17667<pc>310-2<k1>Sas<k2>Sas
+120821 old ({%<ab>RV.</ab> ²%}), {@śāsti@} ({%<ab>VS.</ab>, <ab>Br.</ab>, <ab>S.</ab>%}), slaughter, cut 
+;
+120821 new ({%<ab>RV.²</ab>%}), {@śāsti@} ({%<ab>VS.</ab>, <ab>Br.</ab>, <ab>S.</ab>%}), slaughter, cut 
+;---------------------------------------------------
+; <L>17668<pc>310-2<k1>Sasana<k2>Sasana
+120828 old {#Sasana#}¦śás-ana, {%<ab>n.</ab>%} slaughtering ({%<ab>RV.</ab> ²%}); 
+;
+120828 new {#Sasana#}¦śás-ana, {%<ab>n.</ab>%} slaughtering ({%<ab>RV.²</ab>%}); 
+;---------------------------------------------------
+; <L>17668<pc>310-2<k1>Sasana<k2>Sasana
+120829 old ({@śás@}) {@-ā,@} {%<ab>f.</ab> <ab>id.</ab>%} ({%<ab>RV.</ab>¹%}).
+;
+120829 new ({@śás@}) {@-ā,@} {%<ab>f.</ab> <ab>id.</ab>%} ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>17670<pc>310-2<k1>Sasti<k2>Sasti
+120839 old {#Sasti#}¦śas-tí, {%<ab>f.</ab>%} [<ab>√</ab> saṃs] praise ({%<ab>RV.</ab> ²%}); 
+;
+120839 new {#Sasti#}¦śas-tí, {%<ab>f.</ab>%} [<ab>√</ab> saṃs] praise ({%<ab>RV.²</ab>%}); 
+;---------------------------------------------------
+; <L>17670<pc>310-2<k1>Sasti<k2>Sasti
+120840 old praiser ({%<ab>RV.</ab>¹%}); ({@śás@}) -{@tṛ@}, {%<ab>m.</ab>%} dissecter ({%<ab>V.</ab>%}).
+;
+120840 new praiser ({%<ab>RV.¹</ab>%}); ({@śás@}) -{@tṛ@}, {%<ab>m.</ab>%} dissecter ({%<ab>V.</ab>%}).
+;---------------------------------------------------
+; <L>17678<pc>310-3<k1>Sasman<k2>Sasman
+120909 old praise ({%<ab>RV.</ab>¹%}); ({@śas@}) {@-ya,@} {%<ab>fp.</ab>%} [<ab>√</ab> śaṃs] to be 
+;
+120909 new praise ({%<ab>RV.¹</ab>%}); ({@śas@}) {@-ya,@} {%<ab>fp.</ab>%} [<ab>√</ab> śaṃs] to be 
+;---------------------------------------------------
+; <L>17697<pc>311-1<k1>SAkin<k2>SAkin
+121038 old  helpful ({%<ab>V.</ab>%}); {@-iná,@} {%<ab>a.</ab>%} ({%<ab>RV.</ab>¹%} {%<ab>id.</ab>%}.
+;
+121038 new  helpful ({%<ab>V.</ab>%}); {@-iná,@} {%<ab>a.</ab>%} ({%<ab>RV.¹</ab>%} {%<ab>id.</ab>%}.
+;---------------------------------------------------
+; <L>17702<pc>311-1<k1>SAkta<k2>SAkta
+121066 old ({%<ab>RV.</ab>¹%}); worshipper of the Śaktis of Śiva ({%<ab>C.</ab>%}).
+;
+121066 new ({%<ab>RV.¹</ab>%}); worshipper of the Śaktis of Śiva ({%<ab>C.</ab>%}).
+;---------------------------------------------------
+; <L>17705<pc>311-1<k1>SAkman<k2>SAkman
+121079 old {#SAkman#}¦śā́k-man, {%<ab>n.</ab>%} help, aid ({%<ab>RV.</ab>¹%}).
+;
+121079 new {#SAkman#}¦śā́k-man, {%<ab>n.</ab>%} help, aid ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>17766<pc>311-3<k1>SAmulya<k2>SAmulya
+121450 old {#SAmulya#}¦śāmulyâ, {%<ab>n.</ab>%} woollen shirt ({%<ab>RV.</ab>¹%}).
+;
+121450 new {#SAmulya#}¦śāmulyâ, {%<ab>n.</ab>%} woollen shirt ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>17768<pc>311-3<k1>SAmbara<k2>SAmbara
+121461 old  to Śambara; {%<ab>n.</ab>%} fight with Śambara ({%<ab>RV.</ab>¹%}): 
+;
+121461 new  to Śambara; {%<ab>n.</ab>%} fight with Śambara ({%<ab>RV.¹</ab>%}): 
+;---------------------------------------------------
+; <L>17780<pc>312-1<k1>SAri<k2>SAri
+121526 old ({%sts. spelt%} sāri): arrow ({%<ab>RV.</ab>¹%}; {%<ab>ep.</ab>%} śaru); elephant's <lbinfo n="3"/>
+;
+121526 new ({%sts. spelt%} sāri): arrow ({%<ab>RV.¹</ab>%}; {%<ab>ep.</ab>%} śaru); elephant's <lbinfo n="3"/>
+;---------------------------------------------------
+; <L>17822<pc>312-3<k1>SAsa<k2>SAsa
+121824 old {#SAsa#}¦śā́s-a, ¤1.¤ {%<ab>m.</ab>%} order, command ({%<ab>RV.</ab> ²%}); 
+;
+121824 new {#SAsa#}¦śā́s-a, ¤1.¤ {%<ab>m.</ab>%} order, command ({%<ab>RV.²</ab>%}); 
+;---------------------------------------------------
+; <L>17822<pc>312-3<k1>SAsa<k2>SAsa
+121825 old {@á,@} {%<ab>m.</ab>%} ruler, chastiser ({%<ab>RV.</ab> ²%}); {%<ab>N.</ab> of <ab>RV.</ab> <ab>N.</ab>%} 
+;
+121825 new {@á,@} {%<ab>m.</ab>%} ruler, chastiser ({%<ab>RV.²</ab>%}); {%<ab>N.</ab> of <ab>RV.</ab> X,152%} ({%<ab>Br.</ab>%}); 
+;---------------------------------------------------
+; <L>17822<pc>312-3<k1>SAsa<k2>SAsa
+121826 old ¤152¤ ({%<ab>Br.</ab>%}); ¤2.¤ {@á,@} {%<ab>m.</ab>%} butcher's knife ({%<ab>Br.</ab>, <ab>S.</ab>%}): 
+;
+121826 new ¤2.¤ {@á,@} {%<ab>m.</ab>%} butcher's knife ({%<ab>Br.</ab>, <ab>S.</ab>%}): 
+;---------------------------------------------------
+; <L>17825<pc>313-1<k1>SAsanIya<k2>SAsanIya
+121861 old {%used as <ab>N.</ab>%}) {%the root%} ¤1.¤ śās; {@-tṛ@}, {%<ab>m.</ab>%} punisher, 
+;
+121861 new {%used as <ab n="noun.">N.</ab>%}) {%the root%} ¤1.¤ śās; {@-tṛ@}, {%<ab>m.</ab>%} punisher, 
+;---------------------------------------------------
+; <L>17826<pc>313-1<k1>SAstra<k2>SAstra
+121867 old {#SAstra#}¦śās-trá, {%<ab>n.</ab> <ab>RV.</ab>¹, <ab>C.</ab>%}: command, precept; <lbinfo n="3"/>
+;
+121867 new {#SAstra#}¦śās-trá, {%<ab>n.</ab> <ab>RV.¹</ab>, <ab>C.</ab>%}: command, precept; <lbinfo n="3"/>
+;---------------------------------------------------
+; <L>17849<pc>313-2<k1>SiKA<k2>SiKA
+122039 old = pearl {%or%} crown of; {@-muṇḍa@}, {%<ab>a.</ab>%} shaven with 
+;
+122039 new ^<ab>=</ab> pearl {%or%} crown of; {@-muṇḍa@}, {%<ab>a.</ab>%} shaven with 
+;---------------------------------------------------
+; <L>17870<pc>313-3<k1>Sipravat<k2>Sipravat
+122167 old {#Sipravat#}¦śípra-vat, {%<ab>a.</ab>%} full-cheeked ({%<ab>RV.</ab>¹%}).
+;
+122167 new {#Sipravat#}¦śípra-vat, {%<ab>a.</ab>%} full-cheeked ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>17874<pc>313-3<k1>SiPA<k2>SiPA
+122185 old with a rod ({%<ab>C.</ab>%}); {%<ab>N.</ab> of a river%} ({%<ab>RV.</ab>¹%}).
+;
+122185 new with a rod ({%<ab>C.</ab>%}); {%<ab>N.</ab> of a river%} ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>17881<pc>313-3<k1>Simba<k2>Simba
+122220 old pod {%or a kind of flower%} ({%<ab>RV.</ab>¹%}).
+;
+122220 new pod {%or a kind of flower%} ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>17883<pc>313-3<k1>Simyu<k2>Simyu
+122230 old foes ({%<ab>RV.</ab>¹%}); {@ú,@} {%<ab>m.</ab> <ab>N.</ab> of a people%} ({%<ab>RV.</ab>¹%}).
+;
+122230 new foes ({%<ab>RV.¹</ab>%}); {@ú,@} {%<ab>m.</ab> <ab>N.</ab> of a people%} ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>17892<pc>314-1<k1>SiriRA<k2>SiriRA
+122297 old {#SiriRA#}¦śíriṇā, {%<ab>f.</ab>%} night ({%<ab>RV.</ab>¹%}).
+;
+122297 new {#SiriRA#}¦śíriṇā, {%<ab>f.</ab>%} night ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>17916<pc>314-2<k1>SiSaya<k2>SiSaya
+122474 old {#SiSaya#}¦śi-śa-yá, {%<ab>a.</ab>%} [<ab>√</ab> śā] bounteous ({%<ab>RV.</ab>¹%}).
+;
+122474 new {#SiSaya#}¦śi-śa-yá, {%<ab>a.</ab>%} [<ab>√</ab> śā] bounteous ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>17926<pc>314-3<k1>SiSUla<k2>SiSUla
+122540 old {#SiSUla#}¦śiśū́-la, {%<ab>m.</ab>%} infant ({%<ab>RV.</ab>¹%}).
+;
+122540 new {#SiSUla#}¦śiśū́-la, {%<ab>m.</ab>%} infant ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>17927<pc>314-3<k1>SiSna<k2>SiSna
+122546 old {%or%} phallus-worshipper ({%<ab>RV.</ab> ²%}).
+;
+122546 new {%or%} phallus-worshipper ({%<ab>RV.²</ab>%}).
+;---------------------------------------------------
+; <L>17928<pc>314-3<k1>SiSnaTa<k2>SiSnaTa
+122550 old {#SiSnaTa#}¦śi-śnath-a, {%<ab>m.</ab>%} piercing ({%<ab>RV.</ab>¹%}).
+;
+122550 new {#SiSnaTa#}¦śi-śnath-a, {%<ab>m.</ab>%} piercing ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>17990<pc>315-3<k1>Sukra<k2>Sukra
+123002 old bright-robed ({%dawn%}; {%<ab>RV.</ab>¹%}); ({@á@}) {@-śocis@}, {%<ab>a.</ab>%} 
+;
+123002 new bright-robed ({%dawn%}; {%<ab>RV.¹</ab>%}); ({@á@}) {@-śocis@}, {%<ab>a.</ab>%} 
+;---------------------------------------------------
+; <L>17990<pc>315-3<k1>Sukra<k2>Sukra
+123004 old  a bright dwelling-place ({%dawn%}; {%<ab>RV.</ab>¹%}).
+;
+123004 new  a bright dwelling-place ({%dawn%}; {%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>18000<pc>316-1<k1>SucadraTa<k2>SucadraTa
+123084 old car ({%<ab>RV.</ab>¹%}).
+;
+123084 new car ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>18003<pc>316-1<k1>SucikAma<k2>SucikAma
+123104 old ({@śúci@}) {@-kranda,@} {%<ab>a.</ab>%} clear-voiced ({%<ab>RV.</ab>¹%}); {@-car-@}
+;
+123104 new ({@śúci@}) {@-kranda,@} {%<ab>a.</ab>%} clear-voiced ({%<ab>RV.¹</ab>%}); {@-car-@}
+;---------------------------------------------------
+; <L>18003<pc>316-1<k1>SucikAma<k2>SucikAma
+123111 old  adorned ({%<ab>RV.</ab>¹%}); ({@śúci@}) {@-pratīka,@} {%<ab>a.</ab>%} 
+;
+123111 new  adorned ({%<ab>RV.¹</ab>%}); ({@śúci@}) {@-pratīka,@} {%<ab>a.</ab>%} 
+;---------------------------------------------------
+; <L>18003<pc>316-1<k1>SucikAma<k2>SucikAma
+123112 old radiant-faced ({%<ab>RV.</ab>¹%}); {@śúci@} {@-bhrājas@}, {%<ab>a.</ab>%} radiantly <lbinfo n="2"/>
+;
+123112 new radiant-faced ({%<ab>RV.¹</ab>%}); {@śúci@} {@-bhrājas@}, {%<ab>a.</ab>%} radiantly <lbinfo n="2"/>
+;---------------------------------------------------
+; <L>18018<pc>316-2<k1>SuD<k2>SuD
+123240 old = {%examined and found to be secure%}; cleared 
+;
+123240 new ^<ab>=</ab> {%examined and found to be secure%}; cleared 
+;---------------------------------------------------
+; <L>18024<pc>316-3<k1>SunapfzWa<k2>SunapfzWa
+123277 old back ({%<ab>RV.</ab>¹%}).
+;
+123277 new back ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>18031<pc>316-3<k1>Supti<k2>Supti
+123309 old {#Supti#}¦śúp-ti, {%<ab>f.</ab>%} shoulder ({%<ab>RV.</ab>¹%}).
+;
+123309 new {#Supti#}¦śúp-ti, {%<ab>f.</ab>%} shoulder ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>18036<pc>316-3<k1>SuBaMyA<k2>SuBaMyA
+123362 old adornment ({%<ab>RV.</ab>¹%}); splendid, beautiful ({%<ab>C.</ab>%}).
+;
+123362 new adornment ({%<ab>RV.¹</ab>%}); splendid, beautiful ({%<ab>C.</ab>%}).
+;---------------------------------------------------
+; <L>18038<pc>317-1<k1>SuBaya<k2>SuBaya<h>1
+123381 old gliding along ({%<ab>RV.</ab>¹%}).
+;
+123381 new gliding along ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>18053<pc>317-1<k1>SuSukvana<k2>SuSukvana
+123470 old ({%<ab>RV.</ab>¹%}); {@-váni,@} {%<ab>a.</ab> <ab>id.</ab>%} ({%<ab>RV.</ab>¹%}).
+;
+123470 new ({%<ab>RV.¹</ab>%}); {@-váni,@} {%<ab>a.</ab> <ab>id.</ab>%} ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>18057<pc>317-1<k1>Suz<k2>Suz<h>1
+123505 old {@prati,@} be blighted ({%fame%}; {%<ab>RV.</ab>¹%}). {@vi,@} be 
+;
+123505 new {@prati,@} be blighted ({%fame%}; {%<ab>RV.¹</ab>%}). {@vi,@} be 
+;---------------------------------------------------
+; <L>18073<pc>317-2<k1>SUkAra<k2>SUkAra
+123601 old śū; {%<ab>n.</ab>%} urging, spurring {%of a horse%} ({%<ab>RV.</ab>¹%}).
+;
+123601 new śū; {%<ab>n.</ab>%} urging, spurring {%of a horse%} ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>18090<pc>317-3<k1>SUrta<k2>SUrta
+123722 old {#SUrta#}¦śūrtá, {%<ab>pp.</ab>%} (<ab>√</ab> śṝ; {%<ab>RV.</ab>¹%}) scattered, slain.
+;
+123722 new {#SUrta#}¦śūrtá, {%<ab>pp.</ab>%} (<ab>√</ab> śṝ; {%<ab>RV.¹</ab>%}) scattered, slain.
+;---------------------------------------------------
+; <L>18113<pc>318-1<k1>Sfta<k2>Sfta
+123873 old thoroughly cooked ({%<ab>RV.</ab>¹%}).
+;
+123873 new thoroughly cooked ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>18116<pc>318-1<k1>SfDyA<k2>SfDyA
+123889 old {#SfDyA#}¦śṛdh-yā́, {%<ab>f.</ab>%} defiance ({%<ab>RV.</ab>¹%}).
+;
+123889 new {#SfDyA#}¦śṛdh-yā́, {%<ab>f.</ab>%} defiance ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>18117<pc>318-1<k1>SF<k2>SF
+123902 old  duḥ-śīrta-tanu); {@śūrtá@}, shattered ({%<ab>RV.</ab>¹%}). 
+;
+123902 new  duḥ-śīrta-tanu); {@śūrtá@}, shattered ({%<ab>RV.¹</ab>%}). 
+;---------------------------------------------------
+; <L>18132<pc>318-2<k1>SevAra<k2>SevAra
+123987 old {#SevAra#}¦śévāra, {%<ab>m.</ab>%} treasury ({%<ab>RV.</ab>¹%}).
+;
+123987 new {#SevAra#}¦śévāra, {%<ab>m.</ab>%} treasury ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>18202<pc>319-2<k1>Scand<k2>Scand
+124416 old {@-ścad-at@}, shining ({%<ab>RV.</ab>¹%}).
+;
+124416 new {@-ścad-at@}, shining ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>18204<pc>319-2<k1>Scam<k2>Scam
+124426 old ({%fury, <ab>RV.</ab>¹%}).
+;
+124426 new ({%fury, <ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>18210<pc>319-2<k1>SmaSA<k2>SmaSA
+124461 old {#SmaSA#}¦śmaśā́, {%<ab>f.</ab>%} channel ({%<ab>RV.</ab>¹%}).
+;
+124461 new {#SmaSA#}¦śmaśā́, {%<ab>f.</ab>%} channel ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>18233<pc>319-3<k1>Syena<k2>Syena
+124591 old {%<ab>RV.</ab>¹%}); {@-avapātam,@} {%<ab>ad.</ab>%} swooping down like 
+;
+124591 new {%<ab>RV.¹</ab>%}); {@-avapātam,@} {%<ab>ad.</ab>%} swooping down like 
+;---------------------------------------------------
+; <L>18250<pc>320-1<k1>Sram<k2>Sram
+124704 old = reaching to ({%<ab>ac.</ab>,%} -°); destitute of (-°); {%<ab>cs.</ab>%} 
+;
+124704 new ^<ab>=</ab> reaching to ({%<ab>ac.</ab>,%} -°); destitute of (-°); {%<ab>cs.</ab>%} 
+;---------------------------------------------------
+; <L>18279<pc>320-3<k1>SrAya<k2>SrAya
+124904 old {#SrAya#}¦śrāy-á, {%<ab>a.</ab>%} provided with ({%<ab>lc.</ab>%}; {%<ab>RV.</ab>¹%}).
+;
+124904 new {#SrAya#}¦śrāy-á, {%<ab>a.</ab>%} provided with ({%<ab>lc.</ab>%}; {%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>18286<pc>320-3<k1>Sri<k2>Sri
+124973 old {%place,%} come to, reach ({%<ab>ac.</ab>%}: {%<ab>RV.</ab>¹, <ab>C.</ab>%}); have 
+;
+124973 new {%place,%} come to, reach ({%<ab>ac.</ab>%}: {%<ab>RV.¹</ab>, <ab>C.</ab>%}); have 
+;---------------------------------------------------
+; <L>18290<pc>321-1<k1>Sriz<k2>Sriz
+125086 old {%<ab>RV.</ab>¹%}), join, unite. {@abhi,@} {%in <ab>ab.</ab> <ab>inf.</ab>%} 
+;
+125086 new {%<ab>RV.¹</ab>%}), join, unite. {@abhi,@} {%in <ab>ab.</ab> <ab>inf.</ab>%} 
+;---------------------------------------------------
+; <L>18290<pc>321-1<k1>Sriz<k2>Sriz
+125087 old {@-śriṣaḥ@}, to unite ({%<ab>RV.</ab>¹%}). {@ā,@} adhere to ({%<ab>lc.</ab>%}). 
+;
+125087 new {@-śriṣaḥ@}, to unite ({%<ab>RV.¹</ab>%}). {@ā,@} adhere to ({%<ab>lc.</ab>%}). 
+;---------------------------------------------------
+; <L>18297<pc>321-3<k1>Sru<k2>Sru<h>1
+125200 old = pronounced {%or%} employed in speaking ({%word%}); 
+;
+125200 new ^<ab>=</ab> pronounced {%or%} employed in speaking ({%word%}); 
+;---------------------------------------------------
+; <L>18311<pc>322-1<k1>SreRi<k2>SreRi
+125378 old {@-dat@}, {%<ab>a.</ab>%} having teeth forming a row ({%<ab>RV.</ab>¹%}).
+;
+125378 new {@-dat@}, {%<ab>a.</ab>%} having teeth forming a row ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>18354<pc>323-1<k1>SvaYc<k2>SvaYc
+125703 old {%<ab>RV.</ab>%}); {%<ab>cs.</ab>%} {@śvañcáya@}, <ab>P.</ab> open ({%<ab>tr.</ab>, <ab>RV.</ab>¹%}). {@ud,@} 
+;
+125703 new {%<ab>RV.</ab>%}); {%<ab>cs.</ab>%} {@śvañcáya@}, <ab>P.</ab> open ({%<ab>tr.</ab>, <ab>RV.¹</ab>%}). {@ud,@} 
+;---------------------------------------------------
+; <L>18378<pc>323-2<k1>SvAnta<k2>SvAnta
+125876 old {#SvAnta#}¦śvān-tá, {%old <ab>pp.</ab>%} tranquil (? {%<ab>RV.</ab> ²%}).
+;
+125876 new {#SvAnta#}¦śvān-tá, {%old <ab>pp.</ab>%} tranquil (? {%<ab>RV.²</ab>%}).
+;---------------------------------------------------
+; <L>18386<pc>323-3<k1>Svit<k2>Svit
+125919 old {@ava,@} shine down upon ({%<ab>RV.</ab>¹%}). {@vi,@} shine 
+;
+125919 new {@ava,@} shine down upon ({%<ab>RV.¹</ab>%}). {@vi,@} shine 
+;---------------------------------------------------
+; <L>18393<pc>323-3<k1>SvetanA<k2>SvetanA
+125960 old {#SvetanA#}¦śvet-anā, {%<ab>f.</ab>%} [<ab>√</ab> śvit] dawn ({%<ab>RV.</ab>¹%}).
+;
+125960 new {#SvetanA#}¦śvet-anā, {%<ab>f.</ab>%} [<ab>√</ab> śvit] dawn ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>18394<pc>323-3<k1>Svetapakza<k2>Svetapakza
+125972 old white), {%<ab>N.</ab> of a river%} ({%<ab>RV.</ab>¹%}); {@-raśmi@}, {%<ab>m.</ab> <ab>N.</ab> %}
+;
+125972 new white), {%<ab>N.</ab> of a river%} ({%<ab>RV.¹</ab>%}); {@-raśmi@}, {%<ab>m.</ab> <ab>N.</ab> %}
+;---------------------------------------------------
+; <L>18400<pc>323-3<k1>Svetya<k2>Svetya
+126011 old {@ā,@} {%<ab>f.</ab> <ab>N.</ab> of a river%} ({%<ab>RV.</ab>¹%}).
+;
+126011 new {@ā,@} {%<ab>f.</ab> <ab>N.</ab> of a river%} ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>18401<pc>323-3<k1>SvEtarI<k2>SvEtarI
+126016 old in milk (?; {%cow, <ab>RV.</ab>¹%}).
+;
+126016 new in milk (?; {%cow, <ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>18415<pc>324-2<k1>zaz<k2>zaz
+126168 old {% used as a <ab>N.</ab> with <ab>g.</ab> or%} -°).
+;
+126168 new {% used as a <ab n="noun.">N.</ab> with <ab>g.</ab> or%} -°).
+;---------------------------------------------------
+; <L>18442<pc>325-1<k1>saMyat<k2>saMyat
+126369 old  place ({%<ab>RV.</ab>¹%}); battle, fight ({%<ab>C.</ab>, nearly %}
+;
+126369 new  place ({%<ab>RV.¹</ab>%}); battle, fight ({%<ab>C.</ab>, nearly %}
+;---------------------------------------------------
+; <L>18451<pc>325-2<k1>saMvatsam<k2>saMvatsam
+126497 old {#saMvatsam#}¦saṃ-vatsam, {%<ab>ad.</ab>%} for a year ({%<ab>RV.</ab>¹%}).
+;
+126497 new {#saMvatsam#}¦saṃ-vatsam, {%<ab>ad.</ab>%} for a year ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>18453<pc>325-2<k1>saMvadana<k2>saMvadana
+126522 old {%<ab>RV.</ab>¹%}): {@-ka,@} {%<ab>a.</ab>%} (rolling together), destroying 
+;
+126522 new {%<ab>RV.¹</ab>%}): {@-ka,@} {%<ab>a.</ab>%} (rolling together), destroying 
+;---------------------------------------------------
+; <L>18454<pc>325-3<k1>saMvijYAna<k2>saMvijYAna
+126573 old  ({%in%} a-, {%<ab>Br.</ab>,%}); {%<ab>N.</ab>%} agreement ({%<ab>perh.</ab> <ab>incorr.</ab> %}
+;
+126573 new  ({%in%} a-, {%<ab>Br.</ab>,%}); {%<ab n="noun.">N.</ab>%} agreement ({%<ab>perh.</ab> <ab>incorr.</ab> %}
+;---------------------------------------------------
+; <L>18464<pc>326-2<k1>saMsADana<k2>saMsADana
+126777 old {%<ab>RV.</ab>¹%}); {@-sṛti@}, {%<ab>f.</ab>%} = sāra, transmigration, {%<ab>etc.</ab>%}; 
+;
+126777 new {%<ab>RV.¹</ab>%}); {@-sṛti@}, {%<ab>f.</ab>%} = sāra, transmigration, {%<ab>etc.</ab>%}; 
+;---------------------------------------------------
+; <L>18473<pc>326-3<k1>saMhat<k2>saMhat
+126930 old layer, pile ({%<ab>RV.</ab>¹%}); {@-hata,@} {%<ab>pp.</ab>%} (<ab>√</ab> han) compact <lbinfo n="3"/>
+;
+126930 new layer, pile ({%<ab>RV.¹</ab>%}); {@-hata,@} {%<ab>pp.</ab>%} (<ab>√</ab> han) compact <lbinfo n="3"/>
+;---------------------------------------------------
+; <L>18474<pc>327-1<k1>saMhita<k2>saMhita
+126980 old {@-hotrá,@} {%<ab>n.</ab>%} community of sacrifice ({%<ab>RV.</ab>¹%}); 
+;
+126980 new {@-hotrá,@} {%<ab>n.</ab>%} community of sacrifice ({%<ab>RV.¹</ab>%}); 
+;---------------------------------------------------
+; <L>18483<pc>327-2<k1>saketa<k2>saketa
+127078 old ({%<ab>RV.</ab>¹%}); {@-ketu,@} {%<ab>a.</ab>%} having a banner; {@-keśa@}, 
+;
+127078 new ({%<ab>RV.¹</ab>%}); {@-ketu,@} {%<ab>a.</ab>%} having a banner; {@-keśa@}, 
+;---------------------------------------------------
+; <L>18491<pc>327-2<k1>sakz<k2>sakz
+127128 old  (?; {%<ab>RV.</ab>¹%}).
+;
+127128 new  (?; {%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>18492<pc>327-2<k1>sakzaRa<k2>sakzaRa<h>1
+127133 old  ({%<ab>RV.</ab>¹%}).
+;
+127133 new  ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>18552<pc>329-1<k1>sacanasya<k2>sacanasya
+127679 old cherish ({%<ab>RV.</ab>¹%}).
+;
+127679 new cherish ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>18554<pc>329-1<k1>sacasya<k2>sacasya
+127689 old be cherished ({%<ab>RV.</ab>¹%}).
+;
+127689 new be cherished ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>18560<pc>329-1<k1>sacivid<k2>sacivid
+127723 old ({%<ab>RV.</ab>¹%}).
+;
+127723 new ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>18578<pc>329-2<k1>sajya<k2>sajya
+127848 old = during the twilight ({%between the disappearance %}<lbinfo n="9"/>
+;
+127848 new ^<ab>=</ab> during the twilight ({%between the disappearance %}<lbinfo n="9"/>
+;---------------------------------------------------
+; <L>18592<pc>330-1<k1>saMjYAtarUpa<k2>saMjYAtarUpa
+128052 old  form ({%<ab>RV.</ab>¹%}); {@-jñāti@}, {%<ab>f.</ab>%} agreement, 
+;
+128052 new  form ({%<ab>RV.¹</ab>%}); {@-jñāti@}, {%<ab>f.</ab>%} agreement, 
+;---------------------------------------------------
+; <L>18610<pc>330-2<k1>satobfhat<k2>satobfhat
+128179 old  {@-mahat,@} {%<ab>a.</ab>%} equally great ({%<ab>RV.</ab>¹%}).
+;
+128179 new  {@-mahat,@} {%<ab>a.</ab>%} equally great ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>18624<pc>331-1<k1>satyaka<k2>satyaka
+128339 old  {%<ab>a.</ab>%} whose actions are true ({%<ab>RV.</ab>¹%}); ({@á@})-
+;
+128339 new  {%<ab>a.</ab>%} whose actions are true ({%<ab>RV.¹</ab>%}); ({@á@})-
+;---------------------------------------------------
+; <L>18624<pc>331-1<k1>satyaka<k2>satyaka
+128349 old reality ({%<ab>RV.</ab>¹%}); {%<ab>a.</ab>%} making true ({%<ab>RV.</ab>¹%}); {@-ti-@}
+;
+128349 new reality ({%<ab>RV.¹</ab>%}); {%<ab>a.</ab>%} making true ({%<ab>RV.¹</ab>%}); {@-ti-@}
+;---------------------------------------------------
+; <L>18624<pc>331-1<k1>satyaka<k2>satyaka
+128371 old  a permanent abode ({%<ab>RV.</ab>¹%}); ({@á@}) {@-rādhas,@} 
+;
+128371 new  a permanent abode ({%<ab>RV.¹</ab>%}); ({@á@}) {@-rādhas,@} 
+;---------------------------------------------------
+; <L>18627<pc>331-2<k1>satyokti<k2>satyokti
+128424 old {#satyokti#}¦satyá‡ukti, {%<ab>f.</ab>%} true speech ({%<ab>RV.</ab>¹, %}
+;
+128424 new {#satyokti#}¦satyá‡ukti, {%<ab>f.</ab>%} true speech ({%<ab>RV.¹</ab>, %}
+;---------------------------------------------------
+; <L>18643<pc>332-1<k1>sadana<k2>sadana
+128624 old remain ({%<ab>RV.</ab>¹%}); {%<ab>n.</ab>%} seat, place, abode, house, 
+;
+128624 new remain ({%<ab>RV.¹</ab>%}); {%<ab>n.</ab>%} seat, place, abode, house, 
+;---------------------------------------------------
+; <L>18651<pc>332-1<k1>sadaSva<k2>sadaSva
+128666 old  noble steeds ({%<ab>RV.</ab>¹%}); drawn by noble 
+;
+128666 new  noble steeds ({%<ab>RV.¹</ab>%}); drawn by noble 
+;---------------------------------------------------
+; <L>18655<pc>332-1<k1>sadaspati<k2>sadaspati
+128696 old  ({%<ab>RV.</ab>¹%}).
+;
+128696 new  ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>18663<pc>332-1<k1>sadAna<k2>sadAna
+128739 old {#sadAna#}¦sá-dāna, {%<ab>a.</ab>%} ¤1.¤ having gifts ({%<ab>RV.</ab>¹%}); ¤2.¤ 
+;
+128739 new {#sadAna#}¦sá-dāna, {%<ab>a.</ab>%} ¤1.¤ having gifts ({%<ab>RV.¹</ab>%}); ¤2.¤ 
+;---------------------------------------------------
+; <L>18670<pc>332-2<k1>sadivas<k2>sadivas
+128780 old sadyas) at once ({%<ab>RV.</ab>¹%}); {@-dinam,@} {%<ab>ad.</ab>%} piteously; 
+;
+128780 new sadyas) at once ({%<ab>RV.¹</ab>%}); {@-dinam,@} {%<ab>ad.</ab>%} piteously; 
+;---------------------------------------------------
+; <L>18678<pc>332-2<k1>sadman<k2>sadman<h>1
+128842 old <hom>1.</hom> {#sadman#}¦sad-mán, {%<ab>m.</ab>%} sitter ({%<ab>RV.</ab> ²%}).
+;
+128842 new <hom>1.</hom> {#sadman#}¦sad-mán, {%<ab>m.</ab>%} sitter ({%<ab>RV.²</ab>%}).
+;---------------------------------------------------
+; <L>18698<pc>332-3<k1>saDura<k2>saDura
+128976 old =) together, harmonious; ({@sá@}) {@-dhūma,@} {%<ab>a.</ab>%} 
+;
+128976 new ^<ab>=</ab>) together, harmonious; ({@sá@}) {@-dhūma,@} {%<ab>a.</ab>%} 
+;---------------------------------------------------
+; <L>18705<pc>332-3<k1>sanaj<k2>sanaj
+129020 old {#sanaj#}¦sanáj, {%<ab>a.</ab>%} old ({%<ab>RV.</ab>¹%}).
+;
+129020 new {#sanaj#}¦sanáj, {%<ab>a.</ab>%} old ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>18706<pc>332-3<k1>sanaja<k2>sanaja
+129025 old ({%<ab>RV.</ab> ¹%}); {@-jā́@}, {%<ab>a.</ab> <ab>id.</ab>%} ({%<ab>RV.</ab>¹%}). 
+;
+129025 new ({%<ab>RV.</ab> ¹%}); {@-jā́@}, {%<ab>a.</ab> <ab>id.</ab>%} ({%<ab>RV.¹</ab>%}). 
+;---------------------------------------------------
+; <L>18707<pc>333-1<k1>sanatA<k2>sanatA
+129031 old never ({%<ab>RV.</ab> ²%}).
+;
+129031 new never ({%<ab>RV.²</ab>%}).
+;---------------------------------------------------
+; <L>18709<pc>333-1<k1>sanadrayi<k2>sanadrayi
+129043 old <ab>√</ab> san] wealth ({%<ab>RV.</ab>¹%}); {@-vāja@}, {%<ab>a.</ab>%} acquiring {%or%} 
+;
+129043 new <ab>√</ab> san] wealth ({%<ab>RV.¹</ab>%}); {@-vāja@}, {%<ab>a.</ab>%} acquiring {%or%} 
+;---------------------------------------------------
+; <L>18709<pc>333-1<k1>sanadrayi<k2>sanadrayi
+129044 old bestowing gain ({%<ab>RV.</ab> ²%}).
+;
+129044 new bestowing gain ({%<ab>RV.²</ab>%}).
+;---------------------------------------------------
+; <L>18712<pc>333-1<k1>sanara<k2>sanara
+129058 old {#sanara#}¦sá-nara, {%<ab>a.</ab>%} together with men ({%<ab>RV.</ab>¹%}); 
+;
+129058 new {#sanara#}¦sá-nara, {%<ab>a.</ab>%} together with men ({%<ab>RV.¹</ab>%}); 
+;---------------------------------------------------
+; <L>18721<pc>333-1<k1>saniti<k2>saniti
+129113 old {#saniti#}¦sán-iti, {%<ab>f.</ab>%} obtainment ({%<ab>RV.</ab>¹%}).
+;
+129113 new {#saniti#}¦sán-iti, {%<ab>f.</ab>%} obtainment ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>18729<pc>333-1<k1>sanemi<k2>sanemi
+129162 old ({%<ab>RV.</ab>¹%}); {%<ab>n.</ab> <ab>ad.</ab>%} completely, always ({%<ab>V.</ab>%}).
+;
+129162 new ({%<ab>RV.¹</ab>%}); {%<ab>n.</ab> <ab>ad.</ab>%} completely, always ({%<ab>V.</ab>%}).
+;---------------------------------------------------
+; <L>18774<pc>334-3<k1>saptati<k2>saptati
+129664 old {#saptati#}¦sapta-tí, {%<ab>f.</ab>%} seventy ({%<ab>w.</ab> <ab>N.</ab> in <ab>opp.</ab>, <ab>g.</ab>,%} 
+;
+129664 new {#saptati#}¦sapta-tí, {%<ab>f.</ab>%} seventy ({%<ab>w.</ab> <ab n="noun.">N.</ab> in <ab>opp.</ab>, <ab>g.</ab>,%} 
+;---------------------------------------------------
+; <L>18804<pc>335-2<k1>sam<k2>sam
+129922 old {#sam#}¦sám, {%<ab>ad.</ab> as <ab>vbl.</ab> <ab>prp.</ab> or%} °- {%<ab>w.</ab> a <ab>N.</ab> expressing %}<lbinfo n="2"/>
+;
+129922 new {#sam#}¦sám, {%<ab>ad.</ab> as <ab>vbl.</ab> <ab>prp.</ab> or%} °- {%<ab>w.</ab> a <ab n="noun.">N.</ab> expressing %}<lbinfo n="2"/>
+;---------------------------------------------------
+; <L>18830<pc>336-1<k1>samanIka<k2>samanIka
+130113 old {#samanIka#}¦sam-anīká, {%<ab>n.</ab>%} battle-array ({%<ab>RV.</ab>¹, %}
+;
+130113 new {#samanIka#}¦sam-anīká, {%<ab>n.</ab>%} battle-array ({%<ab>RV.¹</ab>, %}
+;---------------------------------------------------
+; <L>18833<pc>336-1<k1>samanta<k2>samanta
+130134 old {%<ab>RV.</ab>¹%});. ({@á@}) {@-m,@} {%<ab>V.</ab> <ab>ad.</ab>%} ({%also °- in <ab>C.</ab>%}) on all 
+;
+130134 new {%<ab>RV.¹</ab>%});. ({@á@}) {@-m,@} {%<ab>V.</ab> <ab>ad.</ab>%} ({%also °- in <ab>C.</ab>%}) on all 
+;---------------------------------------------------
+; <L>18886<pc>337-2<k1>samAnakartfka<k2>samAnakartfka
+130586 old ({%<ab>RV.</ab>¹%}); ({@á@}) {@-tā,@} {%<ab>f.</ab>%} equality, with ({%<ab>g.</ab>,%} -°); 
+;
+130586 new ({%<ab>RV.¹</ab>%}); ({@á@}) {@-tā,@} {%<ab>f.</ab>%} equality, with ({%<ab>g.</ab>,%} -°); 
+;---------------------------------------------------
+; <L>18917<pc>338-1<k1>samiD<k2>samiD
+130860 old {#samiD#}¦sam-ídh, {%<ab>a.</ab>%} flaming ({%<ab>RV.</ab>¹%}); {%<ab>f.</ab>%} log, 
+;
+130860 new {#samiD#}¦sam-ídh, {%<ab>a.</ab>%} flaming ({%<ab>RV.¹</ab>%}); {%<ab>f.</ab>%} log, 
+;---------------------------------------------------
+; <L>18932<pc>338-3<k1>samudrakallola<k2>samudrakallola
+131050 old having the ocean as {%their%} chief ({%waters, <ab>RV.</ab>¹%}); 
+;
+131050 new having the ocean as {%their%} chief ({%waters, <ab>RV.¹</ab>%}); 
+;---------------------------------------------------
+; <L>18932<pc>338-3<k1>samudrakallola<k2>samudrakallola
+131063 old  in the ({%heavenly%}) waters ({%Agni, <ab>RV.</ab> ²%}); 
+;
+131063 new  in the ({%heavenly%}) waters ({%Agni, <ab>RV.²</ab>%}); 
+;---------------------------------------------------
+; <L>18934<pc>338-3<k1>samudrAyaRa<k2>samudrAyaRa
+131080 old as their goal ({%waters, <ab>RV.</ab>¹%}); {@-āvaraṇa@}, {%<ab>a.</ab>%} 
+;
+131080 new as their goal ({%waters, <ab>RV.¹</ab>%}); {@-āvaraṇa@}, {%<ab>a.</ab>%} 
+;---------------------------------------------------
+; <L>18942<pc>339-1<k1>samfta<k2>samfta
+131149 old  ({%<ab>RV.</ab>¹%}).
+;
+131149 new  ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>18975<pc>340-3<k1>saraRyu<k2>saraRyu
+131617 old {%Yama and Yamī and of the Aśvins%} ({%<ab>RV.</ab>¹%}).
+;
+131617 new {%Yama and Yamī and of the Aśvins%} ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>18984<pc>340-3<k1>sarasI<k2>sarasI
+131677 old {#sarasI#}¦saras-ī́, {%<ab>f.</ab>%} pool, lake ({%<ab>RV.</ab>¹, <ab>C.</ab>%}).
+;
+131677 new {#sarasI#}¦saras-ī́, {%<ab>f.</ab>%} pool, lake ({%<ab>RV.¹</ab>, <ab>C.</ab>%}).
+;---------------------------------------------------
+; <L>19000<pc>341-1<k1>sarga<k2>sarga
+131815 old {%<ab>id.</ab>%} ({%stted%}; {%<ab>RV.</ab>¹%}); {@-bandha,@} {%<ab>m.</ab>%} composition 
+;
+131815 new {%<ab>id.</ab>%} ({%stted%}; {%<ab>RV.¹</ab>%}); {@-bandha,@} {%<ab>m.</ab>%} composition 
+;---------------------------------------------------
+; <L>19036<pc>342-2<k1>salalUka<k2>salalUka
+132239 old wandering ({%<ab>RV.</ab>¹%}).
+;
+132239 new wandering ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>19074<pc>343-3<k1>sasra<k2>sasra
+132605 old ({%rivers%}; {%<ab>RV.</ab>¹%}).
+;
+132605 new ({%rivers%}; {%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>19075<pc>343-3<k1>sasri<k2>sasri
+132610 old ({%steed%}; {%<ab>RV.</ab>¹%}).
+;
+132610 new ({%steed%}; {%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>19086<pc>344-1<k1>sahapAMsukrIqana<k2>sahapAMsukrIqana
+132777 old innate, natural; {%<ab>N.</ab>%} counterpart of ({%<ab>g.</ab>%}); {@-bhoj-@}
+;
+132777 new innate, natural; {%<ab n="noun.">N.</ab>%} counterpart of ({%<ab>g.</ab>%}); {@-bhoj-@}
+;---------------------------------------------------
+; <L>19088<pc>344-1<k1>sahalokaDAtu<k2>sahalokaDAtu
+132809 old  ({%<ab>RV.</ab>¹%}).
+;
+132809 new  ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>19098<pc>344-2<k1>sahasra<k2>sahasra
+132876 old thousand forms ({%<ab>RV.</ab>¹%}); {@-gu,@} {%<ab>a.</ab>%} possessing a 
+;
+132876 new thousand forms ({%<ab>RV.¹</ab>%}); {@-gu,@} {%<ab>a.</ab>%} possessing a 
+;---------------------------------------------------
+; <L>19098<pc>344-2<k1>sahasra<k2>sahasra
+132888 old  ({%<ab>RV.</ab>¹%}); {@-dhā,@} {%<ab>ad.</ab>%} a thousandfold; <lbinfo n="8"/>
+;
+132888 new  ({%<ab>RV.¹</ab>%}); {@-dhā,@} {%<ab>ad.</ab>%} a thousandfold; <lbinfo n="8"/>
+;---------------------------------------------------
+; <L>19159<pc>345-3<k1>sAQf<k2>sAQf
+133378 old {#sAQf#}¦sā́ḍhṛ, {%<ab>m.</ab>%} [<ab>√</ab> sah] vanquisher ({%<ab>RV.</ab>¹%}).
+;
+133378 new {#sAQf#}¦sā́ḍhṛ, {%<ab>m.</ab>%} [<ab>√</ab> sah] vanquisher ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>19172<pc>346-1<k1>sAda<k2>sAda
+133452 old riding ({%<ab>RV.</ab>¹%}); {%<ab>C.</ab>%}: sinking in ({%of wheels%}); 
+;
+133452 new riding ({%<ab>RV.¹</ab>%}); {%<ab>C.</ab>%}: sinking in ({%of wheels%}); 
+;---------------------------------------------------
+; <L>19204<pc>346-3<k1>sAnuka<k2>sAnuka
+133717 old {#sAnuka#}¦sānu-ká, {%<ab>a.</ab>%} eager for prey ({%<ab>RV.</ab>¹%}).
+;
+133717 new {#sAnuka#}¦sānu-ká, {%<ab>a.</ab>%} eager for prey ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>19242<pc>347-2<k1>sAmapragATa<k2>sAmapragATa
+134002 old {%<ab>a.</ab>%} bringing chants ({%<ab>RV.</ab>¹%}); {@-máya,@} {%<ab>a.</ab>%} consisting <lbinfo n="7"/>
+;
+134002 new {%<ab>a.</ab>%} bringing chants ({%<ab>RV.¹</ab>%}); {@-máya,@} {%<ab>a.</ab>%} consisting <lbinfo n="7"/>
+;---------------------------------------------------
+; <L>19276<pc>348-1<k1>sAya<k2>sAya
+134230 old <ab>√</ab> ¤2.¤ si] turning in ({%<ab>RV.</ab>¹%}); close of day, evening: <lbinfo n="4"/>
+;
+134230 new <ab>√</ab> ¤2.¤ si] turning in ({%<ab>RV.¹</ab>%}); close of day, evening: <lbinfo n="4"/>
+;---------------------------------------------------
+; <L>19276<pc>348-1<k1>sAya<k2>sAya
+134232 old ({%<ab>RV.</ab>¹%}): ({@á@}) {@-m,@} {%<ab>ad.</ab>%} in the evening, at eventide.
+;
+134232 new ({%<ab>RV.¹</ab>%}): ({@á@}) {@-m,@} {%<ab>ad.</ab>%} in the evening, at eventide.
+;---------------------------------------------------
+; <L>19346<pc>349-2<k1>sAsAra<k2>sAsAra
+134702 old {@-asthi,@} {%<ab>a.</ab>%} having bones; {%<ab>N.</ab>%} animal with bones; 
+;
+134702 new {@-asthi,@} {%<ab>a.</ab>%} having bones; {%<ab n="noun.">N.</ab>%} animal with bones; 
+;---------------------------------------------------
+; <L>19350<pc>349-2<k1>sAha<k2>sAha
+134719 old {#sAha#}¦sāh-a, {%<ab>a.</ab>%} [<ab>√</ab> sah] mighty ({%<ab>RV.</ab>¹%}); -° 
+;
+134719 new {#sAha#}¦sāh-a, {%<ab>a.</ab>%} [<ab>√</ab> sah] mighty ({%<ab>RV.¹</ab>%}); -° 
+;---------------------------------------------------
+; <L>19369<pc>349-3<k1>siMhavarman<k2>siMhavarman
+134851 old {%<ab>m.</ab> <ab>N.</ab> of a fairy prince%}; {%<ab>N.</ab> fo a thief%}; {@-vi-@}
+;
+134851 new {%<ab>m.</ab> <ab>N.</ab> of a fairy prince%}; {%<ab>N.</ab> of a thief%}; {@-vi-@}
+;---------------------------------------------------
+; <L>19403<pc>350-3<k1>siDma<k2>siDma
+135200 old aim ({%<ab>RV.</ab>¹%}); ¤2.¤ leprous ({%<ab>V.</ab>, rare%}); {%<ab>m.</ab> <ab>n.</ab> kind %}
+;
+135200 new aim ({%<ab>RV.¹</ab>%}); ¤2.¤ leprous ({%<ab>V.</ab>, rare%}); {%<ab>m.</ab> <ab>n.</ab> kind %}
+;---------------------------------------------------
+; <L>19415<pc>350-3<k1>simA<k2>simA<h>1
+135268 old <hom>1.</hom> {#simA#}¦símā, {%<ab>ad.</ab>%} everywhere ({%<ab>RV.</ab>¹%}).
+;
+135268 new <hom>1.</hom> {#simA#}¦símā, {%<ab>ad.</ab>%} everywhere ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>19427<pc>351-1<k1>sizRu<k2>sizRu
+135329 old bountiful ({%<ab>RV.</ab>¹%}).
+;
+135329 new bountiful ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>19458<pc>351-2<k1>sukaRWa<k2>sukaRWa
+135518 old ({%car of Sūryā%}; {%<ab>RV.</ab>¹%}); {@-kīrti,@} {%<ab>f.</ab>%} worthy praise 
+;
+135518 new ({%car of Sūryā%}; {%<ab>RV.¹</ab>%}); {@-kīrti,@} {%<ab>f.</ab>%} worthy praise 
+;---------------------------------------------------
+; <L>19458<pc>351-2<k1>sukaRWa<k2>sukaRWa
+135536 old done ({%<ab>RV.</ab>¹%}); ¤2.¤ ({@sú@}) {@-kṛta@}, {%<ab>pp.</ab>%} well done, 
+;
+135536 new done ({%<ab>RV.¹</ab>%}); ¤2.¤ ({@sú@}) {@-kṛta@}, {%<ab>pp.</ab>%} well done, 
+;---------------------------------------------------
+; <L>19458<pc>351-2<k1>sukaRWa<k2>sukaRWa
+135554 old ({%dawn%}; {%<ab>RV.</ab>¹%}); {%<ab>m.</ab> <ab>N.</ab> of a prince of the Yakṣas %}<lbinfo n="3"/>
+;
+135554 new ({%dawn%}; {%<ab>RV.¹</ab>%}); {%<ab>m.</ab> <ab>N.</ab> of a prince of the Yakṣas %}<lbinfo n="3"/>
+;---------------------------------------------------
+; <L>19458<pc>351-2<k1>sukaRWa<k2>sukaRWa
+135567 old {@-kṣetriyā́,@} {%<ab>f.</ab>%} desire of fair fields ({%<ab>RV.</ab>¹%}); 
+;
+135567 new {@-kṣetriyā́,@} {%<ab>f.</ab>%} desire of fair fields ({%<ab>RV.¹</ab>%}); 
+;---------------------------------------------------
+; <L>19469<pc>352-1<k1>suga<k2>suga
+135710 old {@ā,@} {%<ab>f.</ab> <ab>N.</ab> of a various plants%}; {%<ab>N.</ab>%}.
+;
+135710 new {@ā,@} {%<ab>f.</ab> <ab>N.</ab> of various plants%}; {%<ab>N.</ab>%}.
+;---------------------------------------------------
+; <L>19476<pc>352-1<k1>sugama<k2>sugama
+135751 old through -- ({%<ab>RV.</ab>¹%}); {@-gātra,@} {%<ab>a.</ab>%} ({@ī@}) fair-limbed: 
+;
+135751 new through -- ({%<ab>RV.¹</ab>%}); {@-gātra,@} {%<ab>a.</ab>%} ({@ī@}) fair-limbed: 
+;---------------------------------------------------
+; <L>19484<pc>352-3<k1>sutapta<k2>sutapta
+135868 old {%<ab>RV.</ab>%}); {@-taraṇá@}, {%<ab>a.</ab>%} easy to cross ({%river%}; {%<ab>RV.</ab>¹%}); 
+;
+135868 new {%<ab>RV.</ab>%}); {@-taraṇá@}, {%<ab>a.</ab>%} easy to cross ({%river%}; {%<ab>RV.¹</ab>%}); 
+;---------------------------------------------------
+; <L>19502<pc>352-3<k1>sudina<k2>sudina
+136018 old  brightly ({%<ab>RV.</ab>%}); {@-dyumná,@} {%<ab>a.</ab> <ab>id.</ab>%} ({%<ab>RV.</ab>¹%}); 
+;
+136018 new  brightly ({%<ab>RV.</ab>%}); {@-dyumná,@} {%<ab>a.</ab> <ab>id.</ab>%} ({%<ab>RV.¹</ab>%}); 
+;---------------------------------------------------
+; <L>19508<pc>353-1<k1>suDIra<k2>suDIra
+136082 old good chariot-steed ({%<ab>RV.</ab>%}); {@-dhúra,@} {%<ab>a.</ab> <ab>id.</ab>%} ({%<ab>RV.</ab>¹%}).
+;
+136082 new good chariot-steed ({%<ab>RV.</ab>%}); {@-dhúra,@} {%<ab>a.</ab> <ab>id.</ab>%} ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>19517<pc>353-2<k1>supakva<k2>supakva
+136164 old path; {@-pad,@} {%<ab>a.</ab>%} ({@-ī@} swift-footed ({%<ab>RV.</ab>¹%}); {@-pa-@}
+;
+136164 new path; {@-pad,@} {%<ab>a.</ab>%} ({@-ī@} swift-footed ({%<ab>RV.¹</ab>%}); {@-pa-@}
+;---------------------------------------------------
+; <L>19517<pc>353-2<k1>supakva<k2>supakva
+136165 old {@-p[a]t-ani@}, {%<ab>f.</ab>%} swift flight ({%<ab>RV.</ab>¹%}); {@-parijñāta@}, 
+;
+136165 new {@-p[a]t-ani@}, {%<ab>f.</ab>%} swift flight ({%<ab>RV.¹</ab>%}); {@-parijñāta@}, 
+;---------------------------------------------------
+; <L>19517<pc>353-2<k1>supakva<k2>supakva
+136188 old {%his%} realm ({%Varuṇa%}; {%<ab>RV.</ab>¹%}); {@-prārśva@}, {%<ab>a.</ab>%} having <lbinfo n="3"/>
+;
+136188 new {%his%} realm ({%Varuṇa%}; {%<ab>RV.¹</ab>%}); {@-prārśva@}, {%<ab>a.</ab>%} having <lbinfo n="3"/>
+;---------------------------------------------------
+; <L>19517<pc>353-2<k1>supakva<k2>supakva
+136193 old = {%finite <ab>vb.</ab>%}; {@-puṇya@}, {%<ab>a.</ab>%} very excellent; {%<ab>n.</ab>%} 
+;
+136193 new ^<ab>=</ab> {%finite <ab>vb.</ab>%}; {@-puṇya@}, {%<ab>a.</ab>%} very excellent; {%<ab>n.</ab>%} 
+;---------------------------------------------------
+; <L>19521<pc>353-3<k1>suprakASa<k2>suprakASa
+136232 old ({%<ab>RV.</ab>¹%}); {@-prakṣālita,@} {%<ab>pp.</ab>%} well-washed; {@-pra-@}
+;
+136232 new ({%<ab>RV.¹</ab>%}); {@-prakṣālita,@} {%<ab>pp.</ab>%} well-washed; {@-pra-@}
+;---------------------------------------------------
+; <L>19521<pc>353-3<k1>suprakASa<k2>suprakASa
+136252 old {@tū́s@}) advancing victoriously ({%<ab>RV.</ab>¹%}); {@prā-@}
+;
+136252 new {@tū́s@}) advancing victoriously ({%<ab>RV.¹</ab>%}); {@prā-@}
+;---------------------------------------------------
+; <L>19521<pc>353-3<k1>suprakASa<k2>suprakASa
+136259 old {@-yā́,@} {%<ab>a.</ab>%} pleasant, to tread on ({%<ab>RV.</ab>¹%}); {@-pra-@}
+;
+136259 new {@-yā́,@} {%<ab>a.</ab>%} pleasant, to tread on ({%<ab>RV.¹</ab>%}); {@-pra-@}
+;---------------------------------------------------
+; <L>19522<pc>353-3<k1>suprAYc<k2>suprAYc
+136278 old {%<ab>RV.</ab>¹%}); {@-prauḍhā@}, ({%<ab>conj.</ab>%}) {%<ab>f.</ab>%} ({%<ab>pp.</ab>%}) full-grown 
+;
+136278 new {%<ab>RV.¹</ab>%}); {@-prauḍhā@}, ({%<ab>conj.</ab>%}) {%<ab>f.</ab>%} ({%<ab>pp.</ab>%}) full-grown 
+;---------------------------------------------------
+; <L>19523<pc>353-3<k1>subadDa<k2>subadDa
+136283 old {#subadDa#}¦su-baddhá, {%<ab>pp.</ab>%} bound fast ({%<ab>RV.</ab>¹%}); 
+;
+136283 new {#subadDa#}¦su-baddhá, {%<ab>pp.</ab>%} bound fast ({%<ab>RV.¹</ab>%}); 
+;---------------------------------------------------
+; <L>19534<pc>354-2<k1>sumanomattaka<k2>sumanomattaka
+136451 old bringing gladness ({%Drawn, <ab>RV.</ab>¹%}).
+;
+136451 new bringing gladness ({%Drawn, <ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>19582<pc>355-2<k1>sulakzaRa<k2>sulakzaRa
+136798 old =) not easy of attainment; {@-lalita,@} {%<ab>pp.</ab>%} very 
+;
+136798 new ^<ab>=</ab>) not easy of attainment; {@-lalita,@} {%<ab>pp.</ab>%} very 
+;---------------------------------------------------
+; <L>19588<pc>355-2<k1>suvarza<k2>suvarza
+136869 old easy to distinguish ({%<ab>RV.</ab>¹%}); very discerning; 
+;
+136869 new easy to distinguish ({%<ab>RV.¹</ab>%}); very discerning; 
+;---------------------------------------------------
+; <L>19590<pc>355-3<k1>suvitta<k2>suvitta
+136885 old ({%<ab>RV.</ab>¹%}); ({@sú@}) {@-vidita,@} {%<ab>pp.</ab>%} well-known; {@-vidyā,@} 
+;
+136885 new ({%<ab>RV.¹</ab>%}); ({@sú@}) {@-vidita,@} {%<ab>pp.</ab>%} well-known; {@-vidyā,@} 
+;---------------------------------------------------
+; <L>19590<pc>355-3<k1>suvitta<k2>suvitta
+136891 old {%<ab>etc.</ab>%}; ({@sú@}) {@-vipra,@} {%<ab>a.</ab>%} very devout ({%<ab>RV.</ab>¹%}); 
+;
+136891 new {%<ab>etc.</ab>%}; ({@sú@}) {@-vipra,@} {%<ab>a.</ab>%} very devout ({%<ab>RV.¹</ab>%}); 
+;---------------------------------------------------
+; <L>19590<pc>355-3<k1>suvitta<k2>suvitta
+136920 old ({%<ab>RV.</ab>¹%}); {@-vṛt@}, {%<ab>V.</ab> <ab>a.</ab>%} (revolving =) running 
+;
+136920 new ({%<ab>RV.¹</ab>%}); {@-vṛt@}, {%<ab>V.</ab> <ab>a.</ab>%} (revolving =) running 
+;---------------------------------------------------
+; <L>19590<pc>355-3<k1>suvitta<k2>suvitta
+136940 old matter ({%<ab>RV.</ab>¹%}); {@-śámĭ@}, {%<ab>in.</ab> <ab>ad.</ab>%} carefully, diligently <lbinfo n="4"/>
+;
+136940 new matter ({%<ab>RV.¹</ab>%}); {@-śámĭ@}, {%<ab>in.</ab> <ab>ad.</ab>%} carefully, diligently <lbinfo n="4"/>
+;---------------------------------------------------
+; <L>19590<pc>355-3<k1>suvitta<k2>suvitta
+136953 old {%<ab>RV.</ab>¹%}); ({@sú@}) {@-śiṣṭi@}, {%<ab>f.</ab>%} excellent aid ({%<ab>RV.</ab>¹%}); 
+;
+136953 new {%<ab>RV.¹</ab>%}); ({@sú@}) {@-śiṣṭi@}, {%<ab>f.</ab>%} excellent aid ({%<ab>RV.¹</ab>%}); 
+;---------------------------------------------------
+; <L>19590<pc>355-3<k1>suvitta<k2>suvitta
+136974 old famous ({%<ab>RV.</ab>¹%}); {%<ab>C.</ab>%} correctly heard; gladly 
+;
+136974 new famous ({%<ab>RV.¹</ab>%}); {%<ab>C.</ab>%} correctly heard; gladly 
+;---------------------------------------------------
+; <L>19591<pc>356-1<k1>suzaMsad<k2>suzaMsad
+136995 old {%<ab>a.</ab> <ab>id.</ab>%} ({%<ab>RV.</ab>¹%}); {@-ṣama,@} {%<ab>a.</ab>%} [sama] splendid, 
+;
+136995 new {%<ab>a.</ab> <ab>id.</ab>%} ({%<ab>RV.¹</ab>%}); {@-ṣama,@} {%<ab>a.</ab>%} [sama] splendid, 
+;---------------------------------------------------
+; <L>19591<pc>356-1<k1>suzaMsad<k2>suzaMsad
+137003 old birth ({%<ab>RV.</ab>¹%}); ({@sú@}) {@-ṣuta,@} {%<ab>pp.</ab>%} [supta] sound 
+;
+137003 new birth ({%<ab>RV.¹</ab>%}); ({@sú@}) {@-ṣuta,@} {%<ab>pp.</ab>%} [supta] sound 
+;---------------------------------------------------
+; <L>19593<pc>356-1<k1>suzumat<k2>suzumat
+137015 old ({%<ab>RV.</ab>¹%}).
+;
+137015 new ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>19594<pc>356-1<k1>suzumRa<k2>suzumRa
+137023 old easily ({%<ab>RV.</ab>¹%}); {@-ṣéṇa@}, {%<ab>a.</ab>%} having a good 
+;
+137023 new easily ({%<ab>RV.¹</ab>%}); {@-ṣéṇa@}, {%<ab>a.</ab>%} having a good 
+;---------------------------------------------------
+; <L>19598<pc>356-1<k1>susaMyuta<k2>susaMyuta
+137051 old ({@su-saṃ@}) {@-rabdha,@} {%<ab>pp.</ab>%} well-established ({%<ab>RV.</ab>¹%}); 
+;
+137051 new ({@su-saṃ@}) {@-rabdha,@} {%<ab>pp.</ab>%} well-established ({%<ab>RV.¹</ab>%}); 
+;---------------------------------------------------
+; <L>19634<pc>357-2<k1>sUdana<k2>sUdana
+137437 old ({%courser%}; {%<ab>RV.</ab>¹%}); putting an end to, destroying <lbinfo n="7"/>
+;
+137437 new ({%courser%}; {%<ab>RV.¹</ab>%}); putting an end to, destroying <lbinfo n="7"/>
+;---------------------------------------------------
+; <L>19641<pc>357-2<k1>sUnfta<k2>sUnfta
+137483 old {%<ab>id.</ab>%} ({%<ab>RV.</ab>¹%}).
+;
+137483 new {%<ab>id.</ab>%} ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>19647<pc>357-3<k1>sUri<k2>sUri
+137517 old = yajamāna {%in <ab>C.</ab>%}); lord, chief; presser {%or%} 
+;
+137517 new ^<ab>=</ab> yajamāna {%in <ab>C.</ab>%}); lord, chief; presser {%or%} 
+;---------------------------------------------------
+; <L>19653<pc>357-3<k1>sUryAMSu<k2>sUryAMSu
+137585 old whose wealth is Sūrya (Aśvins; {%<ab>RV.</ab>¹%}); {@ā-@}
+;
+137585 new whose wealth is Sūrya (Aśvins; {%<ab>RV.¹</ab>%}); {@ā-@}
+;---------------------------------------------------
+; <L>19655<pc>357-3<k1>sf<k2>sf
+137611 old flow ({%<ab>RV.</ab>¹%}); {%<ab>des.</ab>%} {@sisīrṣati,@} wish to run 
+;
+137611 new flow ({%<ab>RV.¹</ab>%}); {%<ab>des.</ab>%} {@sisīrṣati,@} wish to run 
+;---------------------------------------------------
+; <L>19655<pc>357-3<k1>sf<k2>sf
+137681 old flow through ({%<ab>RV.</ab>¹%}); be spread out ({%<ab>RV.</ab>, %}
+;
+137681 new flow through ({%<ab>RV.¹</ab>%}); be spread out ({%<ab>RV.</ab>, %}
+;---------------------------------------------------
+; <L>19657<pc>358-1<k1>sfkvaRI<k2>sfkvaRI
+137701 old ({@sṛk@}) {@-van,@} {%<ab>m.</ab>%} ({%<ab>RV.</ab>¹%}), {%<ab>n.</ab>%} ({%<ab>C.</ab>%}), {%<ab>id.</ab>%}; {@-vi,@} {%<ab>n.</ab>,%} 
+;
+137701 new ({@sṛk@}) {@-van,@} {%<ab>m.</ab>%} ({%<ab>RV.¹</ab>%}), {%<ab>n.</ab>%} ({%<ab>C.</ab>%}), {%<ab>id.</ab>%}; {@-vi,@} {%<ab>n.</ab>,%} 
+;---------------------------------------------------
+; <L>19661<pc>358-3<k1>sfjati<k2>sfjati
+137827 old {%as a <ab>N.</ab>%}).
+;
+137827 new {%as a <ab n="noun.">N.</ab>%}).
+;---------------------------------------------------
+; <L>19679<pc>359-1<k1>setf<k2>setf
+137964 old {#setf#}¦se-tṛ́, {%<ab>m.</ab>%} [<ab>√</ab> ¤1.¤ si] binder ({%<ab>RV.</ab>¹%}).
+;
+137964 new {#setf#}¦se-tṛ́, {%<ab>m.</ab>%} [<ab>√</ab> ¤1.¤ si] binder ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>19724<pc>360-1<k1>sodaka<k2>sodaka
+138300 old = closely allied with, next of kin to ({%<ab>e. g.</ab>%} 
+;
+138300 new ^<ab>=</ab> closely allied with, next of kin to ({%<ab>e. g.</ab>%} 
+;---------------------------------------------------
+; <L>19731<pc>360-1<k1>somaka<k2>somaka
+138406 old  with Soma ({%<ab>RV.</ab>¹%}); {@-raśmi@}, {%<ab>m.</ab> <ab>N.</ab> %}
+;
+138406 new  with Soma ({%<ab>RV.¹</ab>%}); {@-raśmi@}, {%<ab>m.</ab> <ab>N.</ab> %}
+;---------------------------------------------------
+; <L>19791<pc>361-1<k1>sOmya<k2>sOmya
+138760 old {@ā,@} {%<ab>C.</ab>%}; {@saúmyā,@} {%<ab>RV.</ab>¹%}); {%<ab>V.</ab>, <ab>C.</ab>%}: relating, belonging, <lbinfo n="6"/>
+;
+138760 new {@ā,@} {%<ab>C.</ab>%}; {@saúmyā,@} {%<ab>RV.¹</ab>%}); {%<ab>V.</ab>, <ab>C.</ab>%}: relating, belonging, <lbinfo n="6"/>
+;---------------------------------------------------
+; <L>19827<pc>361-3<k1>skad<k2>skad
+138968 old {%<ab>RV.</ab>¹%}), leap ({%frog.%}). {@ati@} ({@-sk-@}; {%<ab>V.</ab>%}), 
+;
+138968 new {%<ab>RV.¹</ab>%}), leap ({%frog.%}). {@ati@} ({@-sk-@}; {%<ab>V.</ab>%}), 
+;---------------------------------------------------
+; <L>19837<pc>361-3<k1>skaB<k2>skaB
+139047 old ({%<ab>lc.</ab>%}; {%<ab>RV.</ab>¹%}). {@prati,@} oppose, resist ({%<ab>RV.</ab>¹%}). 
+;
+139047 new ({%<ab>lc.</ab>%}; {%<ab>RV.¹</ab>%}). {@prati,@} oppose, resist ({%<ab>RV.¹</ab>%}). 
+;---------------------------------------------------
+; <L>19849<pc>362-1<k1>stanaTa<k2>stanaTa
+139137 old {#stanaTa#}¦stan-átha, {%<ab>m.</ab>%} roar {%of the lion%} ({%<ab>RV.</ab>¹%}); 
+;
+139137 new {#stanaTa#}¦stan-átha, {%<ab>m.</ab>%} roar {%of the lion%} ({%<ab>RV.¹</ab>%}); 
+;---------------------------------------------------
+; <L>19852<pc>362-1<k1>stanayadama<k2>stanayadama
+139156 old  onset ({%Maruts%}; {%<ab>RV.</ab>¹%}).
+;
+139156 new  onset ({%Maruts%}; {%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>19875<pc>362-2<k1>stava<k2>stava
+139328 old  song of praise ({%<ab>RV.</ab>¹, <ab>C.</ab>%}); {@-átha,@} {%<ab>m.</ab>%} 
+;
+139328 new  song of praise ({%<ab>RV.¹</ab>, <ab>C.</ab>%}); {@-átha,@} {%<ab>m.</ab>%} 
+;---------------------------------------------------
+; <L>19875<pc>362-2<k1>stava<k2>stava
+139330 old praise ({%<ab>RV.</ab>¹%}); {@-ā-dhyai,@} {%<ab>d.</ab> <ab>inf.</ab>%} <ab>√</ab> stu ({%<ab>RV.</ab>%}); 
+;
+139330 new praise ({%<ab>RV.¹</ab>%}); {@-ā-dhyai,@} {%<ab>d.</ab> <ab>inf.</ab>%} <ab>√</ab> stu ({%<ab>RV.</ab>%}); 
+;---------------------------------------------------
+; <L>19883<pc>362-3<k1>sti<k2>sti
+139368 old  vassal ({%only <ab>ac.</ab> <ab>pl.</ab>%} {@stīn,@} {%<ab>RV.</ab> ²%}).
+;
+139368 new  vassal ({%only <ab>ac.</ab> <ab>pl.</ab>%} {@stīn,@} {%<ab>RV.²</ab>%}).
+;---------------------------------------------------
+; <L>19893<pc>362-3<k1>stukA<k2>stukA
+139446 old {%<ab>a.</ab>%} shaggy ({%<ab>RV.</ab>¹%}).
+;
+139446 new {%<ab>a.</ab>%} shaggy ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>19899<pc>363-1<k1>stuB<k2>stuB
+139480 old {%Sāman%}; {%<ab>V.</ab>%}); {%<ab>cs.</ab>%} {@stobhaya,@} <ab>P.</ab> shout ({%<ab>RV.</ab>¹%}): 
+;
+139480 new {%Sāman%}; {%<ab>V.</ab>%}); {%<ab>cs.</ab>%} {@stobhaya,@} <ab>P.</ab> shout ({%<ab>RV.¹</ab>%}): 
+;---------------------------------------------------
+; <L>19899<pc>363-1<k1>stuB<k2>stuB
+139485 old ({%stead%}; {%<ab>RV.</ab>¹%}). {@prati,@} answer with a shout 
+;
+139485 new ({%stead%}; {%<ab>RV.¹</ab>%}). {@prati,@} answer with a shout 
+;---------------------------------------------------
+; <L>19901<pc>363-1<k1>stf<k2>stf
+139499 old ({%<ab>RV.</ab> ²%}), VI.<ab>Ā.</ab> {@stiré@} ({%<ab>RV.</ab>¹%}), scatter, strew 
+;
+139499 new ({%<ab>RV.²</ab>%}), VI.<ab>Ā.</ab> {@stiré@} ({%<ab>RV.¹</ab>%}), scatter, strew 
+;---------------------------------------------------
+; <L>19918<pc>363-2<k1>stoma<k2>stoma
+139632 old on =) delighting in hymns of praise ({%<ab>RV.</ab>¹%}); 
+;
+139632 new on =) delighting in hymns of praise ({%<ab>RV.¹</ab>%}); 
+;---------------------------------------------------
+; <L>19945<pc>364-1<k1>sTaSas<k2>sTaSas
+139851 old  place ({%<ab>RV.</ab>¹%}).
+;
+139851 new  place ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>19946<pc>364-1<k1>sTA<k2>sTA
+139866 old  remain ({%<ab>w.</ab> <ab>nm.</ab> <ab>N.</ab>, <ab>e. g.</ab> a girl = unmarried%}; <lbinfo n="2"/>
+;
+139866 new  remain ({%<ab>w.</ab> <ab>nm.</ab> <ab n="noun.">N.</ab>, <ab>e. g.</ab> a girl = unmarried%}; <lbinfo n="2"/>
+;---------------------------------------------------
+; <L>19971<pc>366-1<k1>sTita<k2>sTita
+140444 old = he waited; {@anityaṃ sthitaḥ@}, not remaining <lbinfo n="6"/>
+;
+140444 new ^<ab>=</ab> he waited; {@anityaṃ sthitaḥ@}, not remaining <lbinfo n="6"/>
+;---------------------------------------------------
+; <L>19979<pc>366-2<k1>sTivi<k2>sTivi
+140551 old {#sTivi#}¦sthiví, {%<ab>m.</ab>%} winnowing basket ({%<ab>RV.</ab>¹%}): 
+;
+140551 new {#sTivi#}¦sthiví, {%<ab>m.</ab>%} winnowing basket ({%<ab>RV.¹</ab>%}): 
+;---------------------------------------------------
+; <L>19979<pc>366-2<k1>sTivi<k2>sTivi
+140553 old ({%<ab>RV.</ab>¹%}).
+;
+140553 new ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>20033<pc>367-2<k1>spaS<k2>spaS
+140927 old ¤3.¤ {%<ab>sg.</ab>%} <ab>Ā.</ab> {@áspaṣṭa@} ({%<ab>RV.</ab>¹%}), see, behold, perceive: <lbinfo n="3"/>
+;
+140927 new ¤3.¤ {%<ab>sg.</ab>%} <ab>Ā.</ab> {@áspaṣṭa@} ({%<ab>RV.¹</ab>%}), see, behold, perceive: <lbinfo n="3"/>
+;---------------------------------------------------
+; <L>20041<pc>367-2<k1>spUrD<k2>spUrD
+140975 old into strife ({%<ab>RV.</ab>¹%}).
+;
+140975 new into strife ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>20069<pc>368-1<k1>sPira<k2>sPira
+141180 old {#sPira#}¦sphi-rá, {%<ab>a.</ab>%} [<ab>√</ab> sphāy] fat ({%<ab>RV.</ab>¹%}).
+;
+141180 new {#sPira#}¦sphi-rá, {%<ab>a.</ab>%} [<ab>√</ab> sphāy] fat ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>20092<pc>368-2<k1>smadizwa<k2>smadizwa
+141362 old  ({%watchers%}; {%<ab>RV.</ab>¹%}). 
+;
+141362 new  ({%watchers%}; {%<ab>RV.¹</ab>%}). 
+;---------------------------------------------------
+; <L>20103<pc>368-3<k1>smi<k2>smi
+141451 old {@ava,@} flush down ({%lightnings%}) on ({%<ab>lc.</ab>%}; {%<ab>RV.</ab>¹%}). 
+;
+141451 new {@ava,@} flush down ({%lightnings%}) on ({%<ab>lc.</ab>%}; {%<ab>RV.¹</ab>%}). 
+;---------------------------------------------------
+; <L>20111<pc>369-1<k1>syanttf<k2>syanttf
+141573 old {#syanttf#}¦syánt-tṛ, {%<ab>a.</ab>%} ({%Indra%}; {%<ab>RV.</ab>¹%}).
+;
+141573 new {#syanttf#}¦syánt-tṛ, {%<ab>a.</ab>%} ({%Indra%}; {%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>20113<pc>369-1<k1>syanda<k2>syanda
+141585 old dripping (-°); {%<ab>m.</ab>%} war-chariot, car ({%<ab>RV.</ab>¹, <ab>C.</ab>%}); 
+;
+141585 new dripping (-°); {%<ab>m.</ab>%} war-chariot, car ({%<ab>RV.¹</ab>, <ab>C.</ab>%}); 
+;---------------------------------------------------
+; <L>20128<pc>369-2<k1>sraj<k2>sraj
+141687 old =) multitude of (-°).
+;
+141687 new ^<ab>=</ab>) multitude of (-°).
+;---------------------------------------------------
+; <L>20130<pc>369-2<k1>srava<k2>srava
+141697 old {@-áthu,@} {%<ab>m.</ab>%} flow ({%<ab>RV.</ab>¹%}); ({@sráv@}) {@-ant-ī,@} {%<ab>f.</ab>%} ({%<ab>pr.</ab> %}
+;
+141697 new {@-áthu,@} {%<ab>m.</ab>%} flow ({%<ab>RV.¹</ab>%}); ({@sráv@}) {@-ant-ī,@} {%<ab>f.</ab>%} ({%<ab>pr.</ab> %}
+;---------------------------------------------------
+; <L>20140<pc>369-3<k1>sriv<k2>sriv
+141751 old fail ({%<ab>RV.</ab>¹%}).
+;
+141751 new fail ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>20141<pc>369-3<k1>sru<k2>sru
+141760 old =) be derived from ({%<ab>ab.</ab>%}); come in, be paid 
+;
+141760 new ^<ab>=</ab>) be derived from ({%<ab>ab.</ab>%}); come in, be paid 
+;---------------------------------------------------
+; <L>20147<pc>369-3<k1>srU<k2>srU
+141812 old {#srU#}¦srū́, {%<ab>f.</ab>%} leaden ball {%of a sling%} ({%<ab>RV.</ab>¹%}).
+;
+141812 new {#srU#}¦srū́, {%<ab>f.</ab>%} leaden ball {%of a sling%} ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>20197<pc>370-3<k1>svapivAta<k2>svapivAta
+142196 old  well ({%<ab>RV.</ab>¹%}).
+;
+142196 new  well ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>20199<pc>370-3<k1>svapU<k2>svapU
+142204 old {#svapU#}¦sva-pū́, {%<ab>f.</ab>%} [<ab>√</ab> pū] broom ({%<ab>RV.</ab>¹%}).
+;
+142204 new {#svapU#}¦sva-pū́, {%<ab>f.</ab>%} [<ab>√</ab> pū] broom ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>20221<pc>371-2<k1>svaraMkfta<k2>svaraMkfta
+142412 old ({%sacrifice%}; {%<ab>RV.</ab>¹%}).
+;
+142412 new ({%sacrifice%}; {%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>20261<pc>372-2<k1>svavAsinI<k2>svavAsinI
+142720 old {@vṛkti@}, {%<ab>f.</ab>%} ({%<ab>RV.</ab>¹%}) self-appropriation: {%<ab>in.</ab> <ab>pl.</ab>%} 
+;
+142720 new {@vṛkti@}, {%<ab>f.</ab>%} ({%<ab>RV.¹</ab>%}) self-appropriation: {%<ab>in.</ab> <ab>pl.</ab>%} 
+;---------------------------------------------------
+; <L>20261<pc>372-2<k1>svavAsinI<k2>svavAsinI
+142721 old = exclusively for ourselves; {@-vṛtti@}, {%<ab>f.</ab>%} own 
+;
+142721 new ^<ab>=</ab> exclusively for ourselves; {@-vṛtti@}, {%<ab>f.</ab>%} own 
+;---------------------------------------------------
+; <L>20322<pc>373-2<k1>svAyuj<k2>svAyuj
+143115 old {#svAyuj#}¦su‡āyúj, {%<ab>a.</ab>%} easy to yoke ({%<ab>RV.</ab>¹%}); 
+;
+143115 new {#svAyuj#}¦su‡āyúj, {%<ab>a.</ab>%} easy to yoke ({%<ab>RV.¹</ab>%}); 
+;---------------------------------------------------
+; <L>20323<pc>373-2<k1>svAra<k2>svAra
+143121 old {%a steed%}; {%<ab>RV.</ab>¹%}); (Svarita) accent ({%<ab>S.</ab>%}); {%<ab>a.</ab>%} 
+;
+143121 new {%a steed%}; {%<ab>RV.¹</ab>%}); (Svarita) accent ({%<ab>S.</ab>%}); {%<ab>a.</ab>%} 
+;---------------------------------------------------
+; <L>20334<pc>373-2<k1>svAvfj<k2>svAvfj
+143185 old {#svAvfj#}¦su‡ā́vṛj, {%<ab>a.</ab>%} easy to acquire ({%<ab>RV.</ab>¹%}); 
+;
+143185 new {#svAvfj#}¦su‡ā́vṛj, {%<ab>a.</ab>%} easy to acquire ({%<ab>RV.¹</ab>%}); 
+;---------------------------------------------------
+; <L>20350<pc>373-3<k1>sveda<k2>sveda
+143313 old  {%<ab>N.</ab>%} vermin; {@-jala@}, {%<ab>n.</ab>%} perspiration: 
+;
+143313 new  {%<ab n="noun.">N.</ab>%} vermin; {@-jala@}, {%<ab>n.</ab>%} perspiration: 
+;---------------------------------------------------
+; <L>20376<pc>374-a2<k1>hati<k2>hati
+143514 old  {@-tnú,@} {%<ab>a.</ab>%} [<ab>√</ab> han] fatal, mortal [{%<ab>RV.</ab>¹%}]; 
+;
+143514 new  {@-tnú,@} {%<ab>a.</ab>%} [<ab>√</ab> han] fatal, mortal [{%<ab>RV.¹</ab>%}]; 
+;---------------------------------------------------
+; <L>20424<pc>375-3<k1>harivat<k2>harivat
+143954 old golden aspect ({%earth, Indra, <ab>RV.</ab> ²%}); {@-vāha-@}
+;
+143954 new golden aspect ({%earth, Indra, <ab>RV.²</ab>%}); {@-vāha-@}
+;---------------------------------------------------
+; <L>20424<pc>375-3<k1>harivat<k2>harivat
+143957 old {@vrata,@} {%<ab>a.</ab>%} whose work is tawny ({%Agni%}; {%<ab>RV.</ab>¹%}); 
+;
+143957 new {@vrata,@} {%<ab>a.</ab>%} whose work is tawny ({%Agni%}; {%<ab>RV.¹</ab>%}); 
+;---------------------------------------------------
+; <L>20425<pc>375-3<k1>hariScandra<k2>hariScandra
+143964 old {%or%} golden lustre ({%Soma, <ab>RV.</ab>¹%}); {%<ab>m.</ab> <ab>N.</ab> of a %}
+;
+143964 new {%or%} golden lustre ({%Soma, <ab>RV.¹</ab>%}); {%<ab>m.</ab> <ab>N.</ab> of a %}
+;---------------------------------------------------
+; <L>20425<pc>375-3<k1>hariScandra<k2>hariScandra
+143970 old having a tawny beard ({%<ab>RV.</ab>¹%}); {@-śmaśru@}, {%<ab>a.</ab> %}
+;
+143970 new having a tawny beard ({%<ab>RV.¹</ab>%}); {@-śmaśru@}, {%<ab>a.</ab> %}
+;---------------------------------------------------
+; <L>20430<pc>375-3<k1>harmyezWA<k2>harmyezWA
+144010 old house {%or%} stall ({%<ab>RV.</ab>¹%}; = gharmye-ṣṭhā́, {%<ab>RV.</ab>¹%}).
+;
+144010 new house {%or%} stall ({%<ab>RV.¹</ab>%}; = gharmye-ṣṭhā́, {%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>20451<pc>376-1<k1>havirad<k2>havirad
+144154 old conveying the sacrifice ({%<ab>RV.</ab>¹%}).
+;
+144154 new conveying the sacrifice ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>20453<pc>376-1<k1>havizkft<k2>havizkft
+144169 old oblation ({%<ab>RV.</ab>¹%}); {@-pānt-īya,@} {%<ab>a.</ab>%} beginning 
+;
+144169 new oblation ({%<ab>RV.¹</ab>%}); {@-pānt-īya,@} {%<ab>a.</ab>%} beginning 
+;---------------------------------------------------
+; <L>20457<pc>376-2<k1>havya<k2>havya<h>1
+144212 old {@á‡ad,@} {%<ab>a.</ab>%} eating the sacrifice ({%<ab>RV.</ab>¹%}); {@-āśa@}, {%<ab>m.</ab>%} 
+;
+144212 new {@á‡ad,@} {%<ab>a.</ab>%} eating the sacrifice ({%<ab>RV.¹</ab>%}); {@-āśa@}, {%<ab>m.</ab>%} 
+;---------------------------------------------------
+; <L>20459<pc>376-2<k1>hasa<k2>hasa
+144242 old encouraging shout ({%<ab>RV.</ab>¹%}); {@-anīya,@} {%<ab>fp.</ab>%} to be 
+;
+144242 new encouraging shout ({%<ab>RV.¹</ab>%}); {@-anīya,@} {%<ab>fp.</ab>%} to be 
+;---------------------------------------------------
+; <L>20459<pc>376-2<k1>hasa<k2>hasa
+144246 old  ({%<ab>RV.</ab>¹%}); {@-kāra,@} {%<ab>m.</ab>%} laughter {%of heaven%}, 
+;
+144246 new  ({%<ab>RV.¹</ab>%}); {@-kāra,@} {%<ab>m.</ab>%} laughter {%of heaven%}, 
+;---------------------------------------------------
+; <L>20459<pc>376-2<k1>hasa<k2>hasa
+144247 old sheet lightning ({%<ab>RV.</ab>¹%}); ({@hás@}) {@-kṛti@}, {%<ab>f.</ab>%} mirth, 
+;
+144247 new sheet lightning ({%<ab>RV.¹</ab>%}); ({@hás@}) {@-kṛti@}, {%<ab>f.</ab>%} mirth, 
+;---------------------------------------------------
+; <L>20459<pc>376-2<k1>hasa<k2>hasa
+144248 old laughter ({%<ab>RV.</ab>¹%}).
+;
+144248 new laughter ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>20461<pc>376-2<k1>hastaka<k2>hastaka
+144275 old hand {%of a girl%}, wedded ({%<ab>RV.</ab>¹%}); {@-grāha,@} {%<ab>a.</ab> %}
+;
+144275 new hand {%of a girl%}, wedded ({%<ab>RV.¹</ab>%}); {@-grāha,@} {%<ab>a.</ab> %}
+;---------------------------------------------------
+; <L>20461<pc>376-2<k1>hastaka<k2>hastaka
+144278 old ({%against the bowstring%}; {%<ab>RV.</ab>¹%}); {@(hásta)-@}
+;
+144278 new ({%against the bowstring%}; {%<ab>RV.¹</ab>%}); {@(hásta)-@}
+;---------------------------------------------------
+; <L>20461<pc>376-2<k1>hastaka<k2>hastaka
+144281 old  {%<ab>f.</ab>%} swift movement of the hands ({%<ab>RV.</ab>¹%}); 
+;
+144281 new  {%<ab>f.</ab>%} swift movement of the hands ({%<ab>RV.¹</ab>%}); 
+;---------------------------------------------------
+; <L>20467<pc>376-3<k1>hastinApura<k2>hastinApura
+144343 old {%an old bed of the Ganges, ¤57¤ miles <ab>N.</ab> <ab>E.</ab> of %}
+;
+144343 new {%an old bed of the Ganges, ¤57¤ miles <ab>N.E.</ab> of %}
+;---------------------------------------------------
+; <L>20472<pc>376-3<k1>hasra<k2>hasra
+144378 old {#hasra#}¦has-rá, {%<ab>a.</ab>%} laughing ({%<ab>RV.</ab>¹%}).
+;
+144378 new {#hasra#}¦has-rá, {%<ab>a.</ab>%} laughing ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>20491<pc>377-2<k1>hAridrava<k2>hAridrava
+144579 old yellow bird ({%<ab>RV.</ab> ²%}).
+;
+144579 new yellow bird ({%<ab>RV.²</ab>%}).
+;---------------------------------------------------
+; <L>20502<pc>377-3<k1>hAs<k2>hAs
+144641 old race ({%<ab>RV.</ab>¹%}).
+;
+144641 new race ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>20511<pc>378-1<k1>hiMsa<k2>hiMsa
+144745 old {#hiMsa#}¦híṃs-a, {%<ab>a.</ab>%} hurting, injuring ({%<ab>RV.</ab>¹%}): 
+;
+144745 new {#hiMsa#}¦híṃs-a, {%<ab>a.</ab>%} hurting, injuring ({%<ab>RV.¹</ab>%}): 
+;---------------------------------------------------
+; <L>20511<pc>378-1<k1>hiMsa<k2>hiMsa
+144753 old hurtful, mischievous, noxious ({%<ab>RV.</ab>¹, <ab>C.</ab>%}); -°, 
+;
+144753 new hurtful, mischievous, noxious ({%<ab>RV.¹</ab>, <ab>C.</ab>%}); -°, 
+;---------------------------------------------------
+; <L>20531<pc>378-2<k1>hina<k2>hina
+144884 old {#hina#}¦hi-ná, {%indecl.%} = hí, for ({%<ab>RV.</ab>¹%}).
+;
+144884 new {#hina#}¦hi-ná, {%indecl.%} = hí, for ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>20535<pc>378-2<k1>hinva<k2>hinva
+144903 old {#hinva#}¦hinvá, {%<ab>m.</ab>%} inciter ({%<ab>RV.</ab>¹%}).
+;
+144903 new {#hinva#}¦hinvá, {%<ab>m.</ab>%} inciter ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>20546<pc>378-2<k1>hiraRya<k2>hiraRya
+145000 old ({%<ab>RV.</ab>¹%}); {@-da,@} {%<ab>a.</ab>%} giving gold; {@-datta,@} {%<ab>m.</ab> <ab>N.</ab>%}; 
+;
+145000 new ({%<ab>RV.¹</ab>%}); {@-da,@} {%<ab>a.</ab>%} giving gold; {@-datta,@} {%<ab>m.</ab> <ab>N.</ab>%}; 
+;---------------------------------------------------
+; <L>20546<pc>378-2<k1>hiraRya<k2>hiraRya
+145001 old ({@hi-@}) {@-dant,@} {%<ab>m.</ab>%} gold-toothed ({%<ab>RV.</ab>¹%}); {%<ab>m.</ab> <ab>N.</ab> of %}
+;
+145001 new ({@hi-@}) {@-dant,@} {%<ab>m.</ab>%} gold-toothed ({%<ab>RV.¹</ab>%}); {%<ab>m.</ab> <ab>N.</ab> of %}
+;---------------------------------------------------
+; <L>20548<pc>378-3<k1>hiraRyaraTa<k2>hiraRyaraTa
+145030 old {%<ab>id.</ab>%} ({%<ab>RV.</ab>¹%}); {@-vāha,@} {%<ab>m.</ab> <ab>ep.</ab> of the river%} Sone; 
+;
+145030 new {%<ab>id.</ab>%} ({%<ab>RV.¹</ab>%}); {@-vāha,@} {%<ab>m.</ab> <ab>ep.</ab> of the river%} Sone; 
+;---------------------------------------------------
+; <L>20569<pc>379-1<k1>huras<k2>huras
+145181 old {#huras#}¦hurás, {%<ab>ad.</ab>%} secretly ({%<ab>RV.</ab>¹%}).
+;
+145181 new {#huras#}¦hurás, {%<ab>ad.</ab>%} secretly ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>20570<pc>379-1<k1>huruk<k2>huruk
+145185 old {#huruk#}¦hurúk, {%<ab>ad.</ab>%} aside ({%<ab>RV.</ab>¹%}; {%<ab>cp.</ab>%} hiruk).
+;
+145185 new {#huruk#}¦hurúk, {%<ab>ad.</ab>%} aside ({%<ab>RV.¹</ab>%}; {%<ab>cp.</ab>%} hiruk).
+;---------------------------------------------------
+; <L>20582<pc>379-1<k1>hf<k2>hf<h>1
+145240 old ({%<ab>RV.</ab>¹%}), {%<ab>V.</ab>, <ab>C.</ab>%}: hold, carry, on {%or%} in ({%<ab>in.</ab>%}); 
+;
+145240 new ({%<ab>RV.¹</ab>%}), {%<ab>V.</ab>, <ab>C.</ab>%}: hold, carry, on {%or%} in ({%<ab>in.</ab>%}); 
+;---------------------------------------------------
+; <L>20582<pc>379-1<k1>hf<k2>hf<h>1
+145381 old {@-harmi,@} {%<ab>RV.</ab>¹%}); move forward, stretch out 
+;
+145381 new {@-harmi,@} {%<ab>RV.¹</ab>%}); move forward, stretch out 
+;---------------------------------------------------
+; <L>20585<pc>380-1<k1>hfcCaya<k2>hfcCaya
+145435 old = the conscience; {%<ab>m.</ab>%} love; god of love: {@-pīḍ-@}
+;
+145435 new ^<ab>=</ab> the conscience; {%<ab>m.</ab>%} love; god of love: {@-pīḍ-@}
+;---------------------------------------------------
+; <L>20586<pc>380-1<k1>hfRAyat<k2>hfRAyat
+145442 old {#hfRAyat#}¦hṛṇā-yát, {%<ab>pr.</ab> <ab>pt.</ab>%} wroth ({%<ab>RV.</ab>¹%}).
+;
+145442 new {#hfRAyat#}¦hṛṇā-yát, {%<ab>pr.</ab> <ab>pt.</ab>%} wroth ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>20587<pc>380-1<k1>hfRIya<k2>hfRIya
+145446 old {#hfRIya#}¦hṛṇī́ya, <ab>Ā.</ab> {@-te,@} be wroth ({%<ab>RV.</ab>¹%}).
+;
+145446 new {#hfRIya#}¦hṛṇī́ya, <ab>Ā.</ab> {@-te,@} be wroth ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>20591<pc>380-1<k1>hfttas<k2>hfttas
+145468 old {#hfttas#}¦hṛt-tás, {%<ab>ad.</ab>%} from the heart ({%<ab>RV.</ab>¹%}); 
+;
+145468 new {#hfttas#}¦hṛt-tás, {%<ab>ad.</ab>%} from the heart ({%<ab>RV.¹</ab>%}); 
+;---------------------------------------------------
+; <L>20593<pc>380-1<k1>hfdaMsani<k2>hfdaMsani
+145482 old  ({%<ab>g.</ab>%}) with courage ({%<ab>RV.</ab>¹%}).
+;
+145482 new  ({%<ab>g.</ab>%}) with courage ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>20601<pc>380-2<k1>hfdroga<k2>hfdroga
+145548 old {#hfdroga#}¦hṛd-roga, {%<ab>m.</ab>%} internal disease ({%<ab>RV.</ab>¹%}); 
+;
+145548 new {#hfdroga#}¦hṛd-roga, {%<ab>m.</ab>%} internal disease ({%<ab>RV.¹</ab>%}); 
+;---------------------------------------------------
+; <L>20616<pc>380-3<k1>heman<k2>heman<h>1
+145688 old <hom>1.</hom> {#heman#}¦he-mán, {%<ab>n.</ab>%} [<ab>√</ab> hi] impulse ({%<ab>RV.</ab>¹%}).
+;
+145688 new <hom>1.</hom> {#heman#}¦he-mán, {%<ab>n.</ab>%} [<ab>√</ab> hi] impulse ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>20630<pc>380-3<k1>hez<k2>hez
+145773 old {#hez#}¦HEṢ, I.<ab>P.</ab> {@héṣa,@} neigh ({%<ab>RV.</ab>¹, <ab>C.</ab>%}). 
+;
+145773 new {#hez#}¦HEṢ, I.<ab>P.</ab> {@héṣa,@} neigh ({%<ab>RV.¹</ab>, <ab>C.</ab>%}). 
+;---------------------------------------------------
+; <L>20631<pc>380-3<k1>hezakratu<k2>hezakratu
+145779 old ({%<ab>RV.</ab>¹%}).
+;
+145779 new ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>20658<pc>381-2<k1>hotriya<k2>hotriya
+145933 old sacrificer), priestly office ({%<ab>RV.</ab>¹%}); {@-ī́ya,@} {%<ab>a.</ab>%} belonging <lbinfo n="2"/>
+;
+145933 new sacrificer), priestly office ({%<ab>RV.¹</ab>%}); {@-ī́ya,@} {%<ab>a.</ab>%} belonging <lbinfo n="2"/>
+;---------------------------------------------------
+; <L>20660<pc>381-2<k1>homan<k2>homan
+145947 old  ¤2.¤ [<ab>√</ab> hū] utterance ({%of praise%}; {%<ab>RV.</ab>¹%}).
+;
+145947 new  ¤2.¤ [<ab>√</ab> hū] utterance ({%of praise%}; {%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>20692<pc>381-3<k1>hlAda<k2>hlAda
+146147 old cooling ({%<ab>RV.</ab>¹%}); {@-in,@} {%<ab>a.</ab>%} refreshing.
+;
+146147 new cooling ({%<ab>RV.¹</ab>%}); {@-in,@} {%<ab>a.</ab>%} refreshing.
+;---------------------------------------------------
+; <L>20731<pc>383-2<k1>prakrama<k2>prakrama
+146444 old {@-krīḍín@}, {%<ab>a.</ab>%} playing, gambolling ({%<ab>RV.</ab>¹%}). 
+;
+146444 new {@-krīḍín@}, {%<ab>a.</ab>%} playing, gambolling ({%<ab>RV.¹</ab>%}). 
+;---------------------------------------------------
+; <L>20732<pc>383-3<k1>prakz<k2>prakz
+146450 old {@-pṛkṣase@} {%with%} {@ā,@} greet ({%<ab>RV.</ab>¹%}).
+;
+146450 new {@-pṛkṣase@} {%with%} {@ā,@} greet ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------
+; <L>20740<pc>384-1<k1>pracatA<k2>pracatA
+146545 old  secretly ({%<ab>RV.</ab>¹%}).
+;
+146545 new  secretly ({%<ab>RV.¹</ab>%}).
+;---------------------------------------------------

@@ -1,0 +1,75 @@
+; <L>1332<pc>013-1<k1>anarTa<k2>anarTa
+6467 old {%n.%} no other ({%i.e.%} the same) meaning.
+;
+6467 new {%n.%} no other ({%i. e.%} the same) meaning.
+;---------------------------------------------------
+; <L>1755<pc>017-3<k1>antarajYa<k2>antarajYa
+8742 old {%i.e. of mixed caste%}; {@-prepsu,@} {%des. a.%} wishing to 
+;
+8742 new {%i. e. of mixed caste%}; {@-prepsu,@} {%des. a.%} wishing to 
+;---------------------------------------------------
+; <L>2504<pc>026-2<k1>ayukCada<k2>ayukCada
+12790 old {#ayukCada#}¦a-yukchada, {%m.%} (odd-leaved, {%i.e.%} 
+;
+12790 new {#ayukCada#}¦a-yukchada, {%m.%} (odd-leaved, {%i. e.%} 
+;---------------------------------------------------
+; <L>2510<pc>026-2<k1>ayugmacCada<k2>ayugmacCada
+12821 old  {@-locana@}, {%m.%} Śiva (odd- {%i.e.%} three-eyed); 
+;
+12821 new  {@-locana@}, {%m.%} Śiva (odd- {%i. e.%} three-eyed); 
+;---------------------------------------------------
+; <L>2783<pc>029-3<k1>avattin<k2>avattin
+14336 old {#avattin#}¦avattin, {%a.%} dividing into (--, {%e.g. %}
+;
+14336 new {#avattin#}¦avattin, {%a.%} dividing into (--, {%e. g. %}
+;---------------------------------------------------
+; <L>4218<pc>046-3<k1>ihaloka<k2>ihaloka
+22163 old {#ihaloka#}¦iha-loka, {%m.%} this, {%i.e.%} the present 
+;
+22163 new {#ihaloka#}¦iha-loka, {%m.%} this, {%i. e.%} the present 
+;---------------------------------------------------
+; <L>4279<pc>048-1<k1>ugit<k2>ugit
+22559 old {#ugit#}¦ug-it, {%a.%} having uk ({%i.e.%} u {%or%} ṛ) for  <lbinfo n="[]"/>
+;
+22559 new {#ugit#}¦ug-it, {%a.%} having uk ({%i. e.%} u {%or%} ṛ) for  <lbinfo n="[]"/>
+;---------------------------------------------------
+; <L>4811<pc>054-1<k1>upasaMgamana<k2>upasaMgamana
+25413 old  {@-graha,@} {%m.%} clasping ({%e.g. the feet in %}
+;
+25413 new  {@-graha,@} {%m.%} clasping ({%e. g. the feet in %}
+;---------------------------------------------------
+; <L>4887<pc>055-1<k1>uBayaprApti<k2>uBayaprApti
+25832 old ({%i.e. his apprenticeṣip and his vow of chasitity%}).
+;
+25832 new ({%i. e. his apprenticeṣip and his vow of chasitity%}).
+;---------------------------------------------------
+; <L>5082<pc>057-a2<k1>ekatatpara<k2>ekatatpara
+26986 old  as the single, {%i.e.%} highest treasure, quite 
+;
+26986 new  as the single, {%i. e.%} highest treasure, quite 
+;---------------------------------------------------
+; <L>5083<pc>057-a3<k1>ekapatikA<k2>ekapatikA
+27013 old mountain, {%i.e.%} the Himavat; {@-pīta,@} {%a.%} quite 
+;
+27013 new mountain, {%i. e.%} the Himavat; {@-pīta,@} {%a.%} quite 
+;---------------------------------------------------
+; <L>7095<pc>086-2<k1>gE<k2>gE
+39112 old ({%ac.%}): {%pp. sec. s.v.%} {@abhi,@} sing to, invoke ({%ac.%}); 
+;
+39112 new ({%ac.%}): {%pp. sec. s. v.%} {@abhi,@} sing to, invoke ({%ac.%}); 
+;---------------------------------------------------
+; <L>7095<pc>086-2<k1>gE<k2>gE
+39123 old contradictory. {@sam,@} sing together: {%pp. s.v.%}.
+;
+39123 new contradictory. {@sam,@} sing together: {%pp. s. v.%}.
+;---------------------------------------------------
+; <L>452<pc>005-1<k1>aja<k2>aja<h>2
+2171 old  <ab n="beginning">bg.</ab>; {%m.%} the Unborn, the Eternal One; ({%C.%}) {%N. %}
+;
+2171 new bg.; {%m.%} the Unborn, the Eternal One; ({%C.%}) {%N. %}
+;---------------------------------------------------
+; <L>15403<pc>258-2<k1>roman<k2>roman
+102282 old {%and animals%} ({%<ab n="generally">gnly.</ab> excluding the long hair %}
+;
+102282 new {%and animals%} ({%gnly. excluding the long hair %}
+;---------------------------------------------------

@@ -1,0 +1,181 @@
+Ā. :: 1199 :: Ātmanepada.
+A. D. :: 24 :: Anno Domini
+a. :: 16685 :: adjective.
+ab. :: 1101 :: ablative.
+abs. :: 61 :: absolute.
+abst. :: 12 :: abstract.
+abst. N. :: 316 :: abstract noun.
+ac. :: 2283 :: accusative.
+act. :: 88 :: active.
+ad. :: 1951 :: adverb, -ial, -ially.
+aor. :: 66 :: aorist.
+app. :: 12 :: apposition.
+ass. :: 4 :: asseverative.
+athg. :: 2 :: anything.
+AV. :: 76 :: Atharva-veda.
+B. :: 25 :: Buddhistic term.
+bg. :: 3 :: beginning.
+beg. :: 11 :: beginning.
+Br. :: 423 :: Brāhmaṇa.
+C. :: 1530 :: Classical (post-Vedic) Sanskrit.
+cj. :: 12 :: conjunction.
+col. :: 0 :: collective, -ly.
+coll. :: 25 :: collective, -ly.
+comm. :: 23 :: commentator.
+conj. :: 12 :: conjecture.
+cor. :: 5 :: correlative.
+cp. :: 56 :: compare.
+cpd. :: 5 :: compound.
+cpv. :: 113 :: comparative.
+crt. :: 0 :: certain.
+cs. :: 1498 :: causal.
+d. :: 541 :: dative.
+dbl. :: 1 :: double.
+den. :: 525 :: denominative.
+der. :: 9 :: derivative.
+des. :: 308 :: desiderative.
+dim. :: 12 :: diminutive.
+dr. :: 26 :: dramatic term.
+du. :: 222 :: dual.
+E. :: 251 :: Epic.
+e. g. :: 136 :: for example.
+emp. :: 0 :: emphatic.
+enc. :: 5 :: enclitic.
+encl. :: 14 :: enclitic.
+Eng. :: 0 :: English.
+ep. :: 801 :: epithet.
+eq. :: 0 :: equivalent.
+esp. :: 351 :: especially.
+exc. :: 4 :: except, exceptionally.
+excl. :: 1 :: exclamation.
+exp. :: 0 :: explanation.
+f. :: 7766 :: feminine; also = for.
+ff. :: 0 :: and the following.
+fig. :: 164 :: figurative, -ly.
+fp. :: 1338 :: future participle passive.
+fr. :: 193 :: from.
+ft. :: 38 :: future.
+g. :: 1530 :: genitive.
+gd. :: 135 :: gerund (indeclinable participle).
+Gk. :: 4 :: Greek.
+gnly. :: 145 :: generally.
+gr. :: 236 :: grammatical term.
+hvg. :: 23 :: having.
+id. :: 2015 :: the same.
+i. e. :: 155 :: that is.
+ij. :: 44 :: interjection.
+imps. :: 83 :: impersonal.
+impv. :: 52 :: imperative.
+in. :: 1790 :: instrumental.
+incor. :: 0 :: incorrect.
+incorr. :: 99 :: incorrect.
+ind. :: 10 :: indicative.
+indc. :: 2 :: indeclinable.
+indec. :: 3 :: indeclinable.
+indf. :: 0 :: indefinite.
+inf. :: 285 :: infinitive.
+int. :: 117 :: intransitive.
+intr. :: 6 :: interrogative.
+intv. :: 143 :: intensive (frequentative).
+ir. :: 1 :: irregular.
+K. :: 1 :: king.
+Lat. :: 2 :: Latin.
+lc. :: 2164 :: locative.
+leg. :: 8 :: legal term.
+lit. :: 12 :: literally.
+m. :: 16500 :: masculine.
+met. :: 29 :: metronymic.
+metr. :: 124 :: metrical (due to exigencies of metre).
+mg. :: 267 :: meaning.
+mtn. :: 23 :: mountain.
+N. :: 4280 :: name; when alone = name of a man or of a woman.
+ɴ. :: 0 :: noun.
+n. :: 10337 :: neuter.
+neg. :: 21 :: negative.
+nm. :: 254 :: nominative.
+nr. :: 2 :: numeral.
+num. :: 11 :: numeral.
+obj. :: 1 :: object.
+onom. :: 6 :: onomatopœic.
+opp. :: 128 :: opposite.
+opt. :: 4 :: optative.
+or. :: 1 :: originally.
+orig. :: 6 :: originally.
+ord. :: 198 :: ordinary.
+P. :: 1594 :: Parasmaipada.
+𝑃. :: 0 :: Purāṇa.
+pat. :: 215 :: patronymic.
+pcl. :: 39 :: particle.
+perh. :: 23 :: perhaps.
+pf. :: 85 :: perfect.
+ph. :: 24 :: philosophical term.
+phil. :: 23 :: philosophical term.
+pl. :: 1189 :: plural.
+pn. :: 2 :: pronoun, pronominal.
+prn. :: 64 :: pronoun, pronominal.
+pos. :: 1 :: possessive.
+poss. :: 3 :: possessive.
+pot. :: 43 :: potential.
+pp. :: 4849 :: perfect passive participle.
+Pr. :: 64 :: Prākrit (Sanskrit equivalent of Prākrit word), Prākritic.
+pr. :: 396 :: present.
+pred. :: 14 :: predicate, predicative, -ly.
+prob. :: 22 :: probably.
+prop. :: 0 :: properly.
+prp. :: 63 :: preposition.
+prs. :: 39 :: person.
+ps. :: 368 :: passive.
+pt. :: 423 :: participle.
+px. :: 9 :: prefix.
+q. v. :: 38 :: which see.
+R. :: 1 :: river.
+red. :: 12 :: reduplicated, reduplication. 
+rel. :: 12 :: relative.
+rl. :: 0 :: relative.
+rep. :: 4 :: repeated.
+rp. :: 0 :: repeated.
+rf. :: 0 :: reflexive.
+rh. :: 44 :: rhetorical term.
+rit. :: 12 :: ritual term.
+RV. :: 1530 :: Rig-veda.
+S. :: 150 :: Sūtra.
+s. :: 16 :: singular.
+sg. :: 412 :: singular.
+ŚB. :: 13 :: Śatapatha-Brāhmaṇa.
+sb. :: 0 :: substantive.
+sc. :: 64 :: scilicet, that is to say, supply.
+sp. :: 77 :: specifically.
+spv. :: 125 :: superlative.
+st. :: 23 :: stem.
+sthg. :: 10 :: something.
+str. :: 6 :: strong.
+subj. :: 27 :: subjunctive.
+SV. :: 1 :: Sāma-veda.
+s. v. :: 3 :: sub voce.
+sx. :: 3 :: suffix.
+T. :: 166 :: title.
+t. :: 1 :: term.
+TBr. :: 0 :: Taittirīya-Brāhmaṇa.
+tr. :: 64 :: transitive.
+TS. :: 11 :: Taittirīya-Saṃhitā.
+U. :: 17 :: Upaniṣad.
+V. :: 2487 :: Veda, Vedic.
+v. :: 191 :: vide, see.
+vb. :: 41 :: verb.
+vbl. :: 5 :: verbal.
+vbl. N. :: 39 :: verbal noun.
+vc. :: 38 :: vocative.
+v. r. :: 42 :: various reading.
+VS. :: 13 :: Vājasaneyi-Saṃhitā.
+w. :: 382 :: with.
+wk. :: 10 :: weak.
+YV. :: 17 :: Yajur-veda.
+= :: 3 :: equals, is the equivalent of.
++ :: 107 :: with; also.
+± :: 218 :: with or without.
+& :: 225 :: and.
+&amp; :: 0 :: and.
+&c. :: 28 :: et cetera, and so forth.
+&amp;c. :: 0 :: et cetera, and so forth.
+etc. :: 693 :: et cetera, and so forth.
+√ :: 1804 :: root.

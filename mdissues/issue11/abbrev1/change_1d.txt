@@ -1,0 +1,1160 @@
+; <L>950<pc>009-2<k1>adButAya<k2>adButAya
+4573 old {#adButAya#}¦adbhutāya, {%den,%} appear a wonder.
+;
+4573 new {#adButAya#}¦adbhutāya, {%<ab>den.</ab>%} appear a wonder.
+;---------------------------------------------------
+; <L>1632<pc>015-2<k1>anukUlaya<k2>anukUlaya
+7899 old {#anukUlaya#}¦anu-kūlaya, {%den,%} <ab>P.</ab> flatter ({%<ab>ac.</ab>%}).
+;
+7899 new {#anukUlaya#}¦anu-kūlaya, {%<ab>den.</ab>%} <ab>P.</ab> flatter ({%<ab>ac.</ab>%}).
+;---------------------------------------------------
+; <L>2777<pc>029-3<k1>avataMsaya<k2>avataMsaya
+14302 old {#avataMsaya#}¦ava-taṃsa-ya, {%den,%} <ab>P.</ab> make into a  <lbinfo n="[]"/>
+;
+14302 new {#avataMsaya#}¦ava-taṃsa-ya, {%<ab>den.</ab>%} <ab>P.</ab> make into a  <lbinfo n="[]"/>
+;---------------------------------------------------
+; <L>3639<pc>039-3<k1>Ap<k2>Ap
+18995 old {#Ap#}¦ĀP, <ab>V.</ab><ab>P.</ab> (<ab>Ā.</ab>) {@āp-nu,@} reach, obtain, 
+;
+18995 new {#Ap#}¦ĀP, V.<ab>P.</ab> (<ab>Ā.</ab>) {@āp-nu,@} reach, obtain, 
+;---------------------------------------------------
+; <L>4263<pc>047-a1<k1>u<k2>u<h>4
+22469 old <hom>4.</hom> {#u#}¦U, <ab>V.</ab><ab>P.</ab> {@u-ṇo-ti@}, call, cry.
+;
+22469 new <hom>4.</hom> {#u#}¦U, V.<ab>P.</ab> {@u-ṇo-ti@}, call, cry.
+;---------------------------------------------------
+; <L>5033<pc>056-a3<k1>fj<k2>fj
+26624 old obtain; {%<ab>cs.</ab>%} <ab>P.</ab> A. {%<ab>id.</ab>%} {@upa,@} {%<ab>cs.</ab> <ab>id.</ab>%}.
+;
+26624 new obtain; {%<ab>cs.</ab>%} <ab>P.</ab> <ab>Ā.</ab> {%<ab>id.</ab>%} {@upa,@} {%<ab>cs.</ab> <ab>id.</ab>%}.
+;---------------------------------------------------
+; <L>5064<pc>057-2<k1>fD<k2>fD
+26821 old {#fD#}¦ṚDH, IV.<ab>P.</ab> {@ṛdhya@}; <ab>V.</ab><ab>P.</ab> {@ṛdh-nó-@}
+;
+26821 new {#fD#}¦ṚDH, IV.<ab>P.</ab> {@ṛdhya@}; V.<ab>P.</ab> {@ṛdh-nó-@}
+;---------------------------------------------------
+; <L>5394<pc>061-3<k1>kaRqUya<k2>kaRqUya
+28686 old {#kaRqUya#}¦kaṇḍū-ya, {%<ab>den.</ab>%} <ab>P.</ab> scratch: A. itch; 
+;
+28686 new {#kaRqUya#}¦kaṇḍū-ya, {%<ab>den.</ab>%} <ab>P.</ab> scratch: <ab>Ā.</ab> itch; 
+;---------------------------------------------------
+; <L>5443<pc>062-2<k1>kanizka<k2>kanizka
+28980 old {%king (first century A. D.)%}.
+;
+28980 new {%king (first century <ab>A. D.</ab>)%}.
+;---------------------------------------------------
+; <L>5842<pc>067-3<k1>kAlidAsa<k2>kAlidAsa
+31363 old {%sixth century A. D.%}.
+;
+31363 new {%sixth century <ab>A. D.</ab>%}.
+;---------------------------------------------------
+; <L>5861<pc>068-1<k1>kAvyAdarSa<k2>kAvyAdarSa
+31461 old {%century A. D.%}); {@-alaṃkāra@}, {%<ab>m.</ab>%} Ornament of 
+;
+31461 new {%century <ab>A. D.</ab>%}); {@-alaṃkāra@}, {%<ab>m.</ab>%} Ornament of 
+;---------------------------------------------------
+; <L>5916<pc>068-3<k1>kirAta<k2>kirAta
+31787 old  {%<ab>T.</ab> of a poem by Bhāravi%} (¤6¤{%th cent. A. D.%}).
+;
+31787 new  {%<ab>T.</ab> of a poem by Bhāravi%} (¤6¤{%th cent. <ab>A. D.</ab>%}).
+;---------------------------------------------------
+; <L>6432<pc>076-1<k1>kram<k2>kram
+34956 old begin ({%<ab>ac.</ab>, <ab>d.</ab>, <ab>inf.</ab>%}). {@sam-upa,@} A. begin 
+;
+34956 new begin ({%<ab>ac.</ab>, <ab>d.</ab>, <ab>inf.</ab>%}). {@sam-upa,@} <ab>Ā.</ab> begin 
+;---------------------------------------------------
+; <L>6459<pc>076-3<k1>krIq<k2>krIq
+35139 old play, jest (A.). {@pra,@} begin to play, enjoy 
+;
+35139 new play, jest (<ab>Ā.</ab>). {@pra,@} begin to play, enjoy 
+;---------------------------------------------------
+; <L>6760<pc>080-3<k1>KyA<k2>KyA
+36871 old {#KyA#}¦KHY<ab>Ā.</ab> II.<ab>P.</ab> {@khyā-ti@}; {%<ab>ps.</ab>%} {@khyāyate,@} 
+;
+36871 new {#KyA#}¦KHYĀ. II.<ab>P.</ab> {@khyā-ti@}; {%<ab>ps.</ab>%} {@khyāyate,@} 
+;---------------------------------------------------
+; <L>6912<pc>083-3<k1>gA<k2>gA<h>1
+37948 old <hom>1.</hom> {#gA#}¦G<ab>Ā.</ab> III.<ab>P.</ab> {@jigā@}, go {%or%} come, to 
+;
+37948 new <hom>1.</hom> {#gA#}¦GĀ. III.<ab>P.</ab> {@jigā@}, go {%or%} come, to 
+;---------------------------------------------------
+; <L>6913<pc>083-3<k1>gA<k2>gA<h>2
+37970 old <hom>2.</hom> {#gA#}¦G<ab>Ā.</ab> {%<ab>v.</ab>%} {#gE#} GAI.
+;
+37970 new <hom>2.</hom> {#gA#}¦GĀ. {%<ab>v.</ab>%} {#gE#} GAI.
+;---------------------------------------------------
+; <L>7309<pc>090-2<k1>GrA<k2>GrA
+40528 old {#GrA#}¦GHR<ab>Ā.</ab> I.<ab>P.</ab> {@jighra@} ({%<ab>E.</ab> also%} <ab>Ā.</ab> {%and%} II. 
+;
+40528 new {#GrA#}¦GHRĀ. I.<ab>P.</ab> {@jighra@} ({%<ab>E.</ab> also%} <ab>Ā.</ab> {%and%} II. 
+;---------------------------------------------------
+; <L>7426<pc>092-1<k1>capalAya<k2>capalAya
+41320 old {#capalAya#}¦capalā-ya, {%<ab>den.</ab>%} A. move {%or%} jump  <lbinfo n="[]"/>
+;
+41320 new {#capalAya#}¦capalā-ya, {%<ab>den.</ab>%} <ab>Ā.</ab> move {%or%} jump  <lbinfo n="[]"/>
+;---------------------------------------------------
+; <L>7548<pc>093-3<k1>ci<k2>ci<h>1
+42080 old {%priest,%} A. {%by the sacrificer himself%}); gather, 
+;
+42080 new {%priest,%} <ab>Ā.</ab> {%by the sacrificer himself%}); gather, 
+;---------------------------------------------------
+; <L>7549<pc>094-1<k1>ci<k2>ci<h>2
+42112 old <hom>2.</hom> {#ci#}¦CI, III.<ab>P.</ab> {@citéti@} ({%<ab>V.</ab>%}); <ab>V.</ab><ab>P.</ab> <ab>Ā.</ab> 
+;
+42112 new <hom>2.</hom> {#ci#}¦CI, III.<ab>P.</ab> {@citéti@} ({%<ab>V.</ab>%}); V.<ab>P.</ab> <ab>Ā.</ab> 
+;---------------------------------------------------
+; <L>7743<pc>097-1<k1>CA<k2>CA
+43334 old {#CA#}¦CH<ab>Ā.</ab> IV.<ab>P.</ab> {@chyá-ti@}, cut off: {%<ab>pp.</ab>%} {@chāta@} 
+;
+43334 new {#CA#}¦CHĀ. IV.<ab>P.</ab> {@chyá-ti@}, cut off: {%<ab>pp.</ab>%} {@chāta@} 
+;---------------------------------------------------
+; <L>7842<pc>098-2<k1>jan<k2>jan
+43925 old <ab>Ā.</ab>, {%<ab>in.</ab> (<ab>E.</ab> also <ab>P.</ab>%}) be born; be produced, 
+;
+43925 new <ab>Ā.</ab>, {%<ab>in.</ab> (<ab>E.</ab> also <ab n="Purāṇa">P.</ab>%}) be born; be produced, 
+;---------------------------------------------------
+; <L>8061<pc>101-3<k1>jinv<k2>jinv
+45264 old {#jinv#}¦JINV, ({%<ab>V.</ab>%}) I.<ab>P.</ab> (<ab>Ā.</ab>) {@jinva@}, <ab>V.</ab><ab>P.</ab> 
+;
+45264 new {#jinv#}¦JINV, ({%<ab>V.</ab>%}) I.<ab>P.</ab> (<ab>Ā.</ab>) {@jinva@}, V.<ab>P.</ab> 
+;---------------------------------------------------
+; <L>8079<pc>101-3<k1>jIv<k2>jIv
+45364 old {@jīváya@}, <ab>P.</ab> (A.) cause to live, revive; save {%or%} 
+;
+45364 new {@jīváya@}, <ab>P.</ab> (<ab>Ā.</ab>) cause to live, revive; save {%or%} 
+;---------------------------------------------------
+; <L>8156<pc>103-2<k1>jyA<k2>jyA<h>1
+45900 old <hom>1.</hom> {#jyA#}¦JY<ab>Ā.</ab> IX.<ab>P.</ab> {@jínā@}, overpower; oppress; <lbinfo n="2"/>
+;
+45900 new <hom>1.</hom> {#jyA#}¦JYĀ. IX.<ab>P.</ab> {@jínā@}, overpower; oppress; <lbinfo n="2"/>
+;---------------------------------------------------
+; <L>8292<pc>105-1<k1>takz<k2>takz
+46607 old {#takz#}¦TAKṢ, I. {@tákhsa,@} <ab>V.</ab><ab>P.</ab> {@takṣṇo@}, 
+;
+46607 new {#takz#}¦TAKṢ, I. {@tákhsa,@} V.<ab>P.</ab> {@takṣṇo@}, 
+;---------------------------------------------------
+; <L>8745<pc>111-2<k1>tfp<k2>tfp
+49352 old {#tfp#}¦TṚP, IV. {@tṛ́pya@}; <ab>V.</ab><ab>P.</ab> {@tṛpṇoti (<ab>V.</ab>)@}; 
+;
+49352 new {#tfp#}¦TṚP, IV. {@tṛ́pya@}; V.<ab>P.</ab> {@tṛpṇoti (<ab>V.</ab>)@}; 
+;---------------------------------------------------
+; <L>8835<pc>113-1<k1>trA<k2>trA
+49918 old {#trA#}¦TR<ab>Ā.</ab> II; IV.<ab>Ā.</ab> {@trā́ya,@} protect, rescue, 
+;
+49918 new {#trA#}¦TRĀ. II; IV.<ab>Ā.</ab> {@trā́ya,@} protect, rescue, 
+;---------------------------------------------------
+; <L>9002<pc>115-a2<k1>daG<k2>daG
+50984 old {#daG#}¦DAGH, <ab>V.</ab><ab>P.</ab> {@dagh-no-ti,@} reach to.
+;
+50984 new {#daG#}¦DAGH, V.<ab>P.</ab> {@dagh-no-ti,@} reach to.
+;---------------------------------------------------
+; <L>9020<pc>116-1<k1>daRqika<k2>daRqika
+51129 old {%of the Kāvyādarśa (sixth century A. D.)%}.
+;
+51129 new {%of the Kāvyādarśa (sixth century <ab>A. D.</ab>)%}.
+;---------------------------------------------------
+; <L>9091<pc>116-3<k1>daridrA<k2>daridrA
+51528 old {#daridrA#}¦DAR-I-DR<ab>Ā.</ab> {%<ab>v.</ab>%} {#drA#} DR<ab>Ā.</ab> run.
+;
+51528 new {#daridrA#}¦DAR-I-DRĀ. {%<ab>v.</ab>%} {#drA#} DRĀ. run.
+;---------------------------------------------------
+; <L>9157<pc>117-3<k1>dA<k2>dA<h>1
+51952 old <hom>1.</hom> {#dA#}¦D<ab>Ā.</ab> III. {@dádā, dad,@} give, grant {%anything %}<lbinfo n="5"/>
+;
+51952 new <hom>1.</hom> {#dA#}¦DĀ. III. {@dádā, dad,@} give, grant {%anything %}<lbinfo n="5"/>
+;---------------------------------------------------
+; <L>9158<pc>118-1<k1>dA<k2>dA<h>2
+52025 old <hom>2.</hom> {#dA#}¦D<ab>Ā.</ab> ({%<ab>V.</ab>%}) <ab>P.</ab> II. {@dā́-ti,@} IV. {%dyá-ti%}, cut 
+;
+52025 new <hom>2.</hom> {#dA#}¦DĀ. ({%<ab>V.</ab>%}) <ab>P.</ab> II. {@dā́-ti,@} IV. {%dyá-ti%}, cut 
+;---------------------------------------------------
+; <L>9159<pc>118-1<k1>dA<k2>dA<h>3
+52033 old <hom>3.</hom> {#dA#}¦D<ab>Ā.</ab> <ab>P.</ab> IV. {@dyá-ti,@} bind. {@ā.@} tie up, 
+;
+52033 new <hom>3.</hom> {#dA#}¦DĀ. <ab>P.</ab> IV. {@dyá-ti,@} bind. {@ā.@} tie up, 
+;---------------------------------------------------
+; <L>9160<pc>118-1<k1>dA<k2>dA<h>4
+52040 old <hom>4.</hom> {#dA#}¦D<ab>Ā.</ab> ({%no present base%}) purify, cleanse. 
+;
+52040 new <hom>4.</hom> {#dA#}¦DĀ. ({%no present base%}) purify, cleanse. 
+;---------------------------------------------------
+; <L>9352<pc>120-3<k1>dIp<k2>dIp
+53170 old kindle; excite; illuminate: {%<ab>intv.</ab>%} {@dedīpya,@} A. 
+;
+53170 new kindle; excite; illuminate: {%<ab>intv.</ab>%} {@dedīpya,@} <ab>Ā.</ab> 
+;---------------------------------------------------
+; <L>9375<pc>121-1<k1>du<k2>du
+53304 old {#du#}¦DU, <ab>V.</ab><ab>P.</ab> {@duno,@} IV. (<ab>P.</ab>) <ab>Ā.</ab> {@dūya,@} burn; 
+;
+53304 new {#du#}¦DU, V.<ab>P.</ab> {@duno,@} IV. (<ab>P.</ab>) <ab>Ā.</ab> {@dūya,@} burn; 
+;---------------------------------------------------
+; <L>9740<pc>127-2<k1>drA<k2>drA<h>1
+55750 old <hom>1.</hom> {#drA#}¦DR<ab>Ā.</ab> II.<ab>P.</ab> {@drā-ti,@} run; {%<ab>cs.</ab>%} {@drāpaya,@} 
+;
+55750 new <hom>1.</hom> {#drA#}¦DRĀ. II.<ab>P.</ab> {@drā-ti,@} run; {%<ab>cs.</ab>%} {@drāpaya,@} 
+;---------------------------------------------------
+; <L>9741<pc>127-2<k1>drA<k2>drA<h>2
+55759 old <hom>2.</hom> {#drA#}¦DR<ab>Ā.</ab> II.<ab>P.</ab> {@drā-ti,@} IV. {@drāyá,@} sleep. 
+;
+55759 new <hom>2.</hom> {#drA#}¦DRĀ. II.<ab>P.</ab> {@drā-ti,@} IV. {@drāyá,@} sleep. 
+;---------------------------------------------------
+; <L>9968<pc>131-1<k1>DA<k2>DA<h>1
+57243 old <hom>1.</hom> {#DA#}¦DH<ab>Ā.</ab> III. {@dádhā, dadh,@} put, place, 
+;
+57243 new <hom>1.</hom> {#DA#}¦DHĀ. III. {@dádhā, dadh,@} put, place, 
+;---------------------------------------------------
+; <L>9969<pc>132-1<k1>DA<k2>DA<h>2
+57459 old <hom>2.</hom> {#DA#}¦DH<ab>Ā.</ab> {%<ab>v.</ab>%} {#De#} DHE.
+;
+57459 new <hom>2.</hom> {#DA#}¦DHĀ. {%<ab>v.</ab>%} {#De#} DHE.
+;---------------------------------------------------
+; <L>10031<pc>132-3<k1>Di<k2>Di<h>1
+57836 old <hom>1.</hom> {#Di#}¦DHI, <ab>V.</ab><ab>P.</ab> {@dhinoti,@} satisfy; gladden.
+;
+57836 new <hom>1.</hom> {#Di#}¦DHI, V.<ab>P.</ab> {@dhinoti,@} satisfy; gladden.
+;---------------------------------------------------
+; <L>10127<pc>134-2<k1>Dfz<k2>Dfz
+58436 old {#Dfz#}¦DHṚṢ, I.<ab>P.</ab> {@dhárṣa@} ({%<ab>V.</ab>%}), <ab>V.</ab><ab>P.</ab> 
+;
+58436 new {#Dfz#}¦DHṚṢ, I.<ab>P.</ab> {@dhárṣa@} ({%<ab>V.</ab>%}), V.<ab>P.</ab> 
+;---------------------------------------------------
+; <L>10150<pc>134-2<k1>DmA<k2>DmA
+58555 old {#DmA#}¦DHM<ab>Ā.</ab> I.<ab>P.</ab> {@dháma,@} blow ({%a conch, %}
+;
+58555 new {#DmA#}¦DHMĀ. I.<ab>P.</ab> {@dháma,@} blow ({%a conch, %}
+;---------------------------------------------------
+; <L>11049<pc>150-2<k1>paRi<k2>paRi
+64751 old ({%<ab>V.</ab>, <ab>P.</ab>%}); thief, -- in the guise of a Purohita (<ab>P.</ab>).
+;
+64751 new ({%<ab>V.</ab>, <ab n="Purāṇa">P.</ab>%}); thief, -- in the guise of a Purohita (<ab>P.</ab>).
+;---------------------------------------------------
+; <L>11387<pc>158-3<k1>pA<k2>pA<h>1
+67597 old <hom>1.</hom> {#pA#}¦P<ab>Ā.</ab> II.<ab>P.</ab> {@pā́@} ({%<ab>V.</ab>%}), I.<ab>P.</ab> (<ab>Ā.</ab>) {@piba,@} 
+;
+67597 new <hom>1.</hom> {#pA#}¦PĀ. II.<ab>P.</ab> {@pā́@} ({%<ab>V.</ab>%}), I.<ab>P.</ab> (<ab>Ā.</ab>) {@piba,@} 
+;---------------------------------------------------
+; <L>11388<pc>158-3<k1>pA<k2>pA<h>2
+67625 old <hom>2.</hom> {#pA#}¦P<ab>Ā.</ab> II.<ab>P.</ab> {@pā́-ti,@} guard, preserve, 
+;
+67625 new <hom>2.</hom> {#pA#}¦PĀ. II.<ab>P.</ab> {@pā́-ti,@} guard, preserve, 
+;---------------------------------------------------
+; <L>11389<pc>158-3<k1>pA<k2>pA<h>3
+67634 old <hom>3.</hom> {#pA#}¦P<ab>Ā.</ab> III.<ab>Ā.</ab> pípīte, {%<ab>w.</ab>%} {@ud,@} rise against, 
+;
+67634 new <hom>3.</hom> {#pA#}¦PĀ. III.<ab>Ā.</ab> pípīte, {%<ab>w.</ab>%} {@ud,@} rise against, 
+;---------------------------------------------------
+; <L>11889<pc>169-1<k1>pf<k2>pf<h>3
+71388 old <hom>3.</hom> {#pf#}¦PṚ, {%only with%} {@ā,@} <ab>V.</ab><ab>P.</ab> {@āpṛṇoti@}, be 
+;
+71388 new <hom>3.</hom> {#pf#}¦PṚ, {%only with%} {@ā,@} V.<ab>P.</ab> {@āpṛṇoti@}, be 
+;---------------------------------------------------
+; <L>12203<pc>177-3<k1>praT<k2>praT
+74390 old A. {@prátha,@} be extended, spread abroad ({%fame, %}
+;
+74390 new <ab>Ā.</ab> {@prátha,@} be extended, spread abroad ({%fame, %}
+;---------------------------------------------------
+; <L>12338<pc>184-1<k1>prA<k2>prA
+76255 old {#prA#}¦PR<ab>Ā.</ab> {%<ab>V.</ab>%} ({%collateral form of%} <ab>√</ab> ¤1.¤ pṛ, {%only %}
+;
+76255 new {#prA#}¦PRĀ. {%<ab>V.</ab>%} ({%collateral form of%} <ab>√</ab> ¤1.¤ pṛ, {%only %}
+;---------------------------------------------------
+; <L>12604<pc>189-3<k1>psA<k2>psA
+78354 old {#psA#}¦PS<ab>Ā.</ab> II.<ab>P.</ab> {@psā́-ti@} [bh(a)s-ā], chew; 
+;
+78354 new {#psA#}¦PSĀ. II.<ab>P.</ab> {@psā́-ti@} [bh(a)s-ā], chew; 
+;---------------------------------------------------
+; <L>12887<pc>196-3<k1>budDa<k2>budDa
+80769 old {%beginning of the fifth century A. D.%} ({%the <ab>N.</ab> is %}
+;
+80769 new {%beginning of the fifth century <ab>A. D.</ab>%} ({%the <ab>N.</ab> is %}
+;---------------------------------------------------
+; <L>12945<pc>198-2<k1>brahma<k2>brahma
+81322 old {% ¤598¤ A. D.%}; {%<ab>N.</ab>%}; {@-gola,@} {%<ab>m.</ab>%} universe; {@-ghāt-@}
+;
+81322 new {% ¤598¤ <ab>A. D.</ab>%}; {%<ab>N.</ab>%}; {@-gola,@} {%<ab>m.</ab>%} universe; {@-ghāt-@}
+;---------------------------------------------------
+; <L>13026<pc>201-2<k1>Bawwi<k2>Bawwi
+82253 old Bhaṭṭi ({%sixth or seventh century A. D.%}), {%the %}
+;
+82253 new Bhaṭṭi ({%sixth or seventh century <ab>A. D.</ab>%}), {%the %}
+;---------------------------------------------------
+; <L>13065<pc>202-2<k1>Bartf<k2>Bartf
+82563 old {%grammarian%} ({%seventh century A. D.%}); {@-hīna,@} 
+;
+82563 new {%grammarian%} ({%seventh century <ab>A. D.</ab>%}); {@-hīna,@} 
+;---------------------------------------------------
+; <L>13091<pc>202-3<k1>BavaBaNga<k2>BavaBaNga
+82730 old {%in the eighth century A. D.%}; {@-bhoga,@} {%<ab>m.</ab>%} pleasures <lbinfo n="4"/>
+;
+82730 new {%in the eighth century <ab>A. D.</ab>%}; {@-bhoga,@} {%<ab>m.</ab>%} pleasures <lbinfo n="4"/>
+;---------------------------------------------------
+; <L>13107<pc>203-1<k1>Bas<k2>Bas
+82832 old {#Bas#}¦bhas = bhasman, ashes: {%only <ab>lc.</ab>%} ({%<ab>P.</ab>%}).
+;
+82832 new {#Bas#}¦bhas = bhasman, ashes: {%only <ab>lc.</ab>%} ({%<ab n="Purāṇa">P.</ab>%}).
+;---------------------------------------------------
+; <L>13171<pc>204-1<k1>BAravi<k2>BAravi
+83270 old Kirātārjunīya, ({%sixth century A. D.%}).
+;
+83270 new Kirātārjunīya, ({%sixth century <ab>A. D.</ab>%}).
+;---------------------------------------------------
+; <L>13217<pc>205-2<k1>BAskara<k2>BAskara
+83661 old {%a celebrated astronomer%} ({%twelfthe century A. D.%}); 
+;
+83661 new {%a celebrated astronomer%} ({%twelfthe century <ab>A. D.</ab>%}); 
+;---------------------------------------------------
+; <L>13410<pc>210-3<k1>Boja<k2>Boja
+85498 old {% about A. D.%} ¤1000¤.
+;
+85498 new {% about <ab>A. D.</ab>%} ¤1000¤.
+;---------------------------------------------------
+; <L>13597<pc>214-2<k1>maTan<k2>maTan
+86871 old ({%<ab>P.</ab>%}).
+;
+86871 new ({%<ab n="Purāṇa">P.</ab>%}).
+;---------------------------------------------------
+; <L>13888<pc>222-3<k1>mahi<k2>mahi
+89657 old greatness ({%<ab>P.</ab>%}); intellect ({%<ab>P.</ab>%}).
+;
+89657 new greatness ({%<ab n="Purāṇa">P.</ab>%}); intellect ({%<ab n="Purāṇa">P.</ab>%}).
+;---------------------------------------------------
+; <L>13919<pc>223-2<k1>mA<k2>mA<h>1
+89887 old <hom>1.</hom> {#mA#}¦M<ab>Ā.</ab> II.<ab>P.</ab> {@mā-ti@} ({%<ab>C.</ab>%}), III.<ab>Ā.</ab> {@mí-@}
+;
+89887 new <hom>1.</hom> {#mA#}¦MĀ. II.<ab>P.</ab> {@mā-ti@} ({%<ab>C.</ab>%}), III.<ab>Ā.</ab> {@mí-@}
+;---------------------------------------------------
+; <L>13919<pc>223-2<k1>mA<k2>mA<h>1
+89910 old {%so much%}: -°). {@upa,@} <ab>P.</ab> A. bestow ({%<ab>RV.</ab>%}); <ab>Ā.</ab> 
+;
+89910 new {%so much%}: -°). {@upa,@} <ab>P.</ab> <ab>Ā.</ab> bestow ({%<ab>RV.</ab>%}); <ab>Ā.</ab> 
+;---------------------------------------------------
+; <L>13920<pc>223-3<k1>mA<k2>mA<h>2
+89956 old <hom>2.</hom> {#mA#}¦M<ab>Ā.</ab> {@-maya,@} <ab>Ā.</ab> {@ni,@} exchange; {%<ab>ps.</ab>%} 
+;
+89956 new <hom>2.</hom> {#mA#}¦MĀ. {@-maya,@} <ab>Ā.</ab> {@ni,@} exchange; {%<ab>ps.</ab>%} 
+;---------------------------------------------------
+; <L>13976<pc>224-3<k1>mAtra<k2>mAtra
+90350 old {#mAtra#}¦mā-tra, {%<ab>n.</ab>%} element ({%only <ab>P.</ab>%}); -°, measure, <lbinfo n="3"/>
+;
+90350 new {#mAtra#}¦mā-tra, {%<ab>n.</ab>%} element ({%only <ab n="Purāṇa">P.</ab>%}); -°, measure, <lbinfo n="3"/>
+;---------------------------------------------------
+; <L>14157<pc>227-3<k1>mi<k2>mi<h>1
+91574 old <hom>1.</hom> {#mi#}¦MI, <ab>V.</ab><ab>P.</ab> ({%<ab>V.</ab>, very rare in <ab>C.</ab>%}) {@mi-@}
+;
+91574 new <hom>1.</hom> {#mi#}¦MI, V.<ab>P.</ab> ({%<ab>V.</ab>, very rare in <ab>C.</ab>%}) {@mi-@}
+;---------------------------------------------------
+; <L>14224<pc>229-1<k1>mI<k2>mI
+92061 old {#mI#}¦MĪ, IX.<ab>P.</ab> {@minā́ti@} ({%<ab>V.</ab>, common%}), <ab>V.</ab><ab>P.</ab> 
+;
+92061 new {#mI#}¦MĪ, IX.<ab>P.</ab> {@minā́ti@} ({%<ab>V.</ab>, common%}), V.<ab>P.</ab> 
+;---------------------------------------------------
+; <L>14344<pc>232-2<k1>mUtraya<k2>mUtraya
+93134 old -- upon ({%<ab>P.</ab>%}): {%<ab>pp.</ab>%} {@mūtrita,@} having made 
+;
+93134 new -- upon ({%<ab n="Purāṇa">P.</ab>%}): {%<ab>pp.</ab>%} {@mūtrita,@} having made 
+;---------------------------------------------------
+; <L>14401<pc>233-3<k1>mfj<k2>mfj
+93648 old {@-ita@}, wiped away, removed ({%<ab>P.</ab>%}; {%very rare%}); 
+;
+93648 new {@-ita@}, wiped away, removed ({%<ab n="Purāṇa">P.</ab>%}; {%very rare%}); 
+;---------------------------------------------------
+; <L>14592<pc>237-2<k1>mnA<k2>mnA
+94954 old {#mnA#}¦MN<ab>Ā.</ab> I.<ab>P.</ab> {@-mana@} [{%collatereal of%} <ab>√</ab> man]. 
+;
+94954 new {#mnA#}¦MNĀ. I.<ab>P.</ab> {@-mana@} [{%collatereal of%} <ab>√</ab> man]. 
+;---------------------------------------------------
+; <L>14602<pc>237-2<k1>mlA<k2>mlA
+95012 old {#mlA#}¦ML<ab>Ā.</ab> IV. {@mlā́ya,@} <ab>P.</ab> ({%<ab>Br.</ab> <ab>etc.</ab>%}) <ab>Ā.</ab> ({%<ab>E.</ab> %}
+;
+95012 new {#mlA#}¦MLĀ. IV. {@mlā́ya,@} <ab>P.</ab> ({%<ab>Br.</ab> <ab>etc.</ab>%}) <ab>Ā.</ab> ({%<ab>E.</ab> %}
+;---------------------------------------------------
+; <L>14655<pc>238-3<k1>yat<k2>yat
+95514 old vie with ({%<ab>in.</ab>%}; {%<ab>RV.</ab>%}); A. march {%or%} fly in line 
+;
+95514 new vie with ({%<ab>in.</ab>%}; {%<ab>RV.</ab>%}); <ab>Ā.</ab> march {%or%} fly in line 
+;---------------------------------------------------
+; <L>14655<pc>238-3<k1>yat<k2>yat
+95536 old exerting oneself ({%<ab>P.</ab>%}); on one's guard, ready 
+;
+95536 new exerting oneself ({%<ab n="Purāṇa">P.</ab>%}); on one's guard, ready 
+;---------------------------------------------------
+; <L>14676<pc>239-2<k1>yatra<k2>yatra
+95713 old {@yatra kva vā,@} anywhere whatever ({%<ab>P.</ab>%}); 
+;
+95713 new {@yatra kva vā,@} anywhere whatever ({%<ab n="Purāṇa">P.</ab>%}); 
+;---------------------------------------------------
+; <L>14676<pc>239-2<k1>yatra<k2>yatra
+95715 old ({%<ab>P.</ab>%}); {@yatra vā,@} or at any other place, or 
+;
+95715 new ({%<ab n="Purāṇa">P.</ab>%}); {@yatra vā,@} or at any other place, or 
+;---------------------------------------------------
+; <L>14734<pc>242-2<k1>yarhi<k2>yarhi
+96626 old {%Bhāgavata-<ab>P.</ab> only%}; {%in the latter also with %}
+;
+96626 new {%Bhāgavata-<ab n="Purāṇa">P.</ab> only%}; {%in the latter also with %}
+;---------------------------------------------------
+; <L>14766<pc>243-1<k1>yA<k2>yA
+96847 old {#yA#}¦Y<ab>Ā.</ab> II.<ab>P.</ab> {@yā́-ti@} ({%<ab>V.</ab>, <ab>C.</ab>%}), move, go, walk, 
+;
+96847 new {#yA#}¦YĀ. II.<ab>P.</ab> {@yā́-ti@} ({%<ab>V.</ab>, <ab>C.</ab>%}), move, go, walk, 
+;---------------------------------------------------
+; <L>14766<pc>243-1<k1>yA<k2>yA
+96955 old {@-yāpita,@} removed ({%<ab>P.</ab>%}); undertaken ({%<ab>P.</ab>%}). 
+;
+96955 new {@-yāpita,@} removed ({%<ab n="Purāṇa">P.</ab>%}); undertaken ({%<ab n="Purāṇa">P.</ab>%}). 
+;---------------------------------------------------
+; <L>14876<pc>246-3<k1>yuD<k2>yuD
+98077 old gain by fighting ({%<ab>RV.</ab>%}); fight, with ({%<ab>in.</ab>%}; {%<ab>P.</ab>%}). 
+;
+98077 new gain by fighting ({%<ab>RV.</ab>%}); fight, with ({%<ab>in.</ab>%}; {%<ab n="Purāṇa">P.</ab>%}). 
+;---------------------------------------------------
+; <L>15060<pc>251-1<k1>raD<k2>raD
+99546 old ({%<ab>d.</ab>%}); torment, afflict ({%<ab>E.</ab>%}); destroy ({%<ab>P.</ab>%}); prepare <lbinfo n="3"/>
+;
+99546 new ({%<ab>d.</ab>%}); torment, afflict ({%<ab>E.</ab>%}); destroy ({%<ab n="Purāṇa">P.</ab>%}); prepare <lbinfo n="3"/>
+;---------------------------------------------------
+; <L>15060<pc>251-1<k1>raD<k2>raD
+99548 old {@pari,@} {%<ab>cs.</ab> <ab>pp.</ab>%} {@-randhita,@} destroyed ({%<ab>P.</ab>%}).
+;
+99548 new {@pari,@} {%<ab>cs.</ab> <ab>pp.</ab>%} {@-randhita,@} destroyed ({%<ab n="Purāṇa">P.</ab>%}).
+;---------------------------------------------------
+; <L>15062<pc>251-1<k1>ran<k2>ran
+99563 old sound ({%<ab>P.</ab>%}).
+;
+99563 new sound ({%<ab n="Purāṇa">P.</ab>%}).
+;---------------------------------------------------
+; <L>15077<pc>251-2<k1>ram<k2>ram
+99720 old {%sexually,%} caress ({%<ab>P.</ab>%}). {@vi,@} <ab>P.</ab> (<ab>Ā.</ab>) stop ({%speaking %}<lbinfo n="8"/>
+;
+99720 new {%sexually,%} caress ({%<ab n="Purāṇa">P.</ab>%}). {@vi,@} <ab>P.</ab> (<ab>Ā.</ab>) stop ({%speaking %}<lbinfo n="8"/>
+;---------------------------------------------------
+; <L>15083<pc>251-3<k1>ramB<k2>ramB
+99766 old {%rare%}; {%<ab>P.</ab>%}). {@upa,@} cause to resound, fill 
+;
+99766 new {%rare%}; {%<ab n="Purāṇa">P.</ab>%}). {@upa,@} cause to resound, fill 
+;---------------------------------------------------
+; <L>15083<pc>251-3<k1>ramB<k2>ramB
+99767 old with sound ({%very rare%}; {%<ab>P.</ab>%}).
+;
+99767 new with sound ({%very rare%}; {%<ab n="Purāṇa">P.</ab>%}).
+;---------------------------------------------------
+; <L>15128<pc>252-2<k1>rA<k2>rA<h>1
+100103 old <hom>1.</hom> {#rA#}¦R<ab>Ā.</ab> II. {@rā́ti, rāté,@} <ab>P.</ab> ({%<ab>V.</ab>, <ab>C.</ab>%}) <ab>Ā.</ab> ({%<ab>V.</ab>%}), 
+;
+100103 new <hom>1.</hom> {#rA#}¦RĀ. II. {@rā́ti, rāté,@} <ab>P.</ab> ({%<ab>V.</ab>, <ab>C.</ab>%}) <ab>Ā.</ab> ({%<ab>V.</ab>%}), 
+;---------------------------------------------------
+; <L>15129<pc>252-2<k1>rA<k2>rA<h>2
+100109 old <hom>2.</hom> {#rA#}¦R<ab>Ā.</ab> IV.<ab>P.</ab> {@rā́ya,@} ({%<ab>RV.</ab>%}), bark; bark 
+;
+100109 new <hom>2.</hom> {#rA#}¦RĀ. IV.<ab>P.</ab> {@rā́ya,@} ({%<ab>RV.</ab>%}), bark; bark 
+;---------------------------------------------------
+; <L>15144<pc>252-3<k1>rAj<k2>rAj
+100223 old  brilliant, with ({%<ab>in.</ab> or%} -°); {%<ab>cs.</ab>%} <ab>P.</ab> A. 
+;
+100223 new  brilliant, with ({%<ab>in.</ab> or%} -°); {%<ab>cs.</ab>%} <ab>P.</ab> <ab>Ā.</ab> 
+;---------------------------------------------------
+; <L>15197<pc>254-2<k1>rADas<k2>rADas
+100733 old beneficence ({%<ab>V.</ab>%}); success ({%<ab>P.</ab>%}); striving ({%<ab>P.</ab>%}); 
+;
+100733 new beneficence ({%<ab>V.</ab>%}); success ({%<ab n="Purāṇa">P.</ab>%}); striving ({%<ab n="Purāṇa">P.</ab>%}); 
+;---------------------------------------------------
+; <L>15197<pc>254-2<k1>rADas<k2>rADas
+100734 old power ({%<ab>P.</ab>%}).
+;
+100734 new power ({%<ab n="Purāṇa">P.</ab>%}).
+;---------------------------------------------------
+; <L>15260<pc>255-2<k1>riS<k2>riS
+101159 old {@ā,@} A. browse on. {@vi,@} {%<ab>pp.</ab>%} dislocated, broken.
+;
+101159 new {@ā,@} <ab>Ā.</ab> browse on. {@vi,@} {%<ab>pp.</ab>%} dislocated, broken.
+;---------------------------------------------------
+; <L>15262<pc>255-2<k1>riz<k2>riz
+101169 old <ab>P.</ab> {@riṣa@} ({%<ab>V.</ab>%}), IV. {@ṛ́ṣya,@} <ab>P.</ab> ({%<ab>V.</ab>, <ab>P.</ab>%}), 
+;
+101169 new <ab>P.</ab> {@riṣa@} ({%<ab>V.</ab>%}), IV. {@ṛ́ṣya,@} <ab>P.</ab> ({%<ab>V.</ab>, <ab n="Purāṇa">P.</ab>%}), 
+;---------------------------------------------------
+; <L>15550<pc>262-1<k1>lA<k2>lA
+103505 old {#lA#}¦L<ab>Ā.</ab> II.<ab>P.</ab> {@lā-ti@} ({%rare%}), grasp, take; undertake; <lbinfo n="2"/>
+;
+103505 new {#lA#}¦LĀ. II.<ab>P.</ab> {@lā-ti@} ({%rare%}), grasp, take; undertake; <lbinfo n="2"/>
+;---------------------------------------------------
+; <L>15643<pc>264-1<k1>lU<k2>lU
+104264 old {#lU#}¦LŪ, <ab>V.</ab><ab>P.</ab> {@lunoti@} ({%<ab>Br.</ab>, very rare%}), IX. 
+;
+104264 new {#lU#}¦LŪ, V.<ab>P.</ab> {@lunoti@} ({%<ab>Br.</ab>, very rare%}), IX. 
+;---------------------------------------------------
+; <L>15870<pc>269-1<k1>vanaspati<k2>vanaspati
+106004 old ({%<ab>V.</ab>, <ab>P.</ab>%}); sacrificial post ({%<ab>V.</ab>, <ab>P.</ab>%}).
+;
+106004 new ({%<ab>V.</ab>, <ab n="Purāṇa">P.</ab>%}); sacrificial post ({%<ab>V.</ab>, <ab n="Purāṇa">P.</ab>%}).
+;---------------------------------------------------
+; <L>15927<pc>270-1<k1>vayuna<k2>vayuna
+106392 old ({%<ab>P.</ab>%}) knowledge: {%<ab>in.</ab>%} according to rule: {@-vat,@} 
+;
+106392 new ({%<ab n="Purāṇa">P.</ab>%}) knowledge: {%<ab>in.</ab>%} according to rule: {@-vat,@} 
+;---------------------------------------------------
+; <L>15956<pc>270-2<k1>varAha<k2>varAha
+106598 old {% A. D.%}); {@-mūla,@} {%<ab>m.</ab> <ab>N.</ab> of a locality with %}
+;
+106598 new {% <ab>A. D.</ab>%}); {@-mūla,@} {%<ab>m.</ab> <ab>N.</ab> of a locality with %}
+;---------------------------------------------------
+; <L>15973<pc>270-3<k1>varUTa<k2>varUTa
+106706 old multitude ({%<ab>P.</ab>%}).
+;
+106706 new multitude ({%<ab n="Purāṇa">P.</ab>%}).
+;---------------------------------------------------
+; <L>16044<pc>272-1<k1>varzizWa<k2>varzizWa
+107199 old greatest; very large ({%<ab>P.</ab>%}); {@-īyas,@} {%<ab>cpv.</ab>%} ({%chiefly %}
+;
+107199 new greatest; very large ({%<ab n="Purāṇa">P.</ab>%}); {@-īyas,@} {%<ab>cpv.</ab>%} ({%chiefly %}
+;---------------------------------------------------
+; <L>16048<pc>272-1<k1>varzman<k2>varzman<h>2
+107222 old chief ({%<ab>V.</ab>, <ab>P.</ab>%}); height, size, extent; body.
+;
+107222 new chief ({%<ab>V.</ab>, <ab n="Purāṇa">P.</ab>%}); height, size, extent; body.
+;---------------------------------------------------
+; <L>16084<pc>272-2<k1>valSa<k2>valSa
+107428 old {#valSa#}¦válśa, {%<ab>m.</ab>%} shoot, branch ({%<ab>V.</ab>, <ab>P.</ab>%}; {%also %}
+;
+107428 new {#valSa#}¦válśa, {%<ab>m.</ab>%} shoot, branch ({%<ab>V.</ab>, <ab n="Purāṇa">P.</ab>%}; {%also %}
+;---------------------------------------------------
+; <L>16088<pc>272-2<k1>vaS<k2>vaS
+107455 old {@uśat@}, charming ({%<ab>P.</ab>%}); {%<ab>pr.</ab> <ab>pt.</ab>%} <ab>Ā.</ab> {@uśámāna@} 
+;
+107455 new {@uśat@}, charming ({%<ab n="Purāṇa">P.</ab>%}); {%<ab>pr.</ab> <ab>pt.</ab>%} <ab>Ā.</ab> {@uśámāna@} 
+;---------------------------------------------------
+; <L>16153<pc>274-1<k1>vah<k2>vah
+108083 old {%bride groom's house%}), wed ({%<ab>RV.</ab>, <ab>P.</ab>%}). {@pra,@} 
+;
+108083 new {%bride groom's house%}), wed ({%<ab>RV.</ab>, <ab n="Purāṇa">P.</ab>%}). {@pra,@} 
+;---------------------------------------------------
+; <L>16168<pc>274-3<k1>vA<k2>vA<h>1
+108214 old <hom>1.</hom> {#vA#}¦V<ab>Ā.</ab> II.<ab>P.</ab> {@vā́-ti,@} blow ({%of wind%}): 
+;
+108214 new <hom>1.</hom> {#vA#}¦VĀ. II.<ab>P.</ab> {@vā́-ti,@} blow ({%of wind%}): 
+;---------------------------------------------------
+; <L>16169<pc>274-3<k1>vA<k2>vA<h>2
+108240 old <hom>2.</hom> {#vA#}¦V<ab>Ā.</ab> IV.<ab>P.</ab> (<ab>Ā.</ab>, {%<ab>E.</ab>%}) {@vā́ya,@} grow weary 
+;
+108240 new <hom>2.</hom> {#vA#}¦VĀ. IV.<ab>P.</ab> (<ab>Ā.</ab>, {%<ab>E.</ab>%}) {@vā́ya,@} grow weary 
+;---------------------------------------------------
+; <L>16170<pc>275-1<k1>vA<k2>vA<h>3
+108250 old <hom>3.</hom> {#vA#}¦V<ab>Ā.</ab> {%collateral form of%} <ab>√</ab> van: {%<ab>pp.</ab>%} 
+;
+108250 new <hom>3.</hom> {#vA#}¦VĀ. {%collateral form of%} <ab>√</ab> van: {%<ab>pp.</ab>%} 
+;---------------------------------------------------
+; <L>16171<pc>275-1<k1>vA<k2>vA<h>4
+108258 old <hom>4.</hom> {#vA#}¦V<ab>Ā.</ab> IV.<ab>P.</ab> {@váya,@} weave ({%also <ab>fig.</ab> of %}
+;
+108258 new <hom>4.</hom> {#vA#}¦VĀ. IV.<ab>P.</ab> {@váya,@} weave ({%also <ab>fig.</ab> of %}
+;---------------------------------------------------
+; <L>16371<pc>278-2<k1>vAva<k2>vAva
+109644 old {%also in <ab>TS.</ab>, <ab>U.</ab>, and Bhāgavata -<ab>P.</ab>%}).
+;
+109644 new {%also in <ab>TS.</ab>, <ab>U.</ab>, and Bhāgavata-<ab n="Purāṇa">P.</ab>%}).
+;---------------------------------------------------
+; <L>16420<pc>279-1<k1>vAstu<k2>vAstu
+109934 old {#vAstu#}¦vā́s-tu, {%<ab>m.</ab>%} ({%only <ab>P.</ab>%}), {%<ab>n.</ab>%} [<ab>√</ab> ¤3.¤ vas] dwelling-place, <lbinfo n="5"/>
+;
+109934 new {#vAstu#}¦vā́s-tu, {%<ab>m.</ab>%} ({%only <ab n="Purāṇa">P.</ab>%}), {%<ab>n.</ab>%} [<ab>√</ab> ¤3.¤ vas] dwelling-place, <lbinfo n="5"/>
+;---------------------------------------------------
+; <L>16590<pc>284-1<k1>viD<k2>viD<h>1
+111558 old <hom>1.</hom> {#viD#}¦VIDH, VI.<ab>P.</ab> (<ab>Ā.</ab>) {@vidhá@} ({%<ab>V.</ab>, <ab>P.</ab>%}), 
+;
+111558 new <hom>1.</hom> {#viD#}¦VIDH, VI.<ab>P.</ab> (<ab>Ā.</ab>) {@vidhá@} ({%<ab>V.</ab>, <ab n="Purāṇa">P.</ab>%}), 
+;---------------------------------------------------
+; <L>16650<pc>285-3<k1>viparyaya<k2>viparyaya
+112121 old {#viparyaya#}¦vi-paryaya, {%<ab>a.</ab>%} ({%rare, <ab>P.</ab>%}) inverted; 
+;
+112121 new {#viparyaya#}¦vi-paryaya, {%<ab>a.</ab>%} ({%rare, <ab n="Purāṇa">P.</ab>%}) inverted; 
+;---------------------------------------------------
+; <L>16743<pc>289-3<k1>viSaNkawa<k2>viSaNkawa
+113410 old {@-ṃ kṛ@}, hesitate; ¤2.¤ ({%<ab>P.</ab>%}) absence of fear: {%<ab>in.</ab>%} 
+;
+113410 new {@-ṃ kṛ@}, hesitate; ¤2.¤ ({%<ab n="Purāṇa">P.</ab>%}) absence of fear: {%<ab>in.</ab>%} 
+;---------------------------------------------------
+; <L>16746<pc>290-1<k1>viSAKa<k2>viSAKa
+113454 old {%Mudrākṣasa%} ({%seventh or eighth cent, A. D.%}); 
+;
+113454 new {%Mudrākṣasa%} ({%seventh or eighth cent, <ab>A. D.</ab>%}); 
+;---------------------------------------------------
+; <L>16764<pc>290-3<k1>viSvaka<k2>viSvaka
+113707 old  {@-jit@}, {%<ab>a.</ab>%} all-subduing ({%<ab>V.</ab>, <ab>P.</ab>%}); {%<ab>m.</ab> <ab>N.</ab> %}
+;
+113707 new  {@-jit@}, {%<ab>a.</ab>%} all-subduing ({%<ab>V.</ab>, <ab n="Purāṇa">P.</ab>%}); {%<ab>m.</ab> <ab>N.</ab> %}
+;---------------------------------------------------
+; <L>16820<pc>292-1<k1>vizUcIna<k2>vizUcIna
+114160 old  ({%<ab>V.</ab>, <ab>P.</ab>%}).
+;
+114160 new  ({%<ab>V.</ab>, <ab n="Purāṇa">P.</ab>%}).
+;---------------------------------------------------
+; <L>16895<pc>293-3<k1>vIta<k2>vIta
+114737 old (<ab>√</ab> vyā) hidden ({%<ab>RV.</ab>%}); girt with ({%<ab>in.</ab>%}; {%<ab>P.</ab>%}); 
+;
+114737 new (<ab>√</ab> vyā) hidden ({%<ab>RV.</ab>%}); girt with ({%<ab>in.</ab>%}; {%<ab n="Purāṇa">P.</ab>%}); 
+;---------------------------------------------------
+; <L>16907<pc>293-3<k1>vIra<k2>vIra
+114818 old ({%<ab>E.</ab>, <ab>P.</ab>%}); male child, son, {%<ab>coll.</ab>%} male progeny 
+;
+114818 new ({%<ab>E.</ab>, <ab n="Purāṇa">P.</ab>%}); male child, son, {%<ab>coll.</ab>%} male progeny 
+;---------------------------------------------------
+; <L>16922<pc>294-2<k1>vf<k2>vf<h>1
+115003 old {%<ab>ord.</ab> <ab>mg.</ab>%}); {@párīvṛta@}, ({%<ab>V.</ab>, <ab>P.</ab>%}) covered, hidden; <lbinfo n="3"/>
+;
+115003 new {%<ab>ord.</ab> <ab>mg.</ab>%}); {@párīvṛta@}, ({%<ab>V.</ab>, <ab n="Purāṇa">P.</ab>%}) covered, hidden; <lbinfo n="3"/>
+;---------------------------------------------------
+; <L>16923<pc>294-3<k1>vf<k2>vf<h>2
+115040 old {@ vṛṇ@}, <ab>V.</ab><ab>P.</ab> <ab>Ā.</ab> {@vṛṇo, vṛṇu@}, ({%<ab>E.</ab>%}) choose 
+;
+115040 new {@ vṛṇ@}, V.<ab>P.</ab> <ab>Ā.</ab> {@vṛṇo, vṛṇu@}, ({%<ab>E.</ab>%}) choose 
+;---------------------------------------------------
+; <L>16934<pc>294-3<k1>vfj<k2>vfj
+115131 old {@vṛṇákti, vṛṅkté@} ({%<ab>V.</ab>, rare in <ab>C.</ab>, <ab>P.</ab>%}), 
+;
+115131 new {@vṛṇákti, vṛṅkté@} ({%<ab>V.</ab>, rare in <ab>C.</ab>, <ab n="Purāṇa">P.</ab>%}), 
+;---------------------------------------------------
+; <L>16934<pc>294-3<k1>vfj<k2>vfj
+115135 old ({%<ab>P.</ab>%}); <ab>Ā.</ab> choose for oneself; {%<ab>cs.</ab>%} ({%<ab>S.</ab>, <ab>C.</ab>%}) {@varj-@}
+;
+115135 new ({%<ab n="Purāṇa">P.</ab>%}); <ab>Ā.</ab> choose for oneself; {%<ab>cs.</ab>%} ({%<ab>S.</ab>, <ab>C.</ab>%}) {@varj-@}
+;---------------------------------------------------
+; <L>16934<pc>294-3<k1>vfj<k2>vfj
+115154 old appropriate ({%<ab>V.</ab>, <ab>P.</ab>%}); withhold ({%<ab>ac.</ab>%}) from 
+;
+115154 new appropriate ({%<ab>V.</ab>, <ab n="Purāṇa">P.</ab>%}); withhold ({%<ab>ac.</ab>%}) from 
+;---------------------------------------------------
+; <L>16934<pc>294-3<k1>vfj<k2>vfj
+115166 old exclude, expel ({%Indra%}); surround ({%<ab>P.</ab>%}); {%<ab>cs.</ab>%} 
+;
+115166 new exclude, expel ({%Indra%}); surround ({%<ab n="Purāṇa">P.</ab>%}); {%<ab>cs.</ab>%} 
+;---------------------------------------------------
+; <L>16938<pc>295-1<k1>vfjina<k2>vfjina
+115199 old wickedness, sin ({%<ab>C.</ab>%}); misfortune ({%<ab>P.</ab>%}).
+;
+115199 new wickedness, sin ({%<ab>C.</ab>%}); misfortune ({%<ab n="Purāṇa">P.</ab>%}).
+;---------------------------------------------------
+; <L>16940<pc>295-1<k1>vft<k2>vft
+115210 old  roll ({%<ab>V.</ab>%}; {%rare in <ab>E.</ab>, <ab>P.</ab>%}); go on, proceed, <lbinfo n="3"/>
+;
+115210 new  roll ({%<ab>V.</ab>%}; {%rare in <ab>E.</ab>, <ab n="Purāṇa">P.</ab>%}); go on, proceed, <lbinfo n="3"/>
+;---------------------------------------------------
+; <L>16940<pc>295-1<k1>vft<k2>vft
+115281 old {%<ab>lc.</ab>%}; {%<ab>P.</ab>%}): {%<ab>pp.</ab>%} {@anuvṛtta@}, round, full; following; <lbinfo n="6"/>
+;
+115281 new {%<ab>lc.</ab>%}; {%<ab n="Purāṇa">P.</ab>%}): {%<ab>pp.</ab>%} {@anuvṛtta@}, round, full; following; <lbinfo n="6"/>
+;---------------------------------------------------
+; <L>17017<pc>298-1<k1>veRI<k2>veRI
+116140 old {%a play%} ({%existing in the tenth century A. D.%}) 
+;
+116140 new {%a play%} ({%existing in the tenth century <ab>A. D.</ab>%}) 
+;---------------------------------------------------
+; <L>17044<pc>298-3<k1>veditf<k2>veditf
+116389 old ({%<ab>E.</ab>, <ab>P.</ab>, rare%}); announcing ({%<ab>E.</ab>, rare%}); ¤2.¤ 
+;
+116389 new ({%<ab>E.</ab>, <ab n="Purāṇa">P.</ab>, rare%}); announcing ({%<ab>E.</ab>, rare%}); ¤2.¤ 
+;---------------------------------------------------
+; <L>17263<pc>301-3<k1>vopadeva<k2>vopadeva
+117691 old ({%twelfth or thirteenth century A. D.%}).
+;
+117691 new ({%twelfth or thirteenth century <ab>A. D.</ab>%}).
+;---------------------------------------------------
+; <L>17319<pc>303-2<k1>vyA<k2>vyA
+118215 old {#vyA#}¦VY<ab>Ā.</ab> IV. {@vyáya,@} cover, envelop; <ab>Ā.</ab> 
+;
+118215 new {#vyA#}¦VYĀ. IV. {@vyáya,@} cover, envelop; <ab>Ā.</ab> 
+;---------------------------------------------------
+; <L>17319<pc>303-2<k1>vyA<k2>vyA
+118218 old ({%<ab>in.</ab>%}; {%<ab>P.</ab>%}). {@apa,@} <ab>Ā.</ab> (divest oneself of), deny 
+;
+118218 new ({%<ab>in.</ab>%}; {%<ab n="Purāṇa">P.</ab>%}). {@apa,@} <ab>Ā.</ab> (divest oneself of), deny 
+;---------------------------------------------------
+; <L>17352<pc>304-1<k1>vyAvahArika<k2>vyAvahArika
+118501 old  {%<ab>m.</ab>%} official; {%<ab>n.</ab>%} trade, business ({%<ab>P.</ab>%}).
+;
+118501 new  {%<ab>m.</ab>%} official; {%<ab>n.</ab>%} trade, business ({%<ab n="Purāṇa">P.</ab>%}).
+;---------------------------------------------------
+; <L>17384<pc>305-2<k1>vraSc<k2>vraSc
+118819 old ({%c., <ab>lc.</ab>%}; {%<ab>V.</ab>%}). {@vi,@} hew in pieces ({%<ab>V.</ab>, <ab>P.</ab>%}).
+;
+118819 new ({%c., <ab>lc.</ab>%}; {%<ab>V.</ab>%}). {@vi,@} hew in pieces ({%<ab>V.</ab>, <ab n="Purāṇa">P.</ab>%}).
+;---------------------------------------------------
+; <L>17400<pc>305-a1<k1>SaMs<k2>SaMs
+118928 old  foretell ({%<ab>P.</ab>%}): {%<ab>pp.</ab>%} {@āśaṃsita@}, declared 
+;
+118928 new  foretell ({%<ab n="Purāṇa">P.</ab>%}): {%<ab>pp.</ab>%} {@āśaṃsita@}, declared 
+;---------------------------------------------------
+; <L>17403<pc>305-a2<k1>Sak<k2>Sak<h>1
+118957 old <hom>1.</hom> {#Sak#}¦ŚAK, <ab>V.</ab><ab>P.</ab> {@śaknóti@}, be able, be competent, <lbinfo n="3"/>
+;
+118957 new <hom>1.</hom> {#Sak#}¦ŚAK, V.<ab>P.</ab> {@śaknóti@}, be able, be competent, <lbinfo n="3"/>
+;---------------------------------------------------
+; <L>17406<pc>305-a2<k1>Saka<k2>Saka<h>2
+118982 old ({%A. D. ¤78,¤ founded by Śālivāhana%}).
+;
+118982 new ({%<ab>A. D.</ab> ¤78,¤ founded by Śālivāhana%}).
+;---------------------------------------------------
+; <L>17443<pc>306-2<k1>SaMkara<k2>SaMkara
+119270 old {%of Brāhmanism%} ({%born%} ¤788¤ {%A. D.%}): {@-giri,@} {%<ab>m.</ab> <ab>N.</ab> %}
+;
+119270 new {%of Brāhmanism%} ({%born%} ¤788¤ {%<ab>A. D.</ab>%}): {@-giri,@} {%<ab>m.</ab> <ab>N.</ab> %}
+;---------------------------------------------------
+; <L>17443<pc>306-2<k1>SaMkara<k2>SaMkara
+119278 old {% reformer of Śaivism (died%} ¤820¤ {%A. D.%}).
+;
+119278 new {% reformer of Śaivism (died%} ¤820¤ {%<ab>A. D.</ab>%}).
+;---------------------------------------------------
+; <L>17482<pc>307-2<k1>SaMtama<k2>SaMtama
+119637 old  {%or%} gladdening ({%<ab>V.</ab>, <ab>P.</ab>%}).
+;
+119637 new  {%or%} gladdening ({%<ab>V.</ab>, <ab n="Purāṇa">P.</ab>%}).
+;---------------------------------------------------
+; <L>17512<pc>308-1<k1>Sam<k2>Sam<h>4
+119885 old {@ ni-śāmya@} ({%<ab>E.</ab>, <ab>P.</ab>%}); {%<ab>ps.</ab>%} {@-śamyate, @}
+;
+119885 new {@ ni-śāmya@} ({%<ab>E.</ab>, <ab n="Purāṇa">P.</ab>%}); {%<ab>ps.</ab>%} {@-śamyate, @}
+;---------------------------------------------------
+; <L>17681<pc>310-3<k1>SA<k2>SA<h>2
+120935 old one's ({%sword%}; {%<ab>Br.</ab>%}). {@sam,@} ({%<ab>V.</ab>%}) sharpen, A. 
+;
+120935 new one's ({%sword%}; {%<ab>Br.</ab>%}). {@sam,@} ({%<ab>V.</ab>%}) sharpen, <ab>Ā.</ab> 
+;---------------------------------------------------
+; <L>17686<pc>310-3<k1>SAka<k2>SAka<h>3
+120968 old  Śāka year (¤78¤ {%A. D.%}); era: {@-kāla,@} {%<ab>m.</ab>%} 
+;
+120968 new  Śāka year (¤78¤ {%<ab>A. D.</ab>%}); era: {@-kāla,@} {%<ab>m.</ab>%} 
+;---------------------------------------------------
+; <L>17761<pc>311-3<k1>SAbalya<k2>SAbalya
+121419 old  ({%<ab>P.</ab>, very rare%}).
+;
+121419 new  ({%<ab n="Purāṇa">P.</ab>, very rare%}).
+;---------------------------------------------------
+; <L>17807<pc>312-2<k1>SAliBavana<k2>SAliBavana
+121704 old {%birth, ¤78¤ A. D., being the beginning of the%} 
+;
+121704 new {%birth, ¤78¤ <ab>A. D.</ab>, being the beginning of the%} 
+;---------------------------------------------------
+; <L>17974<pc>315-2<k1>SIrzan<k2>SIrzan
+122871 old {%<ab>nm.</ab> <ab>ac.</ab> <ab>du.</ab> <ab>pl.</ab>, <ab>&</ab> <ab>lc.</ab> <ab>pl.</ab>%}; {%rare in <ab>E.</ab>, <ab>P.</ab>%}).
+;
+122871 new {%<ab>nm.</ab> <ab>ac.</ab> <ab>du.</ab> <ab>pl.</ab>, <ab>&</ab> <ab>lc.</ab> <ab>pl.</ab>%}; {%rare in <ab>E.</ab>, <ab n="Purāṇa">P.</ab>%}).
+;---------------------------------------------------
+; <L>17993<pc>315-3<k1>Sukla<k2>Sukla
+123027 old {%<ab>P.</ab>%}); {@-pakṣa,@} {%<ab>m.</ab>%} bright fortnight ({%in which %}
+;
+123027 new {%<ab n="Purāṇa">P.</ab>%}); {@-pakṣa,@} {%<ab>m.</ab>%} bright fortnight ({%in which %}
+;---------------------------------------------------
+; <L>18002<pc>316-1<k1>Suci<k2>Suci
+123098 old {%very rare%}); fire ({%<ab>P.</ab>%}); {%a summer month,%} hot 
+;
+123098 new {%very rare%}); fire ({%<ab n="Purāṇa">P.</ab>%}); {%a summer month,%} hot 
+;---------------------------------------------------
+; <L>18067<pc>317-2<k1>Suzmin<k2>Suzmin
+123572 old ({%<ab>V.</ab>, <ab>E.</ab>, <ab>P.</ab>%}).
+;
+123572 new ({%<ab>V.</ab>, <ab>E.</ab>, <ab n="Purāṇa">P.</ab>%}).
+;---------------------------------------------------
+; <L>18117<pc>318-1<k1>SF<k2>SF
+123894 old crush, <ab>Ā.</ab> break {%or%} destroy one's {%<ab>V.</ab>%}; <ab>P.</ab> slay 
+;
+123894 new crush, <ab>Ā.</ab> break {%or%} destroy one's {%<ab>V.</ab>%}; <ab n="Purāṇa">P.</ab> slay 
+;---------------------------------------------------
+; <L>18117<pc>318-1<k1>SF<k2>SF
+123914 old ({%<ab>V.</ab>%}); A. collapse ({%<ab>V.</ab>%}); {%<ab>ps.</ab>%} be dispersed ({%<ab>E.</ab>%}).
+;
+123914 new ({%<ab>V.</ab>%}); <ab>Ā.</ab> collapse ({%<ab>V.</ab>%}); {%<ab>ps.</ab>%} be dispersed ({%<ab>E.</ab>%}).
+;---------------------------------------------------
+; <L>18215<pc>319-3<k1>SyA<k2>SyA
+124489 old {#SyA#}¦ŚY<ab>Ā.</ab> <ab>Ā.</ab> <ab>P.</ab> {@śyā́ya@}, cause to freeze {%or%} 
+;
+124489 new {#SyA#}¦ŚYĀ. <ab>Ā.</ab> <ab>P.</ab> {@śyā́ya@}, cause to freeze {%or%} 
+;---------------------------------------------------
+; <L>18264<pc>320-2<k1>Sravas<k2>Sravas<h>1
+124814 old praise ({%<ab>V.</ab>%}); fame, glory, renown ({%<ab>V.</ab>, <ab>P.</ab>%}).
+;
+124814 new praise ({%<ab>V.</ab>%}); fame, glory, renown ({%<ab>V.</ab>, <ab n="Purāṇa">P.</ab>%}).
+;---------------------------------------------------
+; <L>18271<pc>320-2<k1>SrA<k2>SrA
+124851 old {#SrA#}¦ŚR<ab>Ā.</ab> {%<ab>pp.</ab>%} {@śrātá, śṛtá@}, ({%<ab>V.</ab>%}) cooked, 
+;
+124851 new {#SrA#}¦ŚRĀ. {%<ab>pp.</ab>%} {@śrātá, śṛtá@}, ({%<ab>V.</ab>%}) cooked, 
+;---------------------------------------------------
+; <L>18286<pc>320-3<k1>Sri<k2>Sri
+124966 old with ({%<ab>in.</ab>%}; {%<ab>P.</ab>%}); having betaken oneself to ({%<ab>C.</ab>%}). 
+;
+124966 new with ({%<ab>in.</ab>%}; {%<ab n="Purāṇa">P.</ab>%}); having betaken oneself to ({%<ab>C.</ab>%}). 
+;---------------------------------------------------
+; <L>18321<pc>322-2<k1>SroRa<k2>SroRa
+125445 old {%20th (¤21¤st) lunar asterism%} (= śravaṇā; {%<ab>V.</ab>, <ab>P.</ab>%}).
+;
+125445 new {%20th (¤21¤st) lunar asterism%} (= śravaṇā; {%<ab>V.</ab>, <ab n="Purāṇa">P.</ab>%}).
+;---------------------------------------------------
+; <L>18333<pc>322-3<k1>SlaT<k2>SlaT
+125530 old yield: {%only <ab>pr.</ab> <ab>pt.</ab>%} {@ślathat@} ({%<ab>P.</ab>%}); {%<ab>cs.</ab>%} <ab>P.</ab> 
+;
+125530 new yield: {%only <ab>pr.</ab> <ab>pt.</ab>%} {@ślathat@} ({%<ab n="Purāṇa">P.</ab>%}); {%<ab>cs.</ab>%} <ab>P.</ab> 
+;---------------------------------------------------
+; <L>18333<pc>322-3<k1>SlaT<k2>SlaT
+125532 old <ab>Ā.</ab> be relaxed ({%<ab>P.</ab>%}).
+;
+125532 new <ab>Ā.</ab> be relaxed ({%<ab n="Purāṇa">P.</ab>%}).
+;---------------------------------------------------
+; <L>18349<pc>323-1<k1>Sloka<k2>Sloka
+125670 old sound, noise ({%<ab>V.</ab>%}); reputation, fame ({%<ab>V.</ab>, <ab>P.</ab>%}); 
+;
+125670 new sound, noise ({%<ab>V.</ab>%}); reputation, fame ({%<ab>V.</ab>, <ab n="Purāṇa">P.</ab>%}); 
+;---------------------------------------------------
+; <L>18442<pc>325-1<k1>saMyat<k2>saMyat
+126380 old  destruction ({%<ab>P.</ab>%}): {@-dhana,@} {%<ab>a.</ab>%} rich in 
+;
+126380 new  destruction ({%<ab n="Purāṇa">P.</ab>%}): {@-dhana,@} {%<ab>a.</ab>%} rich in 
+;---------------------------------------------------
+; <L>18456<pc>325-3<k1>saMvega<k2>saMvega
+126622 old chamber ({%<ab>P.</ab>, rare%}); {@-veśana@}, {%<ab>a.</ab>%} ({@ī@}) causing 
+;
+126622 new chamber ({%<ab n="Purāṇa">P.</ab>, rare%}); {@-veśana@}, {%<ab>a.</ab>%} ({@ī@}) causing 
+;---------------------------------------------------
+; <L>18471<pc>326-3<k1>saMsTa<k2>saMsTa
+126879 old ({%<ab>P.</ab>%}); complete {%liturgical%} course ({%being the %}
+;
+126879 new ({%<ab n="Purāṇa">P.</ab>%}); complete {%liturgical%} course ({%being the %}
+;---------------------------------------------------
+; <L>18471<pc>326-3<k1>saMsTa<k2>saMsTa
+126904 old {%<ab>V.</ab>%}; conclusion ({%rare%}); {%<ab>P.</ab>%}: end, death ({%rare%}).
+;
+126904 new {%<ab>V.</ab>%}; conclusion ({%rare%}); {%<ab n="Purāṇa">P.</ab>%}: end, death ({%rare%}).
+;---------------------------------------------------
+; <L>18508<pc>327-3<k1>saG<k2>saG
+127246 old {#saG#}¦SAGH [= SAH], <ab>V.</ab><ab>P.</ab> {@saghnoti,@} take 
+;
+127246 new {#saG#}¦SAGH [= SAH], V.<ab>P.</ab> {@saghnoti,@} take 
+;---------------------------------------------------
+; <L>18622<pc>330-3<k1>satpati<k2>satpati
+128299 old champion ({%<ab>V.</ab>%}); good lord {%or%} ruler ({%<ab>U.</ab>, <ab>P.</ab>, %}
+;
+128299 new champion ({%<ab>V.</ab>%}); good lord {%or%} ruler ({%<ab>U.</ab>, <ab n="Purāṇa">P.</ab>, %}
+;---------------------------------------------------
+; <L>18638<pc>331-2<k1>sad<k2>sad
+128560 old  bring ({%<ab>P.</ab>%}); obtain ({%<ab>P.</ab>%}). {@sam-upa,@} 
+;
+128560 new  bring ({%<ab n="Purāṇa">P.</ab>%}); obtain ({%<ab n="Purāṇa">P.</ab>%}). {@sam-upa,@} 
+;---------------------------------------------------
+; <L>18638<pc>331-2<k1>sad<k2>sad
+128599 old with ({%<ab>ac.</ab>%}; {%<ab>P.</ab>%}); cause to despond ({%<ab>E.</ab>%}).
+;
+128599 new with ({%<ab>ac.</ab>%}; {%<ab n="Purāṇa">P.</ab>%}); cause to despond ({%<ab>E.</ab>%}).
+;---------------------------------------------------
+; <L>18651<pc>332-1<k1>sadaSva<k2>sadaSva
+128667 old steeds ({%cart%}; {%<ab>P.</ab>%}).
+;
+128667 new steeds ({%cart%}; {%<ab n="Purāṇa">P.</ab>%}).
+;---------------------------------------------------
+; <L>18672<pc>332-2<k1>sadfkza<k2>sadfkza
+128792 old  ({%<ab>d.</ab>%}; {%<ab>V.</ab>, <ab>P.</ab>%}; {%rare%}); {@-dṛś@}, {%<ab>a.</ab>%} ({%<ab>nm.</ab>%} {@ṅ,@} {%<ab>V.</ab>%}; 
+;
+128792 new  ({%<ab>d.</ab>%}; {%<ab>V.</ab>, <ab n="Purāṇa">P.</ab>%}; {%rare%}); {@-dṛś@}, {%<ab>a.</ab>%} ({%<ab>nm.</ab>%} {@ṅ,@} {%<ab>V.</ab>%}; 
+;---------------------------------------------------
+; <L>18699<pc>332-3<k1>saDrIcIna<k2>saDrIcIna
+128985 old ({%<ab>P.</ab>%}).
+;
+128985 new ({%<ab n="Purāṇa">P.</ab>%}).
+;---------------------------------------------------
+; <L>18700<pc>332-3<k1>saDryaYc<k2>saDryaYc
+128991 old right, correct ({%<ab>P.</ab>%}); {%<ab>n.</ab>%} {@sadhryák,@} {%<ab>ad.</ab>%} unitedly, 
+;
+128991 new right, correct ({%<ab n="Purāṇa">P.</ab>%}); {%<ab>n.</ab>%} {@sadhryák,@} {%<ab>ad.</ab>%} unitedly, 
+;---------------------------------------------------
+; <L>18701<pc>332-3<k1>san<k2>san
+128997 old {#san#}¦SAN, <ab>V.</ab><ab>P.</ab> {@sanóti,@} ({%<ab>V.</ab>%}) gain, acquire, 
+;
+128997 new {#san#}¦SAN, V.<ab>P.</ab> {@sanóti,@} ({%<ab>V.</ab>%}) gain, acquire, 
+;---------------------------------------------------
+; <L>18783<pc>335-1<k1>saptalokI<k2>saptalokI
+129740 old seven cords ({%the sout%}; {%<ab>P.</ab>%}); {%<ab>m.</ab> <ab>N.</ab> of a man %}
+;
+129740 new seven cords ({%the sout%}; {%<ab n="Purāṇa">P.</ab>%}); {%<ab>m.</ab> <ab>N.</ab> of a man %}
+;---------------------------------------------------
+; <L>18827<pc>336-1<k1>samanas<k2>samanas
+130099 old  intellectual power ({%<ab>P.</ab>%}).
+;
+130099 new  intellectual power ({%<ab n="Purāṇa">P.</ab>%}).
+;---------------------------------------------------
+; <L>18884<pc>337-2<k1>samAna<k2>samAna<h>1
+130565 old {%rarely <ab>P.</ab>%}); °- {%or%} {@-m,@} {%<ab>ad.</ab>%} jointly, alike; like 
+;
+130565 new {%rarely <ab n="Purāṇa">P.</ab>%}); °- {%or%} {@-m,@} {%<ab>ad.</ab>%} jointly, alike; like 
+;---------------------------------------------------
+; <L>18977<pc>340-3<k1>saramA<k2>saramA
+131631 old {%hiding-place of the stolen herd%} ({%<ab>V.</ab> <ab>E.</ab>, <ab>P.</ab>%}): 
+;
+131631 new {%hiding-place of the stolen herd%} ({%<ab>V.</ab> <ab>E.</ab>, <ab n="Purāṇa">P.</ab>%}): 
+;---------------------------------------------------
+; <L>19045<pc>342-3<k1>savanIya<k2>savanIya
+132315 old Soma libation ({%<ab>V.</ab>, rarely <ab>P.</ab>%}).
+;
+132315 new Soma libation ({%<ab>V.</ab>, rarely <ab n="Purāṇa">P.</ab>%}).
+;---------------------------------------------------
+; <L>19089<pc>344-2<k1>sahas<k2>sahas
+132815 old {%<ab>n.</ab>%} might, force, victory ({%<ab>V.</ab>, rare in <ab>P.</ab>%}): {%<ab>in.</ab>%} 
+;
+132815 new {%<ab>n.</ab>%} might, force, victory ({%<ab>V.</ab>, rare in <ab n="Purāṇa">P.</ab>%}): {%<ab>in.</ab>%} 
+;---------------------------------------------------
+; <L>19101<pc>344-3<k1>sahasvat<k2>sahasvat
+132943 old {%rarely <ab>P.</ab>%}); containing {%the word%} sahas ({%<ab>Br.</ab>%}): 
+;
+132943 new {%rarely <ab n="Purāṇa">P.</ab>%}); containing {%the word%} sahas ({%<ab>Br.</ab>%}): 
+;---------------------------------------------------
+; <L>19122<pc>345-1<k1>sA<k2>sA<h>1
+133074 old <hom>1.</hom> {#sA#}¦S<ab>Ā.</ab> {%<ab>v.</ab>%} {#san#} SAN.
+;
+133074 new <hom>1.</hom> {#sA#}¦SĀ. {%<ab>v.</ab>%} {#san#} SAN.
+;---------------------------------------------------
+; <L>19123<pc>345-1<k1>sA<k2>sA<h>2
+133078 old <hom>2.</hom> {#sA#}¦S<ab>Ā.</ab> IV.<ab>P.</ab> {@-syati@}; {%<ab>cs.</ab>%} {@-sāyáya,@} <ab>P.</ab> 
+;
+133078 new <hom>2.</hom> {#sA#}¦SĀ. IV.<ab>P.</ab> {@-syati@}; {%<ab>cs.</ab>%} {@-sāyáya,@} <ab>P.</ab> 
+;---------------------------------------------------
+; <L>19378<pc>349-3<k1>sic<k2>sic
+134921 old ({%<ab>lc.</ab>%}); A. (<ab>±</ab> ātmānam) cause oneself to be inaugurated. <lbinfo n="2"/>
+;
+134921 new ({%<ab>lc.</ab>%}); <ab>Ā.</ab> (<ab>±</ab> ātmānam) cause oneself to be inaugurated. <lbinfo n="2"/>
+;---------------------------------------------------
+; <L>19454<pc>351-2<k1>su<k2>su<h>1
+135477 old <hom>1.</hom> {#su#}¦SU, <ab>V.</ab><ab>P.</ab> {@sunó, sunu,@} ({%sts.%} <ab>Ā.</ab>) press 
+;
+135477 new <hom>1.</hom> {#su#}¦SU, V.<ab>P.</ab> {@sunó, sunu,@} ({%sts.%} <ab>Ā.</ab>) press 
+;---------------------------------------------------
+; <L>19517<pc>353-2<k1>supakva<k2>supakva
+136206 old  fair ({%<ab>V.</ab>, rarely <ab>P.</ab>%}).
+;
+136206 new  fair ({%<ab>V.</ab>, rarely <ab n="Purāṇa">P.</ab>%}).
+;---------------------------------------------------
+; <L>19590<pc>355-3<k1>suvitta<k2>suvitta
+136971 old ({%<ab>V.</ab>, <ab>P.</ab>%}); hearing well {%or%} gladly ({%<ab>V.</ab>%}); {%<ab>m.</ab> <ab>N.</ab>%}; 
+;
+136971 new ({%<ab>V.</ab>, <ab n="Purāṇa">P.</ab>%}); hearing well {%or%} gladly ({%<ab>V.</ab>%}); {%<ab>m.</ab> <ab>N.</ab>%}; 
+;---------------------------------------------------
+; <L>19590<pc>355-3<k1>suvitta<k2>suvitta
+136986 old ({%<ab>V.</ab>, <ab>P.</ab>%}); famous ({%<ab>P.</ab>%}); {@-ślok-ya@}, {%<ab>n.</ab>%} fame {%or%} 
+;
+136986 new ({%<ab>V.</ab>, <ab n="Purāṇa">P.</ab>%}); famous ({%<ab n="Purāṇa">P.</ab>%}); {@-ślok-ya@}, {%<ab>n.</ab>%} fame {%or%} 
+;---------------------------------------------------
+; <L>19594<pc>356-1<k1>suzumRa<k2>suzumRa
+137024 old missile ({%<ab>C.</ab>%}); {%<ab>m.</ab> <ab>N.</ab> of a Gandharva%} ({%<ab>V.</ab>, <ab>P.</ab>%}); 
+;
+137024 new missile ({%<ab>C.</ab>%}); {%<ab>m.</ab> <ab>N.</ab> of a Gandharva%} ({%<ab>V.</ab>, <ab n="Purāṇa">P.</ab>%}); 
+;---------------------------------------------------
+; <L>19669<pc>358-3<k1>sfp<k2>sfp
+137874 old gliding ({%<ab>P.</ab>%}), {@ati,@} ({%<ab>V.</ab>%}) crawl, steal, {%or%} glide 
+;
+137874 new gliding ({%<ab n="Purāṇa">P.</ab>%}), {@ati,@} ({%<ab>V.</ab>%}) crawl, steal, {%or%} glide 
+;---------------------------------------------------
+; <L>19669<pc>358-3<k1>sfp<k2>sfp
+137888 old {%<ab>V.</ab>, <ab>P.</ab>%}). {@vi‡ud,@} go forth ({%<ab>Br.</ab>%}). {@sam-ud,@} 
+;
+137888 new {%<ab>V.</ab>, <ab n="Purāṇa">P.</ab>%}). {@vi‡ud,@} go forth ({%<ab>Br.</ab>%}). {@sam-ud,@} 
+;---------------------------------------------------
+; <L>19731<pc>360-1<k1>somaka<k2>somaka
+138388 old ({%destroyed in%} ¤1024¤, {%A. D.%}); {@-pá,@} {%<ab>a.</ab>%} drinking 
+;
+138388 new ({%destroyed in%} ¤1024¤, {%<ab>A. D.</ab>%}); {@-pá,@} {%<ab>a.</ab>%} drinking 
+;---------------------------------------------------
+; <L>19753<pc>360-3<k1>sOtrAmaRa<k2>sOtrAmaRa
+138553 old {%certain%} rite sacred to Indra Sutrāman ({%<ab>V.</ab>, <ab>P.</ab>%}).
+;
+138553 new {%certain%} rite sacred to Indra Sutrāman ({%<ab>V.</ab>, <ab n="Purāṇa">P.</ab>%}).
+;---------------------------------------------------
+; <L>19775<pc>361-1<k1>sOBaga<k2>sOBaga
+138672 old of fortune, joys); {%<ab>P.</ab>%}: beauty, loveliness, grace; 
+;
+138672 new of fortune, joys); {%<ab n="Purāṇa">P.</ab>%}: beauty, loveliness, grace; 
+;---------------------------------------------------
+; <L>19783<pc>361-1<k1>sOmanasa<k2>sOmanasa
+138719 old  ({%rare%}); nosegay ({%<ab>P.</ab>, rare%}): {@-vat,@} {%<ab>a.</ab>%} 
+;
+138719 new  ({%rare%}); nosegay ({%<ab n="Purāṇa">P.</ab>, rare%}): {@-vat,@} {%<ab>a.</ab>%} 
+;---------------------------------------------------
+; <L>19837<pc>361-3<k1>skaB<k2>skaB
+139045 old {@skabhnā́ti,@} <ab>V.</ab><ab>P.</ab> {@skabhnóti,@} fix, support <lbinfo n="3"/>
+;
+139045 new {@skabhnā́ti,@} V.<ab>P.</ab> {@skabhnóti,@} fix, support <lbinfo n="3"/>
+;---------------------------------------------------
+; <L>19843<pc>361-3<k1>sku<k2>sku
+139076 old {#sku#}¦SKU, <ab>V.</ab><ab>P.</ab> {@skunóti,@} pick, poke; cover; 
+;
+139076 new {#sku#}¦SKU, V.<ab>P.</ab> {@skunóti,@} pick, poke; cover; 
+;---------------------------------------------------
+; <L>19847<pc>362-1<k1>stan<k2>stan
+139123 old {%<ab>cs.</ab>%} {@stanáya,@} <ab>P.</ab> {%<ab>id.</ab>%} ({%<ab>V.</ab>%}); {%also of the sea%} ({%<ab>P.</ab>%}); 
+;
+139123 new {%<ab>cs.</ab>%} {@stanáya,@} <ab>P.</ab> {%<ab>id.</ab>%} ({%<ab>V.</ab>%}); {%also of the sea%} ({%<ab n="Purāṇa">P.</ab>%}); 
+;---------------------------------------------------
+; <L>19863<pc>362-2<k1>staB<k2>staB
+139225 old {@stabhnā́ti@} ({%<ab>V.</ab>, <ab>C.</ab>%}), <ab>V.</ab><ab>P.</ab> {@stabhnoti@} 
+;
+139225 new {@stabhnā́ti@} ({%<ab>V.</ab>, <ab>C.</ab>%}), V.<ab>P.</ab> {@stabhnoti@} 
+;---------------------------------------------------
+; <L>19880<pc>362-3<k1>stA<k2>stA
+139353 old {#stA#}¦ST<ab>Ā.</ab> IV.<ab>P.</ab> {%only <ab>pr.</ab> <ab>pt.</ab>%} {@stāyát,@} stealthy, <lbinfo n="5"/>
+;
+139353 new {#stA#}¦STĀ. IV.<ab>P.</ab> {%only <ab>pr.</ab> <ab>pt.</ab>%} {@stāyát,@} stealthy, <lbinfo n="5"/>
+;---------------------------------------------------
+; <L>19899<pc>363-1<k1>stuB<k2>stuB
+139481 old {%<ab>pp.</ab>%} {@stobhita,@} greeted with shouts ({%<ab>P.</ab>%}). 
+;
+139481 new {%<ab>pp.</ab>%} {@stobhita,@} greeted with shouts ({%<ab n="Purāṇa">P.</ab>%}). 
+;---------------------------------------------------
+; <L>19901<pc>363-1<k1>stf<k2>stf
+139509 old broad ({%<ab>P.</ab>%}). {@upa,@} spread {%anything%} over {%any %}
+;
+139509 new broad ({%<ab n="Purāṇa">P.</ab>%}). {@upa,@} spread {%anything%} over {%any %}
+;---------------------------------------------------
+; <L>19912<pc>363-1<k1>stoka<k2>stoka
+139579 old {%<ab>in.</ab> <ab>P.</ab>%}): {%<ab>a.</ab>%} ({%<ab>C.</ab>%}) very small {%or%} little; {%<ab>a.</ab>%} a little 
+;
+139579 new {%<ab>in.</ab> <ab n="Purāṇa">P.</ab>%}): {%<ab>a.</ab>%} ({%<ab>C.</ab>%}) very small {%or%} little; {%<ab>a.</ab>%} a little 
+;---------------------------------------------------
+; <L>19918<pc>363-2<k1>stoma<k2>stoma
+139622 old eulogium, panegyric ({%<ab>V.</ab>%}; {%very rare in <ab>P.</ab>%}); 
+;
+139622 new eulogium, panegyric ({%<ab>V.</ab>%}; {%very rare in <ab n="Purāṇa">P.</ab>%}); 
+;---------------------------------------------------
+; <L>19920<pc>363-2<k1>styA<k2>styA
+139644 old {#styA#}¦STY<ab>Ā.</ab> IV. {@styāya,@} grow dense, increase: <lbinfo n="2"/>
+;
+139644 new {#styA#}¦STYĀ. IV. {@styāya,@} grow dense, increase: <lbinfo n="2"/>
+;---------------------------------------------------
+; <L>19946<pc>364-1<k1>sTA<k2>sTA
+139855 old {#sTA#}¦STH<ab>Ā.</ab> I. {@tíṣṭha@} [{%<ab>orig.</ab>%} III. {@tiṣṭhā@}], 
+;
+139855 new {#sTA#}¦STHĀ. I. {@tíṣṭha@} [{%<ab>orig.</ab>%} III. {@tiṣṭhā@}], 
+;---------------------------------------------------
+; <L>19946<pc>364-1<k1>sTA<k2>sTA
+140095 old  beside ({%<ab>Br.</ab>%}). {@abhi‡upa,@} <ab>P.</ab> worship ({%<ab>P.</ab>%}): 
+;
+140095 new  beside ({%<ab>Br.</ab>%}). {@abhi‡upa,@} <ab>P.</ab> worship ({%<ab n="Purāṇa">P.</ab>%}): 
+;---------------------------------------------------
+; <L>19997<pc>366-3<k1>snA<k2>snA
+140672 old {#snA#}¦SN<ab>Ā.</ab> II.<ab>P.</ab> {@snā́-ti@} ({%<ab>V.</ab>, <ab>C.</ab>%}), IV.<ab>P.</ab> (<ab>Ā.</ab> 
+;
+140672 new {#snA#}¦SNĀ. II.<ab>P.</ab> {@snā́-ti@} ({%<ab>V.</ab>, <ab>C.</ab>%}), IV.<ab>P.</ab> (<ab>Ā.</ab> 
+;---------------------------------------------------
+; <L>20040<pc>367-2<k1>spArha<k2>spArha
+140968 old  ({%<ab>RV.</ab>, rarely <ab>P.</ab>%}).
+;
+140968 new  ({%<ab>RV.</ab>, rarely <ab n="Purāṇa">P.</ab>%}).
+;---------------------------------------------------
+; <L>20044<pc>367-3<k1>spfD<k2>spfD
+140997 old  {%<ab>m.</ab>%} ({%<ab>P.</ab>%}) rival: -° {%<ab>a.</ab>%} ({%<ab>P.</ab>%}) vying with; 
+;
+140997 new  {%<ab>m.</ab>%} ({%<ab n="Purāṇa">P.</ab>%}) rival: -° {%<ab>a.</ab>%} ({%<ab n="Purāṇa">P.</ab>%}) vying with; 
+;---------------------------------------------------
+; <L>20103<pc>368-3<k1>smi<k2>smi
+141449 old blush ({%<ab>V.</ab>%}); smile ({%<ab>C.</ab>%}); be arrogant ({%<ab>P.</ab>, %}
+;
+141449 new blush ({%<ab>V.</ab>%}); smile ({%<ab>C.</ab>%}); be arrogant ({%<ab n="Purāṇa">P.</ab>, %}
+;---------------------------------------------------
+; <L>20105<pc>368-3<k1>smf<k2>smf
+141487 old seed only; {%<ab>cs.</ab> <ab>P.</ab>%} {@smāraya,@} {%less commonly%} 
+;
+141487 new seed only; {%<ab>cs.</ab>%} <ab>P.</ab> {@smāraya,@} {%less commonly%} 
+;---------------------------------------------------
+; <L>20105<pc>368-3<k1>smf<k2>smf
+141497 old {%recta with%} iti); {%<ab>cs.</ab> <ab>P.</ab>%} {@-smaraya,@} remind of 
+;
+141497 new {%recta with%} iti); {%<ab>cs.</ab>%} <ab>P.</ab> {@-smaraya,@} remind of 
+;---------------------------------------------------
+; <L>20177<pc>370-2<k1>svaDiti<k2>svaDiti
+142065 old ({%<ab>V.</ab>, very rarely <ab>P.</ab>%}).
+;
+142065 new ({%<ab>V.</ab>, very rarely <ab n="Purāṇa">P.</ab>%}).
+;---------------------------------------------------
+; <L>20181<pc>370-3<k1>svan<k2>svan
+142089 old {%<ab>cs.</ab>%} {@svanaya,@} <ab>P.</ab> {%<ab>id.</ab>%} ({%<ab>RV.</ab>, <ab>P.</ab>%}). {@ava,@} cry 
+;
+142089 new {%<ab>cs.</ab>%} {@svanaya,@} <ab>P.</ab> {%<ab>id.</ab>%} ({%<ab>RV.</ab>, <ab n="Purāṇa">P.</ab>%}). {@ava,@} cry 
+;---------------------------------------------------
+; <L>20181<pc>370-3<k1>svan<k2>svan
+142090 old downward ({%<ab>RV.</ab>%}). <ab>P.</ab> {%<ab>id.</ab>%} ({%<ab>RV.</ab>%}). {@vi, -svana,@} sound; yell 
+;
+142090 new downward ({%<ab>RV.</ab>%}). {@vi, -svana,@} sound; yell 
+;---------------------------------------------------
+; <L>20269<pc>372-2<k1>svasti<k2>svasti
+142776 old ({%<ab>V.</ab>%}; {%rarely in <ab>P.</ab>, <ab>E.</ab>%}): {%<ab>V.</ab> <ab>in.</ab>%} {@i,@} {%<ab>ad.</ab>%} well, happily, <lbinfo n="3"/>
+;
+142776 new ({%<ab>V.</ab>%}; {%rarely in <ab n="Purāṇa">P.</ab>, <ab>E.</ab>%}): {%<ab>V.</ab> <ab>in.</ab>%} {@i,@} {%<ab>ad.</ab>%} well, happily, <lbinfo n="3"/>
+;---------------------------------------------------
+; <L>20406<pc>375-2<k1>harit<k2>harit
+143846 old greenish ({%rare, <ab>P.</ab>%}); {%<ab>m.</ab>%} ({%<ab>C.</ab>%}) horse of the sun; 
+;
+143846 new greenish ({%rare, <ab n="Purāṇa">P.</ab>%}); {%<ab>m.</ab>%} ({%<ab>C.</ab>%}) horse of the sun; 
+;---------------------------------------------------
+; <L>20406<pc>375-2<k1>harit<k2>harit
+143847 old emerald ({%rare, <ab>P.</ab>%}); {%<ab>f.</ab>%} tawny mare ({%<ab>V.</ab>%}); 
+;
+143847 new emerald ({%rare, <ab n="Purāṇa">P.</ab>%}); {%<ab>f.</ab>%} tawny mare ({%<ab>V.</ab>%}); 
+;---------------------------------------------------
+; <L>20413<pc>375-2<k1>haritopala<k2>haritopala
+143888 old emerald ({%<ab>P.</ab>%}).
+;
+143888 new emerald ({%<ab n="Purāṇa">P.</ab>%}).
+;---------------------------------------------------
+; <L>20474<pc>376-3<k1>hA<k2>hA<h>1
+144386 old <hom>1.</hom> {#hA#}¦H<ab>Ā.</ab> III.<ab>Ā.</ab> {@jihīte@} ({%<ab>V.</ab>, <ab>C.</ab>%}), {%<ab>V.</ab>%}: bound 
+;
+144386 new <hom>1.</hom> {#hA#}¦HĀ. III.<ab>Ā.</ab> {@jihīte@} ({%<ab>V.</ab>, <ab>C.</ab>%}), {%<ab>V.</ab>%}: bound 
+;---------------------------------------------------
+; <L>20474<pc>376-3<k1>hA<k2>hA<h>1
+144391 old pass over, miss; {%<ab>P.</ab>%}: leap from ({%<ab>ab.</ab>%}) to ({%<ab>ac.</ab>%}); 
+;
+144391 new pass over, miss; {%<ab n="Purāṇa">P.</ab>%}: leap from ({%<ab>ab.</ab>%}) to ({%<ab>ac.</ab>%}); 
+;---------------------------------------------------
+; <L>20475<pc>377-1<k1>hA<k2>hA<h>2
+144408 old <hom>2.</hom> {#hA#}¦H<ab>Ā.</ab> III.<ab>P.</ab> {@jáhāti@}, {%<ab>V.</ab>, <ab>C.</ab>%}: leave, -- behind, <lbinfo n="2"/>
+;
+144408 new <hom>2.</hom> {#hA#}¦HĀ. III.<ab>P.</ab> {@jáhāti@}, {%<ab>V.</ab>, <ab>C.</ab>%}: leave, -- behind, <lbinfo n="2"/>
+;---------------------------------------------------
+; <L>20475<pc>377-1<k1>hA<k2>hA<h>2
+144428 old ({%<ab>P.</ab>, rare%}): {@-vat,@} {%<ab>pp.</ab> <ab>act.</ab>%} having lost ({%a wife, %}
+;
+144428 new ({%<ab n="Purāṇa">P.</ab>, rare%}): {@-vat,@} {%<ab>pp.</ab> <ab>act.</ab>%} having lost ({%a wife, %}
+;---------------------------------------------------
+; <L>20508<pc>377-3<k1>hi<k2>hi
+144695 old convey; {%<ab>V.</ab>, <ab>C.</ab>%}: cast, hurl; {%<ab>P.</ab>%} (= <ab>√</ab> ¤2.¤ hā): forsake, <lbinfo n="3"/>
+;
+144695 new convey; {%<ab>V.</ab>, <ab>C.</ab>%}: cast, hurl; {%<ab n="Purāṇa">P.</ab>%} (= <ab>√</ab> ¤2.¤ hā): forsake, <lbinfo n="3"/>
+;---------------------------------------------------
+; <L>20508<pc>377-3<k1>hi<k2>hi
+144708 old {%for%} {@-jigā-ti, -tu@}: {%<ab>pp.</ab>%} {@práhita,@} {%<ab>P.</ab>%}: urged on, 
+;
+144708 new {%for%} {@-jigā-ti, -tu@}: {%<ab>pp.</ab>%} {@práhita,@} {%<ab n="Purāṇa">P.</ab>%}: urged on, 
+;---------------------------------------------------
+; <L>20558<pc>379-1<k1>hu<k2>hu<h>2
+145117 old summoned, invited ({%<ab>E.</ab>, <ab>P.</ab>%}). {@sam-ā,@} {%<ab>pp.</ab>%} 
+;
+145117 new summoned, invited ({%<ab>E.</ab>, <ab n="Purāṇa">P.</ab>%}). {@sam-ā,@} {%<ab>pp.</ab>%} 
+;---------------------------------------------------
+; <L>20582<pc>379-1<k1>hf<k2>hf<h>1
+145244 old ({%<ab>ord.</ab> <ab>mg.</ab>%}); <ab>Ā.</ab> ({%<ab>C.</ab> also <ab>P.</ab>%}) take for oneself, 
+;
+145244 new ({%<ab>ord.</ab> <ab>mg.</ab>%}); <ab>Ā.</ab> ({%<ab>C.</ab> also <ab n="Purāṇa">P.</ab>%}) take for oneself, 
+;---------------------------------------------------
+; <L>20603<pc>380-2<k1>hfz<k2>hfz
+145578 old {%<ab>P.</ab>%}): {%<ab>pp.</ab>%} {@uddhṛṣita@}, shivering with ({%cold, %}
+;
+145578 new {%<ab n="Purāṇa">P.</ab>%}): {%<ab>pp.</ab>%} {@uddhṛṣita@}, shivering with ({%cold, %}
+;---------------------------------------------------
+; <L>20697<pc>381-3<k1>hvA<k2>hvA
+146174 old {#hvA#}¦HV<ab>Ā.</ab> {#hU#} HŪ, II. {@ho, hū@} ({%<ab>V.</ab>, rare%}), 
+;
+146174 new {#hvA#}¦HVĀ. {#hU#} HŪ, II. {@ho, hū@} ({%<ab>V.</ab>, rare%}), 
+;---------------------------------------------------
+; <L>20697<pc>381-3<k1>hvA<k2>hvA
+146180 old ({%<ab>V.</ab>, very rare in <ab>P.</ab>%}). {@anu,@} call again, back, 
+;
+146180 new ({%<ab>V.</ab>, very rare in <ab n="Purāṇa">P.</ab>%}). {@anu,@} call again, back, 
+;---------------------------------------------------
+; <L>20712<pc>383-1<k1>kAlidAsa<k2>kAlidAsa
+146290 old {%century A. D.'%}: {%the most recent research having %}
+;
+146290 new {%century <ab>A. D.</ab>'%}: {%the most recent research having %}
+;---------------------------------------------------

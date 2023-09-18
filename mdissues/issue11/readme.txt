@@ -1,29 +1,100 @@
 work on issue 11 for MD dictionary.
 MD abbreviations 
 --------------------------------------------------------------
-Instructions for Anna.
+abbrev0 folder:
+prepare text form of printed abbreviations.
+Final form abbrev0.txt
+177 lines
+format:
+abbrev<TAB>= tooltip
 
-The ocr.txt file was prepared by @gasyoun [Ref:](https://github.com/sanskrit-lexicon/csl-orig/issues/695#issuecomment-999127351).
+--------------------------------------------------------------
+temp_md_0.txt
+ Original copy from csl-orig at 09-12-2023
+cp /c/xampp/htdocs/cologne/csl-orig/v02/md/md.txt temp_md_0.txt
 
-The main task is to prepare a 'clean' version of this file. (See below for what 'clean' means in this context.)
+--------------------------------------------------------------
+Prepare csl-pywork for MD abbreviations
+-----
+1. inventory.txt
+/c/xampp/htdocs/cologne/csl-pywork/v02/inventory.txt
+edit to add 'md' to the dictionaries with abbreviations
+OLD:
+ben stc bur cae mw pw pwkvn pwg lan gra ap90 bhs:pywork/${dictlo}ab/${dictlo}ab.sql:CD
+ben stc bur cae mw pw pwkvn pwg lan gra ap90 bhs:pywork/${dictlo}ab/${dictlo}ab_input.txt:CD
+ben stc bur cae mw pw pwkvn pwg lan gra ap90 bhs:pywork/${dictlo}ab/readme.txt:CD
+ben stc bur cae mw pw pwkvn pwg lan gra ap90 bhs:pywork/${dictlo}ab/redo.sh:CD
+ben stc bur cae mw pw pwkvn pwg lan gra ap90 bhs:pywork/${dictlo}ab/redo_${dictlo}ab.sh:CD
+NEW:
+ben stc bur cae mw pw pwkvn pwg lan gra ap90 bhs md:pywork/${dictlo}ab/${dictlo}ab.sql:CD
+ben stc bur cae mw pw pwkvn pwg lan gra ap90 bhs md:pywork/${dictlo}ab/${dictlo}ab_input.txt:CD
+ben stc bur cae mw pw pwkvn pwg lan gra ap90 bhs md:pywork/${dictlo}ab/readme.txt:CD
+ben stc bur cae mw pw pwkvn pwg lan gra ap90 bhs md:pywork/${dictlo}ab/redo.sh:CD
+ben stc bur cae mw pw pwkvn pwg lan gra ap90 bhs md:pywork/${dictlo}ab/redo_${dictlo}ab.sh:CD
 
-ocr_edit.txt starts as a copy of ocr.txt, with
-* first line removed
-* blank lines removed.
+-----
+2. redo_postxml.sh
+/c/xampp/htdocs/cologne/csl-pywork/v02/makotemplates/pywork/redo_postxml.sh
+OLD:
+%if dictlo in ['ben','stc','bur','cae','mw','pw','pwg','lan','gra','ap90','pwkvn','bhs']:
+NEW:
+%if dictlo in ['ben','stc','bur','cae','mw','pw','pwg','lan','gra','ap90','pwkvn','bhs','md']:
+-----
+3. mdab directory
+---
+3a. start with bhsab
+cp -r /c/xampp/htdocs/cologne/csl-pywork/v02/distinctfiles/bhs/pywork/bhsab /c/xampp/htdocs/cologne/csl-pywork/v02/distinctfiles/md/pywork/mdab
+---
+3b. change filenames
+cd 
+mv bhsab.sql mdab.sql
+mv bhsab_input.txt mdab_input.txt
+mv redo_bhsab.sh redo_mdab.sh
+# return to me
+cd /c/xampp/htdocs/sanskrit-lexicon/md/mdissues/issue11
+---
+3c. edit files and change 'bhs' to 'md'
+ mdab.sql
+ redo.sh
+ redo_mdab.sh
+-----
+4. recreate mdab_input.txt
+# copy abbrev0/abbrev0.txt to mdab/mdab_input.txt with format change
+cd /c/xampp/htdocs/sanskrit-lexicon/md/mdissues/issue11
+python make_mdab_input.py abbrev0/abbrev0.txt abbrev0/mdab_input_0.txt
+cp abbrev0/mdab_input_0.txt /c/xampp/htdocs/cologne/csl-pywork/v02/distinctfiles/md/pywork/mdab/mdab_input.txt
 
-Anna's task is to edit the ocr_edit.txt file.
+4a. use abbrev1
+python make_mdab_input.py abbrev1/abbrev1.txt abbrev1/mdab_input_1.txt
+ 179 abbreviations read from abbrev1/abbrev1.txt
+ 
+cp abbrev1/mdab_input_1.txt /c/xampp/htdocs/cologne/csl-pywork/v02/distinctfiles/md/pywork/mdab/mdab_input.txt
 
-After edit, the format should be
-1. One abbreviation per line. 
-2. Each line has form: abbrev<TAB>= tooltip
-3. spelling of text for abbrev and tooltip should be checked against scan.
+--------------------------------------------------------------
+dev version
+sh redo_dev.sh 1
+creates issue11/dev1  displays
+localhost/sanskrit-lexicon/MD/mdissues/issue11/dev1/web/
+.gitignore
 
-I think that's it!  This is a fairly straightforward task.
+--------------------------------------------------------------
 
-To get started, clone (or pull) this repository
-  https://github.com/sanskrit-lexicon/MD.
-
-When ocr_edit.txt is cleaned up,  push repository to Github and notify me
-in a message in https://github.com/sanskrit-lexicon/MD/issues/11.
+--------------------------------------------------------------
+Apply ab markup using abbrev0/abbrev0.txt
 
 
+--------------------------------------------------------------
+abbrev1 folder: temp_pw_1.txt
+Apply ab markup using abbrev0/abbrev0.txt
+python mark_ab.py ../temp_pw_0.txt ../abbrev0/abbrev0.txt temp_pw_1.txt
+--------------------------------------------------------------
+page 199 smudged -- need new image
+237, 384
+--------------------------------------------------------------
+--------------------------------------------------------------
+--------------------------------------------------------------
+--------------------------------------------------------------
+--------------------------------------------------------------
+--------------------------------------------------------------
+--------------------------------------------------------------
+--------------------------------------------------------------
