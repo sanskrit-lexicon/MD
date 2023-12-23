@@ -1,0 +1,48 @@
+</ab> 100523
+</hom> 920
+</lang> 9
+<H> 43
+<ab n="East."> 3
+<ab n="North."> 3
+<ab n="Northeast"> 1
+<ab n="Northwest"> 1
+<ab n="Purāṇa"> 124
+<ab n="South."> 2
+<ab n="Southeast"> 1
+<ab n="Southwest."> 1
+<ab n="West."> 3
+<ab n="noun."> 40
+<ab> 100344
+<hom> 920
+<lang n="greek"> 9
+<lbinfo n="000"/> 1
+<lbinfo n="1"/> 5
+<lbinfo n="10"/> 105
+<lbinfo n="10[]"/> 5
+<lbinfo n="11"/> 46
+<lbinfo n="11[]"/> 2
+<lbinfo n="12"/> 31
+<lbinfo n="12[]"/> 3
+<lbinfo n="13"/> 10
+<lbinfo n="13[]"/> 2
+<lbinfo n="14"/> 5
+<lbinfo n="15"/> 7
+<lbinfo n="17"/> 1
+<lbinfo n="2"/> 2416
+<lbinfo n="20"/> 3
+<lbinfo n="2[]"/> 67
+<lbinfo n="3"/> 2775
+<lbinfo n="3[]"/> 103
+<lbinfo n="4"/> 1811
+<lbinfo n="4[]"/> 78
+<lbinfo n="5"/> 1707
+<lbinfo n="5[]"/> 55
+<lbinfo n="6"/> 943
+<lbinfo n="6[]"/> 47
+<lbinfo n="7"/> 564
+<lbinfo n="7[]"/> 23
+<lbinfo n="8"/> 276
+<lbinfo n="8[]"/> 17
+<lbinfo n="9"/> 162
+<lbinfo n="9[]"/> 12
+<lbinfo n="[]"/> 1060

@@ -1,0 +1,307 @@
+&	<id>&</id> <disp>and.</disp> <count>0</count>
+&amp;	<id>&amp;</id> <disp>and.</disp> <count>0</count>
+&amp;c.	<id>&amp;c.</id> <disp>et cetera, and so forth.</disp> <count>0</count>
+&c.	<id>&c.</id> <disp>et cetera, and so forth.</disp> <count>28</count>
++	<id>+</id> <disp>with; also.</disp> <count>0</count>
+1	<id>1</id> <disp>??</disp> <count>14</count> <tag>pe</tag>
+1.	<id>1.</id> <disp>??</disp> <count>2</count> <tag>pe</tag>
+2	<id>2</id> <disp>??</disp> <count>209</count> <tag>pe</tag>
+2.	<id>2.</id> <disp>??</disp> <count>22</count> <tag>pe</tag>
+3	<id>3</id> <disp>??</disp> <count>60</count> <tag>pe</tag>
+3.	<id>3.</id> <disp>??</disp> <count>7</count> <tag>pe</tag>
+=	<id>=</id> <disp>equals, is the equivalent of.</disp> <count>0</count>
+a.	<id>a.</id> <disp>adjective.</disp> <count>16690</count>
+a. cpd.	<id>a. cpd.</id> <disp>??</disp> <count>1</count>
+a. cpds.	<id>a. cpds.</id> <disp>??</disp> <count>3</count>
+A. D.	<id>A. D.</id> <disp>Anno Domini</disp> <count>27</count>
+a. m.	<id>a. m.</id> <disp>??</disp> <count>2</count>
+a.¹	<id>a.¹</id> <disp>??</disp> <count>1</count> <tag>lex</tag>
+ab.	<id>ab.</id> <disp>ablative.</disp> <count>1100</count>
+abl.	<id>abl.</id> <disp>??</disp> <count>1</count>
+abs.	<id>abs.</id> <disp>absolute.</disp> <count>60</count>
+abs. ɴ.	<id>abs. ɴ.</id> <disp>??</disp> <count>1</count>
+abst.	<id>abst.</id> <disp>abstract.</disp> <count>10</count>
+abst. N.	<id>abst. N.</id> <disp>abstract noun.</disp> <count>0</count>
+abst. ɴ.	<id>abst. ɴ.</id> <disp>??</disp> <count>320</count>
+ac.	<id>ac.</id> <disp>accusative.</disp> <count>2281</count>
+ac.¹	<id>ac.¹</id> <disp>??</disp> <count>1</count>
+act.	<id>act.</id> <disp>active.</disp> <count>84</count>
+ad.	<id>ad.</id> <disp>adverb, -ial, -ially.</disp> <count>1953</count>
+ads.	<id>ads.</id> <disp>??</disp> <count>2</count>
+advs.	<id>advs.</id> <disp>??</disp> <count>3</count>
+Ait. Br.	<id>Ait. Br.</id> <disp>??</disp> <count>2</count>
+aor.	<id>aor.</id> <disp>aorist.</disp> <count>68</count>
+app.	<id>app.</id> <disp>apposition.</disp> <count>12</count>
+ass.	<id>ass.</id> <disp>asseverative.</disp> <count>0</count>
+astrol.	<id>astrol.</id> <disp>??</disp> <count>1</count>
+athg.	<id>athg.</id> <disp>anything.</disp> <count>2</count>
+AV.	<id>AV.</id> <disp>Atharva-veda.</disp> <count>59</count>
+AV.¹	<id>AV.¹</id> <disp>??</disp> <count>16</count>
+B.	<id>B.</id> <disp>Buddhistic term.</disp> <count>20</count>
+B. C.	<id>B. C.</id> <disp>??</disp> <count>5</count>
+beg.	<id>beg.</id> <disp>beginning.</disp> <count>11</count>
+bg.	<id>bg.</id> <disp>beginning.</disp> <count>3</count>
+Br.	<id>Br.</id> <disp>Brāhmaṇa.</disp> <count>418</count>
+Br.¹	<id>Br.¹</id> <disp>??</disp> <count>3</count>
+C.	<id>C.</id> <disp>Classical (post-Vedic) Sanskrit.</disp> <count>1519</count>
+C.¹	<id>C.¹</id> <disp>??</disp> <count>7</count>
+cj.	<id>cj.</id> <disp>conjunction.</disp> <count>13</count>
+cjs.	<id>cjs.</id> <disp>??</disp> <count>1</count>
+col.	<id>col.</id> <disp>collective, -ly.</disp> <count>0</count>
+coll.	<id>coll.</id> <disp>collective, -ly.</disp> <count>27</count>
+comm.	<id>comm.</id> <disp>commentator.</disp> <count>23</count>
+cond.	<id>cond.</id> <disp>??</disp> <count>5</count>
+conj.	<id>conj.</id> <disp>conjecture.</disp> <count>12</count>
+cor.	<id>cor.</id> <disp>correlative.</disp> <count>5</count>
+corr.	<id>corr.</id> <disp>??</disp> <count>30</count>
+correl.	<id>correl.</id> <disp>??</disp> <count>1</count>
+cp.	<id>cp.</id> <disp>compare.</disp> <count>58</count>
+Cp.	<id>Cp.</id> <disp>??</disp> <count>1</count>
+cpd.	<id>cpd.</id> <disp>compound.</disp> <count>4</count>
+cpds.	<id>cpds.</id> <disp>??</disp> <count>14</count>
+cps.	<id>cps.</id> <disp>??</disp> <count>1</count>
+cpv.	<id>cpv.</id> <disp>comparative.</disp> <count>123</count>
+crt.	<id>crt.</id> <disp>certain.</disp> <count>0</count>
+cs.	<id>cs.</id> <disp>causal.</disp> <count>1512</count>
+d.	<id>d.</id> <disp>dative.</disp> <count>545</count>
+dat.	<id>dat.</id> <disp>??</disp> <count>1</count>
+dbl.	<id>dbl.</id> <disp>double.</disp> <count>1</count>
+dem.	<id>dem.</id> <disp>??</disp> <count>1</count>
+den.	<id>den.</id> <disp>denominative.</disp> <count>526</count>
+der.	<id>der.</id> <disp>derivative.</disp> <count>9</count>
+des.	<id>des.</id> <disp>desiderative.</disp> <count>309</count>
+dim.	<id>dim.</id> <disp>diminutive.</disp> <count>9</count>
+dr.	<id>dr.</id> <disp>dramatic term.</disp> <count>26</count>
+du.	<id>du.</id> <disp>dual.</disp> <count>223</count>
+E.	<id>E.</id> <disp>Epic.</disp> <count>244</count>
+e. g.	<id>e. g.</id> <disp>for example.</disp> <count>136</count>
+E.¹	<id>E.¹</id> <disp>??</disp> <count>2</count>
+emp.	<id>emp.</id> <disp>emphatic.</disp> <count>0</count>
+emph. inter.	<id>emph. inter.</id> <disp>??</disp> <count>2</count>
+enc.	<id>enc.</id> <disp>enclitic.</disp> <count>4</count>
+enc. pcl.	<id>enc. pcl.</id> <disp>??</disp> <count>1</count>
+encl.	<id>encl.</id> <disp>enclitic.</disp> <count>14</count>
+Eng.	<id>Eng.</id> <disp>English.</disp> <count>0</count>
+Engl.	<id>Engl.</id> <disp>??</disp> <count>1</count> <tag>lang</tag>
+ep.	<id>ep.</id> <disp>epithet.</disp> <count>801</count>
+eq.	<id>eq.</id> <disp>equivalent.</disp> <count>0</count>
+esp.	<id>esp.</id> <disp>especially.</disp> <count>354</count>
+etc.	<id>etc.</id> <disp>et cetera, and so forth.</disp> <count>701</count>
+exc.	<id>exc.</id> <disp>except, exceptionally.</disp> <count>4</count>
+excl.	<id>excl.</id> <disp>exclamation.</disp> <count>1</count>
+exp.	<id>exp.</id> <disp>explanation.</disp> <count>0</count>
+f.	<id>f.</id> <disp>feminine; also = for.</disp> <count>7769</count>
+Feb.	<id>Feb.</id> <disp>??</disp> <count>1</count>
+fem.	<id>fem.</id> <disp>??</disp> <count>1</count> <tag>lex</tag>
+ff.	<id>ff.</id> <disp>and the following.</disp> <count>0</count>
+fig.	<id>fig.</id> <disp>figurative, -ly.</disp> <count>165</count>
+fp.	<id>fp.</id> <disp>future participle passive.</disp> <count>1338</count>
+fr.	<id>fr.</id> <disp>from.</disp> <count>193</count>
+French	<id>French</id> <disp>??</disp> <count>1</count> <tag>lang</tag>
+ft.	<id>ft.</id> <disp>future.</disp> <count>38</count>
+fut.	<id>fut.</id> <disp>??</disp> <count>7</count>
+g.	<id>g.</id> <disp>genitive.</disp> <count>1530</count>
+g.¹	<id>g.¹</id> <disp>??</disp> <count>1</count>
+gd.	<id>gd.</id> <disp>gerund (indeclinable participle).</disp> <count>135</count>
+gen.	<id>gen.</id> <disp>??</disp> <count>2</count>
+Gk.	<id>Gk.</id> <disp>Greek.</disp> <count>4</count>
+gnly.	<id>gnly.</id> <disp>generally.</disp> <count>148</count>
+gr.	<id>gr.</id> <disp>grammatical term.</disp> <count>236</count>
+Gr.	<id>Gr.</id> <disp>??</disp> <count>1</count> <tag>lang</tag>
+hvg.	<id>hvg.</id> <disp>having.</disp> <count>23</count>
+I.	<id>I.</id> <disp>??</disp> <count>469</count> <tag>cl</tag>
+i. e.	<id>i. e.</id> <disp>that is.</disp> <count>157</count>
+id.	<id>id.</id> <disp>the same.</disp> <count>2028</count>
+II.	<id>II.</id> <disp>??</disp> <count>98</count> <tag>cl</tag>
+III.	<id>III.</id> <disp>??</disp> <count>38</count> <tag>cl</tag>
+ij.	<id>ij.</id> <disp>interjection.</disp> <count>44</count>
+imp.	<id>imp.</id> <disp>??</disp> <count>1</count>
+impf.	<id>impf.</id> <disp>??</disp> <count>18</count>
+impl.	<id>impl.</id> <disp>??</disp> <count>11</count>
+impr.	<id>impr.</id> <disp>??</disp> <count>1</count>
+imps.	<id>imps.</id> <disp>impersonal.</disp> <count>83</count>
+impv.	<id>impv.</id> <disp>imperative.</disp> <count>52</count>
+in.	<id>in.</id> <disp>instrumental.</disp> <count>1774</count>
+incor.	<id>incor.</id> <disp>incorrect.</disp> <count>0</count>
+incorr.	<id>incorr.</id> <disp>incorrect.</disp> <count>100</count>
+ind.	<id>ind.</id> <disp>indicative.</disp> <count>10</count>
+indc.	<id>indc.</id> <disp>indeclinable.</disp> <count>2</count>
+indec.	<id>indec.</id> <disp>indeclinable.</disp> <count>3</count>
+indecl.	<id>indecl.</id> <disp>??</disp> <count>16</count>
+Indef.	<id>Indef.</id> <disp>??</disp> <count>1</count>
+indef.	<id>indef.</id> <disp>??</disp> <count>4</count>
+indf.	<id>indf.</id> <disp>indefinite.</disp> <count>0</count>
+inf.	<id>inf.</id> <disp>infinitive.</disp> <count>293</count>
+int.	<id>int.</id> <disp>intransitive.</disp> <count>117</count>
+inter.	<id>inter.</id> <disp>??</disp> <count>17</count>
+inter. prn.	<id>inter. prn.</id> <disp>??</disp> <count>1</count>
+interr.	<id>interr.</id> <disp>??</disp> <count>4</count>
+intr.	<id>intr.</id> <disp>interrogative.</disp> <count>6</count>
+intv.	<id>intv.</id> <disp>intensive (frequentative).</disp> <count>143</count>
+ir.	<id>ir.</id> <disp>irregular.</disp> <count>1</count>
+irr.	<id>irr.</id> <disp>??</disp> <count>2</count>
+irreg.	<id>irreg.</id> <disp>??</disp> <count>2</count>
+IV.	<id>IV.</id> <disp>??</disp> <count>134</count> <tag>cl</tag>
+IX.	<id>IX.</id> <disp>??</disp> <count>52</count> <tag>cl</tag>
+Jan.	<id>Jan.</id> <disp>??</disp> <count>3</count>
+K.	<id>K.</id> <disp>king.</disp> <count>1</count>
+Lat.	<id>Lat.</id> <disp>Latin.</disp> <count>2</count>
+Latin	<id>Latin</id> <disp>??</disp> <count>1</count> <tag>lang</tag>
+lc.	<id>lc.</id> <disp>locative.</disp> <count>2164</count>
+lc.¹	<id>lc.¹</id> <disp>??</disp> <count>1</count>
+leg.	<id>leg.</id> <disp>legal term.</disp> <count>9</count>
+lex.	<id>lex.</id> <disp>??</disp> <count>3</count>
+lit.	<id>lit.</id> <disp>literally.</disp> <count>12</count>
+m.	<id>m.</id> <disp>masculine.</disp> <count>16491</count>
+m.²	<id>m.²</id> <disp>??</disp> <count>1</count> <tag>lex</tag>
+m.¹	<id>m.¹</id> <disp>??</disp> <count>3</count> <tag>lex</tag>
+med.	<id>med.</id> <disp>??</disp> <count>1</count>
+met.	<id>met.</id> <disp>metronymic.</disp> <count>29</count>
+metr.	<id>metr.</id> <disp>metrical (due to exigencies of metre).</disp> <count>124</count>
+mg.	<id>mg.</id> <disp>meaning.</disp> <count>76</count>
+mgs.	<id>mgs.</id> <disp>??</disp> <count>1</count>
+mid.	<id>mid.</id> <disp>??</disp> <count>1</count>
+mtn.	<id>mtn.</id> <disp>mountain.</disp> <count>23</count>
+N.	<id>N.</id> <disp>name; when alone = name of a man or of a woman.</disp> <count>4233</count>
+n.	<id>n.</id> <disp>neuter.</disp> <count>10332</count>
+N.E.	<id>N.E.</id> <disp>Northeast.</disp> <count>0</count>
+N.W.	<id>N.W.</id> <disp>Northwest.</disp> <count>0</count>
+n.¹	<id>n.¹</id> <disp>??</disp> <count>4</count> <tag>lex</tag>
+neg.	<id>neg.</id> <disp>negative.</disp> <count>21</count>
+nl.	<id>nl.</id> <disp>??</disp> <count>1</count>
+nm.	<id>nm.</id> <disp>nominative.</disp> <count>254</count>
+nom.	<id>nom.</id> <disp>??</disp> <count>1</count>
+Nov.	<id>Nov.</id> <disp>??</disp> <count>2</count>
+nr.	<id>nr.</id> <disp>numeral.</disp> <count>2</count>
+Ns.	<id>Ns.</id> <disp>??</disp> <count>3</count>
+num.	<id>num.</id> <disp>numeral.</disp> <count>10</count>
+obj.	<id>obj.</id> <disp>object.</disp> <count>1</count>
+onom.	<id>onom.</id> <disp>onomatopœic.</disp> <count>6</count>
+opp.	<id>opp.</id> <disp>opposite.</disp> <count>128</count>
+opt.	<id>opt.</id> <disp>optative.</disp> <count>4</count>
+or.	<id>or.</id> <disp>originally.</disp> <count>0</count>
+ord.	<id>ord.</id> <disp>ordinary.</disp> <count>8</count>
+ord. mg.	<id>ord. mg.</id> <disp>??</disp> <count>191</count>
+ord. num.	<id>ord. num.</id> <disp>??</disp> <count>1</count>
+orig.	<id>orig.</id> <disp>originally.</disp> <count>6</count>
+P.	<id>P.</id> <disp>Parasmaipada.</disp> <count>1725</count>
+p. m.	<id>p. m.</id> <disp>??</disp> <count>1</count>
+P.¹	<id>P.¹</id> <disp>??</disp> <count>1</count>
+pat.	<id>pat.</id> <disp>patronymic.</disp> <count>215</count>
+pcl.	<id>pcl.</id> <disp>particle.</disp> <count>40</count>
+pcls.	<id>pcls.</id> <disp>??</disp> <count>12</count>
+perh.	<id>perh.</id> <disp>perhaps.</disp> <count>24</count>
+periphr.	<id>periphr.</id> <disp>??</disp> <count>1</count>
+pers.	<id>pers.</id> <disp>??</disp> <count>9</count>
+pf.	<id>pf.</id> <disp>perfect.</disp> <count>85</count>
+ph.	<id>ph.</id> <disp>philosophical term.</disp> <count>24</count>
+phil.	<id>phil.</id> <disp>philosophical term.</disp> <count>25</count>
+pl.	<id>pl.</id> <disp>plural.</disp> <count>1194</count>
+pl.¹	<id>pl.¹</id> <disp>??</disp> <count>2</count>
+pn.	<id>pn.</id> <disp>pronoun, pronominal.</disp> <count>1</count>
+pns.	<id>pns.</id> <disp>??</disp> <count>1</count>
+pos.	<id>pos.</id> <disp>possessive.</disp> <count>1</count>
+poss.	<id>poss.</id> <disp>possessive.</disp> <count>3</count>
+pot.	<id>pot.</id> <disp>potential.</disp> <count>38</count>
+potent.	<id>potent.</id> <disp>??</disp> <count>1</count>
+pp.	<id>pp.</id> <disp>perfect passive participle.</disp> <count>4850</count>
+Pr.	<id>Pr.</id> <disp>Prākrit (Sanskrit equivalent of Prākrit word), Prākritic.</disp> <count>64</count>
+pr.	<id>pr.</id> <disp>present.</disp> <count>397</count>
+pred.	<id>pred.</id> <disp>predicate, predicative, -ly.</disp> <count>15</count>
+pres.	<id>pres.</id> <disp>??</disp> <count>1</count>
+prn.	<id>prn.</id> <disp>pronoun, pronominal.</disp> <count>63</count>
+prns.	<id>prns.</id> <disp>??</disp> <count>6</count>
+prob.	<id>prob.</id> <disp>probably.</disp> <count>25</count>
+prop.	<id>prop.</id> <disp>properly.</disp> <count>0</count>
+prp.	<id>prp.</id> <disp>preposition.</disp> <count>63</count>
+prps.	<id>prps.</id> <disp>??</disp> <count>3</count>
+prs.	<id>prs.</id> <disp>person.</disp> <count>39</count>
+Prākrit	<id>Prākrit</id> <disp>??</disp> <count>12</count> <tag>lang</tag>
+ps.	<id>ps.</id> <disp>passive.</disp> <count>369</count>
+pt.	<id>pt.</id> <disp>participle.</disp> <count>422</count>
+px.	<id>px.</id> <disp>prefix.</disp> <count>9</count>
+Pāli	<id>Pāli</id> <disp>??</disp> <count>1</count> <tag>lang</tag>
+q. v.	<id>q. v.</id> <disp>which see.</disp> <count>39</count>
+R.	<id>R.</id> <disp>river.</disp> <count>0</count>
+red.	<id>red.</id> <disp>reduplicated, reduplication. </disp> <count>2</count>
+redupl.	<id>redupl.</id> <disp>??</disp> <count>3</count>
+refl.	<id>refl.</id> <disp>??</disp> <count>3</count>
+rel.	<id>rel.</id> <disp>relative.</disp> <count>13</count>
+rel. prn.	<id>rel. prn.</id> <disp>??</disp> <count>1</count>
+rep.	<id>rep.</id> <disp>repeated.</disp> <count>4</count>
+rf.	<id>rf.</id> <disp>reflexive.</disp> <count>0</count>
+rfl.	<id>rfl.</id> <disp>??</disp> <count>1</count>
+rh.	<id>rh.</id> <disp>rhetorical term.</disp> <count>44</count>
+rhet.	<id>rhet.</id> <disp>??</disp> <count>5</count>
+rit.	<id>rit.</id> <disp>ritual term.</disp> <count>13</count>
+rl.	<id>rl.</id> <disp>relative.</disp> <count>0</count>
+rp.	<id>rp.</id> <disp>repeated.</disp> <count>0</count>
+RV.	<id>RV.</id> <disp>Rig-veda.</disp> <count>1033</count>
+RV.²	<id>RV.²</id> <disp>Rig-veda (² = ?)</disp> <count>22</count>
+RV.¹	<id>RV.¹</id> <disp>Rig-veda (¹ = ?)</disp> <count>438</count>
+S.	<id>S.</id> <disp>Sūtra.</disp> <count>148</count>
+s.	<id>s.</id> <disp>singular.</disp> <count>15</count>
+s. v.	<id>s. v.</id> <disp>sub voce.</disp> <count>3</count>
+S.¹	<id>S.¹</id> <disp>??</disp> <count>1</count>
+Sanskrit	<id>Sanskrit</id> <disp>??</disp> <count>15</count> <tag>lang</tag>
+sb.	<id>sb.</id> <disp>substantive.</disp> <count>0</count>
+sbj.	<id>sbj.</id> <disp>??</disp> <count>2</count>
+sc.	<id>sc.</id> <disp>scilicet, that is to say, supply.</disp> <count>64</count>
+Sept.	<id>Sept.</id> <disp>??</disp> <count>2</count>
+sg.	<id>sg.</id> <disp>singular.</disp> <count>412</count>
+sp.	<id>sp.</id> <disp>specifically.</disp> <count>77</count>
+spv.	<id>spv.</id> <disp>superlative.</disp> <count>125</count>
+sqq.	<id>sqq.</id> <disp>??</disp> <count>1</count>
+st.	<id>st.</id> <disp>stem.</disp> <count>21</count>
+stg.	<id>stg.</id> <disp>??</disp> <count>3</count>
+sthg.	<id>sthg.</id> <disp>something.</disp> <count>10</count>
+str.	<id>str.</id> <disp>strong.</disp> <count>6</count>
+strg.	<id>strg.</id> <disp>??</disp> <count>13</count>
+sts.	<id>sts.</id> <disp>??</disp> <count>278</count>
+Sts.	<id>Sts.</id> <disp>??</disp> <count>1</count>
+subj.	<id>subj.</id> <disp>subjunctive.</disp> <count>27</count>
+SV.	<id>SV.</id> <disp>Sāma-veda.</disp> <count>1</count>
+sx.	<id>sx.</id> <disp>suffix.</disp> <count>3</count>
+T.	<id>T.</id> <disp>title.</disp> <count>166</count>
+t.	<id>t.</id> <disp>term.</disp> <count>0</count>
+TBr.	<id>TBr.</id> <disp>Taittirīya-Brāhmaṇa.</disp> <count>1</count>
+tr.	<id>tr.</id> <disp>transitive.</disp> <count>64</count>
+TS.	<id>TS.</id> <disp>Taittirīya-Saṃhitā.</disp> <count>8</count>
+Ts.	<id>Ts.</id> <disp>??</disp> <count>1</count>
+TS.¹	<id>TS.¹</id> <disp>??</disp> <count>2</count>
+U.	<id>U.</id> <disp>Upaniṣad.</disp> <count>17</count>
+V.	<id>V.</id> <disp>Veda, Vedic.</disp> <count>2470</count>
+v.	<id>v.</id> <disp>vide, see.</disp> <count>179</count>
+v. l.	<id>v. l.</id> <disp>??</disp> <count>10</count>
+v. r.	<id>v. r.</id> <disp>various reading.</disp> <count>42</count>
+V.²	<id>V.²</id> <disp>??</disp> <count>2</count>
+V.¹	<id>V.¹</id> <disp>??</disp> <count>6</count>
+vb.	<id>vb.</id> <disp>verb.</disp> <count>41</count>
+vbl.	<id>vbl.</id> <disp>verbal.</disp> <count>6</count>
+vbl. N.	<id>vbl. N.</id> <disp>verbal noun.</disp> <count>0</count>
+vbl. ɴ.	<id>vbl. ɴ.</id> <disp>??</disp> <count>38</count>
+vbs.	<id>vbs.</id> <disp>??</disp> <count>6</count>
+vc.	<id>vc.</id> <disp>vocative.</disp> <count>38</count>
+VI.	<id>VI.</id> <disp>??</disp> <count>110</count> <tag>cl</tag>
+VII.	<id>VII.</id> <disp>??</disp> <count>22</count> <tag>cl</tag>
+VIII.	<id>VIII.</id> <disp>??</disp> <count>7</count> <tag>cl</tag>
+viz.	<id>viz.</id> <disp>??</disp> <count>4</count>
+voc.	<id>voc.</id> <disp>??</disp> <count>6</count>
+VS.	<id>VS.</id> <disp>Vājasaneyi-Saṃhitā.</disp> <count>7</count>
+VS.¹	<id>VS.¹</id> <disp>??</disp> <count>4</count>
+w.	<id>w.</id> <disp>with.</disp> <count>382</count>
+wk.	<id>wk.</id> <disp>weak.</disp> <count>11</count>
+X.	<id>X.</id> <disp>??</disp> <count>30</count> <tag>cl</tag>
+YV.	<id>YV.</id> <disp>Yajur-veda.</disp> <count>16</count>
+YV.¹	<id>YV.¹</id> <disp>??</disp> <count>1</count>
+°—	<id>°—</id> <disp>??</disp> <count>409</count>
+±	<id>±</id> <disp>with or without.</disp> <count>0</count>
+Ā.	<id>Ā.</id> <disp>Ātmanepada.</disp> <count>1202</count>
+Ā.¹	<id>Ā.¹</id> <disp>??</disp> <count>1</count> <tag>lex</tag>
+ŚB.	<id>ŚB.</id> <disp>Śatapatha-Brāhmaṇa.</disp> <count>17</count>
+ŚB.¹	<id>ŚB.¹</id> <disp>??</disp> <count>2</count>
+ɴ.	<id>ɴ.</id> <disp>noun.</disp> <count>44</count>
+ᴠ.	<id>ᴠ.</id> <disp>??</disp> <count>33</count> <tag>cl</tag>
+—°	<id>—°</id> <disp>??</disp> <count>4258</count>
+√	<id>√</id> <disp>root.</disp> <count>0</count>
+𝑃.	<id>𝑃.</id> <disp>Purāṇa.</disp> <count>0</count>

@@ -1,0 +1,41 @@
+</ab> 46957
+</bot> 155
+</cl> 993
+</fr> 1
+</gk> 10
+</hom> 1363
+</lang> 102
+</lat> 3
+</lex> 56122
+</ls> 58
+</pe> 314
+</zoo> 15
+<H> 42
+<ab n="???"> 1
+<ab n="East"> 4
+<ab n="Maṇḍala"> 1
+<ab n="Mālinī"> 1
+<ab n="North"> 4
+<ab n="North-East"> 3
+<ab n="North-West"> 2
+<ab n="South"> 2
+<ab n="South-East"> 1
+<ab n="South-West"> 1
+<ab n="West"> 3
+<ab n="centum"> 4
+<ab n="century"> 2
+<ab n="hours"> 1
+<ab n="minutes"> 1
+<ab n="page"> 1
+<ab> 46925
+<bot> 155
+<cl> 993
+<fr> 1
+<gk> 10
+<hom> 1363
+<lang> 102
+<lat> 3
+<lex> 56122
+<ls> 58
+<pe> 314
+<zoo> 15

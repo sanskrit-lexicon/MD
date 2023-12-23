@@ -35,4 +35,8 @@ git restore $dictlo.txt
 
 echo "check xmlvalidity"
 cd $devdir
-python /c/xampp/htdocs/cologne/xmlvalidate.py pywork/$dictlo.xml pywork/$dictlo.dtd
+cmd="python /c/xampp/htdocs/cologne/xmlvalidate.py pywork/$dictlo.xml pywork/$dictlo.dtd"
+pwd
+echo $cmd
+$cmd
+

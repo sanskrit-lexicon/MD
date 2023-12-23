@@ -1,0 +1,6 @@
+<H> 43
+<ab-LOCAL> 179
+<ab> 100344
+<hom> 920
+<lang-LOCAL> 9
+<lbinfo-LOCAL> 12342

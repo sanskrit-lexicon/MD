@@ -1,0 +1,324 @@
+; Case 1
+cdsl: <L>988<pc>009-3<k1>aDarozWa<k2>aDarozWa,°rOzWa
+abv1: <L>988<pc>009-3<k1>aDarozWa<k2>aDarozWa, °rOzWa
+; ------------------------------------
+; Case 2
+cdsl: <L>4411<pc>049-2<k1>uttarozWa<k2>uttarozWa,°rOzWa
+abv1: <L>4411<pc>049-2<k1>uttarozWa<k2>uttarozWa, °rOzWa
+; ------------------------------------
+; Case 3
+cdsl: <L>4910<pc>055-3<k1>urvarA<k2>urvarA
+abv1: <L>4910<pc>055-2<k1>urvarA<k2>urvarA
+; ------------------------------------
+; Case 4
+cdsl: <L>4911<pc>055-3<k1>urvarita<k2>urvarita
+abv1: <L>4911<pc>055-2<k1>urvarita<k2>urvarita
+; ------------------------------------
+; Case 5
+cdsl: <L>4912<pc>055-3<k1>urvaSI<k2>urvaSI
+abv1: <L>4912<pc>055-2<k1>urvaSI<k2>urvaSI
+; ------------------------------------
+; Case 6
+cdsl: <L>4913<pc>055-3<k1>urviyA<k2>urviyA
+abv1: <L>4913<pc>055-2<k1>urviyA<k2>urviyA
+; ------------------------------------
+; Case 7
+cdsl: <L>4914<pc>055-3<k1>urvI<k2>urvI
+abv1: <L>4914<pc>055-2<k1>urvI<k2>urvI
+; ------------------------------------
+; Case 8
+cdsl: <L>4915<pc>055-3<k1>urvItala<k2>urvItala
+abv1: <L>4915<pc>055-2<k1>urvItala<k2>urvItala
+; ------------------------------------
+; Case 9
+cdsl: <L>4916<pc>055-3<k1>ulUka<k2>ulUka
+abv1: <L>4916<pc>055-2<k1>ulUka<k2>ulUka
+; ------------------------------------
+; Case 10
+cdsl: <L>4917<pc>055-3<k1>ulUKala<k2>ulUKala
+abv1: <L>4917<pc>055-2<k1>ulUKala<k2>ulUKala
+; ------------------------------------
+; Case 11
+cdsl: <L>4918<pc>055-3<k1>ulUpa<k2>ulUpa
+abv1: <L>4918<pc>055-2<k1>ulUpa<k2>ulUpa
+; ------------------------------------
+; Case 12
+cdsl: <L>4919<pc>055-3<k1>ulkA<k2>ulkA
+abv1: <L>4919<pc>055-2<k1>ulkA<k2>ulkA
+; ------------------------------------
+; Case 13
+cdsl: <L>4920<pc>055-3<k1>ulba<k2>ulba
+abv1: <L>4920<pc>055-2<k1>ulba<k2>ulba
+; ------------------------------------
+; Case 14
+cdsl: <L>4921<pc>055-3<k1>ulbaRa<k2>ulbaRa
+abv1: <L>4921<pc>055-2<k1>ulbaRa<k2>ulbaRa
+; ------------------------------------
+; Case 15
+cdsl: <L>4922<pc>055-3<k1>ulmuka<k2>ulmuka
+abv1: <L>4922<pc>055-2<k1>ulmuka<k2>ulmuka
+; ------------------------------------
+; Case 16
+cdsl: <L>4923<pc>055-3<k1>ullaNGana<k2>ullaNGana
+abv1: <L>4923<pc>055-2<k1>ullaNGana<k2>ullaNGana
+; ------------------------------------
+; Case 17
+cdsl: <L>4924<pc>055-3<k1>ullalana<k2>ullalana
+abv1: <L>4924<pc>055-2<k1>ullalana<k2>ullalana
+; ------------------------------------
+; Case 18
+cdsl: <L>4925<pc>055-3<k1>ullasita<k2>ullasita
+abv1: <L>4925<pc>055-2<k1>ullasita<k2>ullasita
+; ------------------------------------
+; Case 19
+cdsl: <L>4926<pc>055-3<k1>ullAGa<k2>ullAGa
+abv1: <L>4926<pc>055-2<k1>ullAGa<k2>ullAGa
+; ------------------------------------
+; Case 20
+cdsl: <L>4927<pc>055-3<k1>ullAGaya<k2>ullAGaya
+abv1: <L>4927<pc>055-2<k1>ullAGaya<k2>ullAGaya
+; ------------------------------------
+; Case 21
+cdsl: <L>4928<pc>055-3<k1>ullApa<k2>ullApa
+abv1: <L>4928<pc>055-2<k1>ullApa<k2>ullApa
+; ------------------------------------
+; Case 22
+cdsl: <L>4929<pc>055-3<k1>ullAsa<k2>ullAsa
+abv1: <L>4929<pc>055-2<k1>ullAsa<k2>ullAsa
+; ------------------------------------
+; Case 23
+cdsl: <L>4930<pc>055-3<k1>ulliKita<k2>ulliKita
+abv1: <L>4930<pc>055-2<k1>ulliKita<k2>ulliKita
+; ------------------------------------
+; Case 24
+cdsl: <L>4931<pc>055-3<k1>ulliNgaya<k2>ulliNgaya
+abv1: <L>4931<pc>055-2<k1>ulliNgaya<k2>ulliNgaya
+; ------------------------------------
+; Case 25
+cdsl: <L>4932<pc>055-3<k1>ulluYcana<k2>ulluYcana
+abv1: <L>4932<pc>055-2<k1>ulluYcana<k2>ulluYcana
+; ------------------------------------
+; Case 26
+cdsl: <L>4933<pc>055-3<k1>ulleKa<k2>ulleKa
+abv1: <L>4933<pc>055-2<k1>ulleKa<k2>ulleKa
+; ------------------------------------
+; Case 27
+cdsl: <L>4934<pc>055-3<k1>ulva<k2>ulva
+abv1: <L>4934<pc>055-2<k1>ulva<k2>ulva
+; ------------------------------------
+; Case 28
+cdsl: <L>4935<pc>055-3<k1>uvAca<k2>uvAca
+abv1: <L>4935<pc>055-2<k1>uvAca<k2>uvAca
+; ------------------------------------
+; Case 29
+cdsl: <L>4936<pc>055-3<k1>uvAsa<k2>uvAsa
+abv1: <L>4936<pc>055-2<k1>uvAsa<k2>uvAsa
+; ------------------------------------
+; Case 30
+cdsl: <L>4937<pc>055-3<k1>uSat<k2>uSat
+abv1: <L>4937<pc>055-2<k1>uSat<k2>uSat
+; ------------------------------------
+; Case 31
+cdsl: <L>4938<pc>055-3<k1>uSanas<k2>uSanas
+abv1: <L>4938<pc>055-2<k1>uSanas<k2>uSanas
+; ------------------------------------
+; Case 32
+cdsl: <L>4939<pc>055-3<k1>uSanA<k2>uSanA
+abv1: <L>4939<pc>055-2<k1>uSanA<k2>uSanA
+; ------------------------------------
+; Case 33
+cdsl: <L>4940<pc>055-3<k1>uSabda<k2>uSabda
+abv1: <L>4940<pc>055-2<k1>uSabda<k2>uSabda
+; ------------------------------------
+; Case 34
+cdsl: <L>5991<pc>069-3<k1>kuq<k2>[kuq
+abv1: <L>5991<pc>069-3<k1>kuq<k2>kuq
+; ------------------------------------
+; Case 35
+cdsl: <L>6039<pc>070-1<k1>kuB<k2>[kuB
+abv1: <L>6039<pc>070-1<k1>kuB<k2>kuB
+; ------------------------------------
+; Case 36
+cdsl: <L>6115<pc>071-2<k1>kuS<k2>[kuS
+abv1: <L>6115<pc>071-2<k1>kuS<k2>kuS
+; ------------------------------------
+; Case 37
+cdsl: <L>6464<pc>076-3<k1>kru<k2>[kru
+abv1: <L>6464<pc>076-3<k1>kru<k2>kru
+; ------------------------------------
+; Case 38
+cdsl: <L>6664<pc>079-a2<k1>Kaq<k2>[Kaq
+abv1: <L>6664<pc>079-a2<k1>Kaq<k2>Kaq
+; ------------------------------------
+; Case 39
+cdsl: <L>6691<pc>080-1<k1>Kar<k2>[Kar
+abv1: <L>6691<pc>080-1<k1>Kar<k2>Kar
+; ------------------------------------
+; Case 40
+cdsl: <L>6703<pc>080-1<k1>Kal<k2>[Kal
+abv1: <L>6703<pc>080-1<k1>Kal<k2>Kal
+; ------------------------------------
+; Case 41
+cdsl: <L>6839<pc>082-1<k1>gaB<k2>[gaB
+abv1: <L>6839<pc>082-1<k1>gaB<k2>gaB
+; ------------------------------------
+; Case 42
+cdsl: <L>7262<pc>089-2<k1>Gu<k2>[Gu
+abv1: <L>7262<pc>089-2<k1>Gu<k2>Gu
+; ------------------------------------
+; Case 43
+cdsl: <L>7422<pc>092-1<k1>cap<k2>[cap
+abv1: <L>7422<pc>092-1<k1>cap<k2>cap
+; ------------------------------------
+; Case 44
+cdsl: <L>7762<pc>097-a3<k1>Cidraya<k2>Cidraya
+abv1: <L>7762<pc>097-3<k1>Cidraya<k2>Cidraya
+; ------------------------------------
+; Case 45
+cdsl: <L>7763<pc>097-a3<k1>CidrAnusArin<k2>CidrAnusArin
+abv1: <L>7763<pc>097-3<k1>CidrAnusArin<k2>CidrAnusArin
+; ------------------------------------
+; Case 46
+cdsl: <L>7764<pc>097-a3<k1>Cidrin<k2>Cidrin
+abv1: <L>7764<pc>097-3<k1>Cidrin<k2>Cidrin
+; ------------------------------------
+; Case 47
+cdsl: <L>7765<pc>097-a3<k1>Cinna<k2>Cinna
+abv1: <L>7765<pc>097-3<k1>Cinna<k2>Cinna
+; ------------------------------------
+; Case 48
+cdsl: <L>7766<pc>097-a3<k1>CucCu<k2>CucCu
+abv1: <L>7766<pc>097-3<k1>CucCu<k2>CucCu
+; ------------------------------------
+; Case 49
+cdsl: <L>7767<pc>097-a3<k1>CucCundara<k2>CucCundara
+abv1: <L>7767<pc>097-3<k1>CucCundara<k2>CucCundara
+; ------------------------------------
+; Case 50
+cdsl: <L>7768<pc>097-a3<k1>CucCUndara<k2>CucCUndara
+abv1: <L>7768<pc>097-3<k1>CucCUndara<k2>CucCUndara
+; ------------------------------------
+; Case 51
+cdsl: <L>7769<pc>097-a3<k1>Cuw<k2>Cuw
+abv1: <L>7769<pc>097-3<k1>Cuw<k2>Cuw
+; ------------------------------------
+; Case 52
+cdsl: <L>7770<pc>097-a3<k1>Cuq<k2>Cuq
+abv1: <L>7770<pc>097-3<k1>Cuq<k2>Cuq
+; ------------------------------------
+; Case 53
+cdsl: <L>7771<pc>097-a3<k1>Cuqqa<k2>Cuqqa
+abv1: <L>7771<pc>097-3<k1>Cuqqa<k2>Cuqqa
+; ------------------------------------
+; Case 54
+cdsl: <L>7772<pc>097-a3<k1>Cubuka<k2>Cubuka
+abv1: <L>7772<pc>097-3<k1>Cubuka<k2>Cubuka
+; ------------------------------------
+; Case 55
+cdsl: <L>7773<pc>097-a3<k1>Cur<k2>Cur
+abv1: <L>7773<pc>097-3<k1>Cur<k2>Cur
+; ------------------------------------
+; Case 56
+cdsl: <L>7774<pc>097-a3<k1>CurikA<k2>CurikA
+abv1: <L>7774<pc>097-3<k1>CurikA<k2>CurikA
+; ------------------------------------
+; Case 57
+cdsl: <L>7775<pc>097-a3<k1>CUrikA<k2>CUrikA
+abv1: <L>7775<pc>097-3<k1>CUrikA<k2>CUrikA
+; ------------------------------------
+; Case 58
+cdsl: <L>7776<pc>097-a3<k1>Cfd<k2>Cfd
+abv1: <L>7776<pc>097-3<k1>Cfd<k2>Cfd
+; ------------------------------------
+; Case 59
+cdsl: <L>7777<pc>097-a3<k1>Ceka<k2>Ceka
+abv1: <L>7777<pc>097-3<k1>Ceka<k2>Ceka
+; ------------------------------------
+; Case 60
+cdsl: <L>7778<pc>097-a3<k1>Cettavya<k2>Cettavya
+abv1: <L>7778<pc>097-3<k1>Cettavya<k2>Cettavya
+; ------------------------------------
+; Case 61
+cdsl: <L>7779<pc>097-a3<k1>Ceda<k2>Ceda
+abv1: <L>7779<pc>097-3<k1>Ceda<k2>Ceda
+; ------------------------------------
+; Case 62
+cdsl: <L>7780<pc>097-a3<k1>Cedaka<k2>Cedaka
+abv1: <L>7780<pc>097-3<k1>Cedaka<k2>Cedaka
+; ------------------------------------
+; Case 63
+cdsl: <L>7781<pc>097-a3<k1>Cedana<k2>Cedana
+abv1: <L>7781<pc>097-3<k1>Cedana<k2>Cedana
+; ------------------------------------
+; Case 64
+cdsl: <L>7782<pc>097-a3<k1>Celaka<k2>Celaka
+abv1: <L>7782<pc>097-3<k1>Celaka<k2>Celaka
+; ------------------------------------
+; Case 65
+cdsl: <L>7783<pc>097-a3<k1>Coja<k2>Coja
+abv1: <L>7783<pc>097-3<k1>Coja<k2>Coja
+; ------------------------------------
+; Case 66
+cdsl: <L>7784<pc>097-a3<k1>Cowana<k2>Cowana
+abv1: <L>7784<pc>097-3<k1>Cowana<k2>Cowana
+; ------------------------------------
+; Case 67
+cdsl: <L>7786<pc>097-a1<k1>jaMh<k2>[jaMh
+abv1: <L>7786<pc>097-a1<k1>jaMh<k2>jaMh
+; ------------------------------------
+; Case 68
+cdsl: <L>10994<pc>149-2<k1>paj<k2>[paj
+abv1: <L>10994<pc>149-2<k1>paj<k2>paj
+; ------------------------------------
+; Case 69
+cdsl: <L>10996<pc>149-2<k1>paYc<k2>[paYc
+abv1: <L>10996<pc>149-2<k1>paYc<k2>paYc
+; ------------------------------------
+; Case 70
+cdsl: <L>11593<pc>162-1<k1>piYj<k2>[piYj
+abv1: <L>11593<pc>162-1<k1>piYj<k2>piYj
+; ------------------------------------
+; Case 71
+cdsl: <L>13526<pc>213-1<k1>maYj<k2>[maYj
+abv1: <L>13526<pc>213-1<k1>maYj<k2>maYj
+; ------------------------------------
+; Case 72
+cdsl: <L>14208<pc>228-3<k1>miS<k2>[miS
+abv1: <L>14208<pc>228-3<k1>miS<k2>miS
+; ------------------------------------
+; Case 73
+cdsl: <L>14271<pc>231-1<k1>muj<k2>[muj
+abv1: <L>14271<pc>231-1<k1>muj<k2>muj
+; ------------------------------------
+; Case 74
+cdsl: <L>14335<pc>232-1<k1>mU<k2>[mU
+abv1: <L>14335<pc>232-1<k1>mU<k2>mU
+; ------------------------------------
+; Case 75
+cdsl: <L>14347<pc>232-2<k1>mUr<k2>[mUr
+abv1: <L>14347<pc>232-2<k1>mUr<k2>mUr
+; ------------------------------------
+; Case 76
+cdsl: <L>14762<pc>243-1<k1>yah<k2>[yah
+abv1: <L>14762<pc>243-1<k1>yah<k2>yah
+; ------------------------------------
+; Case 77
+cdsl: <L>15305<pc>256-2<k1>ruD<k2>[ruD<h>1
+abv1: <L>15305<pc>256-2<k1>ruD<k2>ruD<h>1
+; ------------------------------------
+; Case 78
+cdsl: <L>15324<pc>256-3<k1>ruh<k2>[ruh<h>1
+abv1: <L>15324<pc>256-3<k1>ruh<k2>ruh<h>1
+; ------------------------------------
+; Case 79
+cdsl: <L>15777<pc>267-1<k1>vaj<k2>[vaj
+abv1: <L>15777<pc>267-1<k1>vaj<k2>vaj
+; ------------------------------------
+; Case 80
+cdsl: <L>19891<pc>362-3<k1>stu<k2>[stu<h>2
+abv1: <L>19891<pc>362-3<k1>stu<k2>stu<h>2
+; ------------------------------------
+; Case 81
+cdsl: <L>19981<pc>366-2<k1>sTU<k2>[sTU
+abv1: <L>19981<pc>366-2<k1>sTU<k2>sTU
+; ------------------------------------
