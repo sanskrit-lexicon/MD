@@ -212,8 +212,65 @@ git push
 at Cologne, cd csl-apidev, then git pull.
 
 ----------------------------------------------------------
-There is still an error with simple search in csl-apidev.
-This will be resolved elsewhere.
+**********************************************************
+change to roman numerals in <cl>X</cl>
+Ref: https://github.com/sanskrit-lexicon/MD/issues/11#issuecomment-1868537765
+Start with temp_md_ab_v1_roman.txt from this link.
 
-  error at dal.php? simple search problem.
-  
+temp_md_ab_v1_romana.txt  one additional change.
+One change: in <L>19659<pc>358-2<k1>sfj
+<ab>A.</ab> -> <lex>Ā.</lex>
+
+Revise mdab_input.txt in csl-pywork
+Ⅰ.	<id>Ⅰ.</id> <disp>First conjugation.</disp>
+Ⅱ.	<id>Ⅱ.</id> <disp>Second conjugation.</disp>
+Ⅲ.	<id>Ⅲ.</id> <disp>Third conjugation.</disp>
+Ⅳ.	<id>Ⅳ.</id> <disp>Fourth conjugation.</disp>
+Ⅴ.	<id>Ⅴ.</id> <disp>Fifth conjugation</disp>
+Ⅵ.	<id>Ⅵ.</id> <disp>Sixth conjugation.</disp>
+Ⅶ.	<id>Ⅶ.</id> <disp>Seventh conjugation.</disp>
+Ⅷ.	<id>Ⅷ.</id> <disp>Eighth conjugation</disp>
+Ⅸ.	<id>Ⅸ.</id> <disp>Ninth conjugation.</disp>
+Ⅹ.	<id>Ⅹ.</id> <disp>Tenth conjugation</disp>
+
+Install this version.
+commit to repository csl-orig
+
+cp ../temp_md_ab_v1_romana.txt /c/xampp/htdocs/cologne/csl-orig/v02/md/md.txt
+
+-----------
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+sh generate_dict.sh md  ../../md
+sh xmlchk_xampp.sh md
+# ok
+
+-- csl-orig push to github
+cd /c/xampp/htdocs/cologne/csl-orig/
+git pull #
+git add .  # md.txt
+git commit -m "MD: Use Unicode Roman numerals for 'cl' tag
+Ref: https://github.com/sanskrit-lexicon/MD/issues/11#issuecomment-1868537765"
+
+git push
+#  1 file changed, 750 insertions(+), 750 deletions(-)
+
+cd /c/xampp/htdocs/sanskrit-lexicon/MD/mdissues/issue11/abv1
+
+----
+Cologne install of csl-orig for new md, and regen displays.
+----
+---------------------------------------------------------
+Regenerate list of extended ascii
+python ea.py ../temp_md_ab_v1_romana.txt ea_romana.txt
+# 107 extended ascii counts written to ea_romana.txt
+
+revise csl-orig/v02/md/md-meta2.txt
+ - Put in the new extended ascii, and some other minor editing.
+
+push this change to github.
+pull csl-orig at cologne, and regenerate md in csl-pywork.
+
+---------------------------------------------------------
+cd /c/xampp/htdocs/sanskrit-lexicon/MD/mdissues/issue11/abv1
+# push this repo to github
+---------------------------------------------------------
