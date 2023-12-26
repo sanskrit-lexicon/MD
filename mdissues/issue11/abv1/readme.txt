@@ -288,3 +288,82 @@ git add .
 git commit -m "MD:  revise mdab_input.txt.
 > Ref: https://github.com/sanskrit-lexicon/MD/issues/11"
 --------------------------------------------------------
+12-26-2023  
+AB rev to mdab_input.txt
+[mdab_input_AB.txt](https://github.com/sanskrit-lexicon/MD/files/13768806/mdab_input_AB.txt)
+mdab_input_AB.txt  corrects some mistakes by Jim, and fills in ??? items.
+diff /c/xampp/htdocs/cologne/csl-pywork/v02/distinctfiles/md/pywork/mdab/mdab_input.txt mdab_input_AB.txt > tempdiff.txt
+
+mdab_input_AB_rev.txt   Jim's revisions to mdab_input_AB.txt
+
+diff mdab_input_AB.txt mdab_input_AB_rev.txt
+21c21
+< abs.  <id>abs.</id> <disp>absolutive.</disp>
+---
+> abs.  <id>abs.</id> <disp>absolute, absolutive</disp>
+48c48
+< cj+-. <id>cj.</id> <disp>conjunction.</disp>
+---
+> cj.   <id>cj.</id> <disp>conjunction.</disp>
+166c166
+< nl.   <id>nl.</id> <disp>nominal.</disp>      ;;for nouns (nominals), similar to vbl. for verbals
+---
+> nl.   <id>nl.</id> <disp>nominal.</disp>
+255,256c255,256
+< sts.  <id>sts.</id> <disp>stems. ?</disp>
+< Sts.  <id>Sts.</id> <disp>Stems. ?</disp>
+---
+> sts.  <id>sts.</id> <disp>sometimes.</disp>
+> Sts.  <id>Sts.</id> <disp>Sometimes.</disp>
+
+## install mdab_input_AB_rev.txt
+cp mdab_input_AB_rev.txt  /c/xampp/htdocs/cologne/csl-pywork/v02/distinctfiles/md/pywork/mdab/mdab_input.txt
+
+--------------------------------------------------------
+12-26-2023  
+AB file uploaded Dec 26, 2023
+[md_AB_v1.zip](https://github.com/sanskrit-lexicon/MD/files/13768757/md_AB_v1.zip)
+rename to ../temp_md_ab_1rev2.txt
+
+compare to previous version: ../temp_md_ab_v1_romana.txt
+
+diff ../temp_md_ab_v1_romana.txt ../temp_md_ab_1rev2.txt
+Only 1 line different, under 'upa'
+   <ab>vb.</ab> -> <ab>vbl.</ab>  (print change)
+--------------------------------------------------------
+Push to Github.
+cp mdab_input_AB_rev.txt /c/xampp/htdocs/cologne/csl-pywork/v02/distinctfiles/md/pywork/mdab/mdab_input.txt
+
+cp ../temp_md_ab_1rev2.txt /c/xampp/htdocs/cologne/csl-orig/v02/md/md.txt
+
+# local install of displays
+cd /c/xampp/htdocs/cologne/csl-pywork/v02/
+sh generate_dict.sh md  ../../md
+sh xmlchk_xampp.sh md
+# ok
+
+# commit csl-pywork
+git add .
+git commit -m "md: revise mdab_input.txt.
+Ref: https://github.com/sanskrit-lexicon/MD/issues/11"
+
+git push
+
+# commit csl-orig
+cd /c/xampp/htdocs/cologne/csl-orig/v02/
+git pull
+git add .
+git commit -m "md:upa correction.
+Ref: https://github.com/sanskrit-lexicon/MD/issues/11"
+
+# revise csl-orig and csl-pywork at Cologne.
+cd "scans/csl-orig"
+git pull
+cd ../csl-pywork/v02
+git pull
+# Regenerate displays for md
+sh generate_dict.sh md  ../../MDScan/2020/
+
+----------------------------------------------
+push this repository to github
+cd /c/xampp/htdocs/sanskrit-lexicon/MD/mdissues/issue11/abv1
