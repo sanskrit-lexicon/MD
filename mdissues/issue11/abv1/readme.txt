@@ -274,3 +274,17 @@ pull csl-orig at cologne, and regenerate md in csl-pywork.
 cd /c/xampp/htdocs/sanskrit-lexicon/MD/mdissues/issue11/abv1
 # push this repo to github
 ---------------------------------------------------------
+csl-pywork  - 
+Revise /c/xampp/htdocs/cologne/csl-pywork/v02/distinctfiles/md/pywork/mdab/mdab_input
+
+# regenerate local
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+sh generate_dict.sh md  ../../md
+sh xmlchk_xampp.sh md
+# ok
+
+# push csl-pywork to github
+git add .
+git commit -m "MD:  revise mdab_input.txt.
+> Ref: https://github.com/sanskrit-lexicon/MD/issues/11"
+--------------------------------------------------------
