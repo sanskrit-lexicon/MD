@@ -1,0 +1,225 @@
+; Manual changes to temp_md_0b.txt
+---+
+<L>1146<pc>011-2<k1>aDvan
+{#aDvan#}¦ ádhvan, <lex>m.</lex> road; journey, wandering; 🞄distance; {@-ina,@} <lex>m.</lex> traveller.
+-Ina  (iast)
+---+
+L>1667<pc>016-1<k1>
+ {@-dhyāying,@} -> {@-dhyāyin,@}
+---+
+<L>2072<pc>021-3<k1>apratiraTa<k2>apratiraTa<e>S
+ {@-rāpa,@} -> {@-rūpa,@} 
+rUpa
+---+
+<L>2076<pc>021-3<k1>apratizWa
+{@-ṣaṭhita,@} -> {@-ṣṭhita,@}
+---+
+<L>2211<pc>023-1<k1>aBitAqana
+{@-tāps,@} -> {@-tāpa,@}
+{@-tāma,@} -> {@-tāmra,@}
+tāpa
+---+
+<L>2377<pc>025-1<k1>amantraka
+ {@-gñ@}a, vid, -> {@-jña,@} {@-vid,@}
+---+
+<L>3167<pc>034-3<k1>asaScat
+ {@-anti@} -> {@-antī@}
+ NOTE: {@-antī@} and {@-át-ī@} are not cpds, but feminine forms
+---+
+<L>3564<pc>039-1<k1>Adfta
+ {@-vati,@} -> {@-vatī,@}
+---+
+<L>3870<pc>042-2<k1>AlIQa<k2>AlIQa<e>S
+ {@-viśeṣa-śbhin,@} -> {@-viśeṣa-śobhin,@}
+---+
+<L>3921<pc>043-1<k1>AveSa
+ {@-īka,@} ->  {@-ika,@}
+---+
+<L>5901<pc>068-2<k1>kiMnara
+ {@-nāmaka (ikā),@} -> {@-nāmaka,@} {@(ikā),@}
+---+
+<L>5463<pc>062-2<k1>kapAwa
+ {@-ka (ikā@}) ->  {@-ka,@} ({@ikā@})
+---+
+<L>5458<pc>062-2<k1>kanyA
+ {@-āāra,@} -> {@-āgāra,@}
+---+
+<L>247<pc>003-1<k1>aguRajYa
+ {@-śila,@} -> {@-śīla,@}
+---+
+<L>272<pc>003-1<k1>agnigfha
+ {@-jihava,@} -> {@-jihvá,@}
+---+
+<L>279<pc>003-1<k1>agnimuKa
+ {@-saraṇa,@} -> {@-śaraṇa,@}
+---+
+<L>282<pc>003-2<k1>agnizwut
+ {@-ṣvāttā,@} -> {@-ṣvāttá,@}
+---+
+<L>296<pc>003-2<k1>agnyagAra
+ {@-adhéya,@} -> {@-ādhéya,@}
+---+
+<L>302<pc>003-2<k1>agranaKa
+ {@-vīva,@} -> {@-vīra,@}
+---+
+<L>324<pc>003-3<k1>agryatapas
+ {@-mahiṣi,@} -> {@-mahiṣī,@}
+---+
+<L>372<pc>004-1<k1>aNgabanDana
+ {@-bhu,@} -> {@-bhū,@}
+---+
+<L>298<pc>003-2<k1>agrakara
+ {@-gra,@} -> {@-ga,@}
+
+---+
+<L>1008<pc>010-1<k1>aDika
+ and mer; exceeded -> and more; exceeded
+---+
+<L>512<pc>005-2<k1>ajYAta
+ {@-kulaśila,@} -> {@-kulaśīla,@}
+---+
+<L>697<pc>007-1<k1>atibala
+ {@-baliyas,@} -> {@-balīyas,@}
+---+
+<L>728<pc>007-2<k1>atilubDa
+ {@-tā-,@} -> {@-tā,@}
+---+
+<L>744<pc>007-2<k1>ativega
+ {@-vepatha-mat,@} -> {@-vepathu-mat,@}
+---+
+<L>844<pc>008-2<k1>atyAditya
+ {@-āūḍha,@} -> {@-ārūḍha,@}
+ {@-āūḍhi,@} -> {@-ārūḍhi,@}
+---+
+<L>865<pc>008-3<k1>atraBavat
+ {@-i,@} -> {@-ī,@}
+---+
+<L>983<pc>009-3<k1>aDarAt
+{#aDarAt#}¦ adharā́t, <lex>ad.</lex> below; {@-āt,@}
+ {@-āt,@} -> {@-tāt,@}  (print-change cf. MW)
+---+
+<L>1106<pc>010-3<k1>aDogata
+ {@-nivita,@} -> {@-nivīta,@}
+---+
+<L>1229<pc>012-1<k1>ananta
+ {@-kirti,@} -> {@-kīrti,@}
+---+
+<L>1458<pc>014-1<k1>anAyasita
+ to plying -> not plying
+---+
+<L>1463<pc>014-1<k1>anAraBya<k2>anAraBya<e>S
+{#anAraBya#}¦ an-ā-rabhya, <ab>fp.</ab> not to be begun; 🞄impossible; {@-ārambh-a,@} <lex>m.</lex> non-commencement 🞄(of, <ab>g.</ab>); <lex>a.</lex> ruddha, <ab>pp.</ab> unlimited.
+OLD: missing entry
+<L>1463<pc>014-1<k1>anAraBya<k2>anAraBya<e>S
+{#anAraBya#}¦ an-ā-rabhya, <ab>fp.</ab> not to be begun; 🞄impossible; {@-ārambh-a,@} <lex>m.</lex> non-commencement 🞄(of, <ab>g.</ab>); <lex>a.</lex> unenterprising: {@-in@,} <lex>a.</lex> <ab>id.</ab>
+<LEND>
+NEW:
+<L>1463.1<pc>014-1<k1>anArudDa<k2>anArudDa<e>S
+{#anArudDa#}¦ an-ā-ruddha, <ab>pp.</ab> unlimited.
+<LEND>
+---+
+<L>1636<pc>015-2<k1>anukta
+ {@-kliva-vacana,@} -> {@-klīva-vacana,@}
+---+
+<L>1693<pc>016-2<k1>anupeta
+ {@-púrva,@} -> {@-pūrva,@}
+---+
+<L>1711<pc>017-1<k1>anuSaya
+ {@-śāanīya,@} -> {@-śāsanīya,@}
+ {@-śphin,@} -> {@-śobhin,@}
+---+
+<L>1874<pc>019-2<k1>apacita
+ {@-citti,@} -> {@-citi,@}
+---+
+<L>1883<pc>019-2<k1>apatita
+ {@-anyo'nya-tyāgin,@} -> {@-anyonya-tyāgin,@}  PRINT CHANGE
+---+
+<L>1887<pc>019-2<k1>apatya
+ {@-sneka-kṛpā-maya,@} -> {@-sneha-kṛpā-maya,@}
+---+
+<L>1896<pc>019-2<k1>apadravya
+ {@-dhavaṃsá,@} -> {@-dhvaṃsá,@}
+---+
+<L>1897<pc>019-2<k1>apanaya
+ {@-ninīṣum@} -> {@-ninīṣu@}
+---+
+<L>1918<pc>019-3<k1>aparAdDa
+ {@-rādhṛ,@} -> {@-rāddhṛ,@}
+---+
+<L>1919<pc>019-3<k1>aparADa
+ {@(i)-tā,@} -> ({@i@}){-tā,@}
+---+
+<L>1961<pc>020-2<k1>apasnAna
+ {@-spasśa,@} -> {@-spaśa,@}
+---+
+<L>1974<pc>020-3<k1>apANga
+ {@ā, i@} -> {@ā,@} {@ī@}
+---+
+<L>2200<pc>023-1<k1>aBicakzaRa
+ {@-cákaṣe,@} -> {@-cákṣe,@}
+---+
+<L>2226<pc>023-1<k1>aBiniveSa
+ promeness -> proneness
+---+
+<L>2228<pc>023-2<k1>aBinna
+ {@-vala,@} -> {@-vela,@}
+---+
+<L>2274<pc>023-3<k1>aBizikta
+{@-sheṇana,@} -> {@-ṣeṇana,@}
+---+
+<L>2282<pc>024-1<k1>aBisara
+ (n){@-ī,@} -> (ṇ){@-ī,@}
+---+
+<L>2326<pc>024-2<k1>aByarTana
+ {@-arthaṇa,@} -> {@-arhaṇa,@}
+---+
+<L>2381<pc>025-1<k1>amara
+{@-pati-kamāra,@} -> {@-pati-kumāra,@}
+{@-prāthita,@} -> {@-prārthita,@}
+---+
+<L>2472<pc>026-1<k1>amBoja
+ {@-jnī,@} -> {@-jinī,@}
+---+
+<L>2696<pc>028-3<k1>alaMkAra
+ {@-śila,@} -> {@-śīla,@}
+---+
+<L>2745<pc>029-1<k1>alpaparIvAra
+ {@-paṇya,@} -> {@-puṇya,@}
+---+
+<L>2769<pc>029-3<k1>avacaya
+ {@-ciciṣā,@} -> {@-cicīṣā,@}
+---+
+<L>2795<pc>029-3<k1>avaDya
+ {@-bhāna,@} -> {@-bhāva,@}
+---+
+<L>2909<pc>031-2<k1>aviparyaya
+ {@-ās@}a, -> {@-āsa,@}
+---+
+<L>3068<pc>033-1<k1>aSru
+ {@k@}ṛ -> {@kṛ@}
+ {@mu@}c, -> {@muc,@} 
+---+
+<L>3111<pc>033-3<k1>asaMyama
+ {@-vijñāna,@} .. unconscious  -> {@-vijñāta,@}
+ {@- lakṣita,@} -> {@-lakṣita,@}
+---+
+<L>3144<pc>034-2<k1>asamaYja
+ {#°sa#} -sa, -> {#°sa#} {@-sa,@}
+---+
+<L>3160<pc>034-2<k1>asaMBava
+ {@-bhāya,@} -> {@-bhāvya,@}
+---+
+<L>3167<pc>034-3<k1>asaScat
+ {@-anti@} -> {@-antī@}
+---+
+<L>3325<pc>036-2<k1>ahar
+ {@-pāti,@} -> {@-páti,@}
+---+
+<L>3456<pc>037-3<k1>AcArya
+ {@-adhina,@} -> {@-adhīna,@}
+---+
+<L>3079<pc>033-1<k1>aSvatTa
+ {@- pādāta-sārameya-maya,@} -> {@-pādāta-sārameya-maya,@}
+---
+<L>6245<pc>073-2<k1>kfmi
+ *{@-kośaja, *-kośa‿uttha,@} -> *{@-kośaja,@} *{@-kośa‿uttha,@}
