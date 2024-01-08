@@ -45,7 +45,7 @@ AB-revised:
 With this change, the generated parent entry in md.txt would look like:
 
 AB-revised-jim:
-<L>12291<pc>182-1<k1>praSaMsaka<k2>pra-SaMsa-ka
+<L>12291<pc>182-1<k1>praSaMsaka<k2>pra-SaMsa-ka<e>1
 {#praSaMsaka#}¦ pra-śaṃsa-ka, <lex>a.</lex> praising (<ab>—°</ab>);
 <LEND>
 
@@ -61,7 +61,7 @@ AB-revised-jim:
 md.txt programatically generated entry:
 Note: this form is similar to that of the 'parent' entry
 
-<L>12291.01<pc>182-1<k1>praSaMsana<k2>pra--SaMsana
+<L>12291.01<pc>182-1<k1>praSaMsana<k2>pra--SaMsana<e>2
 {#praSaMsana#}¦ pra--śaṃsana, <lex>n.</lex> laudation;
 <LEND>
 ---------------------------------------------------------
@@ -73,7 +73,7 @@ AB-revised-jim:
 <H3><k1>praśaṃsāvacana<k2>pra-śaṃsā́--vacana	TXT
 
 md.txt programatically generated entry:
-<L>12291.06<pc>182-1<k1>praSamsAvacana<k2>pra-SamsA--vacana
+<L>12291.06<pc>182-1<k1>praSamsAvacana<k2>pra-SamsA--vacana<e>3
 {#praSamsAvacana#}¦ pra-śaṃsā́--vacana, TXT
 <LEND>
 
@@ -86,7 +86,7 @@ AB-revised-jim:
 <H3><k1>praśaṃsāvali<k2>pra-śaṃsā́--āvali	TXT
 
 md.txt programatically generated entry:
-<L>12291.07<pc>182-1<k1>praSamsAvacana<k2>pra-SamsA--vacana
+<L>12291.07<pc>182-1<k1>praSamsAvacana<k2>pra-SamsA--vacana<e>3
 {#praSamsAvacana#}¦ pra-śaṃsā́--āvali, TXT
 <LEND>
 
