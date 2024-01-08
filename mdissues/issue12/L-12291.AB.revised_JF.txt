@@ -1,0 +1,92 @@
+
+For this comment,
+- let mdwork.txt represent file in AB format
+- let md.txt represent file in final cdsl format (what is in csl-orig)
+  A program (yet to be written) will transform mdwork.txt to md.txt
+  
+- let K1 and K2 (upper case) be the form in mdwork
+  Values K1V, K2V are in iast transcoding 
+- let k1 and k2 (lower case) be the form in (programatically generated) md.txt.
+  Values k1v, k2v are in slp1 transcoding
+- let 'TXT' refer to the text 
+
+The subhw form in AB.revised:
+<Hn><K1>K1V<K2>K2V>(TAB){@K2V,@}¦ TXT
+Note 0: AB form has done the generation of K1V from K2V!
+      AB should work with Jim so that a program can generate. (e.g. in AP90).
+      
+Note 1: K2V appears twice -- this is duplicative.
+ Jim suggested form
+<Hn><K1>K1V<K2>K2V>(TAB)TXT
+Note 2: K2V has form /PFX/-SFX
+ Good idea!  The absence of this in MW caused problems.
+  Ref: https://raw.githubusercontent.com/funderburkjim/MWderivations/master/step4/all.txt
+   Look for '@' 27887 instances.
+Note 2a:  The use of '/' in  '/PFX/-SFX' is ok for mdwork since PFX and SFX are in IAST.
+  But the forward slash in k2v is not appropriate, since '/' represents udAtta accent in slp1 transcoding.
+  One suggestion:  Use 'PFX--SFX'
+Note 3: MD's ‿ character to indicate required vowel-sandhi.
+  Suggest this to be dropped in K2V. So 'pra/-śaṃsā-‿upamā' -> 'pra/-śaṃsā-upamā'
+  Any X-‿Y in K2V should be X-Y
+  Similarly X‿Y in K2V should also be X-Y.
+  The identification in k2 of components of vowel-sandhi (as in MD) is useful,
+  since there is ambiguity in the pre-sandhi components otherwise.
+  By contrast, in MW, the vowel-sandhis are resolved in mw.txt, e.g.
+  'pra-SaMsAvali' or 'pra-SaMsopamA', which is not as useful.
+ 
+------------------------------------------------------
+Parent entry
+AB-revised:
+<L>12291<pc>182-1<k1>praSaMsaka<k2>praSaMsaka
+
+'k2v' should be changed, as in md_1b_subhw.txt or prep1a_k2_all.txt
+<L>12291<pc>182-1<k1>praSaMsaka<k2>pra-SaMsa-ka
+
+With this change, the generated parent entry in md.txt would look like:
+
+AB-revised-jim:
+<L>12291<pc>182-1<k1>praSaMsaka<k2>pra-SaMsa-ka
+{#praSaMsaka#}¦ pra-śaṃsa-ka, <lex>a.</lex> praising (<ab>—°</ab>);
+<LEND>
+
+------------------------------------------------------
+Example 1: subhw
+
+AB-revised:
+<H2><k1>praśaṃsana<k2>/pra/-śaṃsana	{@/pra/-śaṃsana,@}¦ <lex>n.</lex> laudation;
+
+AB-revised-jim:
+<H2><K1>praśaṃsana<K2>/pra--śaṃsana	<lex>n.</lex> laudation;
+
+md.txt programatically generated entry:
+Note: this form is similar to that of the 'parent' entry
+
+<L>12291.01<pc>182-1<k1>praSaMsana<k2>pra--SaMsana
+{#praSaMsana#}¦ pra--śaṃsana, <lex>n.</lex> laudation;
+<LEND>
+---------------------------------------------------------
+Example 2: subhw
+AB-revised:
+<H3><k1>praśaṃsāvacana<k2>/pra-śaṃsā́/-vacana	{@/pra-śaṃsā́/-vacana,@}¦ TXT
+
+AB-revised-jim:
+<H3><k1>praśaṃsāvacana<k2>pra-śaṃsā́--vacana	TXT
+
+md.txt programatically generated entry:
+<L>12291.06<pc>182-1<k1>praSamsAvacana<k2>pra-SamsA--vacana
+{#praSamsAvacana#}¦ pra-śaṃsā́--vacana, TXT
+<LEND>
+
+---------------------------------------------------------
+Example 3: subhw
+AB-revised:
+<H3><k1>praśaṃsāvali<k2>/pra-śaṃsā́/-āvali	{@/pra-śaṃsā́/-āvali,@}¦ TXT
+
+AB-revised-jim:
+<H3><k1>praśaṃsāvali<k2>pra-śaṃsā́--āvali	TXT
+
+md.txt programatically generated entry:
+<L>12291.07<pc>182-1<k1>praSamsAvacana<k2>pra-SamsA--vacana
+{#praSamsAvacana#}¦ pra-śaṃsā́--āvali, TXT
+<LEND>
+
