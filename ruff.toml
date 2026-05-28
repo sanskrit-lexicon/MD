@@ -4,6 +4,7 @@
 exclude = [
     "mdissues/",
     "verbs01/",
+    "deva_iast_comp/",
 ]
 
 target-version = "py311"
