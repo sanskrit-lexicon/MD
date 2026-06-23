@@ -7,7 +7,7 @@ Source scans (Cologne Digital Sanskrit Dictionaries):
 
 **Source language: English** — the base per-page `.md` files are the English edition (no separate `.en.md`); a Russian translation `.ru.md` accompanies every page.
 
-> **Status: in progress.** Pages 01–06 (Title, Dedication, and the four-page Preface, pp. v–viii) are complete. The remaining front-matter pages (07–10 — the abbreviations list and transliteration/grammar tables, scans `md_Page_012`–`015`) are **pending** and will be added in a follow-up pass.
+**Status: complete** — all 10 front-matter pages (Title, Dedication, the seven-page Preface, and the Alphabet + List of Abbreviations).
 
 ## File conventions
 
@@ -22,8 +22,8 @@ Source scans (Cologne Digital Sanskrit Dictionaries):
 
 | Edition | File |
 |---|---|
-| English (so far) | [mdpref_all.en.md](mdpref_all.en.md) |
-| Russian (so far) | [mdpref_all.ru.md](mdpref_all.ru.md) |
+| English (complete) | [mdpref_all.en.md](mdpref_all.en.md) |
+| Russian (complete) | [mdpref_all.ru.md](mdpref_all.ru.md) |
 
 ## Contents
 
@@ -35,7 +35,10 @@ Source scans (Cologne Digital Sanskrit Dictionaries):
 | 04 | Preface, 2 | 1 | [mdpref04.md](mdpref04.md) | [ru](mdpref04.ru.md) | ✓ |
 | 05 | Preface, 3 | 1 | [mdpref05.md](mdpref05.md) | [ru](mdpref05.ru.md) | ✓ |
 | 06 | Preface, 4 | 1 | [mdpref06.md](mdpref06.md) | [ru](mdpref06.ru.md) | ✓ |
-| 07–10 | Abbreviations & tables | 1 | — | — | pending |
+| 07 | Preface, 5 | 1 | [mdpref07.md](mdpref07.md) | [ru](mdpref07.ru.md) | ✓ |
+| 08 | Preface, 6 | 1 | [mdpref08.md](mdpref08.md) | [ru](mdpref08.ru.md) | ✓ |
+| 09 | Preface, 7 (signed) | 1 | [mdpref09.md](mdpref09.md) | [ru](mdpref09.ru.md) | ✓ |
+| 10 | Alphabet & List of Abbreviations | 1 | [mdpref10.md](mdpref10.md) | [ru](mdpref10.ru.md) | ✓ |
 
 ## Notes
 

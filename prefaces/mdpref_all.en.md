@@ -10,6 +10,10 @@ Per-page files: `mdprefNN.md`. Index: [README.md](README.md).
 - [Page 04 — Preface, 2 (vol. 1)](#page-04-preface-2-vol-1)
 - [Page 05 — Preface, 3 (vol. 1)](#page-05-preface-3-vol-1)
 - [Page 06 — Preface, 4 (vol. 1)](#page-06-preface-4-vol-1)
+- [Page 07 — Preface, 5 (vol. 1)](#page-07-preface-5-vol-1)
+- [Page 08 — Preface, 6 (vol. 1)](#page-08-preface-6-vol-1)
+- [Page 09 — Preface, 7 (vol. 1)](#page-09-preface-7-vol-1)
+- [Page 10 — Alphabet & List of Abbreviations (vol. 1)](#page-10-alphabet-list-of-abbreviations-vol-1)
 
 ---
 
@@ -139,3 +143,235 @@ Under this head I ought to add a few remarks in order to remove some common stum
 To the special use made of italic type, I attach considerable practical value. Its occurrence in definitions always implies amplification or elucidation, whereas the ordinary Roman type represents as far as is possible the exact literal equivalent of the Sanskrit word. Thus saṃvaraṇa-srag is defined as 'wreath *given by a girl to the man* of *her* choice' (compare also samâna-upamâ). By this means needless repetitions and waste of space are avoided, while much is gained in clearness of definition at one and the same time.
 
 **Punctuation.** The colon immediately before a transliterated word or suffix, indicates that the latter must be attached to the end of the preceding Sanskrit word. Thus :-ka after the heading word loshṭá is to be read as loshṭa-ka. This is in no way affected by the intervening special uses of cases or idioms often added at the end of an article. Thus :-kesarin under vi-krama must of course be understood as vikrama-kesarin, in spite of the inflected forms of vikrama which immediately precede -kesarin. The special significance of the semi-colon is, in addition to marking off distinctly different meanings, to separate within a paragraph the latter halves of the compounds which it contains. Thus ;-kakshus under lola-karṇa, is to be read as lola-kakshus, and the following
+
+
+---
+
+## Page 07 — Preface, 5 (vol. 1)
+
+<sub>Source (scan): [md_Page_012_Image_0001.png](https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dictionaries/prefaces/mdpref/mdpref07.html)</sub>
+
+;-tâ as lola-tâ. Had a colon preceded the latter, it would have meant lola-kakshus-tâ. The semi-colon will sometimes be found instead of the colon when it is perfectly obvious that nothing else could be done with the following word but attach it to the end of the preceding one. This is for instance the case with ;-kâra after loha. The comma is employed, as has already been indicated, to separate more or less synonymous meanings, while the semi-colon marks off distinct differences of sense. The other specific use of the comma is in paragraphs with compounds to show that the following word is to be applied exactly in the same way as a preceding one introduced by a colon. Thus sat-kârya followed by :-vâda and subsequently by ,-vâdin, must be read as satkârya-vâda and satkârya-vâdin.
+
+**Transliteration.** The system is that which has been adopted in the 'Sacred Books of the East,' and already followed by me in my edition of Professor Max Müller's Sanskrit Grammar. Had I been guided exclusively by my own judgment I should have preferred c and j to represent the hard and the soft palatal. I should have retained the italic t and d for the linguals, but made the lingual ष sh also an italic s, representing the palatal sibilant श by ç. The connexion of these two sibilants with the mutes of their classes would thus have been clearly indicated. The employment of a double letter sh, the latter half of which otherwise represents an aspiration, to express the simple sound of a spirant, is not strictly scientific, though convenient for the Anglo-Saxon. It is, however, not a good thing to multiply systems.
+
+I must here refer to some practical applications of transliteration which I have made.
+
+When one or more letters in thick type are added after a Sanskrit word either in parentheses or following a semi-colon, colon, or comma, the meaning is that that letter or those letters are to be substituted for precisely the same number at the end of the word in question. Thus 'paurusha, a. (î),' 'yamaka, a. (ikâ)' signify that the feminine of the former adjective is paurushî and that of the latter yamikâ. Similarly 'samâna-mûrdhan, a. (nî)' indicates that this word has the form samâna-mûrdhnî in the feminine. The letters :i-ka, referring to a preceding paurâṇa, must be read as paurâṇi-ka.
+
+**Accent.** Wherever the accent is known from Vedic texts it has been given in the transliteration, the Udâtta (acute) accent being marked in the usual way (e.g. vádhar) and the svarita (circumflex) accent being indicated by a curve above the vowel (e.g. svãr).
+
+When an accented word is exclusively Vedic this is indicated by a V., while if nothing is stated, it may be assumed to be post-Vedic also, e.g. vîṇâ. As the meanings of an accented word may be partly Vedic, partly post-Vedic, and partly common to both periods, this is broadly indicated by the symbols V. (=Vedic in general), C. (=post-Vedic in general), and V.C. (=both Vedic and post-Vedic), as for example in the article vratá. Unaccented words may be assumed to be post-Vedic, since in the rare cases when they happen to belong to the Vedic period, this is noted. Sometimes I distinguish subordinate periods, as Br.=Brâhmaṇa, S.=Sûtra, E.=Epic, P.=Purâṇa. It would, however, have been beyond the scope of the present work to go into details of this kind. That would belong rather to the sphere of an exclusively etymological dictionary. I may mention in passing that ἅπαξ λεγόμενα are indicated, a single occurrence in the Rig-veda, for instance, being marked as RV.¹, just as words and meanings quotable only from native grammarians and lexicographers are made recognisable by an asterisk. This is an important safeguard; for the signification of the former class of words is often very doubtful, while the genuineness of the latter is uncertain. I have frequently seen non-quotable words, without any indication that they are such, used by comparative philologists, as well as ἅπαξ λεγόμενα made the basis of far-reaching conclusions. Thus I remember a few years ago hearing an Oriental scholar, who was not a Sanskritist, using as an argument for Babylonian influence the word manã, to which the older Petersburg dictionary in one passage attributed the meaning of 'a certain weight of gold,' and which was therefore supposed to be identical with the Greek μνâ. This meaning no longer appears in the smaller edition of that work.
+
+Compounds arranged under an accented heading word, must be assumed to be unaccented and therefore post-Vedic unless any indication to the contrary is given. Thus -ketu under vigayá is to be read as vigaya-ketu. It follows as a matter of course that, if the second half of a compound has an accent, that is the accent of the whole word. Thus -mâya occurring under lohá represents loha-mâya.
+
+**Etymology.** My original plan was to make the present work a comparative as well as a practical Sanskrit dictionary. After a good deal of reflection I abandoned this project on the ground that while
+
+
+---
+
+## Page 08 — Preface, 6 (vol. 1)
+
+<sub>Source (scan): [md_Page_013_Image_0001.png](https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dictionaries/prefaces/mdpref/mdpref08.html)</sub>
+
+greatly swelling the bulk of the volume, the etymological material would not in this combination admit of being grouped and classified from various points of view as it should be in a thoroughly valuable and scientific etymological dictionary. The treatment of this material in a separate volume which I had contemplated, may be rendered superfluous by a work that is, I understand, in preparation at Strassburg. My taste for etymological studies I trace in great part to Professor Fick's lectures on Comparative Greek Grammar, which I attended when a student at Göttingen. Though not comparative, the dictionary is nevertheless historical and etymological in its character. It is historical inasmuch as the meanings are not given in an arbitrary order, as in the Indian dictionaries, but are arranged as far as possible in accordance with their chronological development, while the literary period to which both words and their senses belong, is plentifully indicated. It is etymological from the Sanskrit point of view inasmuch as all words, except the small number—far smaller than in any other Aryan language—which defy analysis, have been broken up into their component parts in the transliteration either by means of hyphens, as in yag-ña, or of hooks where vowel coalescences occur, as in mriga-îkshaṇa for mrigekshaṇa. Where these means are insufficient, the derivation has been concisely added in brackets, as under √mûrkh, yaksha, rûdhi. I have inserted in brackets a not inconsiderable number of roots, the former existence of which, though not occurring as verbs, is either deducible from Sanskrit derivatives alone or is proved by the evidence of comparative philology also (e.g. √mañg, √1. rudh). The structure of Sanskrit words being so much clearer than that in any other Aryan tongue, I have thus availed myself of the opportunity of supplying students of the language with an easy instrument of linguistic training.
+
+**Sources.** The present work derives its material mainly from the newer Petersburg dictionary. It could not be of much value were this not the case. I have of course also carefully worked through Böhtlingk and Roth's older dictionary, on account of the vast array of quotations and references which it contains. The consultation of these was necessary in the laborious process of verifying meanings.
+
+The rapid strides made by Sanskrit studies during the last thirty years, are chiefly owing to the lexicographical labours of those two great scholars. Sanskrit lexicography being a product of the present century, it was for the subject indeed a fortunate combination of circumstances, that the task was undertaken in an age when strictly scientific methods had begun to be applied to scholarship, and that the work fell into the hands of two scholars of such eminent ability. The result has been that Sanskrit lexicography, not having had gradually to clear away the unscientific accumulations of previous centuries, is already in a more advanced state than that of the classical languages. This is indeed indicated by the fact that the large Petersburg dictionary contains more than double the amount of matter supplied by the last edition of Liddell and Scott's Greek Lexicon.
+
+I have also used throughout Grassmann's Lexicon to the Rig-veda, as well as a copy of Benfey's dictionary annotated by the author himself. To the latter half of Apte's dictionary I owe some quotable compounds not to be found in the Petersburg dictionaries. Down to about the end of the vowels I am indebted to Cappeller's *Wörterbuch* for some Sanskrit equivalents of Prakrit words occurring in Sanskrit plays. I had reached this point when I was informed by the author that he intended translating his lexicon when complete into English. I accordingly at once ceased referring to it, and have not looked at it since. From the same work I have borrowed the very convenient abbreviations –° and °–.
+
+I have further consulted Whitney's Sanskrit Roots, the glossaries contained in the Readers of Lanman, Hillebrandt, and Windisch, as well as in Johnson's Hitopadesa, Kellner's and Monier-Williams's Nala, Stenzler's and Johnson's Meghadûta, and Burkhard's Sakuntalâ, besides the Index to Pischel and Geldner's *Vedische Studien*. I have also made use of Prof. Aufrecht's *Catalogus Catalogorum*, various articles in the Journal of the German Oriental Society and Kuhn's *Zeitschrift*, as well as one by Prof. E. Leumann in the *Festgruss* (to Böhtlingk, on his jubilee), and Prof. Bühler's lexicographical notes in the Vienna Oriental Journal. In addition to what it derives from these sources of information, my book embodies all the matter with which it is concerned from the numerous appendices of the smaller Petersburg dictionary, besides words, compounds, and meanings collected by myself from post-Vedic works, such as the Pañkatantra.
+
+For etymological purposes I have consulted the large Petersburg dictionary, Grassmann's *Wörterbuch*, Lanman's Glossary, Brugmann's *Grundriss*, and Fick's Comparative Dictionary of the Indo-European Languages.
+
+
+---
+
+## Page 09 — Preface, 7 (vol. 1)
+
+<sub>Source (scan): [md_Page_014_Image_0001.png](https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dictionaries/prefaces/mdpref/mdpref09.html)</sub>
+
+Having utilised all these sources of information, I venture to think that this work may be regarded as registering the advance of Sanskrit lexicography up to the present time.
+
+Sir M. Monier-Williams's Sanskrit-English lexicon has not been consulted, partly because it is based on the older Petersburg dictionary, and having been published twenty years ago contains no new material, and partly because I wished to avoid being influenced by the system of a work of which a new edition is in preparation.
+
+I take this opportunity of expressing my sincere gratitude to Prof. E. B. Cowell for the kind way in which he assisted me during the course of the work in solving difficulties I submitted to him in the departments of grammar, philosophy, and rhetoric. It is no exaggeration to say that in combined knowledge of these subjects he surpasses all other Sanskritists. The generous manner in which he sacrifices his leisure in the interests of those who wish to avail themselves of his great learning, is well known to his pupils, but not so well known to others as it ought to be.
+
+In conclusion I must not omit to express my belief that the fact of this book having been printed by the University Press at Oxford, under the eye of its Oriental Reader, Mr. J. C. Pembrey, whose skill could not be surpassed, is in itself a sufficient guarantee of accuracy.
+
+ARTHUR A. MACDONELL.
+
+7 Fyfield Road, Oxford,
+*September, 1892.*
+
+
+---
+
+## Page 10 — Alphabet & List of Abbreviations (vol. 1)
+
+<sub>Source (scan): [md_Page_015_Image_0001.png](https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dictionaries/prefaces/mdpref/mdpref10.html)</sub>
+
+अ a, आ â, इ i, ई î, उ u, ऊ û, ऋ *ri*, ॠ *rî*, ऌ *li*; ए e, ऐ ai, ओ o, औ au; क k, ख kh, ग g, घ gh, ङ ṅ; च *k*, छ *kh*, ज *g*, झ *gh*, ञ ñ; ट *t*, ठ *th*, ड *ḍ* (V. also ळ *l*), ढ *ḍh* (V. also ळ्ह *lh*), ण ṇ; त t, थ th, द d, ध dh, न n; प p, फ ph, ब b, भ bh, म m; य y, र r, ल l, व v; श *ç*, ष sh, स s, ह h.
+
+*(Transliteration as printed by Macdonell: the palatal and lingual series are set in italics — च छ ज झ as* k kh g gh*, ट ठ ड ढ as* t th ḍ ḍh*; श as* ç*.)*
+
+## List of Abbreviations
+
+| Abbr. | Meaning |
+|---|---|
+| abs. | absolute. |
+| abst. | abstract. |
+| ac. | accusative. |
+| act. | active. |
+| ad. | adverb, -ial, -ially. |
+| aor. | aorist. |
+| app. | apposition. |
+| ass. | asseverative. |
+| athg. | anything. |
+| AV. | Atharva-veda. |
+| B. | Buddhistic term. |
+| bg., beg. | beginning. |
+| Br. | Brâhmaṇa. |
+| C. | Classical (post-Vedic) Sanskrit. |
+| cj. | conjunction. |
+| col., coll. | collective, -ly. |
+| comm. | commentator. |
+| conj. | conjecture. |
+| cor. | correlative. |
+| cp. | compare. |
+| cpd. | compound. |
+| cpv. | comparative. |
+| crt. | certain. |
+| cs. | causal. |
+| d. | dative. |
+| dbl. | double. |
+| den. | denominative. |
+| der. | derivative. |
+| des. | desiderative. |
+| dim. | diminutive. |
+| dr. | dramatic term. |
+| du. | dual. |
+| E. | Epic. |
+| e.g. | for example. |
+| emp. | emphatic. |
+| enc., encl. | enclitic. |
+| Eng. | English. |
+| ep. | epithet. |
+| eq. | equivalent. |
+| esp. | especially. |
+| f. | feminine. |
+| ff. | and the following. |
+| fig. | figurative, -ly. |
+| fp. | future participle passive. |
+| fr. | from. |
+| ft. | future. |
+| g. | genitive. |
+| gd. | gerund (indeclinable participle). |
+| Gk. | Greek. |
+| gnly. | generally. |
+| gr. | grammatical term. |
+| hvg. | having. |
+| id. | the same. |
+| i.e. | that is. |
+| ij. | interjection. |
+| imps. | impersonal. |
+| impv. | imperative. |
+| in. | instrumental. |
+| incor., incorr. | incorrect. |
+| ind. | indicative. |
+| indc., indec. | indeclinable. |
+| indf. | indefinite. |
+| inf. | infinitive. |
+| int. | intransitive. |
+| intr. | interrogative. |
+| intv. | intensive (frequentative). |
+| ir. | irregular. |
+| K. | king. |
+| Lat. | Latin. |
+| lc. | locative. |
+| leg. | legal term. |
+| lit. | literally. |
+| m. | masculine. |
+| met. | metronymic. |
+| metr. | metrical (due to exigencies of metre). |
+| mg. | meaning. |
+| mtn. | mountain. |
+| N. | name; when alone = name of a man or of a woman. |
+| nr., num. | numeral. |
+| obj. | object. |
+| onom. | onomatopœic. |
+| opp. | opposite. |
+| opt. | optative. |
+| or., orig. | originally. |
+| ord. | ordinary. |
+| P. | Parasmaipada. |
+| *P.* | Purâṇa. |
+| pat. | patronymic. |
+| pcl. | particle. |
+| perh. | perhaps. |
+| pf. | perfect. |
+| ph., phil. | philosophical term. |
+| pl. | plural. |
+| pn., prn. | pronoun. |
+| pos., poss. | possessive. |
+| pot. | potential. |
+| pp. | perfect passive participle. |
+| Pr. | Prâkrit (Sanskrit equivalent of Prâkrit word), Prâkritic. |
+| pr. | present. |
+| pred. | predicate, predicative, -ly. |
+| prn. | pronoun, pronominal. |
+| prob. | probably. |
+| prop. | properly. |
+| prp. | preposition. |
+| prs. | person. |
+| ps. | passive. |
+| pt. | participle. |
+| px. | prefix. |
+| q.v. | which see. |
+| R. | river. |
+| red. | reduplicated, reduplication. |
+| rel., rl. | relative. |
+| rep., rp. | repeated. |
+| rf. | reflexive. |
+| S. | Sûtra. |
+| s., sg. | singular. |
+| SB. | Satapatha-Brâhmaṇa. |
+| sb. | substantive. |
+| sc. | scilicet, that is to say, supply. |
+| sp. | specifically. |
+| spv. | superlative. |
+| st. | stem. |
+| sthg. | something. |
+| str. | strong. |
+| subj. | subjunctive. |
+| SV. | Sâma-veda. |
+| s.v. | sub voce. |
+| sx. | suffix. |
+| T. | title. |
+| t. | term. |
+| TBr. | Taittirîya-Brâhmaṇa. |
+| tr. | transitive. |
+| TS. | Taittirîya-Samhitâ. |
+| U. | Upanishad. |
+| V. | Veda, Vedic. |
+| v. | vide, see. |
+| vb. | verb. |
+| vbl. | verbal. |
+| vc. | vocative. |
+| v.r. | various reading. |
+| VS. | Vâgasaneyi-Samhitâ. |
+| w. | with. |
+| wk. | weak. |
+| YV. | Yagur-veda. |
+| = | equals, is the equivalent of. |
+| –° | at the end of a compound. |
+| °– | at the beginning of a compound (the degree representing the word in question). |
+| + | with; also. |
+| ± | with or without. |
+| & | and. |
+| &c., etc. | et cetera, and so forth. |
+| √ | root. |
+
+> **N.B.** The articles *prakîrtana* to *prakyuti* having by an oversight been omitted in their proper place, will be found among the Addenda.

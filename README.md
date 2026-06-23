@@ -11,7 +11,7 @@ Faithful OCR + Russian translation of the dictionary's **front matter** (title, 
 - Cologne source: <https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dictionaries/prefaces/mdpref.html>
 - Consolidated editions: [prefaces/mdpref_all.en.md](prefaces/mdpref_all.en.md) · [prefaces/mdpref_all.ru.md](prefaces/mdpref_all.ru.md)
 - In-folder index: [prefaces/README.md](prefaces/README.md)
-- **Status: in progress** — pages 01–06 (Title, Dedication, Preface pp. v–viii) done; pages 07–10 (abbreviations list + tables) pending a follow-up pass.
+- **Status: complete** — all 10 pages (Title, Dedication, the seven-page Preface, and the Alphabet + List of Abbreviations).
 
 <details>
 <summary><strong>OCR run notes (2026-06-23)</strong></summary>
