@@ -4,6 +4,22 @@ Research and correction work on the **Macdonell Sanskrit-English Dictionary**, p
 
 The upstream dictionary lives at [csl-orig/v02/md/md.txt](https://github.com/sanskrit-lexicon/csl-orig). This repo contains scripts and issue-by-issue workflows to clean and enhance it.
 
+## Front matter (`prefaces/`)
+
+Faithful OCR + Russian translation of the dictionary's **front matter** (title, dedication to F. Max Müller, and the four-page Preface) from the Cologne scans. Source language is **English**, so the base per-page `.md` is the English edition and each page also has a `.ru.md`.
+
+- Cologne source: <https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dictionaries/prefaces/mdpref.html>
+- Consolidated editions: [prefaces/mdpref_all.en.md](prefaces/mdpref_all.en.md) · [prefaces/mdpref_all.ru.md](prefaces/mdpref_all.ru.md)
+- In-folder index: [prefaces/README.md](prefaces/README.md)
+- **Status: in progress** — pages 01–06 (Title, Dedication, Preface pp. v–viii) done; pages 07–10 (abbreviations list + tables) pending a follow-up pass.
+
+<details>
+<summary><strong>OCR run notes (2026-06-23)</strong></summary>
+
+Produced by the `/cologne-preface-ocr` skill (vision OCR + translation), English source + Russian. These pages were done on the **main thread** because background OCR subagents reproducibly hit a (spurious) content-filter API error on this dictionary; the main thread is unaffected. Each preface page is dense single-column print (high-res scans, ~7 native-resolution band reads per page), which is why the remaining four pages are deferred.
+
+</details>
+
 ## Contents
 
 | Directory | Description |
