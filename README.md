@@ -1,5 +1,7 @@
 # MD — Macdonell's Sanskrit-English Dictionary
 
+_Created: 17-04-2020 · Last updated: 05-07-2026_
+
 Research and correction work on the **Macdonell Sanskrit-English Dictionary**, part of the [sanskrit-lexicon](https://github.com/sanskrit-lexicon) project.
 
 The upstream dictionary lives at [csl-orig/v02/md/md.txt](https://github.com/sanskrit-lexicon/csl-orig). This repo contains scripts and issue-by-issue workflows to clean and enhance it.
@@ -19,6 +21,28 @@ Faithful OCR + Russian translation of the dictionary's **front matter** (title, 
 Produced by the `/cologne-preface-ocr` skill (vision OCR + translation), English source + Russian. These pages were done on the **main thread** because background OCR subagents reproducibly hit a (spurious) content-filter API error on this dictionary; the main thread is unaffected. Each preface page is dense single-column print (high-res scans, ~7 native-resolution band reads per page), which is why the remaining four pages are deferred.
 
 </details>
+
+## Usage example
+
+Applying a correction to the real first entry of [`md.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/md/md.txt) with `updateByLine.py` (root [`CLAUDE.md`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/CLAUDE.md) "Shared correction pattern"). The real current line 8 (entry 1, headword `a`) reads:
+
+```
+{#a#}¦ <hom>1.</hom> a, <ab>pn.</ab> {%root used in the inflexion of%} idam 🞄{%and in some particles%}: a-tra, a-tha.
+```
+
+A change file pairs the old/new lines by line number (illustrating a hypothetical gloss tweak, "particles" → "particles,"):
+
+```
+; change_md_example.txt
+8 old {#a#}¦ <hom>1.</hom> a, <ab>pn.</ab> {%root used in the inflexion of%} idam 🞄{%and in some particles%}: a-tra, a-tha.
+8 new {#a#}¦ <hom>1.</hom> a, <ab>pn.</ab> {%root used in the inflexion of%} idam 🞄{%and in some particles,%}: a-tra, a-tha.
+```
+
+```sh
+python updateByLine.py md.txt change_md_example.txt md_corrected.txt
+```
+
+Illustrative only (no such correction is queued) — the "before" line is the real, current `csl-orig/v02/md/md.txt` line 8.
 
 ## Contents
 
@@ -101,3 +125,5 @@ pie title Issue type distribution (13 total)
 ## Contributors
 
 [sanskrit-lexicon](https://github.com/sanskrit-lexicon) project. See git log for individual contributions.
+
+_Dr. Mārcis Gasūns_
