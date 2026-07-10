@@ -1,56 +1,48 @@
 # MD — Macdonell's Sanskrit-English Dictionary
 
-_Created: 17-04-2020 · Last updated: 05-07-2026_
+_Created: 17-04-2020 · Last updated: 11-07-2026_
 
-Research and correction work on the **Macdonell Sanskrit-English Dictionary**, part of the [sanskrit-lexicon](https://github.com/sanskrit-lexicon) project.
+Research and correction work on the **Macdonell Sanskrit-English Dictionary** (Arthur A. Macdonell, *A Sanskrit-English Dictionary, Being a Practical Handbook*, London, 1893), part of the [sanskrit-lexicon](https://github.com/sanskrit-lexicon) project.
 
-The upstream dictionary lives at [csl-orig/v02/md/md.txt](https://github.com/sanskrit-lexicon/csl-orig). This repo contains scripts and issue-by-issue workflows to clean and enhance it.
+The upstream dictionary lives at [csl-orig/v02/md/md.txt](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/md/md.txt). This repo contains scripts and issue-by-issue workflows to clean and enhance it.
+
+- **Landing page:** [sanskrit-lexicon.github.io/MD](https://sanskrit-lexicon.github.io/MD/) (GitHub Pages, source [index.html](https://github.com/sanskrit-lexicon/MD/blob/main/index.html))
 
 ## Front matter (`prefaces/`)
 
-Faithful OCR + Russian translation of the dictionary's **front matter** (title, dedication to F. Max Müller, and the four-page Preface) from the Cologne scans. Source language is **English**, so the base per-page `.md` is the English edition and each page also has a `.ru.md`.
+Faithful OCR + Russian translation of the dictionary's **front matter** (title, dedication to F. Max Müller, and the seven-page Preface plus the Alphabet + List of Abbreviations) from the Cologne scans. Source language is **English**, so the base per-page `.md` is the English edition and each page also has a `.ru.md`.
 
-- Cologne source: <https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dictionaries/prefaces/mdpref.html>
-- Consolidated editions: [prefaces/mdpref_all.en.md](prefaces/mdpref_all.en.md) · [prefaces/mdpref_all.ru.md](prefaces/mdpref_all.ru.md)
-- In-folder index: [prefaces/README.md](prefaces/README.md)
+- Cologne source: [mdpref.html](https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dictionaries/prefaces/mdpref.html)
+- Consolidated editions: [prefaces/mdpref_all.en.md](https://github.com/sanskrit-lexicon/MD/blob/main/prefaces/mdpref_all.en.md) · [prefaces/mdpref_all.ru.md](https://github.com/sanskrit-lexicon/MD/blob/main/prefaces/mdpref_all.ru.md)
+- In-folder index: [prefaces/README.md](https://github.com/sanskrit-lexicon/MD/blob/main/prefaces/README.md)
 - **Status: complete** — all 10 pages (Title, Dedication, the seven-page Preface, and the Alphabet + List of Abbreviations).
 
-<details>
-<summary><strong>OCR run notes (2026-06-23)</strong></summary>
+> **OCR run notes (2026-06-23).** Produced by the `/cologne-preface-ocr` skill (vision OCR + translation), English source + Russian. These pages were done on the **main thread** because background OCR subagents reproducibly hit a (spurious) content-filter API error on this dictionary; the main thread is unaffected. Each preface page is dense single-column print (high-res scans, ~7 native-resolution band reads per page).
 
-Produced by the `/cologne-preface-ocr` skill (vision OCR + translation), English source + Russian. These pages were done on the **main thread** because background OCR subagents reproducibly hit a (spurious) content-filter API error on this dictionary; the main thread is unaffected. Each preface page is dense single-column print (high-res scans, ~7 native-resolution band reads per page), which is why the remaining four pages are deferred.
+## Applying corrections
 
-</details>
+Corrections to the source dictionary are never edited into `md.txt` directly — they are expressed as change files and applied by scripts. The full 8-stage csl-orig workflow (snapshot → `updateByLine.py` → promote → generate → XML-validate → audit → commit → refresh), the change-file format, and every gotcha are documented once, canonically, in [csl-corrections/docs/correction-workflow.md](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/docs/correction-workflow.md).
 
-## Usage example
-
-Applying a correction to the real first entry of [`md.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/md/md.txt) with `updateByLine.py` (root [`CLAUDE.md`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/CLAUDE.md) "Shared correction pattern"). The real current line 8 (entry 1, headword `a`) reads:
+The real current line 8 of [`md.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/md/md.txt) (entry 1, headword `a`) reads:
 
 ```
 {#a#}¦ <hom>1.</hom> a, <ab>pn.</ab> {%root used in the inflexion of%} idam 🞄{%and in some particles%}: a-tra, a-tha.
 ```
 
-A change file pairs the old/new lines by line number (illustrating a hypothetical gloss tweak, "particles" → "particles,"):
-
-```
-; change_md_example.txt
-8 old {#a#}¦ <hom>1.</hom> a, <ab>pn.</ab> {%root used in the inflexion of%} idam 🞄{%and in some particles%}: a-tra, a-tha.
-8 new {#a#}¦ <hom>1.</hom> a, <ab>pn.</ab> {%root used in the inflexion of%} idam 🞄{%and in some particles,%}: a-tra, a-tha.
-```
+A change file pairs old/new lines by line number; `updateByLine.py` applies them:
 
 ```sh
-python updateByLine.py md.txt change_md_example.txt md_corrected.txt
+python updateByLine.py md.txt change_md.txt md_corrected.txt
 ```
-
-Illustrative only (no such correction is queued) — the "before" line is the real, current `csl-orig/v02/md/md.txt` line 8.
 
 ## Contents
 
 | Directory | Description |
 |---|---|
-| `verbs01/` | Verb identification and correspondence with MW dictionary |
-| `deva_iast_comp/` | Devanagari-to-IAST comparison pipeline (steps 0–2b) |
-| `mdissues/` | Per-issue correction workflows (`issueNNN/` pattern) |
+| [`verbs01/`](https://github.com/sanskrit-lexicon/MD/tree/main/verbs01) | Verb identification and correspondence with MW dictionary |
+| [`deva_iast_comp/`](https://github.com/sanskrit-lexicon/MD/tree/main/deva_iast_comp) | Devanagari-to-IAST comparison pipeline (steps 0–2b) |
+| [`mdissues/`](https://github.com/sanskrit-lexicon/MD/tree/main/mdissues) | Per-issue correction workflows (`issueNNN/` pattern) |
+| [`prefaces/`](https://github.com/sanskrit-lexicon/MD/tree/main/prefaces) | Front-matter OCR + Russian translation |
 
 ## Timeline
 
@@ -61,39 +53,42 @@ Illustrative only (no such correction is queued) — the "before" line is the re
 | 2020 | English text corrections (`mdissues/issue13/`) |
 | 2021 | Homonym correction in metalines (`mdissues/issue10/`) |
 | 2022–2025 | Abbreviation tooltips pipeline (`mdissues/issue11/`); subheadword work (`mdissues/issue12/`) |
+| 2026 | Front-matter OCR + RU translation (`prefaces/`); GitHub Pages landing page |
 
 ## Projects & Milestones
 
-| Milestone | Project | Total | Open | Closed |
-|---|---|---|---|---|
-| Dictionary to Book (1) | Project 1 | 0 | 0 | 0 |
-| Digitization Quality (2) | Project 2 | 6 | 1 | 5 |
-| Structured Data (3) | Project 3 | 2 | 2 | 0 |
-| Major Enhancements (4) | Project 4 | 5 | 2 | 3 |
-| **Total** | | **13** | **5** | **8** |
+Live counts as of 11-07-2026 (15 issues total):
+
+| Milestone | Open | Closed | Total |
+|---|---|---|---|
+| Dictionary to Book (1) | 0 | 0 | 0 |
+| Digitization Quality (2) | 1 | 5 | 6 |
+| Structured Data (3) | 2 | 1 | 3 |
+| Major Enhancements (4) | 3 | 3 | 6 |
+| **Total** | **6** | **9** | **15** |
 
 ```mermaid
 pie title Issues by milestone — closed vs open
     "DQ closed" : 5
     "DQ open" : 1
-    "SD closed" : 0
+    "SD closed" : 1
     "SD open" : 2
     "ME closed" : 3
-    "ME open" : 2
+    "ME open" : 3
 ```
 
 ```mermaid
-pie title Issue type distribution (13 total)
-    "content-enhancement" : 5
+pie title Issue type distribution (15 total)
+    "content-enhancement" : 6
     "text-correction" : 4
-    "markup" : 2
+    "markup" : 3
     "encoding" : 1
     "bug" : 1
 ```
 
 ## Issue Typology
 
-### Solved (8 closed)
+### Solved (9 closed)
 
 | # | Type | Severity | Summary |
 |---|---|---|---|
@@ -105,8 +100,9 @@ pie title Issue type distribution (13 total)
 | #9 | text-correction | minor | Italicized page errors in md.txt |
 | #10 | bug | minor | Homonym identifiers missing from display lines |
 | #13 | text-correction | minor | English errors 2020 batch |
+| #14 | markup | minor | Minor md.txt markup oddities |
 
-### Open (5 open)
+### Open (6 open)
 
 | # | Type | Severity | Summary |
 |---|---|---|---|
@@ -115,6 +111,7 @@ pie title Issue type distribution (13 total)
 | #5 | encoding | minor | SLP1-IAST for ळ, ळ्ह, ँ and hiatus characters |
 | #11 | markup | medium | Abbreviation tooltips |
 | #12 | markup | hard | MD subheadwords — MW-style version |
+| #15 | content-enhancement | medium | docs-pass: MD documentation review |
 
 ## Labels
 
