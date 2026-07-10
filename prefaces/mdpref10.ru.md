@@ -11,7 +11,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 
 अ a, आ â, इ i, ई î, उ u, ऊ û, ऋ *ri*, ॠ *rî*, ऌ *li*; ए e, ऐ ai, ओ o, औ au; क k, ख kh, ग g, घ gh, ङ ṅ; च *k*, छ *kh*, ज *g*, झ *gh*, ञ ñ; ट *t*, ठ *th*, ड *ḍ* (V. также ळ *l*), ढ *ḍh* (V. также ळ्ह *lh*), ण ṇ; त t, थ th, द d, ध dh, न n; प p, फ ph, ब b, भ bh, म m; य y, र r, ल l, व v; श *ç*, ष sh, स s, ह h.
 
-*(Транслитерация в том виде, как её печатает Макдонелл: палатальный и церебральный ряды набраны курсивом — च छ ज झ как* k kh g gh*, ट ठ ड ढ как* t th ḍ ḍh*; श как* ç*. Деванагари оставлено без перевода.)*
+*(Транслитерация в том виде, как ее печатает Макдонелл: палатальный и церебральный ряды набраны курсивом — च छ ज झ как* k kh g gh*, ट ठ ड ढ как* t th ḍ ḍh*; श как* ç*. Деванагари оставлено без перевода.)*
 
 # Список сокращений
 
@@ -20,7 +20,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 | Сокр. | Значение |
 |---|---|
 | abs. | абсолютный |
-| abst. | отвлечённое |
+| abst. | отвлеченное |
 | ac. | винительный падеж |
 | act. | действительный (залог) |
 | ad. | наречие, -ный, -но |
@@ -41,7 +41,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 | cp. | сравни |
 | cpd. | сложное слово |
 | cpv. | сравнительная степень |
-| crt. | определённый |
+| crt. | определенный |
 | cs. | каузатив |
 | d. | дательный падеж |
 | dbl. | двойной |
@@ -80,7 +80,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 | incor., incorr. | неправильно |
 | ind. | изъявительное наклонение |
 | indc., indec. | неизменяемое |
-| indf. | неопределённое |
+| indf. | неопределенное |
 | inf. | инфинитив |
 | int. | непереходный |
 | intr. | вопросительное |
@@ -131,7 +131,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 | R. | река |
 | red. | удвоенное, удвоение |
 | rel., rl. | относительное |
-| rep., rp. | повторённое |
+| rep., rp. | повторенное |
 | rf. | возвратное |
 | S. | сутра |
 | s., sg. | единственное число |
@@ -172,4 +172,4 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 | &c., etc. | и прочее, и так далее |
 | √ | корень |
 
-> **N.B.** Статьи от *prakîrtana* до *prakyuti*, по недосмотру пропущенные на своём месте, помещены в Addenda (Дополнениях).
+> **N.B.** Статьи от *prakîrtana* до *prakyuti*, по недосмотру пропущенные на своем месте, помещены в Addenda (Дополнениях).
