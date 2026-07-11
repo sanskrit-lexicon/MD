@@ -35,6 +35,10 @@ A change file pairs old/new lines by line number; `updateByLine.py` applies them
 python updateByLine.py md.txt change_md.txt md_corrected.txt
 ```
 
+## Documentation
+
+- [docs/PIPELINE_MANUAL.md](https://github.com/sanskrit-lexicon/MD/blob/main/docs/PIPELINE_MANUAL.md) — **operator manual**: the deva↔IAST comparison pipeline (steps 0–2b, with the generated-then-hand-reviewed change-file gate), verbs01, the per-issue correction pattern, prefaces, symptom→cause→cure.
+
 ## Contents
 
 | Directory | Description |
