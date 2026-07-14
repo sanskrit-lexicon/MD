@@ -34,7 +34,7 @@ python updateByLine.py <input> <change_file> <output>
 ```
 
 **Delivery rule:** the canonical text is
-[csl-orig/v02/md/md.txt](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/md/md.txt);
+[csl-orig/v02/md/md.txt](https://github.com/sanskrit-lexicon/csl-orig/blob/main/v02/md/md.txt);
 every fix is a `NNN old`/`NNN new` change file routed through the canonical
 [correction workflow](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/docs/correction-workflow.md)
 (org agents: queue for the batched PR, never a direct csl-orig push).
@@ -100,7 +100,7 @@ are teaching programs over the frozen
 - **step2** ([issue #6](https://github.com/sanskrit-lexicon/MD/issues/6)) —
   the first *production* round: `slp1iast.py` parses the canonical mapping
   table (fetched from
-  [COLOGNE/iast/slp1_iast.txt](https://github.com/sanskrit-lexicon/COLOGNE/blob/master/iast/slp1_iast.txt)),
+  [COLOGNE/iast/slp1_iast.txt](https://github.com/sanskrit-lexicon/COLOGNE/blob/main/iast/slp1_iast.txt)),
   `digentry.py` parses md.txt into Entry objects,
   `make_change_circumflex.py` emits a change file for the
   circumflex-class errors. **The generated `change_1.txt` is never applied
