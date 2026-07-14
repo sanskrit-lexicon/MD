@@ -4,7 +4,7 @@ _Created: 17-04-2020 · Last updated: 11-07-2026_
 
 Research and correction work on the **Macdonell Sanskrit-English Dictionary** (Arthur A. Macdonell, *A Sanskrit-English Dictionary, Being a Practical Handbook*, London, 1893), part of the [sanskrit-lexicon](https://github.com/sanskrit-lexicon) project.
 
-The upstream dictionary lives at [csl-orig/v02/md/md.txt](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/md/md.txt). This repo contains scripts and issue-by-issue workflows to clean and enhance it.
+The upstream dictionary lives at [csl-orig/v02/md/md.txt](https://github.com/sanskrit-lexicon/csl-orig/blob/main/v02/md/md.txt). This repo contains scripts and issue-by-issue workflows to clean and enhance it.
 
 - **Landing page:** [sanskrit-lexicon.github.io/MD](https://sanskrit-lexicon.github.io/MD/) (GitHub Pages, source [index.html](https://github.com/sanskrit-lexicon/MD/blob/main/index.html))
 
@@ -23,7 +23,7 @@ Faithful OCR + Russian translation of the dictionary's **front matter** (title, 
 
 Corrections to the source dictionary are never edited into `md.txt` directly — they are expressed as change files and applied by scripts. The full 8-stage csl-orig workflow (snapshot → `updateByLine.py` → promote → generate → XML-validate → audit → commit → refresh), the change-file format, and every gotcha are documented once, canonically, in [csl-corrections/docs/correction-workflow.md](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/docs/correction-workflow.md).
 
-The real current line 8 of [`md.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/md/md.txt) (entry 1, headword `a`) reads:
+The real current line 8 of [`md.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/main/v02/md/md.txt) (entry 1, headword `a`) reads:
 
 ```
 {#a#}¦ <hom>1.</hom> a, <ab>pn.</ab> {%root used in the inflexion of%} idam 🞄{%and in some particles%}: a-tra, a-tha.
