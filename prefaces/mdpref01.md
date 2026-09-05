@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: md_Page_004_Image_0001.png
 source_page: Title
@@ -28,3 +30,5 @@ AND NEW YORK: 15 EAST 16th STREET
 1893
 
 *[All rights reserved]*
+
+_Dr. Mārcis Gasūns_

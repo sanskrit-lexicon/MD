@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: md_Page_009_Image_0001.png
 source_page: Preface, 2
@@ -22,3 +24,5 @@ As to the arrangement of individual articles, the transliteration of the Devanâ
 Adjective compounds ending in participles are described as participles, e.g. su-gata, srotra-peya. This enables me to make an important distinction in sense without adding a long explanation. Thus suki-smita is described as an adjective, because smita is here really a noun at the end of a Bahuvrîhi compound. Again, any confusion in the mind of the beginner between secondary adjectives like samañgan-îya and future participles like bodhanîya is by this means avoided.
 
 At first I thought of employing figures to indicate distinct differences of meaning. But the difficulty, in many cases, of determining a full interval of meaning, and the large waste of space
+
+_Dr. Mārcis Gasūns_

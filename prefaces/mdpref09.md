@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: md_Page_014_Image_0001.png
 source_page: Preface, 7
@@ -17,3 +19,5 @@ ARTHUR A. MACDONELL.
 
 7 Fyfield Road, Oxford,
 *September, 1892.*
+
+_Dr. Mārcis Gasūns_

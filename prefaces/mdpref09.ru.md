@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: md_Page_014_Image_0001.png
 source_page: Preface, 7
@@ -19,3 +21,5 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 
 7 Fyfield Road, Оксфорд,
 *сентябрь 1892 г.*
+
+_Dr. Mārcis Gasūns_

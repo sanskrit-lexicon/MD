@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: md_Page_011_Image_0001.png
 source_page: Preface, 4
@@ -18,3 +20,5 @@ Under this head I ought to add a few remarks in order to remove some common stum
 To the special use made of italic type, I attach considerable practical value. Its occurrence in definitions always implies amplification or elucidation, whereas the ordinary Roman type represents as far as is possible the exact literal equivalent of the Sanskrit word. Thus saṃvaraṇa-srag is defined as 'wreath *given by a girl to the man* of *her* choice' (compare also samâna-upamâ). By this means needless repetitions and waste of space are avoided, while much is gained in clearness of definition at one and the same time.
 
 **Punctuation.** The colon immediately before a transliterated word or suffix, indicates that the latter must be attached to the end of the preceding Sanskrit word. Thus :-ka after the heading word loshṭá is to be read as loshṭa-ka. This is in no way affected by the intervening special uses of cases or idioms often added at the end of an article. Thus :-kesarin under vi-krama must of course be understood as vikrama-kesarin, in spite of the inflected forms of vikrama which immediately precede -kesarin. The special significance of the semi-colon is, in addition to marking off distinctly different meanings, to separate within a paragraph the latter halves of the compounds which it contains. Thus ;-kakshus under lola-karṇa, is to be read as lola-kakshus, and the following
+
+_Dr. Mārcis Gasūns_

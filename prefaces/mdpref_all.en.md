@@ -1,6 +1,8 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 # Front matter — complete (English)
 
-Per-page files: `mdprefNN.md`. Index: [README.md](README.md).
+Per-page files: `mdprefNN.md`. Index: [README.md](https://github.com/sanskrit-lexicon/MD/blob/main/prefaces/README.md).
 
 ## Contents
 
@@ -375,3 +377,5 @@ ARTHUR A. MACDONELL.
 | √ | root. |
 
 > **N.B.** The articles *prakîrtana* to *prakyuti* having by an oversight been omitted in their proper place, will be found among the Addenda.
+
+_Dr. Mārcis Gasūns_

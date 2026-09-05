@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: md_Page_006_Image_0001.png
 source_page: Dedication
@@ -14,3 +16,5 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 ПО ЧЬЕМУ ПРЕДЛОЖЕНИЮ ОНА ОБЯЗАНА СВОИМ СУЩЕСТВОВАНИЕМ
 
 ПОСВЯЩАЕТСЯ ЭТА КНИГА
+
+_Dr. Mārcis Gasūns_

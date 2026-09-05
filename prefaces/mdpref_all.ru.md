@@ -1,6 +1,8 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 # Предварительные материалы — полностью (русский)
 
-Per-page files: `mdprefNN.ru.md`. Index: [README.md](README.md).
+Per-page files: `mdprefNN.ru.md`. Index: [README.md](https://github.com/sanskrit-lexicon/MD/blob/main/prefaces/README.md).
 
 ## Contents
 
@@ -375,3 +377,5 @@ vaṃsa, Râgataraṃgiṇî, Ratnâvalî, Ritusamhâra, Sakuntalâ, Saṃkara (
 | √ | корень |
 
 > **N.B.** Статьи от *prakîrtana* до *prakyuti*, по недосмотру пропущенные на своем месте, помещены в Addenda (Дополнениях).
+
+_Dr. Mārcis Gasūns_

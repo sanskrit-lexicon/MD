@@ -1,3 +1,5 @@
+_Created: 04-01-2024 · Last updated: 05-09-2026_
+
 ## ScharfSandhiArg.py program  (pythonv4 version)
 This program provides a 
 simple but relatively flexible way to experiment with the sandhi transformations. 
@@ -66,3 +68,5 @@ sandhimain: DONE: "devarzi"
 sandhi: DONE: "devarzi"
 ScharfSandhiArg: ans="devarzi"
 ```
+
+_Dr. Mārcis Gasūns_

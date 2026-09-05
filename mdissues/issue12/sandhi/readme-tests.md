@@ -1,3 +1,5 @@
+_Created: 04-01-2024 · Last updated: 05-09-2026_
+
 # pythonv4/readme-tests
 
 There are three parts in the documentation below:
@@ -59,3 +61,5 @@ sandhi rules in a tabular form that facilitates comparison.  Programs were
 developed to do this comparison.  With very few exceptions, the analysis
 shows that scharfsandhi.py computes results identical to those of Bucknell.  
 See the [bucknell readme](https://github.com/funderburkjim/ScharfSandhi/tree/master/pythonv4/scharfsandhi_bucknell.md) for a description of the analysis.
+
+_Dr. Mārcis Gasūns_

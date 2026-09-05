@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: md_Page_008_Image_0001.png
 source_page: Preface, 1
@@ -18,3 +20,5 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 Список книг, к которым мой словарь особенно отсылает и который я составил при планировании труда после совещания с учеником профессора Бюлера, покойным д-ром Шенбергом, тогда проживавшим в Оксфорде, я здесь прилагаю.
 
 **Книги, на которые особенно даются ссылки.** Bhagavadgîtâ, Bhartṛihari, Bhâshâparikkheda, Dasakumârakarita, Gîtagovinda, Harshakarita, Hitopadesa, Kâdambarî, Kâmandakîya-nîtisâra, Kathâsaritsâgara, Kirâtârguṇîya, Kullûka, Kumârasambhava, Mahâvîrakarita, Mâlatîmâdhava, Mâlavikâgnimitra, Manu, Meghadûta, Mitâksharâ (к Yâjñavalkya), Mṛikkhakaṭikâ, Mudrârâkshasa, Naishadha, Nala, Pañkatantra, Raghu-
+
+_Dr. Mārcis Gasūns_

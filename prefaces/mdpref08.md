@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: md_Page_013_Image_0001.png
 source_page: Preface, 6
@@ -16,3 +18,5 @@ I have also used throughout Grassmann's Lexicon to the Rig-veda, as well as a co
 I have further consulted Whitney's Sanskrit Roots, the glossaries contained in the Readers of Lanman, Hillebrandt, and Windisch, as well as in Johnson's Hitopadesa, Kellner's and Monier-Williams's Nala, Stenzler's and Johnson's Meghadûta, and Burkhard's Sakuntalâ, besides the Index to Pischel and Geldner's *Vedische Studien*. I have also made use of Prof. Aufrecht's *Catalogus Catalogorum*, various articles in the Journal of the German Oriental Society and Kuhn's *Zeitschrift*, as well as one by Prof. E. Leumann in the *Festgruss* (to Böhtlingk, on his jubilee), and Prof. Bühler's lexicographical notes in the Vienna Oriental Journal. In addition to what it derives from these sources of information, my book embodies all the matter with which it is concerned from the numerous appendices of the smaller Petersburg dictionary, besides words, compounds, and meanings collected by myself from post-Vedic works, such as the Pañkatantra.
 
 For etymological purposes I have consulted the large Petersburg dictionary, Grassmann's *Wörterbuch*, Lanman's Glossary, Brugmann's *Grundriss*, and Fick's Comparative Dictionary of the Indo-European Languages.
+
+_Dr. Mārcis Gasūns_

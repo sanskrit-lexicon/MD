@@ -1,3 +1,5 @@
+_Created: 13-06-2026 · Last updated: 05-09-2026_
+
 # Changelog
 
 All notable changes to MD are documented here.
@@ -17,3 +19,5 @@ ready for a dated entry.
 - 2026-05-29 ai-wip: add .github/dependabot.yml for GitHub Actions auto-updates
 - 2026-05-29 fix(ci): smarter change-file validator + per-repo excludes
 - 2026-05-29 fix(ci): remove double-comma in ruff.toml exclude array
+
+_Dr. Mārcis Gasūns_

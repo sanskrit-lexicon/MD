@@ -1,3 +1,5 @@
+_Created: 04-01-2024 · Last updated: 05-09-2026_
+
 ## usage of scharfsandhi (pythonv4 version)
 
 ## Usage of pythonv4 version
@@ -27,3 +29,5 @@ err = sandhi.simple_sandhioptions('E2')  # non-zero code indicates code problem
 s = 'rAmaH gacCati'
 s1 = sandhi.sandhi(s)  # answer: rAmo gacCati
 ```
+
+_Dr. Mārcis Gasūns_

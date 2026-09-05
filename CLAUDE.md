@@ -1,3 +1,5 @@
+_Created: 07-05-2026 · Last updated: 05-09-2026_
+
 # CLAUDE.md
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
@@ -51,3 +53,4 @@ python updateByLine.py <input_file> <changefile> <output_file>
 - **md.txt** — in sibling repo at `../csl-orig/v02/md/md.txt`
 - **mw.txt** — in sibling repo for verb pipeline cross-reference
 
+_Dr. Mārcis Gasūns_

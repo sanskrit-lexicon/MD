@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: md_Page_008_Image_0001.png
 source_page: Preface, 1
@@ -16,3 +18,5 @@ When I began my task in 1886 there was no available work which supplied the defi
 The list of books to which my dictionary specially refers, and which I drew up, when planning the work, after consultation with a pupil of Professor Bühler's, the late Dr. Schönberg, then resident in Oxford, I here append.
 
 **Books specially referred to.** Bhagavadgîtâ, Bhartṛihari, Bhâshâparikkheda, Dasakumârakarita, Gîtagovinda, Harshakarita, Hitopadesa, Kâdambarî, Kâmandakîya-nîtisâra, Kathâsaritsâgara, Kirâtârguṇîya, Kullûka, Kumârasambhava, Mahâvîrakarita, Mâlatîmâdhava, Mâlavikâgnimitra, Manu, Meghadûta, Mitâksharâ (on Yâjñavalkya), Mṛikkhakaṭikâ, Mudrârâkshasa, Naishadha, Nala, Pañkatantra, Raghu-
+
+_Dr. Mārcis Gasūns_

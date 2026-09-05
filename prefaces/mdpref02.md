@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: md_Page_006_Image_0001.png
 source_page: Dedication
@@ -14,3 +16,5 @@ PROFESSOR F. MAX MÜLLER
 TO WHOSE SUGGESTION ITS EXISTENCE IS DUE
 
 THIS WORK IS INSCRIBED
+
+_Dr. Mārcis Gasūns_

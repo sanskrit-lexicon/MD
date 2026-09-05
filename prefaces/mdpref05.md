@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: md_Page_010_Image_0001.png
 source_page: Preface, 3
@@ -20,3 +22,5 @@ The principle I had in view in treating the perfect participle passive, was to g
 The verbal prepositions are arranged in alphabetical order after the last form of the simple verb with which they are used. A scientific as well as a practical consideration determined me to concentrate them in this manner. On the one hand, these prefixes are separable in the Veda, while on the other, a large amount of space is saved by making a single article of a verbal root and the prepositions with which it may be combined. Otherwise separate head-lines in Devanâgarî as well as transliteration would have to be printed. Four times as much space would thus be occupied as under the alternative system. Nor would anything be thus gained in convenience, unless (to obviate reference to the simple verb) the present base and other forms were added. This would involve a further waste of space.
 
 **Exclusion of References.** I have acted on the principle that a dictionary should give all references or none. The former alternative was, of course, out of the question in a practical work. It might, it is true, have been useful to state where a word occurs which is not to be found in other dictionaries. My rare deviations from the rule are, however, solely limited to passages in which the meaning of a particular word is unknown, or where the definition is made clearer by the reference, as in the case of samudga or sarvatobhadra. Partial references have, I think, a tendency to make students too dependent on them in determining the meaning of a word in any given passage. The omission of such references is more than compensated for by the method which I have followed. I have endeavoured to limit the meaning of a word as far as possible to parallel instances by indicating the case which it governs, the word in context with
+
+_Dr. Mārcis Gasūns_

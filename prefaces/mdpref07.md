@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: md_Page_012_Image_0001.png
 source_page: Preface, 5
@@ -20,3 +22,5 @@ When an accented word is exclusively Vedic this is indicated by a V., while if n
 Compounds arranged under an accented heading word, must be assumed to be unaccented and therefore post-Vedic unless any indication to the contrary is given. Thus -ketu under vigayá is to be read as vigaya-ketu. It follows as a matter of course that, if the second half of a compound has an accent, that is the accent of the whole word. Thus -mâya occurring under lohá represents loha-mâya.
 
 **Etymology.** My original plan was to make the present work a comparative as well as a practical Sanskrit dictionary. After a good deal of reflection I abandoned this project on the ground that while
+
+_Dr. Mārcis Gasūns_

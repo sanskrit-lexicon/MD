@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: md_Page_015_Image_0001.png
 source_page: Alphabet & List of Abbreviations
@@ -173,3 +175,5 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 | √ | корень |
 
 > **N.B.** Статьи от *prakîrtana* до *prakyuti*, по недосмотру пропущенные на своем месте, помещены в Addenda (Дополнениях).
+
+_Dr. Mārcis Gasūns_

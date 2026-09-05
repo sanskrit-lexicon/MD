@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: md_Page_004_Image_0001.png
 source_page: Title
@@ -30,3 +32,5 @@ LONGMANS, GREEN, AND CO.
 1893
 
 *[Все права защищены]*
+
+_Dr. Mārcis Gasūns_
