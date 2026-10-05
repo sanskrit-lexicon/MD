@@ -1,5 +1,7 @@
 # MD — Macdonell's Sanskrit-English Dictionary
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23151363.svg)](https://doi.org/10.5281/zenodo.23151363)
+
 _Created: 17-04-2020 · Last updated: 11-07-2026_
 
 Research and correction work on the **Macdonell Sanskrit-English Dictionary** (Arthur A. Macdonell, *A Sanskrit-English Dictionary, Being a Practical Handbook*, London, 1893), part of the [sanskrit-lexicon](https://github.com/sanskrit-lexicon) project.
